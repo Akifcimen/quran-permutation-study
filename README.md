@@ -56,7 +56,8 @@ Raw outputs of every production run are committed: `runs/`, `runs3/`, `runs4/` (
 
 | File | Content |
 |---|---|
-| `KESIF.md` | Main report (Turkish): layers, measurements, specificity, ledger |
+| `KESIF.md` | Main report (Turkish original) |
+| `DISCOVERY.md` | Main report — full English translation |
 | `RAPOR.md` | Verification report of the earlier source document's matrix claims |
 | `test_oruntular.py` | One-shot verification of all claims under both codices |
 | `kesif2_motor.c` → `kesif4_motor.c` | CPU permutation engines (v4 = full counter set) |
@@ -129,7 +130,8 @@ Tüm üretim koşularının ham çıktıları depodadır: `runs/`, `runs3/`, `ru
 
 | Dosya | İçerik |
 |---|---|
-| `KESIF.md` | Ana rapor (Türkçe): katmanlar, ölçümler, özgüllük, defter |
+| `KESIF.md` | Ana rapor (Türkçe orijinal) |
+| `DISCOVERY.md` | Ana raporun tam İngilizce çevirisi |
 | `RAPOR.md` | Önceki kaynak dokümanın matris iddialarının doğrulama raporu |
 | `test_oruntular.py` | Tüm iddiaların iki kodeks altında tek seferde doğrulanması |
 | `kesif2_motor.c` → `kesif4_motor.c` | CPU permütasyon motorları (v4 = tam sayaç seti) |
