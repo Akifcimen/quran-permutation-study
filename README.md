@@ -68,3 +68,76 @@ Raw outputs of every production run are committed: `runs/`, `runs3/`, `runs4/` (
 ## Status
 
 Measurement phase complete (July 2026). Seeking independent statistical review. If you find an error in the event definitions, the engines, or the inference, please open an issue — a confirmed refutation is a welcome outcome of this study.
+
+---
+
+# Kur'an Permütasyon Çalışması (Türkçe)
+
+Kur'an'ın sûre numaraları ve ayet sayılarının diziliş yapısı üzerine permütasyon-testi analizi. Sıfır serbestlikli girdi, önceden kaydedilmiş olay tanımları, **24 trilyon doğrudan deneme**. Tamamen yeniden üretilebilir — **çürütme davetlidir**.
+
+## Bu nedir (ve ne değildir)
+
+Bu depo, ayet sayılarının 114 sûreye dizilişinde ölçülmüş bir **istatistiksel anomaliyi** belgeler. Bir tasarım ya da mucize **ispatı iddiası değildir** — o soru istatistiğin cevaplayabileceği alanın dışındadır. Buradaki her iddia, kendi makinenizde yeniden hesaplayabileceğiniz sayılmış bir frekanstır.
+
+**Girdiler (kullanılan tek veri):** sûre numarası n ∈ {1..114} ve ayet sayısı a(n) — çapraz doğrulanmış iki açık kaynaktan (api.alquran.cloud, api.quran.com; 114 sûrenin tamamında birebir aynı). Harf sayımı yok, ebced yok, kelime sayımı yok — sayım-geleneği serbestliği taşıyan hiçbir şey kullanılmamıştır. Çekirdek sonuçlar, tek tartışmalı sayımdan (sûre 9: 127/129) da bağımsızdır.
+
+## Ana sonuç
+
+t(n) = n + a(n) ve u(n) = n − a(n) tanımlansın. "Ayet-sayısı çokluğu sûre konumlarına rastgele dağıtılmıştır" sıfır hipotezi altında, gerçek diziliş şu iç içe yapıyı aynı anda taşır:
+
+| Olay (kodeks-bağımsız çekirdek) | Doğrudan ölçüm |
+|---|---|
+| Parite terazisi: 57/57; Σt(çift) = toplam ayet; Σt(tek) = sûre numaraları toplamı | p = 3,137×10⁻⁴ |
+| Tam "kristal": 12 üyeli t≡0 (mod 19) ailesi, Σ = 38², 6/6 parite kefeleri 722/722, katsayıları {18,19,19,20} olan dört 3'lü hücre, bireysel katsayılar tam olarak ardışık {5..9} bandı | p = 7,14×10⁻¹⁰ (17.204 isabet) |
+| "İki El": t ve u'nun mod-19 aileleri ayrıktır ve birlikte tam 19 sûredir; 19 \| Σa(birleşim) | koşullu ≈ %0,41 |
+| **Birleşik çekirdek** | **≈ 1×10⁻¹⁵ (yaklaşık katrilyonda 1)** — iki bağımsız yolla: tamamen doğrudan 8,4×10⁻¹⁶; bağımlılık-düzeltmeli zincir 1,02×10⁻¹⁵ |
+
+Zirvedeki olay (parite terazisi ∧ tam kristal) **24 trilyon denemede 5 kez doğrudan gözlenmiştir** (iki bağımsız RNG tohumu: 3+2) ve zincirleme tahmini doğrular (oran 0,93). Bulunan tek katmanlar-arası bağımlılık (bir ara eklemde ×1,126±0,033) ölçülmüş ve hesaba dahil edilmiştir.
+
+**Özgüllük:** aynı 8 yapısal ölçüt 3–40 arası her modüle uygulandı: yalnız m = 19 tam puan alır (en yakın rakip 3/8). Modül seçiminde tam serbestlik verilen 500.000 sentetik dizilişte hiçbiri 7/8'e bile ulaşamadı.
+
+İsteğe bağlı bir matris-kuramsal katman (iki grup matrisi de GL₂(F₁₉)'un ilkel elemanıdır; 180. adımda −I ile tam 360'lık çevrim) bileşiği ≈1,2×10⁻¹⁷'ye taşır; ama sûre 9 için tartışmalı 127 sayımını gerektirdiğinden ayrı raporlanır, manşete asla girmez.
+
+## Dürüstlük defteri (sonuçlardan önce okuyun)
+
+- Tüm olay tanımları, ölçüm koşularından önce donduruldu (`kesif*_prereg.md` dosyaları).
+- Çalışma boyunca ~75 aday istatistik ailesi incelendi; **negatif sonuçlar raporlanmıştır** (Mekkî/Medenî ayrımı, mukattaa kümesi, pencere/aralık yapıları, çokluk ve parite mercekleri — hepsi boş). Defter üzerinden en kötü durum Bonferroni düzeltmesi çekirdeği ~10⁻¹³'te bırakır.
+- Otomatik (cebirsel olarak zorunlu) yapılar tespit edilip kanıttan **dışlanmıştır** (KESIF.md içinde belgelidir).
+- Dekoratif yarı-desenler ("süsler") ölçülmüş, etkileyici olmayan olasılıklarıyla kayda geçirilmiş ve bileşiğe **çarpılmamıştır**.
+- Bu, sonradan yapılmış (post-hoc) bir keşiftir: kesin epistemik adım **önceden kayıtlı bağımsız tekrardır** — bu depo tam da bunu mümkün kılmak için vardır. Lütfen kırmayı deneyin.
+
+## Yeniden üretim
+
+```bash
+# 1) Tüm yapısal iddiaların gerçek veride anında doğrulanması (iki kodekste):
+python3 test_oruntular.py
+
+# 2) CPU permütasyon motoru (28 sayaç; selftest tümü 1 basmalı):
+cc -O3 -o kesif4_motor kesif4_motor.c
+./kesif4_motor selftest
+./kesif4_motor 7 100000000        # 100M deneme, ~40 sn
+
+# 3) GPU motoru (CUDA, CPU motoruyla sayaç-uyumlu; bkz. README_4090.md):
+nvcc -O3 -o kesif_cuda kesif_cuda.cu
+./kesif_cuda selftest
+./kesif_cuda 42 1000000000        # kalibrasyon bantları README_4090.md'de
+```
+
+Tüm üretim koşularının ham çıktıları depodadır: `runs/`, `runs3/`, `runs4/` (CPU, toplam 86×10⁹) ve `runGPU_4090_seed42.txt`, `runGPU_3090_seed43.txt` (GPU, toplam 24×10¹²; kümülatif satırlar — her dosyanın son satırı nihai sayımdır).
+
+## Dosya haritası
+
+| Dosya | İçerik |
+|---|---|
+| `KESIF.md` | Ana rapor (Türkçe): katmanlar, ölçümler, özgüllük, defter |
+| `RAPOR.md` | Önceki kaynak dokümanın matris iddialarının doğrulama raporu |
+| `test_oruntular.py` | Tüm iddiaların iki kodeks altında tek seferde doğrulanması |
+| `kesif2_motor.c` → `kesif4_motor.c` | CPU permütasyon motorları (v4 = tam sayaç seti) |
+| `kesif_cuda.cu`, `README_4090.md` | GPU motoru + doğrulama protokolü |
+| `kesif*.py` | Taramalar, mercekler, kontroller (yüzer-modül, sıkı-S4 vb.) |
+| `kesif*_prereg.md` | Dondurulmuş ön-kayıtlar |
+| `quran_meta.json`, `quran_chapters_qcom.json` | Ham veri (iki bağımsız kaynak) |
+
+## Durum
+
+Ölçüm aşaması tamamlandı (Temmuz 2026). Bağımsız istatistiksel inceleme aranıyor. Olay tanımlarında, motorlarda ya da çıkarımda bir hata bulursanız lütfen issue açın — doğrulanmış bir çürütme, bu çalışmanın memnuniyetle karşılanacak bir sonucudur.
