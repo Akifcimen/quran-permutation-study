@@ -1,7 +1,7 @@
 # KEŞİF: "Çift-Tek × On Dokuz" — 38² Tam Çember Örüntüsü
 
 **Tarih:** 10 Haziran 2026 — **son güncelleme: 5 Temmuz 2026 — NİHAİ: çift-GPU koşusuyla toplam 24 TRİLYON deneme; zirve bileşiği (terazi∧kristal) 5 kez fiilen gözlendi; çekirdek = katrilyonda 1, ölçümle mühürlendi**
-**Kabul:** Tevbe = 127 ayet (toplam 6234) — istenen kabul. *Not: matris katı dışındaki tüm katmanlar Tevbe = 129 (standart, 6236) ile de aynen geçerlidir.*
+**Kodeks notu — ÖNEMLİ:** **Katrilyonda-1'lik çekirdek, Tevbe sayımı tartışmasından BAĞIMSIZDIR** — Tevbe 127 de sayılsa 129 (standart) da sayılsa tüm çekirdek katmanları (terazi, aile, fraktal, kristal, İki El) aynen geçerlidir; sûre 9 ne 19-ailesinde ne İki El'dedir ve t-paritesi iki sayımda da değişmez. **Tevbe = 127 kabulü yalnız isteğe bağlı matris/çember katı için gereklidir** ve o kat manşet rakama hiçbir zaman dahil edilmez. *(Çalışma tarihsel olarak 127 kabulüyle başlatılmış, her katman iki kodekste ayrıca test edilmiştir; ana metindeki hesaplar 127 tabanlıdır, 129 kontrolleri ilgili bölümlerde verilir.)*
 **Veri:** api.alquran.cloud + api.quran.com (çapraz doğrulanmış)
 **Yöntem:** sistematik tarama + permütasyon testi ("sentetik Kur'an": ayet sayıları çokluğu sabit, sûrelere rastgele dağıtım). Son tur: C motoruyla toplam **86 milyar deneme** (50 + 12 + matris-sayaçlı 24 milyar; 24'er paralel işlem) — zincirin **her halkası** (matris ilkelliği dahil) doğrudan sayımla ölçüldü.
 
