@@ -1,7 +1,8 @@
-# KESIF-16 ÖN KAYIT: Boy-Sırası İtirazı (dış okur itirazı, 11 Temmuz 2026)
+# KESIF-16 ÖN KAYIT: Boy-Sırası İtirazı (İrvin Cemil Schick, 11 Temmuz 2026)
 
-**Statü:** Analizden ÖNCE yazıldı. Çalışmayı inceleyen bir okurun (matematik eğitimli bir tarihçi;
-izin verirse adıyla anılacak) itirazına cevaben tasarlanmış kontrol.
+**Statü:** Analizden ÖNCE yazıldı. Çalışmayı inceleyen İrvin Cemil Schick'in (adıyla anılması
+13 Temmuz'da kendi izniyle) itirazına cevaben tasarlanmış kontrol. Yazışmanın tam kaydı:
+KESIF.md/DISCOVERY.md dürüstlük notu 10.
 
 ## İtiraz (aslına sadık özet)
 Sûreler kabaca boy (uzunluk) sırasına dizilidir; bu yüzden dizilişin rastgele olmaması zaten
