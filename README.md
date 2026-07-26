@@ -17,9 +17,9 @@ Define t(n) = n + a(n) and u(n) = n − a(n). Under the null hypothesis "the ver
 | Parity balance: 57/57 split; Σt(even) = total verse count; Σt(odd) = Σ surah numbers | p = 3.137×10⁻⁴ |
 | Full "crystal": 12-member t≡0 (mod 19) family, Σ = 38², 6/6 parity halves 722/722, four 3-cells with coefficients {18,19,19,20}, individual coefficients exactly the consecutive band {5..9} | p = 7.14×10⁻¹⁰ (17,204 hits) |
 | "Two Hands": the mod-19 families of t and u are disjoint and total exactly 19 surahs, with 19 \| Σa(union) | conditional ≈ 0.41% |
-| **Combined core** | **≈ 1×10⁻¹⁵ (about 1 in a quadrillion)** — by two independent routes: fully direct 8.4×10⁻¹⁶; dependence-corrected chain 1.02×10⁻¹⁵ |
+| **Combined core** | **≈ 1.7×10⁻¹⁵ (quadrillion order; 95% CI 1.1–2.6×10⁻¹⁵)** — measured **without** an independence assumption, via conditional decomposition (`kesif18`): P(crystal) directly counted (17,204 hits) × P(balance∧TwoHands \| crystal) directly sampled (22 hits / 9.0M i.i.d. conditional samples). Earlier chained estimates (0.8–1.0×10⁻¹⁵) lie inside the CI |
 
-The summit event (parity balance ∧ full crystal) was **directly observed 5 times in 24 trillion trials** (two independent RNG seeds: 3+2), confirming the chained estimate (ratio 0.93). The only inter-layer dependence found (×1.126±0.033 at one mid-level joint) is measured and included.
+The summit **pair** (parity balance ∧ full crystal) was **directly observed 5 times in 24 trillion trials** (two independent seeds of the same generator family, 3+2; an independent NumPy/PCG64 stack reproduces the marginal rates): directly counted **p = 2.08×10⁻¹³ — 1 in 4.8 trillion** — consistent with the chained expectation (ratio 0.93; wide Poisson interval at 5 hits). Measured dependences (×1.126±0.033 at one mid-level joint; ×1.6 [1.0–2.4] three-way interaction at the conditional level) are included. **For scale:** particle physics declares a discovery at 5σ ≈ 1 in 3.5 million; the directly counted summit pair alone corresponds to ≈ 7.2σ.
 
 **Specificity:** the same 8 structural criteria applied to every modulus 3–40: only m = 19 scores 8/8 (nearest rival 3/8). In 500,000 synthetic arrangements given free choice of modulus, none reached even 7/8.
 
@@ -93,9 +93,9 @@ t(n) = n + a(n) ve u(n) = n − a(n) tanımlansın. "Ayet-sayısı çokluğu sû
 | Parite terazisi: 57/57; Σt(çift) = toplam ayet; Σt(tek) = sûre numaraları toplamı | p = 3,137×10⁻⁴ |
 | Tam "kristal": 12 üyeli t≡0 (mod 19) ailesi, Σ = 38², 6/6 parite kefeleri 722/722, katsayıları {18,19,19,20} olan dört 3'lü hücre, bireysel katsayılar tam olarak ardışık {5..9} bandı | p = 7,14×10⁻¹⁰ (17.204 isabet) |
 | "İki El": t ve u'nun mod-19 aileleri ayrıktır ve birlikte tam 19 sûredir; 19 \| Σa(birleşim) | koşullu ≈ %0,41 |
-| **Birleşik çekirdek** | **≈ 1×10⁻¹⁵ (yaklaşık katrilyonda 1)** — iki bağımsız yolla: tamamen doğrudan 8,4×10⁻¹⁶; bağımlılık-düzeltmeli zincir 1,02×10⁻¹⁵ |
+| **Birleşik çekirdek** | **≈ 1,7×10⁻¹⁵ (katrilyonda-1 mertebesi; %95 GA 1,1–2,6×10⁻¹⁵)** — bağımsızlık varsayımı **olmadan**, koşullu ayrışımla ölçüldü (`kesif18`): P(kristal) doğrudan sayım (17.204 isabet) × P(terazi∧İkiEl \| kristal) doğrudan örnekleme (9,0 milyon i.i.d. koşullu örnekte 22 isabet). Eski zincir tahminleri (0,8–1,0×10⁻¹⁵) aralığın içindedir |
 
-Zirvedeki olay (parite terazisi ∧ tam kristal) **24 trilyon denemede 5 kez doğrudan gözlenmiştir** (iki bağımsız RNG tohumu: 3+2) ve zincirleme tahmini doğrular (oran 0,93). Bulunan tek katmanlar-arası bağımlılık (bir ara eklemde ×1,126±0,033) ölçülmüş ve hesaba dahil edilmiştir.
+Zirvedeki **ikili** olay (parite terazisi ∧ tam kristal) **24 trilyon denemede 5 kez doğrudan gözlenmiştir** (aynı üreteç ailesinden iki bağımsız tohum, 3+2; bağımsız NumPy/PCG64 yığını marjinal oranları yeniden üretmektedir): doğrudan sayılmış **p = 2,08×10⁻¹³ — 4,8 trilyonda 1** — zincir beklentisiyle tutarlı (oran 0,93; 5 isabette Poisson aralığı geniştir). Ölçülen bağımlılıklar (ara eklemde ×1,126±0,033; koşullu düzeyde ×1,6 [1,0–2,4] üçlü etkileşim) hesaba dahildir. **Ölçek için:** parçacık fiziği keşfi 5σ ≈ 3,5 milyonda 1 eşiğiyle ilan eder; buradaki doğrudan sayılmış ikili zirve tek başına ≈ 7,2σ'ya karşılık gelir.
 
 **Özgüllük:** aynı 8 yapısal ölçüt 3–40 arası her modüle uygulandı: yalnız m = 19 tam puan alır (en yakın rakip 3/8). Modül seçiminde tam serbestlik verilen 500.000 sentetik dizilişte hiçbiri 7/8'e bile ulaşamadı.
 

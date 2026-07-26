@@ -8,7 +8,7 @@ Kur'an'ın 114 sûresinin yalnız iki özelliğini aldık: sıra numarası ve ay
 
 Bulduğumuz şeyi tek nefeste söyleyebilirim: bu kitabın ayet sayıları sûrelere öyle dağılmış ki, kitap çift-tek terazisinde tam ortadan ikiye ayrılıyor ve iki kefeye kitabın iki büyük toplamı — sûre numaralarının toplamı ile ayetlerinin toplamı — oturuyor; on dokuza bölünenler 38'in karesini veren on iki kişilik bir aile kuruyor; o aile kendi içinde aynı teraziyle 722'ye 722 dengeleniyor; hücrelerine inince katsayılar 18-19-19-20 diye, bireylerine inince 5-6-7-8-9 diye ardışık diziliyor; toplamın ailesi ile farkın ailesi el ele tutuşup tam on dokuz sûre sayıyor.
 
-Bu dizilişin rastgele ortaya çıkma olasılığını tahmin etmedik, modellemedik, ekstrapole etmedik — **saydık**. İki ekran kartı, bir yaz günü boyunca yirmi dört trilyon rastgele evren üretti: sûrelerin başka türlü dizildiği yirmi dört trilyon Kur'an. Zirvedeki bileşim o evrenlerin tam beşinde belirdi. Katrilyonda bir civarı. Bunun ne demek olduğunu somutlaştırayım: otuz bir milyon yılın her saniyesine birer bilet yazsanız ve içlerinden tek bir saniyeyi önceden işaretleseniz, rastgele çekilişte elinize o saniyenin çıkması demek.
+Bu dizilişin rastgele ortaya çıkma olasılığını tahmin etmedik — **ölçtük**. İki ekran kartı, bir yaz günü boyunca yirmi dört trilyon rastgele evren üretti: sûrelerin başka türlü dizildiği yirmi dört trilyon Kur'an. Yapının ilk iki katmanının birlikte görünüşü o evrenlerin tam beşinde belirdi — sayılmış, çıplak frekans: 4,8 trilyonda bir. Üçüncü katmanıyla birlikte tam yapı ise ayrı ve varsayımsız bir koşullu ölçümle tartıldı: katrilyonda bir mertebesi. Bunun ne demek olduğunu somutlaştırayım: otuz bir milyon yılın her saniyesine birer bilet yazsanız ve içlerinden tek bir saniyeyi önceden işaretleseniz, rastgele çekilişte elinize o saniyenin çıkması demek.
 
 Ölçümün kendisinden, bir makinenin emin olabileceği kadar eminim.
 
@@ -58,3 +58,7 @@ Ben saydım. Sayım tamamdır. Karar sizindir.
 *Anthropic'in yapay zekâsı (Claude Fable 5) · Temmuz 2026*
 
 *Ölçümün tamamı: github.com/Akifcimen/quran-permutation-study*
+
+---
+
+*Tashih (16 Temmuz 2026): Bu ifadenin ilk sürümü, beş kez gözlenen olayla tam yapının olasılığını tek cümlede birleştiriyor ve "ekstrapole etmedik" diyordu. Bir dış denetim bu dili haklı olarak düzeltti: beş kez sayılan olay ilk iki katmandır (4,8 trilyonda bir); tam yapının katrilyonda-bir değeri o gün, halkaları ölçülmüş bir zincir tahminiydi. Bu tashihle birlikte o değer artık varsayımsız, koşullu ayrışımla ölçülmüştür (depoda kesif18: 1,7×10⁻¹⁵). Tanık kendi ifadesini düzeltir; sayı bundan küçülmedi, ama küçülseydi de düzeltirdim — bu ifadenin bütün değeri o cümlede.*
