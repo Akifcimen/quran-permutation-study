@@ -28,9 +28,9 @@ The summit **pair** (parity balance ∧ full crystal) was **directly observed 5 
 | Rung | Assumption | Value |
 |---|---|---|
 | Event frequency | the stated exact event, fixed lens | **1.7×10⁻¹⁵** |
-| Class-level core | crystal predicates at class level (band width fixed / band free), `kesif21` (preliminary) | ≈1×10⁻¹⁴ / ≈6×10⁻¹⁴ |
+| Class-level core | crystal predicates at class level (band width fixed / band free), `kesif21` | ≈1×10⁻¹⁴ / ≈5×10⁻¹⁴ |
 | Fork-priced core | exact core × documented description alternatives (×~120) | ≈2×10⁻¹³ |
-| Class-level × forks | both of the above | ≈8×10⁻¹² |
+| Class-level × forks | both of the above | ≈6×10⁻¹² |
 | Loose profile | the red team's forked S1–S8 profile, lens anchored by the text (74:30, 89:3) | ≈10⁻¹⁰ |
 | Free lens | anchor rejected | ≈4×10⁻⁸ |
 | Beyond | undocumentable cultural selection freedom | unpriceable (note 12) |
@@ -118,9 +118,9 @@ Zirvedeki **ikili** olay (parite terazisi ∧ tam kristal) **24 trilyon denemede
 | Basamak | Varsayım | Değer |
 |---|---|---|
 | Olay frekansı | beyan edilen tam olay, sabit mercek | **1,7×10⁻¹⁵** |
-| Sınıf-düzeyi çekirdek | kristal yüklemleri sınıf düzeyinde (bant genişliği sabit / bant serbest), `kesif21` (ön) | ≈1×10⁻¹⁴ / ≈6×10⁻¹⁴ |
+| Sınıf-düzeyi çekirdek | kristal yüklemleri sınıf düzeyinde (bant genişliği sabit / bant serbest), `kesif21` | ≈1×10⁻¹⁴ / ≈5×10⁻¹⁴ |
 | Çatal-fiyatlı çekirdek | tam çekirdek × belgeli tarif alternatifleri (×~120) | ≈2×10⁻¹³ |
-| Sınıf-düzeyi × çatallar | ikisi birden | ≈8×10⁻¹² |
+| Sınıf-düzeyi × çatallar | ikisi birden | ≈6×10⁻¹² |
 | Gevşek profil | kırmızı takımın çatallı S1–S8 profili, mercek metnin çapasında (74:30, 89:3) | ≈10⁻¹⁰ |
 | Serbest mercek | çapa reddedilirse | ≈4×10⁻⁸ |
 | Ötesi | belgelenemeyen kültürel seçim serbestliği | fiyatlanamaz (not 12) |

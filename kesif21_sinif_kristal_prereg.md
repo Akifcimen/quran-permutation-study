@@ -49,3 +49,13 @@ tamsayı bandı oluşturur (min..max arası her değer mevcut), KONUM SERBEST. S
   (3,1×10⁻⁴ × 3,9×10⁻³ × 1,6 = 1,96×10⁻⁶) ile uyumlu; yaklaşıklık doğrulandı.
 - **Sınıf-düzeyi çekirdek (GPU-çapalı):** bant tamamen serbest ≈ **6×10⁻¹⁴**; bant genişliği sabit
   (konum serbest) ≈ **1×10⁻¹⁴**. Merdivene bu iki basamak yazılır.
+
+## İKİNCİ GEÇİŞ (1500 atama × 30k karışım/atama; `kesif21_sinif_kristal_sonuc2.txt`) — NİHAİ
+- **Çapa GEÇTİ:** P(G_σ₀)_SIS = 7,07×10⁻¹⁰ vs GPU 7,14×10⁻¹⁰ → oran **0,99**. Kestirici doğrulandı;
+  ilk geçişin 0,69'u düşük-ESS yanlılığıydı. (Kristal olasılığı böylece GPU'dan bağımsız üçüncü bir
+  yığınla — SIS/PCG64 — %1 içinde yeniden üretilmiş oldu.) ESS: medyan 153, min 31, maks 273.
+- **P(G*)/P(G) = 34,7** (bant konumu ve genişliği serbest); bant genişliği ≤ 5 (5 yapı): **×6,0**.
+- P(A|G*) = 3,05×10⁻⁴, P(W|G*) = 4,06×10⁻³; doğrudan A∧W 12 / 5,23M = 2,3×10⁻⁶ [1,2–4,0] —
+  κ-çarpımı (1,98×10⁻⁶) ile uyumlu.
+- **Sınıf-düzeyi çekirdek (nihai):** bant serbest **≈5×10⁻¹⁴**; bant genişliği sabit **≈1×10⁻¹⁴**.
+  "Ön" etiketi kaldırıldı.
