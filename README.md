@@ -35,7 +35,7 @@ The summit **pair** (parity balance ∧ full crystal) was **directly observed 5 
 | Free lens | anchor rejected (×~400 lens choices) | ≈10⁻⁸ |
 | Beyond | undocumentable cultural selection freedom | unpriceable (note 12) |
 
-No rung is a calibrated p-value; each is a frequency under a stated assumption (note 14). Controls: the KJV corpora reach none of these rungs even under the loosest procedure (`kesif22`); the same 114 counts in their real revelation-order arrangement show no layer at all (`kesif23`); a mode-neutral class-level typicality test places the book's family above 99.8–99.995% of random families (red team, note 14).
+No rung is a calibrated p-value; each is a frequency under a stated assumption (note 14). Controls — single real draws cannot measure the rarity of a 10⁻⁵–10⁻⁹ event; what they establish is that the permutation null is a fair proxy for real structured lists: the KJV corpora sit at the synthetic median even under the loosest procedure (`kesif22`); the same 114 counts in their real revelation-order arrangement show no layer (`kesif23`; excluding the arrangement-blind form v = a, the contrast is 8/8 vs ≤5/8); a mode-neutral class-level typicality test places the book's family above 99.8–99.995% of random families (red team, note 14).
 
 An optional matrix-theoretic layer (both group matrices are primitive elements of GL₂(F₁₉), full 360-cycle with −I at step 180) multiplies the composite to ≈1.2×10⁻¹⁷, but requires the contested 127-verse count for surah 9 and is therefore reported separately, never in the headline.
 
@@ -125,7 +125,7 @@ Zirvedeki **ikili** olay (parite terazisi ∧ tam kristal) **24 trilyon denemede
 | Serbest mercek | çapa reddedilirse (×~400 mercek seçeneği) | ≈10⁻⁸ |
 | Ötesi | belgelenemeyen kültürel seçim serbestliği | fiyatlanamaz (not 12) |
 
-Hiçbir basamak kalibre bir p-değeri değildir; her biri beyan edilen varsayım altında bir frekanstır (not 14). Kontroller: KJV korpusları en gevşek prosedürle bile bu basamakların hiçbirine ulaşmaz (`kesif22`); aynı 114 sayının gerçek nüzul-sırası dizilişinde tek bir katman bile yoktur (`kesif23`); mod-ayrıcalıksız sınıf-düzeyi tipiklik testi kitabın ailesini rastgele ailelerin %99,8–99,995'inin üstüne koyar (kırmızı takım, not 14).
+Hiçbir basamak kalibre bir p-değeri değildir; her biri beyan edilen varsayım altında bir frekanstır (not 14). Kontroller — tek tek gerçek çekilişler 10⁻⁵–10⁻⁹'luk bir olayın nadirliğini ölçemez; gösterdikleri şey permütasyon sıfırının gerçek yapılı listeler için adil bir vekil olduğudur: KJV korpusları en gevşek prosedürle bile sentetik medyanında kalır (`kesif22`); aynı 114 sayının gerçek nüzul-sırası dizilişinde tek bir katman yoktur (`kesif23`; dizilişe kör v = a biçimi dışlanınca kontrast 8/8'e karşı ≤5/8); mod-ayrıcalıksız sınıf-düzeyi tipiklik testi kitabın ailesini rastgele ailelerin %99,8–99,995'inin üstüne koyar (kırmızı takım, not 14).
 
 İsteğe bağlı bir matris-kuramsal katman (iki grup matrisi de GL₂(F₁₉)'un ilkel elemanıdır; 180. adımda −I ile tam 360'lık çevrim) bileşiği ≈1,2×10⁻¹⁷'ye taşır; ama sûre 9 için tartışmalı 127 sayımını gerektirdiğinden ayrı raporlanır, manşete asla girmez.
 
