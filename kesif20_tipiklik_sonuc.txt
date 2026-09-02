@@ -1,0 +1,28 @@
+# kesif20_tipiklik.py 1500000 — tohum 2026
+gerçek anahtarlar: 76 (76, 6, 38) ((76, 6, 38), (((3, 18), (3, 20)), ((3, 19), (3, 19)))) ((76, 6, 38), (((6, 6, 6), (6, 6, 8)), ((5, 5, 9), (5, 7, 7))))
+
+P(k=12) = 1.0166e-02   (1,500,515 örnek / 147,600,000 perm)
+
+[B düzeyi: Σc] farklı yapılandırma: 100 | tekil (1 kez görülen): 4 | görülmemiş kütle (Good-Turing) ≈ 0.000
+   gerçek yapılandırma: 46,680 kez → P(·|k=12) = 3.111e-02 → P = 3.163e-04  (motor: 3.16e-4 (B))
+   kütle-ağırlıklı medyan yapılandırma: 43946 kez → P(·|k=12) = 2.929e-02 → P = 2.977e-04
+   rastgele bir 12'lik ailenin kendi yapılandırması gerçekten DAHA NADİR: 54.2% | eşit: 3.1% | DAHA SIK: 42.7%
+   plug-in entropi H = 3.78 nat → e^-H = 2.27e-02 (koşullu; gerçek 3.11e-02)
+
+[C düzeyi: (Σc,k_e,Σc_e)] farklı yapılandırma: 6,254 | tekil (1 kez görülen): 772 | görülmemiş kütle (Good-Turing) ≈ 0.001
+   gerçek yapılandırma: 2,653 kez → P(·|k=12) = 1.768e-03 → P = 1.797e-05  (motor: 1.85e-5 (C))
+   kütle-ağırlıklı medyan yapılandırma: 1180 kez → P(·|k=12) = 7.864e-04 → P = 7.995e-06
+   rastgele bir 12'lik ailenin kendi yapılandırması gerçekten DAHA NADİR: 86.8% | eşit: 0.2% | DAHA SIK: 13.0%
+   plug-in entropi H = 7.43 nat → e^-H = 5.95e-04 (koşullu; gerçek 1.77e-03)
+
+[D düzeyi: + hücre sayı/toplam] farklı yapılandırma: 458,554 | tekil (1 kez görülen): 223,729 | görülmemiş kütle (Good-Turing) ≈ 0.149
+   gerçek yapılandırma: 18 kez → P(·|k=12) = 1.200e-05 → P = 1.220e-07  (motor: 1.39e-7 (D))
+   kütle-ağırlıklı medyan yapılandırma: 6 kez → P(·|k=12) = 3.999e-06 → P = 4.065e-08
+   rastgele bir 12'lik ailenin kendi yapılandırması gerçekten DAHA NADİR: 83.2% | eşit: 1.5% | DAHA SIK: 15.3%
+   plug-in entropi H = 12.49 nat → e^-H = 3.78e-06 (koşullu; gerçek 1.20e-05)
+
+[G düzeyi: + hücre içerikleri] farklı yapılandırma: 1,461,314 | tekil (1 kez görülen): 1,425,682 | görülmemiş kütle (Good-Turing) ≈ 0.950
+   gerçek yapılandırma: 0 kez → P(·|k=12) = 0.000e+00 → P = 0.000e+00  (motor: 7.14e-10 (G))
+   kütle-ağırlıklı medyan yapılandırma: 1 kez → P(·|k=12) = 6.664e-07 → P = 6.775e-09
+   rastgele bir 12'lik ailenin kendi yapılandırması gerçekten DAHA NADİR: 0.0% | eşit: 0.0% | DAHA SIK: 100.0%
+   plug-in entropi H = 14.18 nat → e^-H = 6.92e-07 (koşullu; gerçek 0.00e+00)

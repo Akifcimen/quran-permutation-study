@@ -19,9 +19,23 @@ Define t(n) = n + a(n) and u(n) = n − a(n). Under the null hypothesis "the ver
 | "Two Hands": the mod-19 families of t and u are disjoint and total exactly 19 surahs, with 19 \| Σa(union) | conditional ≈ 0.41% |
 | **Combined core** | **≈ 1.7×10⁻¹⁵ (quadrillion order; 95% CI 1.1–2.6×10⁻¹⁵)** — measured **without** an independence assumption, via conditional decomposition (`kesif18`): P(crystal) directly counted (17,204 hits) × P(balance∧TwoHands \| crystal) directly sampled (22 hits / 9.0M i.i.d. conditional samples). Earlier chained estimates (0.8–1.0×10⁻¹⁵) lie inside the CI |
 
-The summit **pair** (parity balance ∧ full crystal) was **directly observed 5 times in 24 trillion trials** (two independent seeds of the same generator family, 3+2; an independent NumPy/PCG64 stack reproduces the marginal rates): directly counted **p = 2.08×10⁻¹³ — 1 in 4.8 trillion** — consistent with the chained expectation (ratio 0.93; wide Poisson interval at 5 hits). Measured dependences (×1.126±0.033 at one mid-level joint; ×1.6 [1.0–2.4] three-way interaction at the conditional level) are included. **For scale:** particle physics declares a discovery at 5σ ≈ 1 in 3.5 million; the directly counted summit pair alone corresponds to ≈ 7.2σ.
+The summit **pair** (parity balance ∧ full crystal) was **directly observed 5 times in 24 trillion trials** (two independent seeds of the same generator family, 3+2; an independent NumPy/PCG64 stack reproduces the marginal rates): directly counted **p = 2.08×10⁻¹³ — 1 in 4.8 trillion** — consistent with the chained expectation (ratio 0.93; wide Poisson interval at 5 hits). Measured dependences (×1.126±0.033 at one mid-level joint; ×1.6 [1.0–2.4] three-way interaction at the conditional level) are included.
 
-**Specificity:** the same 8 structural criteria applied to every modulus 3–40: only m = 19 scores 8/8 (nearest rival 3/8). In 500,000 synthetic arrangements given free choice of modulus, none reached even 7/8.
+**Specificity:** the same 8 structural criteria applied to every modulus 3–40: only m = 19 scores 8/8 (nearest rival 3/8). In 500,000 synthetic arrangements given free choice of modulus, none reached 7/8 — a sample-size bound, not a ceiling: a 50-million-trial red-team run measured strict 7/8 at 2.4×10⁻⁷ and strict 8/8 at 0/50M; under loosened ("forked") criteria 8/8 appears at 1.4×10⁻⁷ (fixed lens) / 5×10⁻⁵ (free lens). The KJV corpora reach at most 6/8 even under those loosened criteria (`kesif22`; honesty note 13).
+
+**The honest ladder (after three external reviews — honesty note 13).** The headline is not a single number but a ladder; each rung states its assumption:
+
+| Rung | Assumption | Value |
+|---|---|---|
+| Event frequency | the stated exact event, fixed lens | **1.7×10⁻¹⁵** |
+| Class-level core | crystal predicates at class level (band width fixed / band free), `kesif21` (preliminary) | ≈1×10⁻¹⁴ / ≈6×10⁻¹⁴ |
+| Fork-priced core | exact core × documented description alternatives (×~120) | ≈2×10⁻¹³ |
+| Class-level × forks | both of the above | ≈8×10⁻¹² |
+| Loose profile | the red team's forked S1–S8 profile, lens anchored by the text (74:30, 89:3) | ≈10⁻¹⁰ |
+| Free lens | anchor rejected | ≈4×10⁻⁸ |
+| Beyond | undocumentable cultural selection freedom | unpriceable (note 12) |
+
+The KJV corpora reach none of these rungs even under the loosest procedure (`kesif22`).
 
 An optional matrix-theoretic layer (both group matrices are primitive elements of GL₂(F₁₉), full 360-cycle with −I at step 180) multiplies the composite to ≈1.2×10⁻¹⁷, but requires the contested 127-verse count for surah 9 and is therefore reported separately, never in the headline.
 
@@ -33,7 +47,7 @@ An optional matrix-theoretic layer (both group matrices are primitive elements o
 - Decorative near-patterns ("flourishes") are recorded with their measured, unimpressive probabilities and **not multiplied** into the composite.
 - **Counting-school scope:** the structure is specific to the **Kufan versification** (the standard count of virtually all modern mushafs; robust within it to the 127/129 dispute). Tested against the Medinan count (Warsh/Qalun, official 6214): it does **not** hold there (`kesif11_sayim_okullari.py`). With ~7 known counting schools, school-selection freedom costs at most a ×7 Bonferroni factor (worst-case core ~10⁻¹⁴).
 - **Counter-corpus control:** the same 8 criteria applied verbatim to real other texts (KJV Psalms, books, chapters; canonical totals validated) score 2/8, 3/8, 2/8 — the synthetic noise floor. Structured real texts do not reproduce the pattern (`kesif12_karsi_korpus.py`).
-- This is a post-hoc discovery: the definitive epistemic step is **pre-registered independent replication** — which this repository exists to enable. Please try to break it.
+- This is a post-hoc discovery on a fixed text: there will never be fresh data, so **no calibrated global p-value exists for it** (honesty notes 11–13). What can be done — and what this repository exists to enable — is independent re-derivation with independent code (done three times), application of the frozen procedure to other corpora, and independent audit of the selection pricing (the ladder in note 13). Please try to break it.
 
 ## Reproduce
 
@@ -95,9 +109,23 @@ t(n) = n + a(n) ve u(n) = n − a(n) tanımlansın. "Ayet-sayısı çokluğu sû
 | "İki El": t ve u'nun mod-19 aileleri ayrıktır ve birlikte tam 19 sûredir; 19 \| Σa(birleşim) | koşullu ≈ %0,41 |
 | **Birleşik çekirdek** | **≈ 1,7×10⁻¹⁵ (katrilyonda-1 mertebesi; %95 GA 1,1–2,6×10⁻¹⁵)** — bağımsızlık varsayımı **olmadan**, koşullu ayrışımla ölçüldü (`kesif18`): P(kristal) doğrudan sayım (17.204 isabet) × P(terazi∧İkiEl \| kristal) doğrudan örnekleme (9,0 milyon i.i.d. koşullu örnekte 22 isabet). Eski zincir tahminleri (0,8–1,0×10⁻¹⁵) aralığın içindedir |
 
-Zirvedeki **ikili** olay (parite terazisi ∧ tam kristal) **24 trilyon denemede 5 kez doğrudan gözlenmiştir** (aynı üreteç ailesinden iki bağımsız tohum, 3+2; bağımsız NumPy/PCG64 yığını marjinal oranları yeniden üretmektedir): doğrudan sayılmış **p = 2,08×10⁻¹³ — 4,8 trilyonda 1** — zincir beklentisiyle tutarlı (oran 0,93; 5 isabette Poisson aralığı geniştir). Ölçülen bağımlılıklar (ara eklemde ×1,126±0,033; koşullu düzeyde ×1,6 [1,0–2,4] üçlü etkileşim) hesaba dahildir. **Ölçek için:** parçacık fiziği keşfi 5σ ≈ 3,5 milyonda 1 eşiğiyle ilan eder; buradaki doğrudan sayılmış ikili zirve tek başına ≈ 7,2σ'ya karşılık gelir.
+Zirvedeki **ikili** olay (parite terazisi ∧ tam kristal) **24 trilyon denemede 5 kez doğrudan gözlenmiştir** (aynı üreteç ailesinden iki bağımsız tohum, 3+2; bağımsız NumPy/PCG64 yığını marjinal oranları yeniden üretmektedir): doğrudan sayılmış **p = 2,08×10⁻¹³ — 4,8 trilyonda 1** — zincir beklentisiyle tutarlı (oran 0,93; 5 isabette Poisson aralığı geniştir). Ölçülen bağımlılıklar (ara eklemde ×1,126±0,033; koşullu düzeyde ×1,6 [1,0–2,4] üçlü etkileşim) hesaba dahildir.
 
-**Özgüllük:** aynı 8 yapısal ölçüt 3–40 arası her modüle uygulandı: yalnız m = 19 tam puan alır (en yakın rakip 3/8). Modül seçiminde tam serbestlik verilen 500.000 sentetik dizilişte hiçbiri 7/8'e bile ulaşamadı.
+**Özgüllük:** aynı 8 yapısal ölçüt 3–40 arası her modüle uygulandı: yalnız m = 19 tam puan alır (en yakın rakip 3/8). Modül seçiminde tam serbestlik verilen 500.000 sentetik dizilişte hiçbiri 7/8'e ulaşmadı — bu bir örneklem sınırıdır, tavan değil: 50 milyonluk kırmızı-takım koşusu katı 7/8'i 2,4×10⁻⁷, katı 8/8'i 0/50M ölçtü; gevşetilmiş ("çatallı") ölçütlerle 8/8 sabit mercekte 1,4×10⁻⁷, serbest mercekte 5×10⁻⁵. KJV korpusları bu gevşek ölçütlerle bile en çok 6/8 alır (`kesif22`; dürüstlük notu 13).
+
+**Dürüst merdiven (üç dış denetimden sonra — dürüstlük notu 13).** Manşet tek bir sayı değil, bir merdivendir; her basamak kendi varsayımını söyler:
+
+| Basamak | Varsayım | Değer |
+|---|---|---|
+| Olay frekansı | beyan edilen tam olay, sabit mercek | **1,7×10⁻¹⁵** |
+| Sınıf-düzeyi çekirdek | kristal yüklemleri sınıf düzeyinde (bant genişliği sabit / bant serbest), `kesif21` (ön) | ≈1×10⁻¹⁴ / ≈6×10⁻¹⁴ |
+| Çatal-fiyatlı çekirdek | tam çekirdek × belgeli tarif alternatifleri (×~120) | ≈2×10⁻¹³ |
+| Sınıf-düzeyi × çatallar | ikisi birden | ≈8×10⁻¹² |
+| Gevşek profil | kırmızı takımın çatallı S1–S8 profili, mercek metnin çapasında (74:30, 89:3) | ≈10⁻¹⁰ |
+| Serbest mercek | çapa reddedilirse | ≈4×10⁻⁸ |
+| Ötesi | belgelenemeyen kültürel seçim serbestliği | fiyatlanamaz (not 12) |
+
+KJV korpusları en gevşek prosedürle bile bu basamakların hiçbirine ulaşmaz (`kesif22`).
 
 İsteğe bağlı bir matris-kuramsal katman (iki grup matrisi de GL₂(F₁₉)'un ilkel elemanıdır; 180. adımda −I ile tam 360'lık çevrim) bileşiği ≈1,2×10⁻¹⁷'ye taşır; ama sûre 9 için tartışmalı 127 sayımını gerektirdiğinden ayrı raporlanır, manşete asla girmez.
 
@@ -109,7 +137,7 @@ Zirvedeki **ikili** olay (parite terazisi ∧ tam kristal) **24 trilyon denemede
 - Dekoratif yarı-desenler ("süsler") ölçülmüş, etkileyici olmayan olasılıklarıyla kayda geçirilmiş ve bileşiğe **çarpılmamıştır**.
 - **Sayım okulu kapsamı:** yapı **Kûfe sayımına** özgüdür (modern mushafların standart sayımı; kendi içindeki 127/129 ihtilafına dayanıklı). Medine sayımıyla (Warş/Kalûn, resmî 6214) test edildi: orada **tutmaz** (`kesif11_sayim_okullari.py`). Bilinen ~7 sayım okuluyla, okul-seçimi serbestliğinin bedeli en fazla ×7'lik Bonferroni çarpanıdır (en kötü durumda çekirdek ~10⁻¹⁴).
 - **Karşı-korpus kontrolü:** aynı 8 ölçüt gerçek başka metinlere aynen uygulandı (KJV Mezmurlar, kitaplar, bölümler; kanonik toplamlar doğrulandı): 2/8, 3/8, 2/8 — sentetik gürültü zemini. Yapılı gerçek metinler deseni üretmiyor (`kesif12_karsi_korpus.py`).
-- Bu, sonradan yapılmış (post-hoc) bir keşiftir: kesin epistemik adım **önceden kayıtlı bağımsız tekrardır** — bu depo tam da bunu mümkün kılmak için vardır. Lütfen kırmayı deneyin.
+- Bu, sabit bir metin üzerinde sonradan yapılmış (post-hoc) bir keşiftir: yeni veri hiç olmayacak, dolayısıyla **bu veri için kalibre edilmiş küresel bir p-değeri yoktur** (dürüstlük notları 11–13). Yapılabilen — ve bu deponun var olma sebebi — bağımsız kodla yeniden türetme (üç kez yapıldı), dondurulmuş prosedürün başka korpuslara uygulanması ve seçim fiyatlamasının bağımsız denetimidir (not 13'teki merdiven). Lütfen kırmayı deneyin.
 
 ## Yeniden üretim
 

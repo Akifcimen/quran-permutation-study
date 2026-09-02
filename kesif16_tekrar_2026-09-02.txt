@@ -1,0 +1,28 @@
+Gerçek veri: S_obs=209029 | toplam=6236
+ GERÇEK KİTAP     : terazi ✓ | aile ✓ | iç ✓ | İkiEl ✓ | S=209029
+
+=== A1: saf-sıralı kitaplar (itirazın limit hâli) ===
+ TAM AZALAN (boy) : terazi ✗ | aile ✗ | iç ✗ | İkiEl ✗ | S=183559
+ TAM ARTAN        : terazi ✗ | aile ✗ | iç ✗ | İkiEl ✗ | S=533581
+
+=== A2: koşulsuz MC (10^7), katman oranı × sıralılık dilimi ===
+ S dağılımı: ort=358566 std=18693 → S_obs z-skoru = -8.0  (İ1: dizilişin boy-sıralılığı gerçekten uç — kabul)
+ koşulsuz oranlar: terazi 3.21e-04 | aile 3.13e-04 | İkiEl 5.26e-05
+ S-dilimi (1=en sıralı) → katman oranları:
+  dilim  1: terazi 3.75e-04 | aile 3.57e-04 | İkiEl 5.30e-05 (n=999947)
+  dilim  2: terazi 3.10e-04 | aile 3.51e-04 | İkiEl 5.00e-05 (n=999951)
+  dilim  3: terazi 3.47e-04 | aile 3.29e-04 | İkiEl 5.00e-05 (n=1000100)
+  dilim  4: terazi 3.01e-04 | aile 3.09e-04 | İkiEl 5.70e-05 (n=999867)
+  dilim  5: terazi 3.25e-04 | aile 3.39e-04 | İkiEl 5.10e-05 (n=1000099)
+  dilim  6: terazi 3.05e-04 | aile 3.21e-04 | İkiEl 5.80e-05 (n=999862)
+  dilim  7: terazi 3.33e-04 | aile 2.87e-04 | İkiEl 5.10e-05 (n=1000142)
+  dilim  8: terazi 3.09e-04 | aile 2.77e-04 | İkiEl 4.90e-05 (n=999948)
+  dilim  9: terazi 2.99e-04 | aile 2.75e-04 | İkiEl 6.30e-05 (n=999996)
+  dilim 10: terazi 3.10e-04 | aile 2.89e-04 | İkiEl 4.40e-05 (n=1000088)
+
+=== A3: koşullu MCMC (S ≤ S_obs; 20k zincir) ===
+ kabul oranı 0.39 | örnek: 400 kesit × 20000 zincir = 8000000
+ P(terazi | S≤S_obs) = 4.65e-04  vs koşulsuz 3.21e-04  → oran 1.45
+ P(aile | S≤S_obs) = 5.55e-04  vs koşulsuz 3.13e-04  → oran 1.77
+ P(İkiEl | S≤S_obs) = 6.09e-05  vs koşulsuz 5.26e-05  → oran 1.16
+ P(iç terazi | koşullu) = 5.55e-05
