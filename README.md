@@ -31,8 +31,8 @@ The summit **pair** (parity balance ∧ full crystal) was **directly observed 5 
 | Class-level core | crystal predicates at class level (band width fixed / band free), `kesif21` | ≈1×10⁻¹⁴ / ≈5×10⁻¹⁴ |
 | Fork-priced core | exact core × composite fork cost (×6.5–27, red team round 2; the ×120 layer product was an over-estimate) | ≈1×10⁻¹⁴ – 5×10⁻¹⁴ |
 | Class-level × forks | both of the above | ≈10⁻¹² |
-| Loose profile | the red team's S1–S8 profile × balance, lens anchored by the text (74:30, 89:3); strict profile 6.7×10⁻⁹, forked up to 1.8×10⁻⁷ | ≈10⁻¹¹ – 10⁻¹⁰ |
-| Free lens | anchor rejected (×~400 lens choices) | ≈10⁻⁸ |
+| Loose profile | the red team's S1–S8 profile × balance, lens anchored by the text (74:30, 89:3); strict profile 6.7×10⁻⁹, forked up to 1.8×10⁻⁷ | ≈10⁻¹² – 10⁻¹⁰ |
+| Free lens | anchor rejected (×~400 lens choices; ~×2.6 more with non-linear forms, `kesif24`) | ≈10⁻⁸ – 3×10⁻⁸ |
 | Beyond | undocumentable cultural selection freedom | unpriceable (note 12) |
 
 No rung is a calibrated p-value; each is a frequency under a stated assumption (note 14). Controls — single real draws cannot measure the rarity of a 10⁻⁵–10⁻⁹ event; what they establish is that the permutation null is a fair proxy for real structured lists: the KJV corpora sit at the synthetic median even under the loosest procedure (`kesif22`); the same 114 counts in their real revelation-order arrangement show no layer (`kesif23`; excluding the arrangement-blind form v = a, the contrast is 8/8 vs ≤5/8); a mode-neutral class-level typicality test places the book's family above 99.8–99.995% of random families (red team, note 14).
@@ -121,8 +121,8 @@ Zirvedeki **ikili** olay (parite terazisi ∧ tam kristal) **24 trilyon denemede
 | Sınıf-düzeyi çekirdek | kristal yüklemleri sınıf düzeyinde (bant genişliği sabit / bant serbest), `kesif21` | ≈1×10⁻¹⁴ / ≈5×10⁻¹⁴ |
 | Çatal-fiyatlı çekirdek | tam çekirdek × bileşik çatal bedeli (×6,5–27, kırmızı takım 2. tur; ×120 katman-çarpımı aşırıydı) | ≈1×10⁻¹⁴ – 5×10⁻¹⁴ |
 | Sınıf-düzeyi × çatallar | ikisi birden | ≈10⁻¹² |
-| Gevşek profil | kırmızı takımın S1–S8 profili × terazi, mercek metnin çapasında (74:30, 89:3); katı profil 6,7×10⁻⁹, çatallı 1,8×10⁻⁷'ye kadar | ≈10⁻¹¹ – 10⁻¹⁰ |
-| Serbest mercek | çapa reddedilirse (×~400 mercek seçeneği) | ≈10⁻⁸ |
+| Gevşek profil | kırmızı takımın S1–S8 profili × terazi, mercek metnin çapasında (74:30, 89:3); katı profil 6,7×10⁻⁹, çatallı 1,8×10⁻⁷'ye kadar | ≈10⁻¹² – 10⁻¹⁰ |
+| Serbest mercek | çapa reddedilirse (×~400 mercek seçeneği; doğrusal-olmayan biçimlerle ~×2,6 daha, `kesif24`) | ≈10⁻⁸ – 3×10⁻⁸ |
 | Ötesi | belgelenemeyen kültürel seçim serbestliği | fiyatlanamaz (not 12) |
 
 Hiçbir basamak kalibre bir p-değeri değildir; her biri beyan edilen varsayım altında bir frekanstır (not 14). Kontroller — tek tek gerçek çekilişler 10⁻⁵–10⁻⁹'luk bir olayın nadirliğini ölçemez; gösterdikleri şey permütasyon sıfırının gerçek yapılı listeler için adil bir vekil olduğudur: KJV korpusları en gevşek prosedürle bile sentetik medyanında kalır (`kesif22`); aynı 114 sayının gerçek nüzul-sırası dizilişinde tek bir katman yoktur (`kesif23`; dizilişe kör v = a biçimi dışlanınca kontrast 8/8'e karşı ≤5/8); mod-ayrıcalıksız sınıf-düzeyi tipiklik testi kitabın ailesini rastgele ailelerin %99,8–99,995'inin üstüne koyar (kırmızı takım, not 14).
