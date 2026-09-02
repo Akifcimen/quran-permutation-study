@@ -29,13 +29,13 @@ The summit **pair** (parity balance ∧ full crystal) was **directly observed 5 
 |---|---|---|
 | Event frequency | the stated exact event, fixed lens | **1.7×10⁻¹⁵** |
 | Class-level core | crystal predicates at class level (band width fixed / band free), `kesif21` | ≈1×10⁻¹⁴ / ≈5×10⁻¹⁴ |
-| Fork-priced core | exact core × documented description alternatives (×~120) | ≈2×10⁻¹³ |
-| Class-level × forks | both of the above | ≈6×10⁻¹² |
-| Loose profile | the red team's forked S1–S8 profile, lens anchored by the text (74:30, 89:3) | ≈10⁻¹⁰ |
-| Free lens | anchor rejected | ≈4×10⁻⁸ |
+| Fork-priced core | exact core × composite fork cost (×6.5–27, red team round 2; the ×120 layer product was an over-estimate) | ≈1×10⁻¹⁴ – 5×10⁻¹⁴ |
+| Class-level × forks | both of the above | ≈10⁻¹² |
+| Loose profile | the red team's S1–S8 profile × balance, lens anchored by the text (74:30, 89:3); strict profile 6.7×10⁻⁹, forked up to 1.8×10⁻⁷ | ≈10⁻¹¹ – 10⁻¹⁰ |
+| Free lens | anchor rejected (×~400 lens choices) | ≈10⁻⁸ |
 | Beyond | undocumentable cultural selection freedom | unpriceable (note 12) |
 
-The KJV corpora reach none of these rungs even under the loosest procedure (`kesif22`).
+No rung is a calibrated p-value; each is a frequency under a stated assumption (note 14). Controls: the KJV corpora reach none of these rungs even under the loosest procedure (`kesif22`); the same 114 counts in their real revelation-order arrangement show no layer at all (`kesif23`); a mode-neutral class-level typicality test places the book's family above 99.8–99.995% of random families (red team, note 14).
 
 An optional matrix-theoretic layer (both group matrices are primitive elements of GL₂(F₁₉), full 360-cycle with −I at step 180) multiplies the composite to ≈1.2×10⁻¹⁷, but requires the contested 127-verse count for surah 9 and is therefore reported separately, never in the headline.
 
@@ -119,13 +119,13 @@ Zirvedeki **ikili** olay (parite terazisi ∧ tam kristal) **24 trilyon denemede
 |---|---|---|
 | Olay frekansı | beyan edilen tam olay, sabit mercek | **1,7×10⁻¹⁵** |
 | Sınıf-düzeyi çekirdek | kristal yüklemleri sınıf düzeyinde (bant genişliği sabit / bant serbest), `kesif21` | ≈1×10⁻¹⁴ / ≈5×10⁻¹⁴ |
-| Çatal-fiyatlı çekirdek | tam çekirdek × belgeli tarif alternatifleri (×~120) | ≈2×10⁻¹³ |
-| Sınıf-düzeyi × çatallar | ikisi birden | ≈6×10⁻¹² |
-| Gevşek profil | kırmızı takımın çatallı S1–S8 profili, mercek metnin çapasında (74:30, 89:3) | ≈10⁻¹⁰ |
-| Serbest mercek | çapa reddedilirse | ≈4×10⁻⁸ |
+| Çatal-fiyatlı çekirdek | tam çekirdek × bileşik çatal bedeli (×6,5–27, kırmızı takım 2. tur; ×120 katman-çarpımı aşırıydı) | ≈1×10⁻¹⁴ – 5×10⁻¹⁴ |
+| Sınıf-düzeyi × çatallar | ikisi birden | ≈10⁻¹² |
+| Gevşek profil | kırmızı takımın S1–S8 profili × terazi, mercek metnin çapasında (74:30, 89:3); katı profil 6,7×10⁻⁹, çatallı 1,8×10⁻⁷'ye kadar | ≈10⁻¹¹ – 10⁻¹⁰ |
+| Serbest mercek | çapa reddedilirse (×~400 mercek seçeneği) | ≈10⁻⁸ |
 | Ötesi | belgelenemeyen kültürel seçim serbestliği | fiyatlanamaz (not 12) |
 
-KJV korpusları en gevşek prosedürle bile bu basamakların hiçbirine ulaşmaz (`kesif22`).
+Hiçbir basamak kalibre bir p-değeri değildir; her biri beyan edilen varsayım altında bir frekanstır (not 14). Kontroller: KJV korpusları en gevşek prosedürle bile bu basamakların hiçbirine ulaşmaz (`kesif22`); aynı 114 sayının gerçek nüzul-sırası dizilişinde tek bir katman bile yoktur (`kesif23`); mod-ayrıcalıksız sınıf-düzeyi tipiklik testi kitabın ailesini rastgele ailelerin %99,8–99,995'inin üstüne koyar (kırmızı takım, not 14).
 
 İsteğe bağlı bir matris-kuramsal katman (iki grup matrisi de GL₂(F₁₉)'un ilkel elemanıdır; 180. adımda −I ile tam 360'lık çevrim) bileşiği ≈1,2×10⁻¹⁷'ye taşır; ama sûre 9 için tartışmalı 127 sayımını gerektirdiğinden ayrı raporlanır, manşete asla girmez.
 

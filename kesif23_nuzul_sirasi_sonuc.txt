@@ -1,0 +1,2 @@
+MUSHAF dizilişi: batarya terazi ✓(57 çift) aile ✓(12 üye, Σt=1444) iç ✓ İkiEl ✓(7 u-üye) | serbest mercek: katı 8/8, çatallı 8/8 @ (1, 1, 19, 't')
+NÜZUL dizilişi : batarya terazi ✗(55 çift) aile ✗(2 üye, Σt=285) iç ✗ İkiEl ✗(8 u-üye) | serbest mercek: katı 5/8, çatallı 6/8 @ (0, 1, 36, 't')
