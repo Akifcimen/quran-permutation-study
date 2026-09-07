@@ -59,3 +59,13 @@ tamsayı bandı oluşturur (min..max arası her değer mevcut), KONUM SERBEST. S
   κ-çarpımı (1,98×10⁻⁶) ile uyumlu.
 - **Sınıf-düzeyi çekirdek (nihai):** bant serbest **≈5×10⁻¹⁴**; bant genişliği sabit **≈1×10⁻¹⁴**.
   "Ön" etiketi kaldırıldı.
+
+## ÜÇÜNCÜ GEÇİŞ — kesif21b, ÇOKLUK-ORANTILI ÖNERİCİ (dördüncü denetim sonrası) — NİHAİ
+kesif18b'de görülen ağırlık dejenerasyonu (tekdüze aday önerisi) burada da vardı; kesif21b aynı
+düzeltmeyle koşuldu (`kesif21b_sinif_kristal_cokluk.py`, 1500 atama × 30k, 31 yapı).
+- **ESS: min 1290, medyan 1399, maks 1450 / 1500** (2. geçişte medyan 153 idi).
+- **Çapa:** P(G_σ₀) = 7,06×10⁻¹⁰ vs GPU 7,14×10⁻¹⁰ → 0,99 — artık şans değil, ESS ile.
+- **P(G*)/P(G) = 33,7** (2. geçiş: 34,7 — tutarlı); bant genişliği ≤ 5: **×5,3**.
+- P(A|G*) = 3,52×10⁻⁴, P(W|G*) = 3,91×10⁻³. κ artık kesif18c'den: **1,14** (1,6 değil).
+- **Sınıf-düzeyi çekirdek (GPU-çapalı, κ=1,14):** bant serbest **≈4×10⁻¹⁴**; bant genişliği sabit
+  **≈6×10⁻¹⁵**. "Ön" etiketi kaldırıldı.

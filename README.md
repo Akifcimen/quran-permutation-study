@@ -28,7 +28,7 @@ The summit **pair** (parity balance ∧ full crystal) was **directly observed 5 
 | Rung | Assumption | Value |
 |---|---|---|
 | Event frequency | the stated exact event, fixed lens | **1.1×10⁻¹⁵** [0.5–1.7] (`kesif18c`, after the fourth review's correction — note 15) |
-| Class-level core | crystal predicates at class level (band width fixed / band free), `kesif21` — *provisional: being re-run with the corrected sampler (`kesif21b`)* | ≈1×10⁻¹⁴ / ≈5×10⁻¹⁴ |
+| Class-level core | crystal predicates at class level (band width fixed / band free), `kesif21b` (corrected sampler, ESS ≈1400/1500, anchor 0.99; κ = 1.14) | ≈0.6×10⁻¹⁴ / ≈4×10⁻¹⁴ |
 | Fork-priced core | exact core × composite fork cost (×6.5–27, red team round 2; the ×120 layer product was an over-estimate) | ≈0.7×10⁻¹⁴ – 3×10⁻¹⁴ |
 | Class-level × forks | both of the above | ≈10⁻¹² |
 | Loose profile | the red team's S1–S8 profile × balance, lens anchored by the text (74:30, 89:3); strict profile 6.7×10⁻⁹, forked up to 1.8×10⁻⁷ | ≈10⁻¹² – 10⁻¹⁰ |
@@ -118,7 +118,7 @@ Zirvedeki **ikili** olay (parite terazisi ∧ tam kristal) **24 trilyon denemede
 | Basamak | Varsayım | Değer |
 |---|---|---|
 | Olay frekansı | beyan edilen tam olay, sabit mercek | **1,1×10⁻¹⁵** [0,5–1,7] (`kesif18c`, dördüncü denetimin düzeltmesinden sonra — not 15) |
-| Sınıf-düzeyi çekirdek | kristal yüklemleri sınıf düzeyinde (bant genişliği sabit / bant serbest), `kesif21` — *ön: düzeltilmiş örnekleyiciyle yeniden koşuluyor (`kesif21b`)* | ≈1×10⁻¹⁴ / ≈5×10⁻¹⁴ |
+| Sınıf-düzeyi çekirdek | kristal yüklemleri sınıf düzeyinde (bant genişliği sabit / bant serbest), `kesif21b` (düzeltilmiş örnekleyici, ESS ≈1400/1500, çapa 0,99; κ = 1,14) | ≈0,6×10⁻¹⁴ / ≈4×10⁻¹⁴ |
 | Çatal-fiyatlı çekirdek | tam çekirdek × bileşik çatal bedeli (×6,5–27, kırmızı takım 2. tur; ×120 katman-çarpımı aşırıydı) | ≈0,7×10⁻¹⁴ – 3×10⁻¹⁴ |
 | Sınıf-düzeyi × çatallar | ikisi birden | ≈10⁻¹² |
 | Gevşek profil | kırmızı takımın S1–S8 profili × terazi, mercek metnin çapasında (74:30, 89:3); katı profil 6,7×10⁻⁹, çatallı 1,8×10⁻⁷'ye kadar | ≈10⁻¹² – 10⁻¹⁰ |
