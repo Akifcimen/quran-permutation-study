@@ -1,0 +1,38 @@
+atama 50/1500 | kabul 288,865 | A 83 W 1085 A∧W 1
+atama 100/1500 | kabul 579,153 | A 190 W 2220 A∧W 1
+atama 150/1500 | kabul 867,408 | A 292 W 3558 A∧W 1
+atama 200/1500 | kabul 1,161,476 | A 391 W 4896 A∧W 2
+atama 250/1500 | kabul 1,451,059 | A 489 W 5856 A∧W 2
+atama 300/1500 | kabul 1,739,144 | A 576 W 6871 A∧W 2
+atama 350/1500 | kabul 2,027,436 | A 666 W 8156 A∧W 2
+atama 400/1500 | kabul 2,320,493 | A 775 W 9465 A∧W 2
+atama 450/1500 | kabul 2,612,938 | A 890 W 10611 A∧W 2
+atama 500/1500 | kabul 2,897,303 | A 1001 W 11430 A∧W 2
+atama 550/1500 | kabul 3,191,323 | A 1100 W 12626 A∧W 2
+atama 600/1500 | kabul 3,483,404 | A 1215 W 13604 A∧W 2
+atama 650/1500 | kabul 3,772,476 | A 1300 W 14746 A∧W 4
+atama 700/1500 | kabul 4,064,740 | A 1406 W 15658 A∧W 4
+atama 750/1500 | kabul 4,352,504 | A 1510 W 16713 A∧W 5
+atama 800/1500 | kabul 4,643,883 | A 1601 W 18025 A∧W 5
+atama 850/1500 | kabul 4,934,121 | A 1712 W 19118 A∧W 8
+atama 900/1500 | kabul 5,223,664 | A 1811 W 20137 A∧W 8
+atama 950/1500 | kabul 5,509,913 | A 1902 W 21354 A∧W 8
+atama 1000/1500 | kabul 5,798,820 | A 2001 W 22335 A∧W 8
+atama 1050/1500 | kabul 6,089,937 | A 2103 W 23331 A∧W 9
+atama 1100/1500 | kabul 6,383,850 | A 2207 W 24537 A∧W 9
+atama 1150/1500 | kabul 6,671,351 | A 2296 W 25599 A∧W 9
+atama 1200/1500 | kabul 6,960,697 | A 2379 W 26806 A∧W 9
+atama 1250/1500 | kabul 7,250,405 | A 2490 W 27811 A∧W 9
+atama 1300/1500 | kabul 7,542,181 | A 2588 W 28979 A∧W 10
+atama 1350/1500 | kabul 7,828,406 | A 2691 W 30064 A∧W 11
+atama 1400/1500 | kabul 8,122,479 | A 2775 W 31127 A∧W 11
+atama 1450/1500 | kabul 8,412,499 | A 2884 W 32014 A∧W 11
+atama 1500/1500 | kabul 8,700,493 | A 2995 W 33182 A∧W 12
+
+=== ÇAPA: P(G) SIS = 7.055e-10 vs GPU 7.14e-10 → oran 0.99 | Z=1.000 | ESS=1360/1500
+=== toplam kabul (G-örneği) = 8,700,493 | isabet A=2995 W=33182 A∧W=12
+=== P(A|G): ağırlıklı 3.447e-04 | havuz 3.442e-04
+=== P(W|G): ağırlıklı 3.853e-03 | havuz 3.814e-03   (GPU çapası 62/17204 = 3.60e-3 [2.8, 4.6] — İKİNCİ ÇAPA)
+=== P(A∧W|G): ağırlıklı 1.508e-06 | havuz 1.379e-06  | bootstrap %95 GA [6.89e-07, 2.45e-06]
+=== κ = P(A∧W|G)/[P(A|G)·P(W|G)] = 1.14
+=== P(A∧G∧W) = 7.14e-10 × P(A∧W|G) = 1.08e-15   GA [4.9e-16, 1.7e-15]   (kesif18 eski: 1.74e-15 [1.1, 2.6])

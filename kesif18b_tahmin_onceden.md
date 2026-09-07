@@ -19,3 +19,9 @@ dejenere. Ağırlıklı P(W|G) 2,28e-3 (GPU çapası [2,8–4,6]e-3'ün ALTINDA)
 tutmadı — denetçinin uyardığı sebeple: seyrek ortak isabet + değişken önem ağırlıkları. Bu koşunun
 hiçbir sayısı güvenilir değildir (ne eskisi ne yenisi). Teşhis: tekdüze aday önerisi L/q'yu
 ağır-kuyruklu kılıyor. Çözüm (kırmızı takım 2. tur önerisi): çokluk-orantılı önerici → kesif18c.
+
+## kesif18c (çokluk-orantılı önerici) — 2. BEKLENTİ TUTTU
+ESS 1360/1500; çapa P(G) 0,99; ağırlıklı P(W|G) 3,85e-3 (GPU [2,8–4,6] içinde); P(A|G) 3,45e-4;
+P(A∧W|G) = 1,51e-6 [0,69–2,45] (12 isabet); κ = 1,14; ÇEKİRDEK = 1,08e-15 [0,49–1,7]e-15.
+Sohbette yazılan 2. beklenti ("0,5–1,4e-15, κ 1–1,6") tuttu; 1. tahmin ("%0–35 düşüş, eski koşu
+güvenilir") tutmamıştı — fark: 2.'si GPU sayaçlarına dayanıyordu, 1.'si bozuk kestiriciye.

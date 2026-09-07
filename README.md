@@ -17,7 +17,7 @@ Define t(n) = n + a(n) and u(n) = n − a(n). Under the null hypothesis "the ver
 | Parity balance: 57/57 split; Σt(even) = total verse count; Σt(odd) = Σ surah numbers | p = 3.137×10⁻⁴ |
 | Full "crystal": 12-member t≡0 (mod 19) family, Σ = 38², 6/6 parity halves 722/722, four 3-cells with coefficients {18,19,19,20}, individual coefficients exactly the consecutive band {5..9} | p = 7.14×10⁻¹⁰ (17,204 hits) |
 | "Two Hands": the mod-19 families of t and u are disjoint and total exactly 19 surahs, with 19 \| Σa(union) | conditional ≈ 0.41% |
-| **Combined core** | **≈ 1.7×10⁻¹⁵ (quadrillion order; 95% CI 1.1–2.6×10⁻¹⁵)** — measured **without** an independence assumption, via conditional decomposition (`kesif18`): P(crystal) directly counted (17,204 hits) × P(balance∧TwoHands \| crystal) directly sampled (22 hits / 9.0M i.i.d. conditional samples). Earlier chained estimates (0.8–1.0×10⁻¹⁵) lie inside the CI |
+| **Combined core** | **≈ 1.1×10⁻¹⁵ (quadrillion order; 95% CI 0.5–1.7×10⁻¹⁵)** — measured **without** an independence assumption, via conditional decomposition (`kesif18c`): P(crystal) directly counted (17,204 hits) × P(balance∧TwoHands \| crystal) = 1.51×10⁻⁶ (12 direct hits / 8.7M crystal-conditional samples; two GPU anchors met; κ = 1.14). The first run's 1.7×10⁻¹⁵ was withdrawn after a weighting error found by the fourth review (note 15) |
 
 The summit **pair** (parity balance ∧ full crystal) was **directly observed 5 times in 24 trillion trials** (two independent seeds of the same generator family, 3+2; an independent NumPy/PCG64 stack reproduces the marginal rates): directly counted **p = 2.08×10⁻¹³ — 1 in 4.8 trillion** — consistent with the chained expectation (ratio 0.93; wide Poisson interval at 5 hits). Measured dependences (×1.126±0.033 at one mid-level joint; ×1.6 [1.0–2.4] three-way interaction at the conditional level) are included.
 
@@ -27,9 +27,9 @@ The summit **pair** (parity balance ∧ full crystal) was **directly observed 5 
 
 | Rung | Assumption | Value |
 |---|---|---|
-| Event frequency | the stated exact event, fixed lens | **1.7×10⁻¹⁵** — *PROVISIONAL: a weighting error in `kesif18` was found by the fourth review (note 15); corrected run in progress* |
-| Class-level core | crystal predicates at class level (band width fixed / band free), `kesif21` | ≈1×10⁻¹⁴ / ≈5×10⁻¹⁴ |
-| Fork-priced core | exact core × composite fork cost (×6.5–27, red team round 2; the ×120 layer product was an over-estimate) | ≈1×10⁻¹⁴ – 5×10⁻¹⁴ |
+| Event frequency | the stated exact event, fixed lens | **1.1×10⁻¹⁵** [0.5–1.7] (`kesif18c`, after the fourth review's correction — note 15) |
+| Class-level core | crystal predicates at class level (band width fixed / band free), `kesif21` — *provisional: being re-run with the corrected sampler (`kesif21b`)* | ≈1×10⁻¹⁴ / ≈5×10⁻¹⁴ |
+| Fork-priced core | exact core × composite fork cost (×6.5–27, red team round 2; the ×120 layer product was an over-estimate) | ≈0.7×10⁻¹⁴ – 3×10⁻¹⁴ |
 | Class-level × forks | both of the above | ≈10⁻¹² |
 | Loose profile | the red team's S1–S8 profile × balance, lens anchored by the text (74:30, 89:3); strict profile 6.7×10⁻⁹, forked up to 1.8×10⁻⁷ | ≈10⁻¹² – 10⁻¹⁰ |
 | Free lens | anchor rejected (×~400 lens choices; ~×2.6 more with non-linear forms, `kesif24`) | ≈10⁻⁸ – 3×10⁻⁸ |
@@ -107,7 +107,7 @@ t(n) = n + a(n) ve u(n) = n − a(n) tanımlansın. "Ayet-sayısı çokluğu sû
 | Parite terazisi: 57/57; Σt(çift) = toplam ayet; Σt(tek) = sûre numaraları toplamı | p = 3,137×10⁻⁴ |
 | Tam "kristal": 12 üyeli t≡0 (mod 19) ailesi, Σ = 38², 6/6 parite kefeleri 722/722, katsayıları {18,19,19,20} olan dört 3'lü hücre, bireysel katsayılar tam olarak ardışık {5..9} bandı | p = 7,14×10⁻¹⁰ (17.204 isabet) |
 | "İki El": t ve u'nun mod-19 aileleri ayrıktır ve birlikte tam 19 sûredir; 19 \| Σa(birleşim) | koşullu ≈ %0,41 |
-| **Birleşik çekirdek** | **≈ 1,7×10⁻¹⁵ (katrilyonda-1 mertebesi; %95 GA 1,1–2,6×10⁻¹⁵)** — bağımsızlık varsayımı **olmadan**, koşullu ayrışımla ölçüldü (`kesif18`): P(kristal) doğrudan sayım (17.204 isabet) × P(terazi∧İkiEl \| kristal) doğrudan örnekleme (9,0 milyon i.i.d. koşullu örnekte 22 isabet). Eski zincir tahminleri (0,8–1,0×10⁻¹⁵) aralığın içindedir |
+| **Birleşik çekirdek** | **≈ 1,1×10⁻¹⁵ (katrilyonda-1 mertebesi; %95 GA 0,5–1,7×10⁻¹⁵)** — bağımsızlık varsayımı **olmadan**, koşullu ayrışımla ölçüldü (`kesif18c`): P(kristal) doğrudan sayım (17.204 isabet) × P(terazi∧İkiEl \| kristal) = 1,51×10⁻⁶ (8,7 milyon kristal-koşullu örnekte 12 doğrudan isabet; iki GPU çapası tuttu; κ = 1,14). İlk koşunun 1,7×10⁻¹⁵'i, dördüncü denetimin bulduğu ağırlık hatasıyla geri çekildi (not 15) |
 
 Zirvedeki **ikili** olay (parite terazisi ∧ tam kristal) **24 trilyon denemede 5 kez doğrudan gözlenmiştir** (aynı üreteç ailesinden iki bağımsız tohum, 3+2; bağımsız NumPy/PCG64 yığını marjinal oranları yeniden üretmektedir): doğrudan sayılmış **p = 2,08×10⁻¹³ — 4,8 trilyonda 1** — zincir beklentisiyle tutarlı (oran 0,93; 5 isabette Poisson aralığı geniştir). Ölçülen bağımlılıklar (ara eklemde ×1,126±0,033; koşullu düzeyde ×1,6 [1,0–2,4] üçlü etkileşim) hesaba dahildir.
 
@@ -117,9 +117,9 @@ Zirvedeki **ikili** olay (parite terazisi ∧ tam kristal) **24 trilyon denemede
 
 | Basamak | Varsayım | Değer |
 |---|---|---|
-| Olay frekansı | beyan edilen tam olay, sabit mercek | **1,7×10⁻¹⁵** — *GEÇİCİ: dördüncü denetim `kesif18`'de bir ağırlık hatası buldu (not 15); düzeltilmiş koşu sürüyor* |
-| Sınıf-düzeyi çekirdek | kristal yüklemleri sınıf düzeyinde (bant genişliği sabit / bant serbest), `kesif21` | ≈1×10⁻¹⁴ / ≈5×10⁻¹⁴ |
-| Çatal-fiyatlı çekirdek | tam çekirdek × bileşik çatal bedeli (×6,5–27, kırmızı takım 2. tur; ×120 katman-çarpımı aşırıydı) | ≈1×10⁻¹⁴ – 5×10⁻¹⁴ |
+| Olay frekansı | beyan edilen tam olay, sabit mercek | **1,1×10⁻¹⁵** [0,5–1,7] (`kesif18c`, dördüncü denetimin düzeltmesinden sonra — not 15) |
+| Sınıf-düzeyi çekirdek | kristal yüklemleri sınıf düzeyinde (bant genişliği sabit / bant serbest), `kesif21` — *ön: düzeltilmiş örnekleyiciyle yeniden koşuluyor (`kesif21b`)* | ≈1×10⁻¹⁴ / ≈5×10⁻¹⁴ |
+| Çatal-fiyatlı çekirdek | tam çekirdek × bileşik çatal bedeli (×6,5–27, kırmızı takım 2. tur; ×120 katman-çarpımı aşırıydı) | ≈0,7×10⁻¹⁴ – 3×10⁻¹⁴ |
 | Sınıf-düzeyi × çatallar | ikisi birden | ≈10⁻¹² |
 | Gevşek profil | kırmızı takımın S1–S8 profili × terazi, mercek metnin çapasında (74:30, 89:3); katı profil 6,7×10⁻⁹, çatallı 1,8×10⁻⁷'ye kadar | ≈10⁻¹² – 10⁻¹⁰ |
 | Serbest mercek | çapa reddedilirse (×~400 mercek seçeneği; doğrusal-olmayan biçimlerle ~×2,6 daha, `kesif24`) | ≈10⁻⁸ – 3×10⁻⁸ |
