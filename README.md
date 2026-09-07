@@ -27,7 +27,7 @@ The summit **pair** (parity balance ∧ full crystal) was **directly observed 5 
 
 | Rung | Assumption | Value |
 |---|---|---|
-| Event frequency | the stated exact event, fixed lens | **1.7×10⁻¹⁵** |
+| Event frequency | the stated exact event, fixed lens | **1.7×10⁻¹⁵** — *PROVISIONAL: a weighting error in `kesif18` was found by the fourth review (note 15); corrected run in progress* |
 | Class-level core | crystal predicates at class level (band width fixed / band free), `kesif21` | ≈1×10⁻¹⁴ / ≈5×10⁻¹⁴ |
 | Fork-priced core | exact core × composite fork cost (×6.5–27, red team round 2; the ×120 layer product was an over-estimate) | ≈1×10⁻¹⁴ – 5×10⁻¹⁴ |
 | Class-level × forks | both of the above | ≈10⁻¹² |
@@ -117,7 +117,7 @@ Zirvedeki **ikili** olay (parite terazisi ∧ tam kristal) **24 trilyon denemede
 
 | Basamak | Varsayım | Değer |
 |---|---|---|
-| Olay frekansı | beyan edilen tam olay, sabit mercek | **1,7×10⁻¹⁵** |
+| Olay frekansı | beyan edilen tam olay, sabit mercek | **1,7×10⁻¹⁵** — *GEÇİCİ: dördüncü denetim `kesif18`'de bir ağırlık hatası buldu (not 15); düzeltilmiş koşu sürüyor* |
 | Sınıf-düzeyi çekirdek | kristal yüklemleri sınıf düzeyinde (bant genişliği sabit / bant serbest), `kesif21` | ≈1×10⁻¹⁴ / ≈5×10⁻¹⁴ |
 | Çatal-fiyatlı çekirdek | tam çekirdek × bileşik çatal bedeli (×6,5–27, kırmızı takım 2. tur; ×120 katman-çarpımı aşırıydı) | ≈1×10⁻¹⁴ – 5×10⁻¹⁴ |
 | Sınıf-düzeyi × çatallar | ikisi birden | ≈10⁻¹² |
