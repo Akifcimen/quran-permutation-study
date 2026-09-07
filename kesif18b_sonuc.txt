@@ -1,0 +1,32 @@
+atama 50/1200 | kabul 370,273 | A 130 W 1357 A∧W 1
+atama 100/1200 | kabul 746,806 | A 247 W 2897 A∧W 1
+atama 150/1200 | kabul 1,119,895 | A 382 W 4341 A∧W 1
+atama 200/1200 | kabul 1,501,354 | A 517 W 6113 A∧W 3
+atama 250/1200 | kabul 1,880,582 | A 644 W 7959 A∧W 6
+atama 300/1200 | kabul 2,257,410 | A 776 W 9557 A∧W 6
+atama 350/1200 | kabul 2,638,581 | A 904 W 11370 A∧W 9
+atama 400/1200 | kabul 3,021,953 | A 1044 W 12794 A∧W 11
+atama 450/1200 | kabul 3,393,689 | A 1166 W 14397 A∧W 11
+atama 500/1200 | kabul 3,771,786 | A 1290 W 16201 A∧W 11
+atama 550/1200 | kabul 4,149,790 | A 1408 W 17731 A∧W 11
+atama 600/1200 | kabul 4,529,054 | A 1531 W 19214 A∧W 12
+atama 650/1200 | kabul 4,908,587 | A 1660 W 21214 A∧W 12
+atama 700/1200 | kabul 5,281,525 | A 1803 W 22763 A∧W 13
+atama 750/1200 | kabul 5,663,568 | A 1932 W 24804 A∧W 15
+atama 800/1200 | kabul 6,036,953 | A 2037 W 26538 A∧W 15
+atama 850/1200 | kabul 6,415,592 | A 2168 W 28287 A∧W 16
+atama 900/1200 | kabul 6,792,190 | A 2285 W 30109 A∧W 16
+atama 950/1200 | kabul 7,170,240 | A 2412 W 31504 A∧W 17
+atama 1000/1200 | kabul 7,550,384 | A 2553 W 33072 A∧W 17
+atama 1050/1200 | kabul 7,920,631 | A 2664 W 34641 A∧W 17
+atama 1100/1200 | kabul 8,299,220 | A 2814 W 36060 A∧W 17
+atama 1150/1200 | kabul 8,678,815 | A 2951 W 37891 A∧W 18
+atama 1200/1200 | kabul 9,056,383 | A 3073 W 39745 A∧W 19
+
+=== ÇAPA: P(G) SIS = 1.171e-09 vs GPU 7.14e-10 → oran 1.64 | Z=1.000 | ESS=6/1200
+=== toplam kabul (G-örneği) = 9,056,383 | isabet A=3073 W=39745 A∧W=19
+=== P(A|G): ağırlıklı 3.331e-04 | havuz 3.393e-04
+=== P(W|G): ağırlıklı 2.279e-03 | havuz 4.389e-03   (GPU çapası 62/17204 = 3.60e-3)
+=== P(A∧W|G): ağırlıklı 5.467e-07 | havuz 2.098e-06  | bootstrap %95 GA [1.58e-07, 1.44e-06]
+=== κ = P(A∧W|G)/[P(A|G)·P(W|G)] = 0.72
+=== P(A∧G∧W) = 7.14e-10 × P(A∧W|G) = 3.90e-16   GA [1.1e-16, 1.0e-15]   (kesif18 eski: 1.74e-15 [1.1, 2.6])
