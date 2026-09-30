@@ -1,0 +1,6 @@
+'Allah' gecen ayetlerin numara toplami (ayet basina bir kez): 118252; 9:129 cikinca 118123 = 19 x 6217
+son iki ayeti silinince 'Allah' sayisini 2698'e indiren sureler: 17 -> [6, 9, 10, 11, 23, 26, 27, 37, 45, 53, 66, 74, 81, 82, 95, 98, 110]
+  bunlardan madde 2'yi de tutturanlar: [9]
+son iki ayetinde 'la ilahe illa hu' bir kez gecen sureler: [9, 28, 59]
+[tam bicim] Tevbe duzeltir: [('العرش', 20, 19)] | bozar: [('أنفسكم', 38, 37), ('وهو', 171, 170)]
+[kaba govde] Tevbe duzeltir: [('له', 2813, 2812), ('إلا', 666, 665)] | bozar: [('عليه', 152, 150), ('رحيم', 95, 94), ('وهو', 171, 170)]

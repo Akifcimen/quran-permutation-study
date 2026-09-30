@@ -1,0 +1,3 @@
+capasiz ilk aile | duzeltme: Tevbe 22 | sira 8-10/114 | medyan 15.5 | en cok 27
+capasiz ilk aile | net: Tevbe 9 | sira 18-26/114 | medyan 5.0 | en cok 17
+ilk 5 (duzeltme): [(11, 27, 10, 17), (91, 26, 11, 15), (13, 24, 9, 15), (19, 23, 10, 13), (42, 23, 11, 12)]

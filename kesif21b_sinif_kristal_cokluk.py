@@ -114,11 +114,11 @@ pG0 = [r[1] for r in results if r[0] == REAL][0]
 PGstar = sum(r[1] for r in results)
 wsig = np.array([r[1] for r in results]) / PGstar
 pA_star = float(np.sum(wsig * np.array([r[2] for r in results]))); pW_star = float(np.sum(wsig * np.array([r[3] for r in results])))
-kappa = 1.6
+kappa = 1.14   # kesif18c (20 Eki 2026 düzeltmesi; 8. denetim): bu satır 1.6 idi (geri çekilen kesif18'den) ve kesif21b_sonuc.txt o sürümün çıktısıdır
 print(f"\n=== ÇAPA: P(G_σ₀) SIS = {pG0:.3e}  vs GPU 7.14e-10 → oran {pG0/PG_GPU:.2f}")
 print(f"=== P(G*) = Σ_σ P(G_σ) = {PGstar:.3e}   (P(G*)/P(G_σ₀) = {PGstar/pG0:.1f}; en ağır 3 yapı: " +
       ", ".join(f"{r[0][0]}{r[0][1]}|{r[0][2][0]}{r[0][2][1]}={r[1]/PGstar:.0%}" for r in sorted(results, key=lambda r: -r[1])[:3]) + ")")
 print(f"=== P(A|G*) = {pA_star:.3e}  P(W|G*) = {pW_star:.3e}  (σ₀: P(A|G)=3.39e-4, P(W|G)=4.47e-3 kesif18)")
 core_star = PGstar * pA_star * pW_star * kappa
-print(f"=== ÇEKİRDEK* = P(G*)·P(A|G*)·P(W|G*)·κ(1.6) = {core_star:.2e}   [GPU-çapalı: {PGstar/pG0*PG_GPU*pA_star*pW_star*kappa:.2e}]")
+print(f"=== ÇEKİRDEK* = P(G*)·P(A|G*)·P(W|G*)·κ({kappa}) = {core_star:.2e}   [GPU-çapalı: {PGstar/pG0*PG_GPU*pA_star*pW_star*kappa:.2e}]")
 print(f"    toplam doğrudan A∧W isabeti (tüm yapılar): {sum(r[5] for r in results)} / {sum(r[6] for r in results):,} G*-örneği")

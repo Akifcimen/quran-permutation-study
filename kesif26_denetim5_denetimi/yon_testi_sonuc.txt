@@ -1,0 +1,9 @@
+örnek sayısı: 2,000,000 (her yön için)
+yön               t std 95–171 payı   A terazi     B aile C iç terazi
+uzundan kısaya     35.4        0.65   4.58e-04   5.66e-04    5.95e-05
+kısadan uzuna      80.7        0.27   2.53e-04   2.38e-04    1.50e-05
+tekdüze (ref.)     62.4        0.43   3.19e-04   3.21e-04    1.64e-05
+
+gerçek kitap: t std 35.6, 95–171 payı 0.72
+nüzul sırası: konum–ayet Kendall τ = +0.14 (pozitif = kısadan uzuna) | t std 67.4, 95–171 payı 0.49
+mushaf sırası: konum–ayet Kendall τ = -0.68

@@ -1,0 +1,6 @@
+S_obs=209011  S_min(tam azalan)=183540
+adım  30000: S ortalaması 208449 (S_obs'un %99.73'i), S std 565 | t std 35.4 | t∈[95,171] oranı 0.648 | ort. 19-aile boyu 6.15
+adım  60000: S ortalaması 208480 (S_obs'un %99.75'i), S std 520 | t std 35.4 | t∈[95,171] oranı 0.645 | ort. 19-aile boyu 6.29
+adım 120000: S ortalaması 208461 (S_obs'un %99.74'i), S std 542 | t std 35.4 | t∈[95,171] oranı 0.647 | ort. 19-aile boyu 6.25
+adım 240000: S ortalaması 208464 (S_obs'un %99.74'i), S std 532 | t std 35.4 | t∈[95,171] oranı 0.647 | ort. 19-aile boyu 6.22
+gerçek kitap: t std 35.6 | t∈[95,171] oranı 0.719 | 19-aile boyu 12

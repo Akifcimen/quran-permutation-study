@@ -1,0 +1,3 @@
+Tekdüze: P(G∧W) = 2.75e-12   (karşılaştırma: terazi dahil çekirdek 9.8e-16 ≈ deponun 1,1e-15'i)
+Sıralı M10 (17 isabet/2e8): P(G∧W) ≈ 3.3e-10  (P(W|G) tekdüzedekiyle aynı varsayıldı; sıralı sıfırda P(W) yalnız ×1,2)
+Sıralı C20 (25 isabet/4e8): P(G∧W) ≈ 2.4e-10  (P(W|G) tekdüzedekiyle aynı varsayıldı; sıralı sıfırda P(W) yalnız ×1,2)

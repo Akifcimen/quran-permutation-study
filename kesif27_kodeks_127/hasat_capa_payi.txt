@@ -1,0 +1,3 @@
+Tevbe duzeltmeleri 31: capali alt kumelerden 9, geri kalan 22
+Tevbe bozmalari 20: capali alt kumelerden 7, geri kalan 13
+capali duzeltmeler: [('rakam(n)+rakam(a)=19', 'bitisik(1..a)'), ('rakam(n)+rakam(a)=19', 'Σ(n+a)'), ('sure 1-27', '"1" sayisi(ayetno)'), ('sure 1-27', 'kumulatif+besmele'), ('sure 9-114', 'bitisik(n 1..a)'), ('sure 9-27', '"2" sayisi(ayetno)'), ('sure 9-27', 'Σa+besmele'), ('sure 9-27', 'Σrakam(ayetno)'), ('sure 9-27', 'Σson rakam(a)')]

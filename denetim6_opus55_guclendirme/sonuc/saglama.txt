@@ -1,0 +1,10 @@
+T_J10_iddia_nomx   S1(kayıtlı dizi)=True  S2(yama=orijinal)=True  S3(sabit sütun aynı, en-iyi≤tam)=True  S4(Kur'an T2 12.50→12.50)=True  | 8000 kitap; m=19 kısıtıyla en-iyi T2 düşen kitap: 7630
+T_U_iddia_nomx     S1(kayıtlı dizi)=True  S2(yama=orijinal)=True  S3(sabit sütun aynı, en-iyi≤tam)=True  S4(Kur'an T2 15.03→15.03)=True  | 8000 kitap; m=19 kısıtıyla en-iyi T2 düşen kitap: 7650
+D_J10_iddia_nomx   S1(kayıtlı dizi)=True  S2(yama=orijinal)=True  S3(sabit sütun aynı, en-iyi≤tam)=True  S4(Kur'an T2 12.50→12.50)=True  | 8000 kitap; m=19 kısıtıyla en-iyi T2 düşen kitap: 7620
+J10_iddia_mt       S1(kayıtlı dizi)=True  S2(yama=orijinal)=True  S3(sabit sütun aynı, en-iyi≤tam)=True  S4(Kur'an T2 12.03→12.03)=True  | 7000 kitap; m=19 kısıtıyla en-iyi T2 düşen kitap: 6684
+TÜM SAĞLAMALAR: GEÇTİ
+
+NOT (ön-kayıttan sapma, teknik): ön-kayıt S1'de J10_iddia_mt için "6 iş parçacığı" yazılmıştı; bu benim tahminimdi.
+Kayıtlı dizinin iş parçacığı sınırı 285.714'te (thread-1'in ilk kitabı orada bulundu) → denetçi bu koşuyu 7 iş parçacığıyla
+yapmış (2.000.000/7 = 285.714; 7×285.714 = 1.999.998 = dosyadaki kitap sayısı). Raporundaki komut satırı "8" diyor —
+zararsız bir belgeleme farkı. Tohum 90 doğrulandı. Sağlama 7 ile tekrarlandı (yukarıdaki satırlar).

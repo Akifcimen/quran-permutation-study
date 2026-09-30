@@ -1,0 +1,8 @@
+[U iddia-bataryası] sabit mercekte T2 ≥ Kur'an olan sıfır kitabı: 9 / 40000000
+[U tam-batarya]     sabit mercekte T2 ≥ Kur'an olan sıfır kitabı: 0 / 40000000
+[J10 iddia-bataryası] sabit mercekte T2 ≥ Kur'an olan sıfır kitabı: 244 / 40000000
+[J10 tam-batarya]     sabit mercekte T2 ≥ Kur'an olan sıfır kitabı: 0 / 40000000
+[M20 iddia-bataryası] sabit mercekte T2 ≥ Kur'an olan sıfır kitabı: 206 / 40000000
+[M20 tam-batarya]     sabit mercekte T2 ≥ Kur'an olan sıfır kitabı: 1 / 40000000
+
+[exited with code 0]

@@ -1,0 +1,2 @@
+Tevbe=127 (kaynak dokümanın kabulü): 25 bölümleme tarandı → mertebe 360 verenler: ['t çift/tek', 't≡0 (mod 19)', 't≡4 (mod 19)']
+Tevbe=129 (standart Kûfe): 25 bölümleme tarandı → mertebe 360 verenler: ['t≡3 (mod 19)', 't≡7 (mod 19)', 't≡9 (mod 19)']

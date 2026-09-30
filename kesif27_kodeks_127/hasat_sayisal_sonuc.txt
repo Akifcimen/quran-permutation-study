@@ -1,0 +1,24 @@
+sablon sayisi (standart metinde tanimli): 1762  | alt kume 65, nicelik 28
+standart metin (Tevbe 129): 19-isabeti 82, 361-isabeti 3
+
+'Son iki ayeti sil' ligi, 114 sure (Tevbe = 9:128-129):
+  duzelttigi (19)           : Tevbe 31 | sira 1-2/114 | lig medyani 17.0 | en az 7 | en cok 31
+  net = duzeltme - bozma    : Tevbe 11 | sira 7-12/114 | lig medyani 3.0 | en az -7 | en cok 18
+  duzelttigi (19x19=361)    : Tevbe 2 | sira 7-21/114 | lig medyani 1.0 | en az 0 | en cok 3
+  en cok duzelten 8 sure (sure, duzeltme, bozma, net): [(9, 31, 20, 11), (11, 31, 13, 18), (13, 27, 14, 13), (19, 26, 13, 13), (68, 26, 15, 11), (91, 26, 14, 12), (52, 25, 13, 12), (42, 24, 13, 11)]
+
+  Tevbe'nin 'duzelttigi' 31 sablondan ornekler:
+     ('a asal', '"9" sayisi(ayetno)')
+     ('a asal', 'bitisik(n 1..a)')
+     ('a son rakam 7', 'bitisik(n 1..a)')
+     ('a son rakam 7', 'Σ(n+a)')
+     ('a son rakam 9', '"5" sayisi(ayetno)')
+     ('a son rakam 9', 'kumulatif')
+     ('a son rakam 9', 'Σa')
+     ('a tek', '"9" sayisi(ayetno)')
+     ('a uc basamak', '"2" sayisi(ayetno)')
+     ('a uc basamak', 'Σson rakam(a)')
+     ('harfsiz', '"1" sayisi(ayetno)')
+     ('harfsiz', 'bitisik(1..a)')
+
+kontrol: 127 ile Σa+besmele = 6346 = 19x334; kumulatif+besmele = 346311 = 361x959.31

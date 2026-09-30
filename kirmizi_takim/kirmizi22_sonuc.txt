@@ -1,0 +1,26 @@
+gerçek kitap puanları (katı, asgarî, geniş): 8 8 8
+  20,000,000 perm, tutulan 692,141 | 8/8 katı_t=0 asgarî_2el=1 geniş_2el=4 [42s]
+  40,000,000 perm, tutulan 1,384,784 | 8/8 katı_t=0 asgarî_2el=4 geniş_2el=9 [82s]
+  60,000,000 perm, tutulan 2,076,477 | 8/8 katı_t=1 asgarî_2el=5 geniş_2el=11 [121s]
+  80,000,000 perm, tutulan 2,767,033 | 8/8 katı_t=1 asgarî_2el=5 geniş_2el=14 [161s]
+  100,000,000 perm, tutulan 3,457,965 | 8/8 katı_t=1 asgarî_2el=6 geniş_2el=18 [200s]
+  120,000,000 perm, tutulan 4,149,170 | 8/8 katı_t=1 asgarî_2el=8 geniş_2el=24 [241s]
+  140,000,000 perm, tutulan 4,838,914 | 8/8 katı_t=1 asgarî_2el=8 geniş_2el=25 [284s]
+  160,000,000 perm, tutulan 5,529,495 | 8/8 katı_t=1 asgarî_2el=8 geniş_2el=26 [328s]
+  180,000,000 perm, tutulan 6,219,901 | 8/8 katı_t=1 asgarî_2el=10 geniş_2el=30 [366s]
+  200,000,000 perm, tutulan 6,911,497 | 8/8 katı_t=2 asgarî_2el=14 geniş_2el=35 [405s]
+  220,000,000 perm, tutulan 7,601,151 | 8/8 katı_t=2 asgarî_2el=15 geniş_2el=41 [441s]
+  240,000,000 perm, tutulan 8,292,806 | 8/8 katı_t=2 asgarî_2el=17 geniş_2el=45 [479s]
+  260,000,000 perm, tutulan 8,984,327 | 8/8 katı_t=2 asgarî_2el=20 geniş_2el=49 [517s]
+  280,000,000 perm, tutulan 9,674,205 | 8/8 katı_t=2 asgarî_2el=20 geniş_2el=49 [556s]
+  300,000,000 perm, tutulan 10,366,491 | 8/8 katı_t=2 asgarî_2el=23 geniş_2el=53 [595s]
+
+=== SABİT MERCEK (1,1,19), 300,000,000 permütasyon; koşul (k_t≥12 ∨ k_u≥12): P = 3.4555e-02, 10,366,491 satır ===
+puanlama            7/8      8/8    P(8/8) koşulsuz                 %95 aralık
+katı_t               64        2           6.67e-09   [6.3e-10, 1.9e-08]
+asgarî_t            278       13           4.33e-08   [2.3e-08, 7.0e-08]
+geniş_t             774       25           8.33e-08   [5.4e-08, 1.2e-07]
+katı_2el            179        4           1.33e-08   [3.5e-09, 3.0e-08]
+asgarî_2el          692       23           7.67e-08   [4.9e-08, 1.1e-07]
+geniş_2el         3,610       53           1.77e-07   [1.3e-07, 2.3e-07]
+Gerçek kitap: katı 8/8, asgarî 8/8, geniş 8/8 (t-eli, (1,1,19)).

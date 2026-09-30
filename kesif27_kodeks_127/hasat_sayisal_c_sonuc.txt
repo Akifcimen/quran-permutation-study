@@ -1,0 +1,13 @@
+simetrik aile: 7907 sablon; standart metinde 19-isabeti 395
+  duzeltme                : Tevbe 123 | sira 10-16/114 | medyan 112.0 | en cok 133
+  net                     : Tevbe -2 | sira 50-53/114 | medyan -4.5 | en cok 20
+  sansin ustundeki fazla  : Tevbe -0.3 | sira 33-33/114 | medyan -6.05 | en cok 10.6
+  net'e gore ilk 8 (sure, dokunulan, duzeltme, bozma, net, fazla):
+     (71, 1950, 113, 93, 20, 9.8)
+     (81, 2198, 121, 103, 18, 4.6)
+     (110, 2162, 121, 105, 16, 7.8)
+     (66, 2174, 123, 108, 15, 9.7)
+     (68, 2293, 128, 115, 13, 7.0)
+     (69, 2253, 123, 110, 13, 3.9)
+     (102, 2162, 113, 101, 12, -1.5)
+     (43, 2186, 121, 110, 11, 5.7)

@@ -1,0 +1,18 @@
+koşulsuz (10M): {'A': '3.19e-04', 'B': '3.21e-04', 'C': '1.64e-05', 'D': '2.00e-07', 'E': '5.00e-07', 'G': '0.00e+00', 'W': '5.59e-05'}
+  koşullu örnek 8,020,000: A=3800 B=4337 C=393 D=8 E=63 G=0 W=503
+  koşullu örnek 16,020,000: A=7546 B=8773 C=802 D=16 E=123 G=0 W=1021
+  koşullu örnek 24,020,000: A=11292 B=13217 C=1227 D=21 E=200 G=1 W=1534
+  koşullu örnek 32,020,000: A=14961 B=17621 C=1648 D=25 E=276 G=1 W=2075
+
+koşullu S≤S_obs (40,000,000 örnek):
+  A: 4.67e-04 (18666 isabet) | koşulsuz 3.19e-04 | oran ×1.5
+  B: 5.49e-04 (21957 isabet) | koşulsuz 3.21e-04 | oran ×1.7
+  C: 5.16e-05 (2065 isabet) | koşulsuz 1.64e-05 | oran ×3.1
+  D: 7.25e-07 (29 isabet) | koşulsuz 2.00e-07 | oran ×3.6
+  E: 8.65e-06 (346 isabet) | koşulsuz 5.00e-07 | oran ×17.3
+  G: 2.50e-08 (1 isabet) | koşulsuz 0.00e+00 | oran ×nan
+  W: 6.49e-05 (2597 isabet) | koşulsuz 5.59e-05 | oran ×1.2
+# Yorum: beşinci denetimin (28 Eyl 2026) ana bulgusu bağımsız MCMC'yle (kesif16 sıfırı, 20k zincir, 40M örnek)
+# doğrulandı. A/B/W ×1,2–1,7 (kesif16 ile aynı); C ×3, D ×3,6–5 (motor tabanı 1,39e-7'ye göre ×5,2),
+# E (gevşek tanım) ×17, G 1 isabet/40M = 2,5e-8 → ×~35 [1–200] — denetçinin 200–400M'lik ×88–119'uyla uyumlu.
+# Sonuç: kesif16'nın "katmanlar kalıntı aritmetiğinde yaşar" genellemesi kristal için YANLIŞTI.

@@ -1,0 +1,27 @@
+sure, dokunulan sablon, duzeltme, sansa gore beklenen, fazla, bozma
+   (9, 388, 31, 20.4, 10.6, 20)
+   (101, 361, 11, 19.3, -8.3, 13)
+   (26, 354, 14, 18.6, -4.6, 19)
+   (13, 345, 27, 18.4, 8.6, 14)
+   (100, 345, 18, 18.6, -0.6, 11)
+   (63, 344, 11, 18.4, -7.4, 12)
+   (62, 343, 15, 18.4, -3.4, 12)
+   (17, 342, 11, 18.0, -7.0, 18)
+   (84, 339, 14, 18.1, -4.1, 14)
+   (93, 338, 11, 18.1, -7.1, 12)
+
+Tevbe: dokunulan 388 (lig medyani 302.0), duzeltme 31, beklenen 20.4, fazla 10.6
+'fazla' siralamasi: Tevbe 2/114 | lig medyani 1.8 | en cok 15.1
+dokunulan ile duzeltme arasindaki korelasyon: 0.09
+
+Tevbe'yi 127 yapinca bozulan 20 sablon (129'da 19'a bolunen) ornekleri:
+     ('a son rakam 7', 'Σrakam(a)')
+     ('a son rakam 9', 'Σrakam(a)')
+     ('a tek', 'Σa+besmele')
+     ('a uc basamak', 'kumulatif')
+     ('harfsiz', 'kumulatif+besmele')
+     ('hepsi', 'bitisik(1..a)')
+     ('n son rakam 9', 'basamak(ayetno)')
+     ('n tek', 'Σrakam(ayetno)')
+     ('n tek a tek', 'basamak(ayetno)')
+     ('rakam(a)=10', '"3" sayisi(ayetno)')

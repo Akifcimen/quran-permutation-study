@@ -1,0 +1,57 @@
+Gerçek kitabın sağladığı yüklemler: ['P01 k_e=6', 'P02 Σc_e=Σc_o', 'P03 m|Σc', 'P04 Σt kare', 'P10 m|iki yarı', 'P13 m|bir yarı', 'P15 bant', 'P16 bant≤5 geniş', 'P17 bir katsayı ≥5 kez', 'P18 bir katsayı ≥4 kez', 'Q01 3/3/3/3', 'Q02 çift-eşit sayı', 'Q03 aynı-taraf hücreler eşit', 'Q04 parite-izinli en dengeli (max−min≤2)', 'Q05 m-etrafında simetrik (çiftler 2m)', 'Q07 iki toplam eşit', 'Q10 simetrik', 'Q11 bir hücre m', 'Q13 çift-taraf çarpımı m²−1', 'Q14 sayılar ±1', 'Q15 üç eşit katsayı']
+148,000,000 permütasyon → 1,500,000 k=12 örneği [199s]
+
+Tekil yüklem oranları (k=12 koşullu):
+  P01 k_e=6                2.262e-01  ← gerçek sağlıyor
+  P02 Σc_e=Σc_o            1.794e-02  ← gerçek sağlıyor
+  P03 m|Σc                 5.214e-02  ← gerçek sağlıyor
+  P04 Σt kare              3.102e-02  ← gerçek sağlıyor
+  P05 114|Σt               1.662e-01
+  P06 Δ=m                  2.539e-02
+  P07 Δ=2m                 9.126e-03
+  P08 2:1                  2.202e-02
+  P09 tek parite           4.573e-04
+  P10 m|iki yarı           3.185e-03  ← gerçek sağlıyor
+  P11 Σc kare              6.015e-02
+  P12 k_e∈{3,9}            1.075e-01
+  P13 m|bir yarı           1.092e-01  ← gerçek sağlıyor
+  P14 Σc=6m                4.200e-05
+  P15 bant                 6.057e-02  ← gerçek sağlıyor
+  P16 bant≤5 geniş         4.961e-03  ← gerçek sağlıyor
+  P17 bir katsayı ≥5 kez   6.111e-02  ← gerçek sağlıyor
+  P18 bir katsayı ≥4 kez   2.820e-01  ← gerçek sağlıyor
+  Q01 3/3/3/3              2.421e-02  ← gerçek sağlıyor
+  Q02 çift-eşit sayı       5.547e-02  ← gerçek sağlıyor
+  Q03 aynı-taraf hücreler eşit 7.485e-02  ← gerçek sağlıyor
+  Q04 parite-izinli en dengeli (max−min≤2) 1.411e-03  ← gerçek sağlıyor
+  Q05 m-etrafında simetrik (çiftler 2m) 1.995e-03  ← gerçek sağlıyor
+  Q06 hepsi m×             8.667e-06
+  Q07 iki toplam eşit      1.658e-01  ← gerçek sağlıyor
+  Q08 köşegen              1.710e-02
+  Q09 AD                   3.842e-03
+  Q10 simetrik             5.002e-02  ← gerçek sağlıyor
+  Q11 bir hücre m          7.534e-02  ← gerçek sağlıyor
+  Q12 bir hücre 2m         3.681e-02
+  Q13 çift-taraf çarpımı m²−1 1.937e-02  ← gerçek sağlıyor
+  Q14 sayılar ±1           2.421e-02  ← gerçek sağlıyor
+  Q15 üç eşit katsayı      4.514e-02  ← gerçek sağlıyor
+
+[L ≤ 1] 33 hikâye [0s]
+   gerçek kitabın en iyi hikâyesi: P = 1.411e-03  ← Q04 parite-izinli en dengeli (max−min≤2)
+   rastgele ailelerin en iyi hikâyesi: %10 = 2.42e-02 | medyan = 1.07e-01 | %90 = 1.00e+00
+   gerçek kitabınki kadar iyi ya da daha iyi hikâyesi olan rastgele aile oranı: 0.192%
+
+[L ≤ 2] 480 hikâye [1s]
+   gerçek kitabın en iyi hikâyesi: P = 1.000e-05  ← P16 bant≤5 geniş ∧ Q04 parite-izinli en dengeli (max−min≤2)
+   rastgele ailelerin en iyi hikâyesi: %10 = 3.35e-03 | medyan = 5.21e-02 | %90 = 1.00e+00
+   gerçek kitabınki kadar iyi ya da daha iyi hikâyesi olan rastgele aile oranı: 0.005%
+
+[L ≤ 3] 3,642 hikâye [12s]
+   gerçek kitabın en iyi hikâyesi: P = 6.667e-06  ← P02 Σc_e=Σc_o ∧ P16 bant≤5 geniş ∧ Q04 parite-izinli en dengeli (max−min≤2)
+   rastgele ailelerin en iyi hikâyesi: %10 = 1.32e-03 | medyan = 5.21e-02 | %90 = 1.00e+00
+   gerçek kitabınki kadar iyi ya da daha iyi hikâyesi olan rastgele aile oranı: 0.037%
+
+[L ≤ 4] 16,683 hikâye [74s]
+   gerçek kitabın en iyi hikâyesi: P = 6.667e-06  ← P02 Σc_e=Σc_o ∧ P16 bant≤5 geniş ∧ Q04 parite-izinli en dengeli (max−min≤2)
+   rastgele ailelerin en iyi hikâyesi: %10 = 1.23e-03 | medyan = 5.21e-02 | %90 = 1.00e+00
+   gerçek kitabınki kadar iyi ya da daha iyi hikâyesi olan rastgele aile oranı: 0.154%

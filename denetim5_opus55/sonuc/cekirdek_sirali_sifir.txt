@@ -1,0 +1,5 @@
+Tekdüze (yazar, 24T GPU + kesif18c)              P(A)=3.14e-04 P(G)=7.14e-10 P(G*)=2.38e-08 → çekirdek≈9.8e-16 (×    1) sınıf-çekirdek≈3.3e-14 (×   1)
+M10 — yazarın kendi kesif16 sıfırı (S≤S_obs)     P(A)=4.62e-04 P(G)=8.50e-08 P(G*)=3.65e-07 → çekirdek≈1.7e-13 (×  160) sınıf-çekirdek≈7.4e-13 (×  17)  [G ~±2√n: 8.9e-14 – 2.6e-13]
+J10 — titreşim σ=10                              P(A)=4.73e-04 P(G)=1.40e-07 P(G*)=3.55e-07 → çekirdek≈2.9e-13 (×  269) sınıf-çekirdek≈7.4e-13 (×  17)  [G ~±2√n: 1.8e-13 – 4.0e-13]
+J20 — titreşim σ=20                              P(A)=4.37e-04 P(G)=1.05e-07 P(G*)=3.80e-07 → çekirdek≈2.0e-13 (×  186) sınıf-çekirdek≈7.3e-13 (×  17)  [G ~±2√n: 1.1e-13 – 2.9e-13]
+B19 — 19'luk blok karıştırma                     P(A)=4.97e-04 P(G)=5.00e-08 P(G*)=1.60e-07 → çekirdek≈1.1e-13 (×  101) sınıf-çekirdek≈3.5e-13 (×   8)  [G ~±2√n: 4.0e-14 – 1.8e-13]

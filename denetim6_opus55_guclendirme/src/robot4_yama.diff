@@ -1,0 +1,19 @@
+53a54,59
+> 
+> static unsigned char LMASK[NLENS];   // GÜÇLENDİRME yaması: izinli mercekler (ROBOT_MODS="19" gibi; yoksa hepsi)
+> static void set_mods(void){ for(int li=0;li<NLENS;li++) LMASK[li]=1; const char *e=getenv("ROBOT_MODS"); if(!e) return;
+>   for(int li=0;li<NLENS;li++) LMASK[li]=0; char buf[512]; strncpy(buf,e,511); buf[511]=0;
+>   for(char *t=strtok(buf,","); t; t=strtok(NULL,",")){ int m=atoi(t); if(m<MMIN||m>MMAX) continue; for(int f=0;f<NFORM;f++) LMASK[f*NMOD+(m-MMIN)]=1; }
+>   int c=0; for(int li=0;li<NLENS;li++) c+=LMASK[li]; fprintf(stderr,"izinli mercek sayısı: %d (ROBOT_MODS=%s)\n",c,e); }
+280c286
+<     for(int li=0; li<NLENS; li++){ fres_t R; facts(Z.a,li,&R); int cF=cb(R.kF), cG=cb(R.kG); T->trF[li][cF]++; T->trG[li][cG]++;
+---
+>     for(int li=0; li<NLENS; li++){ if(!LMASK[li]) continue; fres_t R; facts(Z.a,li,&R); int cF=cb(R.kF), cG=cb(R.kG); T->trF[li][cF]++; T->trG[li][cG]++;
+310c316
+<   for(int li=0;li<NLENS;li++){ sc_t S=score_lens(a,li,NULL);
+---
+>   for(int li=0;li<NLENS;li++){ if(!LMASK[li]) continue; sc_t S=score_lens(a,li,NULL);
+335c341
+<   LI_Q=0*NMOD+(19-MMIN); set_disabled(); if(getenv("ROBOT_MINTR")) MINTR=atol(getenv("ROBOT_MINTR"));
+---
+>   LI_Q=0*NMOD+(19-MMIN); set_disabled(); if(getenv("ROBOT_MINTR")) MINTR=atol(getenv("ROBOT_MINTR")); set_mods();

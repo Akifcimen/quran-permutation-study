@@ -36,3 +36,5 @@ G* yapı sayısı: 31
 === P(A|G*) = 3.515e-04  P(W|G*) = 3.905e-03  (σ₀: P(A|G)=3.39e-4, P(W|G)=4.47e-3 kesif18)
 === ÇEKİRDEK* = P(G*)·P(A|G*)·P(W|G*)·κ(1.6) = 5.22e-14   [GPU-çapalı: 5.28e-14]
     toplam doğrudan A∧W isabeti (tüm yapılar): 5 / 5,370,828 G*-örneği
+# Not (20 Ekim 2026, 8. denetim): bu çıktı κ = 1.6 ile üretildi (kod o zaman geri çekilen kesif18'in değerini taşıyordu).
+# κ = 1.14 (kesif18c) ile ÇEKİRDEK* = 5.22e-14 × 1.14/1.6 = 3.7e-14 — metindeki ~4e-14. Bağımsız doğrudan ortak ölçüm (dış inceleme, 40M öneri): 3.24e-14 [2.08–4.41].

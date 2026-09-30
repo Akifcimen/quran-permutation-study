@@ -1,0 +1,6 @@
+                                   gerçek kitap  sıralı sıfır   tekdüze
+sıralılık S (küçük = daha sıralı)       209,011       208,622   358,483
+S, gerçek kitaba göre %1 içinde                          98%          
+sıranın bozulduğu komşu çift / 113           45            54       ~56
+t yayılımı, std                            35.6          35.4      62,4
+t değerlerinin 95–171 payı                  72%           65%       %43

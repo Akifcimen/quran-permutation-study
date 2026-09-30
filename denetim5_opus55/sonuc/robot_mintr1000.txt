@@ -1,0 +1,30 @@
+=== sıfır=U_iddia_mt  N=1,999,998
+  T1 (düğüm toplamı): Kur'an serbest=14.06  p_serbest=1.55e-05 (30 kitap ≥)  |  sabit(1,1,19)=14.06 p_sabit=5.00e-07 (0 ≥)
+  T2 (en iyi 8 düğüm): Kur'an serbest=14.06  p_serbest=1.00e-05 (19 kitap ≥)  |  sabit(1,1,19)=14.06 p_sabit=5.00e-07 (0 ≥)
+  T3 (çatal cezalı): Kur'an serbest=9.01  p_serbest=1.70e-05 (33 kitap ≥)  |  sabit(1,1,19)=9.01 p_sabit=5.00e-07 (0 ≥)
+  T2'de en yüksek 5 sıfır kitabı: [(15.32, '(2,3,13)'), (14.97, '(2,1,15)'), (14.96, '(1,3,35)'), (14.92, '(3,1,19)'), (14.84, '(2,1,35)')]
+=== sıfır=J10_iddia_mt  N=1,999,998
+  T1 (düğüm toplamı): Kur'an serbest=12.03  p_serbest=3.22e-04 (642 kitap ≥)  |  sabit(1,1,19)=12.03 p_sabit=6.50e-06 (12 ≥)
+  T2 (en iyi 8 düğüm): Kur'an serbest=12.03  p_serbest=2.71e-04 (540 kitap ≥)  |  sabit(1,1,19)=12.03 p_sabit=6.50e-06 (12 ≥)
+  T3 (çatal cezalı): Kur'an serbest=7.04  p_serbest=7.02e-04 (1402 kitap ≥)  |  sabit(1,1,19)=7.04 p_sabit=8.50e-06 (16 ≥)
+  T2'de en yüksek 5 sıfır kitabı: [(15.5, '(1,3,19)'), (15.27, '(2,1,33)'), (14.86, '(2,1,21)'), (14.77, '(3,2,37)'), (14.69, '(1,1,17)')]
+=== sıfır=M20_iddia_mt  N=1,999,998
+  T1 (düğüm toplamı): Kur'an serbest=12.08  p_serbest=2.92e-04 (583 kitap ≥)  |  sabit(1,1,19)=12.08 p_sabit=8.50e-06 (16 ≥)
+  T2 (en iyi 8 düğüm): Kur'an serbest=12.08  p_serbest=2.42e-04 (483 kitap ≥)  |  sabit(1,1,19)=12.08 p_sabit=6.00e-06 (11 ≥)
+  T3 (çatal cezalı): Kur'an serbest=7.03  p_serbest=6.78e-04 (1354 kitap ≥)  |  sabit(1,1,19)=7.03 p_sabit=8.50e-06 (16 ≥)
+  T2'de en yüksek 5 sıfır kitabı: [(15.15, '(2,3,7)'), (15.03, '(3,1,18)'), (14.88, '(3,1,12)'), (14.82, '(2,1,15)'), (14.63, '(2,3,14)')]
+=== sıfır=U_tam_mt  N=1,999,998
+  T1 (düğüm toplamı): Kur'an serbest=17.34  p_serbest=1.00e-06 (1 kitap ≥)  |  sabit(1,1,19)=17.34 p_sabit=5.00e-07 (0 ≥)
+  T2 (en iyi 8 düğüm): Kur'an serbest=16.44  p_serbest=5.00e-07 (0 kitap ≥)  |  sabit(1,1,19)=16.44 p_sabit=5.00e-07 (0 ≥)
+  T3 (çatal cezalı): Kur'an serbest=11.51  p_serbest=5.00e-07 (0 kitap ≥)  |  sabit(1,1,19)=11.51 p_sabit=5.00e-07 (0 ≥)
+  T2'de en yüksek 5 sıfır kitabı: [(15.74, '(3,1,19)'), (15.34, '(1,3,14)'), (15.32, '(2,3,13)'), (15.11, '(2,1,35)'), (14.97, '(2,1,15)')]
+=== sıfır=J10_tam_mt  N=1,999,998
+  T1 (düğüm toplamı): Kur'an serbest=15.46  p_serbest=2.00e-06 (3 kitap ≥)  |  sabit(1,1,19)=15.46 p_sabit=5.00e-07 (0 ≥)
+  T2 (en iyi 8 düğüm): Kur'an serbest=15.04  p_serbest=2.00e-06 (3 kitap ≥)  |  sabit(1,1,19)=15.04 p_sabit=5.00e-07 (0 ≥)
+  T3 (çatal cezalı): Kur'an serbest=9.69  p_serbest=8.00e-06 (15 kitap ≥)  |  sabit(1,1,19)=9.69 p_sabit=5.00e-07 (0 ≥)
+  T2'de en yüksek 5 sıfır kitabı: [(15.5, '(1,3,19)'), (15.27, '(2,1,33)'), (15.19, '(3,2,37)'), (14.95, '(1,3,7)'), (14.86, '(2,1,21)')]
+=== sıfır=M20_tam_mt  N=1,999,998
+  T1 (düğüm toplamı): Kur'an serbest=15.49  p_serbest=1.50e-06 (2 kitap ≥)  |  sabit(1,1,19)=15.49 p_sabit=5.00e-07 (0 ≥)
+  T2 (en iyi 8 düğüm): Kur'an serbest=15.00  p_serbest=2.00e-06 (3 kitap ≥)  |  sabit(1,1,19)=15.00 p_sabit=5.00e-07 (0 ≥)
+  T3 (çatal cezalı): Kur'an serbest=9.66  p_serbest=4.50e-06 (8 kitap ≥)  |  sabit(1,1,19)=9.66 p_sabit=5.00e-07 (0 ≥)
+  T2'de en yüksek 5 sıfır kitabı: [(15.6, '(3,1,35)'), (15.15, '(2,3,7)'), (15.03, '(3,1,18)'), (14.88, '(3,1,12)'), (14.82, '(2,1,15)')]

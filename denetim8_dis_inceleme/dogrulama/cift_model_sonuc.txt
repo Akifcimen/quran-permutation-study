@@ -1,0 +1,2 @@
+127 T-bits 15 U-only bits 7 neutral 35 G∧W configs 1 A-successes(labeled,neutral) 8846988 P= 2211747/36028797018963968 6.13883111011404e-11
+129 T-bits 15 U-only bits 7 neutral 35 G∧W configs 1 A-successes(labeled,neutral) 8981632 P= 70169/1125899906842624 6.232259153193809e-11

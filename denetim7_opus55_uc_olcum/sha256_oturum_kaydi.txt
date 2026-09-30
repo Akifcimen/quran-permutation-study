@@ -1,0 +1,18 @@
+# Oturumun kendi kaydettiği SHA-256 listesi (sonuc/sha256_ciktilar.txt; 2026-10-10T18:46:22Z), oturum dökümünden aynen.
+# Bu kopyadaki GUNCELLEME_RAPORU.md ve ONKAYIT.md'de mutlak yollar genelleştirildi (<hrf2>, <oturumlar>); yol geri konunca
+# özetler aşağıdakilerle eşleşir. ONKAYIT_EK1.md ve ONKAYIT_EK2.md hiç değişmedi, özetleri doğrudan doğrulanır.
+# Listedeki sonuc/ dosyaları bu kopyada yoktur (bkz. BENIOKU.md).
+cefaf7682fb3395703433a0d8afe93bc1ab8e2f2be11949fe4837b5192df70b1  GUNCELLEME_RAPORU.md
+5081bacdfad52441e2d3e6b8c8e17f14c2408e97fc7d4d82aae6c3539462c48a  ONKAYIT.md
+b64215f13cb31123db4b7c88476b2f3209c949f2c77fcb7330014ff56b215264  ONKAYIT_EK1.md
+b77665c97311d20c2176794ed690544003583069c25e9275a6b38aa7166fd5b2  ONKAYIT_EK2.md
+50787137bbaa93b6809d41f437c99042534ac013380b35dfb55c152b1e1e9f61  sonuc/olcum2_son.txt
+656c70d51600c664b5c120aae85b15aac843691181171d14a1d15108f5b4e233  sonuc/say_E1_J10_3e10.txt
+11ae50723e4cf9f39a10243ae6122ec866043fe0772ad38320ac2f1e74ee855c  sonuc/say_E1_M20_3e10.txt
+f650806abcd8234065e4dd66b6815135dbb6ceae22c73916e33e4f37a641b5eb  sonuc/say_E1_U_2e9.txt
+a8477e7e2bc5e30fb56819d07c4d8bce8a43ecad31d436eb70d2e0bd5423466b  sonuc/bi_kuran_E1_U.txt
+7a343bb99a25ffbfd477d29010e5be6bec29f4ed779f6f2dda88693085059563  sonuc/bi_kuran_E1_U_2.txt
+60eeb25b6873a44944ed9df4450ae55a8525882acb8133cb0f611cb1de6d8a59  sonuc/mi_sonuc.json
+385a7e02396bac1283bc9e7baea77646d0d3ba8136d3bf4bd82be268c6bc2b88  sonuc/literatur_sayim.json
+6bf3de96e3eb5069203894613b34d4f68a275214ea939f025a7b511c7c1ff347  sonuc/olcum1_basamak.md
+40adb502284138afc2b2f8b2c9ca925522892794ad13b15f055ef69b77973c98  sonuc/u_sira_kesif.json
