@@ -1,0 +1,1 @@
+kodeks 127 null J10 seed 19252 N 2000000 kitap_kapali 0 iddia 0 | Kuran T2=12.5886 T2fix9=12.5886 T2*=12.5886 | k_ozgun 68 k_fix9 41 k_tekrarsiz 24 | p_ozgun 3.4500e-05 p_fix9 2.1000e-05 p_tekrarsiz 1.2500e-05 | T2*<T2 kitap 259975 | robot farkı maks 6.77e-07 (>1e-3: 0)

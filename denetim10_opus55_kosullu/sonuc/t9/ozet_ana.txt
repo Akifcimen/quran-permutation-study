@@ -1,0 +1,13 @@
+kodeks | batarya | sıfır | tekrar: k_özgün / k_tekdüzeltme / k_tekrarsız (N=2e6) | ortalama | inceleme (129, terazi kapalı) | ölçüt
+127 | acik | J10 | r1: 63/37/20 ; r2: 68/41/24 ; r3: 78/54/33 | 70/44/26 (özgün/düzeltme oranı 1.58) | (1135, 573) |  | Kur'an T2=12.455 T2*=12.455 | robot farkı maks 6.8e-07 (>1e-3: 0)
+127 | acik | M20 | r1: 93/64/36 ; r2: 29/19/11 ; r3: 63/43/19 | 62/42/22 (özgün/düzeltme oranı 1.47) | (827, 393) |  | Kur'an T2=12.455 T2*=12.455 | robot farkı maks 4.8e-07 (>1e-3: 0)
+127 | acik | U | r1: 1/1/3 ; r2: 0/0/0 ; r3: 1/0/0 | 1/0/1 (özgün/düzeltme oranı 2.00) | (116, 53) |  | Kur'an T2=14.891 T2*=14.423 | robot farkı maks 4.8e-07 (>1e-3: 0)
+127 | kapali | J10 | r1: 8761/6121/3848 ; r2: 7688/5395/3442 ; r3: 8118/5725/3642 | 8189/5747/3644 (özgün/düzeltme oranı 1.42) | (1135, 573) |  | Kur'an T2=9.345 T2*=9.312 | robot farkı maks 6.8e-07 (>1e-3: 0)
+127 | kapali | M20 | r1: 7773/5476/3328 ; r2: 5252/3521/2088 ; r3: 7372/5176/3104 | 6799/4724/2840 (özgün/düzeltme oranı 1.44) | (827, 393) |  | Kur'an T2=9.467 T2*=9.467 | robot farkı maks 4.8e-07 (>1e-3: 0)
+127 | kapali | U | r1: 220/141/177 ; r2: 194/122/166 ; r3: 173/110/138 | 196/124/160 (özgün/düzeltme oranı 1.57) | (116, 53) |  | Kur'an T2=11.930 T2*=11.462 | robot farkı maks 4.8e-07 (>1e-3: 0)
+129 | acik | J10 | r1: 53/34/18 ; r2: 58/31/18 ; r3: 67/41/23 | 59/35/20 (özgün/düzeltme oranı 1.68) | (1135, 573) |  | Kur'an T2=12.725 T2*=12.725 | robot farkı maks 4.8e-07 (>1e-3: 0)
+129 | acik | M20 | r1: 66/39/22 ; r2: 51/35/24 ; r3: 46/30/16 | 54/35/21 (özgün/düzeltme oranı 1.57) | (827, 393) |  | Kur'an T2=12.553 T2*=12.553 | robot farkı maks 4.8e-07 (>1e-3: 0)
+129 | acik | U | r1: 0/0/0 ; r2: 1/1/1 ; r3: 1/1/1 | 1/1/1 (özgün/düzeltme oranı 1.00) | (116, 53) |  | Kur'an T2=15.250 T2*=14.778 | robot farkı maks 4.8e-07 (>1e-3: 0)
+129 | kapali | J10 | r1: 6551/4442/2813 ; r2: 7536/5237/3315 ; r3: 7792/5408/3505 | 7293/5029/3211 (özgün/düzeltme oranı 1.45) | (1135, 573) | yeniden üretilemedi | Kur'an T2=9.583 T2*=9.547 | robot farkı maks 4.8e-07 (>1e-3: 0)
+129 | kapali | M20 | r1: 7183/5061/3048 ; r2: 5631/3872/2282 ; r3: 5661/3835/2208 | 6158/4256/2513 (özgün/düzeltme oranı 1.45) | (827, 393) | yeniden üretilemedi | Kur'an T2=9.543 T2*=9.543 | robot farkı maks 4.8e-07 (>1e-3: 0)
+129 | kapali | U | r1: 126/75/97 ; r2: 380/248/291 ; r3: 302/181/253 | 269/168/214 (özgün/düzeltme oranı 1.60) | (116, 53) | yeniden üretilemedi | Kur'an T2=12.283 T2*=11.811 | robot farkı maks 4.8e-07 (>1e-3: 0)

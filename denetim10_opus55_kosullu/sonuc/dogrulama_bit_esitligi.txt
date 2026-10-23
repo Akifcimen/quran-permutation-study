@@ -1,0 +1,6 @@
+kodeks 127 null U: 100001 kitap | örnekleyici farkı 0 | bit farkı 0 | kF/kG/same farkı 0 | olgu sayısı 99
+kodeks 129 null U: 100001 kitap | örnekleyici farkı 0 | bit farkı 0 | kF/kG/same farkı 0 | olgu sayısı 99
+kodeks 127 null J10: 100001 kitap | örnekleyici farkı 0 | bit farkı 0 | kF/kG/same farkı 0 | olgu sayısı 99
+kodeks 129 null J10: 100001 kitap | örnekleyici farkı 0 | bit farkı 0 | kF/kG/same farkı 0 | olgu sayısı 99
+kodeks 127 null M20: 100001 kitap | örnekleyici farkı 0 | bit farkı 0 | kF/kG/same farkı 0 | olgu sayısı 99
+kodeks 129 null M20: 100001 kitap | örnekleyici farkı 0 | bit farkı 0 | kF/kG/same farkı 0 | olgu sayısı 99

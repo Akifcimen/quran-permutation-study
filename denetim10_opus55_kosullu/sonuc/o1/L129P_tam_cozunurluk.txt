@@ -1,0 +1,8 @@
+Kur'an: P_tam = 1.890e-04 [%95 1.211e-04, 2.813e-04] (24 isabet), S_tam = 3.724, T2* = 4.438
+rakip 82800: kesin daha nadir (Kur'an'ı geçer) 27839 | kesin daha sık 34231 | çözülemeyen (aralıklar örtüşür) 20730
+→ tam puanla k_tam ∈ [27839, 48569] (kesin sınırlar; N = 126,963 için p ∈ [2.193e-01, 3.825e-01])
+  T2* [1.44, 2.44): 499 kitap; nokta kestirimle S_tam ≥ S_Kur'an: 0
+  T2* [2.44, 3.44): 31301 kitap; nokta kestirimle S_tam ≥ S_Kur'an: 528
+  T2* [3.44, 4.44): 24893 kitap; nokta kestirimle S_tam ≥ S_Kur'an: 13894
+  T2* [4.44, 5.44): 14466 kitap; nokta kestirimle S_tam ≥ S_Kur'an: 14199
+  T2* [5.44, 99.00): 11641 kitap; nokta kestirimle S_tam ≥ S_Kur'an: 11636

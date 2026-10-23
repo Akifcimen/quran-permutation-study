@@ -1,0 +1,1 @@
+kodeks 129 null M20 seed 19203 N 2000000 kitap_kapali 1 | Kuran T2=9.7480 T2fix9=9.7480 T2*=9.7480 | k_ozgun 5631 k_fix9 3872 k_tekrarsiz 2282 | p_ozgun 2.8160e-03 p_fix9 1.9365e-03 p_tekrarsiz 1.1415e-03 | T2*<T2 kitap 255281 | robot farkı maks 4.77e-07 (>1e-3: 0)

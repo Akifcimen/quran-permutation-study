@@ -1,0 +1,44 @@
+[2026-10-23T04:00:12Z] BAŞLA ['129', 'J', 'O', '4291001', '20', '1000', 'tab/havuz/J129O', '1', '6']
+[2026-10-23T04:16:52Z] 4291001 bitti rc=0 1001s  | harcanan 0.28 çekirdek-saat
+[2026-10-23T04:34:29Z] 4291002 bitti rc=0 1057s  | harcanan 0.57 çekirdek-saat
+[2026-10-23T04:53:08Z] 4291003 bitti rc=0 1119s  | harcanan 0.88 çekirdek-saat
+[2026-10-23T05:11:54Z] 4291004 bitti rc=0 1126s  | harcanan 1.20 çekirdek-saat
+[2026-10-23T05:29:23Z] 4291005 bitti rc=0 1049s  | harcanan 1.49 çekirdek-saat
+[2026-10-23T05:45:49Z] 4291006 bitti rc=0 986s  | harcanan 1.76 çekirdek-saat
+[2026-10-23T06:03:10Z] 4291007 bitti rc=0 1041s  | harcanan 2.05 çekirdek-saat
+[2026-10-23T06:20:06Z] 4291008 bitti rc=0 1016s  | harcanan 2.33 çekirdek-saat
+[2026-10-23T06:38:39Z] 4291009 bitti rc=0 1113s  | harcanan 2.64 çekirdek-saat
+[2026-10-23T06:55:42Z] 4291010 bitti rc=0 1023s  | harcanan 2.93 çekirdek-saat
+[2026-10-23T07:07:05Z] BAŞLA ['129', 'J', 'O', '4291001', '20', '1000', 'tab/havuz/J129O', '3', '6']
+[2026-10-23T07:11:29Z] 4291011 bitti rc=0 947s  | harcanan 3.19 çekirdek-saat
+[2026-10-23T07:22:43Z] 4291020 bitti rc=0 938s  | harcanan 3.95 çekirdek-saat
+[2026-10-23T07:22:43Z] 4291019 bitti rc=0 916s  | harcanan 3.95 çekirdek-saat
+[2026-10-23T07:22:43Z] 4291018 bitti rc=0 901s  | harcanan 3.95 çekirdek-saat
+[2026-10-23T07:25:37Z] 4291012 bitti rc=0 848s  | harcanan 4.19 çekirdek-saat
+[2026-10-23T07:36:09Z] 4291017 bitti rc=0 843s  | harcanan 4.42 çekirdek-saat
+[2026-10-23T07:36:17Z] 4291016 bitti rc=0 836s  | harcanan 4.88 çekirdek-saat
+[2026-10-23T07:36:17Z] 4291015 bitti rc=0 813s  | harcanan 4.88 çekirdek-saat
+[2026-10-23T07:39:28Z] 4291013 bitti rc=0 831s  | harcanan 5.11 çekirdek-saat
+[2026-10-23T07:39:28Z] 4291014 başka sürücüde sürüyor | harcanan 5.11 çekirdek-saat
+[2026-10-23T07:39:28Z] 4291015 mevcut | harcanan 5.11 çekirdek-saat
+[2026-10-23T07:39:28Z] 4291016 mevcut | harcanan 5.11 çekirdek-saat
+[2026-10-23T07:39:28Z] 4291017 mevcut | harcanan 5.11 çekirdek-saat
+[2026-10-23T07:39:28Z] 4291018 mevcut | harcanan 5.11 çekirdek-saat
+[2026-10-23T07:39:28Z] 4291019 mevcut | harcanan 5.11 çekirdek-saat
+[2026-10-23T07:39:28Z] 4291020 mevcut | harcanan 5.11 çekirdek-saat
+[2026-10-23T07:39:28Z] BİTTİ
+[2026-10-23T07:49:34Z] 4291014 bitti rc=0 805s  | harcanan 5.33 çekirdek-saat
+[2026-10-23T07:49:34Z] 4291013 başka sürücüde sürüyor | harcanan 5.33 çekirdek-saat
+[2026-10-23T07:49:34Z] 4291012 mevcut | harcanan 5.33 çekirdek-saat
+[2026-10-23T07:49:34Z] 4291011 mevcut | harcanan 5.33 çekirdek-saat
+[2026-10-23T07:49:34Z] 4291010 mevcut | harcanan 5.33 çekirdek-saat
+[2026-10-23T07:49:34Z] 4291009 mevcut | harcanan 5.33 çekirdek-saat
+[2026-10-23T07:49:34Z] 4291008 mevcut | harcanan 5.33 çekirdek-saat
+[2026-10-23T07:49:34Z] 4291007 mevcut | harcanan 5.33 çekirdek-saat
+[2026-10-23T07:49:34Z] 4291006 mevcut | harcanan 5.33 çekirdek-saat
+[2026-10-23T07:49:34Z] 4291005 mevcut | harcanan 5.33 çekirdek-saat
+[2026-10-23T07:49:34Z] 4291004 mevcut | harcanan 5.33 çekirdek-saat
+[2026-10-23T07:49:34Z] 4291003 mevcut | harcanan 5.33 çekirdek-saat
+[2026-10-23T07:49:34Z] 4291002 mevcut | harcanan 5.33 çekirdek-saat
+[2026-10-23T07:49:34Z] 4291001 mevcut | harcanan 5.33 çekirdek-saat
+[2026-10-23T07:49:34Z] BİTTİ

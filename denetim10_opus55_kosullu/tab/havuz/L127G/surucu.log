@@ -1,0 +1,6 @@
+[2026-10-23T04:00:12Z] BAŞLA ['127', 'L', 'G', '3271001', '4', '25', 'tab/havuz/L127G', '1', '6']
+[2026-10-23T04:08:32Z] 3271001 bitti rc=0 500s  | harcanan 0.14 çekirdek-saat
+[2026-10-23T04:14:47Z] 3271002 bitti rc=0 375s  | harcanan 0.24 çekirdek-saat
+[2026-10-23T04:20:45Z] 3271003 bitti rc=0 359s  | harcanan 0.34 çekirdek-saat
+[2026-10-23T04:28:47Z] 3271004 bitti rc=0 482s  | harcanan 0.48 çekirdek-saat
+[2026-10-23T04:28:47Z] BİTTİ

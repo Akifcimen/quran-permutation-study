@@ -1,0 +1,2 @@
+kodeks 127 seed 7101: C-kitap 6500000 (2077 s, 319.5 µs/kitap) | öneri 4216757768, koşul geçen 7717938, Φ kabul 6500000 (oran 0.8422), τ deneme ort 259.4, Φ/M! maks 0.0045806143 ≤ B 0.0045806143, ihlal 0
+SAY N=6500000 O3=394631 D=49223 E=7265 G=217 W=27126 A=2272 DW=220 GW=2 AW=4 | tauG=434000 tauGW=1565 tauGA=143 tauGAW=0

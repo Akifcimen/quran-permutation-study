@@ -1,0 +1,294 @@
+kaynaklar ['U', 'O']: N=5,050,000; puanlamayı etkileyebilecek üçlü aday: 293
+  {[9] G: v-yarılar m²| , [10] G: katsayı bandı} → [8] G: Σn=Σa   n(X1∧X2)=14,669
+  {[3] F: m|Σn , [8] G: m|Σn} → [12] U: m|Σn(U)   n(X1∧X2)=13,710
+  {[3] F: m|Σn , [8] G: m|Σn} → [12] U: m|Σa(U)   n(X1∧X2)=13,710
+  {[6] G: k≥2E , [11] R: kF=kG} → [1] F: k≥2E   n(X1∧X2)=1,041
+  {[1] F: k≥2E , [11] R: kF=kG} → [6] G: k≥2E   n(X1∧X2)=1,041
+  {[4] F: v-yarılar eşit , [21] RP: F'de aynı v ≥5 kez} → [1] F: k≥2E   n(X1∧X2)=983
+  {[3] F: Σn=Σa , [8] G: m|Σn} → [12] U: m|Σn(U)   n(X1∧X2)=726
+  {[3] F: Σn=Σa , [8] G: m|Σn} → [12] U: m|Σa(U)   n(X1∧X2)=726
+  {[4] F: hücreler dengeli , [21] RP: F'de aynı v ≥5 kez} → [1] F: k≥2E   n(X1∧X2)=296
+  {[3] F: Σn=Σa , [4] F: v-yarılar m²|} → [2] F: Σq kare   n(X1∧X2)=182
+  {[4] F: n-yarılar Δ∈{m²,2m²} , [9] G: v-yarılar m²|} → [8] G: Σn=Σa   n(X1∧X2)=55
+  {[4] F: v-yarılar m²| , [9] G: n-yarılar Δ∈{m²,2m²}} → [2] F: Σq kare   n(X1∧X2)=48
+  {[4] F: n-yarılar m²| , [9] G: n-yarılar m²|} → [8] G: Σn=Σa   n(X1∧X2)=41
+  {[0] kitap: |E|=|O| & nE=aO , [4] F: v-yarılar m²|} → [2] F: Σq kare   n(X1∧X2)=15
+  {[0] kitap: |E|=|O| & nE=aO , [4] F: v-yarılar m²|} → [1] F: k≥2E   n(X1∧X2)=15
+  {[0] kitap: |E|=|O| & nE=aE , [9] G: n-yarılar eşit} → [11] U: F∩G=∅   n(X1∧X2)=15
+  {[0] kitap: |E|=|O| & vO=Σn , [4] F: v-yarılar m²|} → [2] F: Σq kare   n(X1∧X2)=15
+  {[0] kitap: |E|=|O| & vO=Σn , [4] F: v-yarılar m²|} → [1] F: k≥2E   n(X1∧X2)=15
+  {[0] kitap: |E|=|O| & vE=Σa , [4] F: v-yarılar m²|} → [2] F: Σq kare   n(X1∧X2)=15
+  {[0] kitap: |E|=|O| & vE=Σa , [4] F: v-yarılar m²|} → [1] F: k≥2E   n(X1∧X2)=15
+  {[0] kitap: |E|=|O| & aE=aO , [9] G: n-yarılar m²|} → [8] G: Σn=Σa   n(X1∧X2)=13
+  {[9] G: hücreler dengeli , [21] RP: F'de aynı v ≥5 kez} → [10] G: katsayı bandı   n(X1∧X2)=11
+  {[0] kitap: |E|=|O| & nE=aE , [9] G: v-yarılar m²|} → [8] G: Σn=Σa   n(X1∧X2)=11
+  {[0] kitap: |E|=|O| & nE=aO , [9] G: v-yarılar m²|} → [8] G: Σn=Σa   n(X1∧X2)=10
+  {[0] kitap: |E|=|O| & vO=Σn , [9] G: v-yarılar m²|} → [8] G: Σn=Σa   n(X1∧X2)=10
+  {[0] kitap: |E|=|O| & vE=Σa , [9] G: v-yarılar m²|} → [8] G: Σn=Σa   n(X1∧X2)=10
+  {[0] kitap: |E|=|O| & nE=aO , [21] RP: F'de aynı v ≥5 kez} → [11] U: F∩G=∅   n(X1∧X2)=9
+  {[0] kitap: |E|=|O| & vO=Σn , [21] RP: F'de aynı v ≥5 kez} → [11] U: F∩G=∅   n(X1∧X2)=9
+  {[0] kitap: |E|=|O| & vE=Σa , [21] RP: F'de aynı v ≥5 kez} → [11] U: F∩G=∅   n(X1∧X2)=9
+  {[7] G: 114|Σq , [9] G: n-yarılar Δ∈{m²,2m²}} → [11] U: F∩G=∅   n(X1∧X2)=8
+  {[9] G: hücreler dengeli , [19] BL: m²|Σv(1..57)} → [10] G: katsayı bandı   n(X1∧X2)=7
+  {[4] F: hücreler dengeli , [9] G: hücreler dengeli} → [10] G: katsayı bandı   n(X1∧X2)=7
+  {[0] kitap: |E|=|O| & nE=aE , [9] G: n-yarılar m²|} → [8] G: Σn=Σa   n(X1∧X2)=7
+  {[4] F: n-yarılar Δ∈{m²,2m²} , [9] G: hücreler dengeli} → [10] G: katsayı bandı   n(X1∧X2)=5
+  {[0] kitap: |E|=|O| & nE=aO , [19] BL: m²|Σv(1..57)} → [11] U: F∩G=∅   n(X1∧X2)=5
+  {[0] kitap: |E|=|O| & nE=aO , [7] G: Σq kare} → [11] U: F∩G=∅   n(X1∧X2)=5
+  {[0] kitap: |E|=|O| & nE=aE , [3] F: Σn=Σa} → [11] U: F∩G=∅   n(X1∧X2)=5
+  {[0] kitap: |E|=|O| & vO=Σn , [19] BL: m²|Σv(1..57)} → [11] U: F∩G=∅   n(X1∧X2)=5
+  {[0] kitap: |E|=|O| & vO=Σn , [7] G: Σq kare} → [11] U: F∩G=∅   n(X1∧X2)=5
+  {[0] kitap: |E|=|O| & vE=Σa , [19] BL: m²|Σv(1..57)} → [11] U: F∩G=∅   n(X1∧X2)=5
+  {[0] kitap: |E|=|O| & vE=Σa , [7] G: Σq kare} → [11] U: F∩G=∅   n(X1∧X2)=5
+  {[4] F: v-yarılar Δ∈{m²,2m²} , [9] G: n-yarılar Δ∈{m²,2m²}} → [11] U: F∩G=∅   n(X1∧X2)=4
+  {[0] kitap: |E|=|O| & nE=aO , [9] G: n-yarılar m²|} → [8] G: Σn=Σa   n(X1∧X2)=4
+  {[0] kitap: |E|=|O| & vO=Σn , [9] G: n-yarılar m²|} → [8] G: Σn=Σa   n(X1∧X2)=4
+  {[0] kitap: |E|=|O| & vE=Σa , [9] G: n-yarılar m²|} → [8] G: Σn=Σa   n(X1∧X2)=4
+  {[5] F: katsayı bandı , [6] G: k=m} → [11] U: |F∩G|=1   n(X1∧X2)=3
+  {[4] F: n-yarılar Δ∈{m²,2m²} , [9] G: v-yarılar Δ∈{m²,2m²}} → [11] U: F∩G=∅   n(X1∧X2)=3
+  {[4] F: v-yarılar Δ∈{m²,2m²} , [9] G: hücreler dengeli} → [10] G: katsayı bandı   n(X1∧X2)=3
+  {[3] F: Σn=Σa , [9] G: hücreler dengeli} → [15] MD: |G∩Medenî|≥2×bekl.   n(X1∧X2)=3
+  {[3] F: Σn=Σa , [9] G: hücreler dengeli} → [11] U: F∩G=∅   n(X1∧X2)=3
+  {[3] F: Σn=Σa , [9] G: hücreler dengeli} → [10] G: katsayı bandı   n(X1∧X2)=3
+  {[1] F: k=m , [16] MQ: |G∩MQ|≥2×bekl.} → [21] RP: F'de aynı v ≥5 kez   n(X1∧X2)=3
+  {[1] F: k=m , [15] MD: Medenî v-yarılara 14/14} → [21] RP: kitapta aynı v ≥6 kez   n(X1∧X2)=3
+  {[1] F: k=m , [15] MD: Medenî v-yarılara 14/14} → [21] RP: F'de aynı v ≥5 kez   n(X1∧X2)=3
+  {[1] F: k=m , [15] MD: Medenî v-yarılara 14/14} → [11] U: F∩G=∅   n(X1∧X2)=3
+  {[0] kitap: |E|=|O| & aE=aO , [3] F: Σn=Σa} → [11] U: F∩G=∅   n(X1∧X2)=3
+  {[6] G: k=m , [18] AY: a(n)=a(115−n) çifti ≥3} → [7] G: 114|Σq   n(X1∧X2)=2
+  {[6] G: k=m , [16] MQ: |F∩MQ|≥2×bekl.} → [11] U: |F∩G|=1   n(X1∧X2)=2
+  {[6] G: k=m , [8] G: Σn=Σa} → [15] MD: F∩Medenî=∅ (kF≥4)   n(X1∧X2)=2
+  {[6] G: k=m , [8] G: Σn=Σa} → [11] U: F∩G=∅   n(X1∧X2)=2
+  {[4] F: v-yarılar Δ∈{m²,2m²} , [9] G: v-yarılar Δ∈{m²,2m²}} → [11] U: F∩G=∅   n(X1∧X2)=2
+  {[2] F: 114|Σq , [4] F: v-yarılar m²|} → [11] U: F∩G=∅   n(X1∧X2)=2
+  {[2] F: 114|Σq , [4] F: v-yarılar m²|} → [1] F: k≥2E   n(X1∧X2)=2
+  {[1] F: k=m , [15] MD: G∩Medenî=∅ (kG≥4)} → [21] RP: F'de aynı v ≥5 kez   n(X1∧X2)=2
+  {[1] F: k=m , [14] G: Σw=m·kG} → [11] U: F∩G=∅   n(X1∧X2)=2
+  {[1] F: k=m , [10] G: katsayı bandı} → [21] RP: kitapta aynı v ≥6 kez   n(X1∧X2)=2
+  {[1] F: k=m , [10] G: katsayı bandı} → [21] RP: F'de aynı v ≥5 kez   n(X1∧X2)=2
+  {[1] F: k=m , [2] F: 114|Σq} → [7] G: 114|Σq   n(X1∧X2)=2
+  {[0] kitap: |E|=|O| & nE=aO , [9] G: hücreler dengeli} → [11] U: |F∩G|=1   n(X1∧X2)=2
+  {[0] kitap: |E|=|O| & nE=aO , [9] G: hücreler dengeli} → [10] G: katsayı bandı   n(X1∧X2)=2
+  {[0] kitap: |E|=|O| & nE=aO , [9] G: n-yarılar Δ∈{m²,2m²}} → [11] U: |F∩G|=1   n(X1∧X2)=2
+  {[0] kitap: |E|=|O| & nE=aO , [9] G: v-yarılar Δ∈{m²,2m²}} → [11] U: F∩G=∅   n(X1∧X2)=2
+  {[0] kitap: |E|=|O| & nE=aO , [4] F: v-yarılar Δ∈{m²,2m²}} → [11] U: F∩G=∅   n(X1∧X2)=2
+  {[0] kitap: |E|=|O| & nE=aE , [4] F: n-yarılar Δ∈{m²,2m²}} → [11] U: F∩G=∅   n(X1∧X2)=2
+  {[0] kitap: |E|=|O| & nE=aE , [4] F: v-yarılar Δ∈{m²,2m²}} → [11] U: |F∩G|=1   n(X1∧X2)=2
+  {[0] kitap: |E|=|O| & aE=aO , [19] BL: m²|Σv(1..57)} → [11] U: F∩G=∅   n(X1∧X2)=2
+  {[0] kitap: |E|=|O| & aE=aO , [4] F: hücreler dengeli} → [11] U: F∩G=∅   n(X1∧X2)=2
+  {[0] kitap: |E|=|O| & aE=aO , [4] F: hücreler dengeli} → [5] F: katsayı bandı   n(X1∧X2)=2
+  {[0] kitap: |E|=|O| & aE=aO , [4] F: hücreler dengeli} → [2] F: 114|Σq   n(X1∧X2)=2
+  {[0] kitap: |E|=|O| & vO=Σn , [9] G: hücreler dengeli} → [11] U: |F∩G|=1   n(X1∧X2)=2
+  {[0] kitap: |E|=|O| & vO=Σn , [9] G: hücreler dengeli} → [10] G: katsayı bandı   n(X1∧X2)=2
+  {[0] kitap: |E|=|O| & vO=Σn , [9] G: n-yarılar Δ∈{m²,2m²}} → [11] U: |F∩G|=1   n(X1∧X2)=2
+  {[0] kitap: |E|=|O| & vO=Σn , [9] G: v-yarılar Δ∈{m²,2m²}} → [11] U: F∩G=∅   n(X1∧X2)=2
+  {[0] kitap: |E|=|O| & vO=Σn , [4] F: v-yarılar Δ∈{m²,2m²}} → [11] U: F∩G=∅   n(X1∧X2)=2
+  {[0] kitap: |E|=|O| & vE=Σa , [9] G: hücreler dengeli} → [11] U: |F∩G|=1   n(X1∧X2)=2
+  {[0] kitap: |E|=|O| & vE=Σa , [9] G: hücreler dengeli} → [10] G: katsayı bandı   n(X1∧X2)=2
+  {[0] kitap: |E|=|O| & vE=Σa , [9] G: n-yarılar Δ∈{m²,2m²}} → [11] U: |F∩G|=1   n(X1∧X2)=2
+  {[0] kitap: |E|=|O| & vE=Σa , [9] G: v-yarılar Δ∈{m²,2m²}} → [11] U: F∩G=∅   n(X1∧X2)=2
+  {[0] kitap: |E|=|O| & vE=Σa , [4] F: v-yarılar Δ∈{m²,2m²}} → [11] U: F∩G=∅   n(X1∧X2)=2
+  {[0] kitap: |E|=|O| , [1] F: k=m} → [21] RP: F'de aynı v ≥5 kez   n(X1∧X2)=2
+  {[8] G: Σn=Σa , [9] G: n-yarılar Δ∈{m²,2m²}} → [18] AY: m|v(n)+v(115−n) çiftleri ≥2E   n(X1∧X2)=1
+  {[8] G: Σn=Σa , [9] G: n-yarılar Δ∈{m²,2m²}} → [15] MD: F∩Medenî=∅ (kF≥4)   n(X1∧X2)=1
+  {[8] G: Σn=Σa , [9] G: n-yarılar Δ∈{m²,2m²}} → [12] U: m|Σw(U)   n(X1∧X2)=1
+  {[8] G: Σn=Σa , [9] G: n-yarılar Δ∈{m²,2m²}} → [11] R: kF=kG   n(X1∧X2)=1
+  {[8] G: Σn=Σa , [9] G: n-yarılar Δ∈{m²,2m²}} → [11] U: |F∩G|=1   n(X1∧X2)=1
+  {[8] G: Σn=Σa , [9] G: n-yarılar Δ∈{m²,2m²}} → [11] U: |U|=m   n(X1∧X2)=1
+  {[8] G: Σn=Σa , [9] G: n-yarılar Δ∈{m²,2m²}} → [3] F: m|Σn   n(X1∧X2)=1
+  {[7] G: Σq kare , [14] G: Σw=m·kG} → [16] MQ: MQ v-yarılara 14/15   n(X1∧X2)=1
+  {[7] G: Σq kare , [14] G: Σw=m·kG} → [12] U: m|Σv(U)   n(X1∧X2)=1
+  {[7] G: Σq kare , [14] G: Σw=m·kG} → [8] G: m|Σn   n(X1∧X2)=1
+  {[7] G: Σq kare , [14] G: Σw=m·kG} → [6] G: k=m   n(X1∧X2)=1
+  {[7] G: Σq kare , [14] G: Σw=m·kG} → [6] G: k≥2E   n(X1∧X2)=1
+  {[7] G: Σq kare , [14] G: Σw=m·kG} → [3] F: Σn kare   n(X1∧X2)=1
+  {[7] G: m²|Σq , [14] G: Σw=m·kG} → [16] MQ: MQ v-yarılara 14/15   n(X1∧X2)=1
+  {[7] G: m²|Σq , [14] G: Σw=m·kG} → [12] U: m|Σv(U)   n(X1∧X2)=1
+  {[7] G: m²|Σq , [14] G: Σw=m·kG} → [8] G: m|Σn   n(X1∧X2)=1
+  {[7] G: m²|Σq , [14] G: Σw=m·kG} → [6] G: k=m   n(X1∧X2)=1
+  {[7] G: m²|Σq , [14] G: Σw=m·kG} → [6] G: k≥2E   n(X1∧X2)=1
+  {[7] G: m²|Σq , [14] G: Σw=m·kG} → [3] F: Σn kare   n(X1∧X2)=1
+  {[6] G: k=m , [21] RP: F'de aynı v ≥5 kez} → [20] AF: Σn{a≡0} kare   n(X1∧X2)=1
+  {[6] G: k=m , [21] RP: F'de aynı v ≥5 kez} → [15] MD: Medenî v-yarılara 14/14   n(X1∧X2)=1
+  {[6] G: k=m , [21] RP: F'de aynı v ≥5 kez} → [11] U: |F∩G|=1   n(X1∧X2)=1
+  {[6] G: k=m , [21] RP: F'de aynı v ≥5 kez} → [5] F: katsayı bandı   n(X1∧X2)=1
+  {[6] G: k=m , [20] AF: Σn{a≡0} kare} → [21] RP: F'de aynı v ≥5 kez   n(X1∧X2)=1
+  {[6] G: k=m , [20] AF: Σn{a≡0} kare} → [15] MD: Medenî v-yarılara 14/14   n(X1∧X2)=1
+  {[6] G: k=m , [20] AF: Σn{a≡0} kare} → [11] U: |F∩G|=1   n(X1∧X2)=1
+  {[6] G: k=m , [20] AF: Σn{a≡0} kare} → [5] F: katsayı bandı   n(X1∧X2)=1
+  {[6] G: k=m , [20] AF: m|Σn{a≡0}} → [18] AY: a(n)=a(115−n) çifti ≥3   n(X1∧X2)=1
+  {[6] G: k=m , [20] AF: m|Σn{a≡0}} → [15] MD: F∩Medenî=∅ (kF≥4)   n(X1∧X2)=1
+  {[6] G: k=m , [20] AF: m|Σn{a≡0}} → [11] U: F∩G=∅   n(X1∧X2)=1
+  {[6] G: k=m , [20] AF: m|Σn{a≡0}} → [7] G: 114|Σq   n(X1∧X2)=1
+  {[6] G: k=m , [19] BL: ilk 38 ve 76'da v-parite dengesi} → [21] RP: F'nin tepe değeri v=114 (≥2)   n(X1∧X2)=1
+  {[6] G: k=m , [19] BL: ilk 38 ve 76'da v-parite dengesi} → [15] MD: Medenî v-yarılara 14/14   n(X1∧X2)=1
+  {[6] G: k=m , [19] BL: ilk 38 ve 76'da v-parite dengesi} → [11] U: F∩G=∅   n(X1∧X2)=1
+  {[6] G: k=m , [19] BL: ilk 38 ve 76'da v-parite dengesi} → [2] F: 114|Σq   n(X1∧X2)=1
+  {[6] G: k=m , [18] AY: m|v(n)+v(115−n) çiftleri ≥2E} → [12] U: m|Σn(U)   n(X1∧X2)=1
+  {[6] G: k=m , [18] AY: m|v(n)+v(115−n) çiftleri ≥2E} → [10] G: katsayı bandı   n(X1∧X2)=1
+  {[6] G: k=m , [18] AY: m|v(n)+v(115−n) çiftleri ≥2E} → [2] F: m²|Σq   n(X1∧X2)=1
+  {[6] G: k=m , [14] G: Σw=m·kG} → [16] MQ: MQ v-yarılara 14/15   n(X1∧X2)=1
+  {[6] G: k=m , [14] G: Σw=m·kG} → [12] U: m|Σv(U)   n(X1∧X2)=1
+  {[6] G: k=m , [14] G: Σw=m·kG} → [8] G: m|Σn   n(X1∧X2)=1
+  {[6] G: k=m , [14] G: Σw=m·kG} → [7] G: Σq kare   n(X1∧X2)=1
+  {[6] G: k=m , [14] G: Σw=m·kG} → [7] G: m²|Σq   n(X1∧X2)=1
+  {[6] G: k=m , [14] G: Σw=m·kG} → [3] F: Σn kare   n(X1∧X2)=1
+  {[6] G: k=m , [13] U: Σv(U) kare/asal-kuvvet} → [15] MD: |F∩Medenî|≥2×bekl.   n(X1∧X2)=1
+  {[6] G: k=m , [13] U: Σv(U) kare/asal-kuvvet} → [11] U: |F∩G|=1   n(X1∧X2)=1
+  {[6] G: k=m , [12] U: m|Σa(U)} → [15] MD: m|Σv(Medenî)   n(X1∧X2)=1
+  {[6] G: k=m , [12] U: m|Σa(U)} → [11] U: |F∩G|=1   n(X1∧X2)=1
+  {[6] G: k=m , [12] U: m|Σa(U)} → [2] F: 114|Σq   n(X1∧X2)=1
+  {[6] G: k=m , [8] G: Σa kare} → [21] RP: F'nin tepe değeri v=114 (≥2)   n(X1∧X2)=1
+  {[6] G: k=m , [8] G: Σa kare} → [18] AY: v(n)=v(115−n) çifti ≥2   n(X1∧X2)=1
+  {[6] G: k=m , [8] G: Σa kare} → [16] MQ: MQ v-yarılara 14/15   n(X1∧X2)=1
+  {[6] G: k=m , [8] G: Σa kare} → [11] U: |F∩G|=1   n(X1∧X2)=1
+  {[6] G: k=m , [8] G: Σa kare} → [10] G: katsayı bandı   n(X1∧X2)=1
+  {[6] G: k=m , [8] G: Σa kare} → [7] G: 114|Σq   n(X1∧X2)=1
+  {[6] G: k=m , [8] G: Σa kare} → [5] F: katsayı bandı   n(X1∧X2)=1
+  {[6] G: k=m , [8] G: Σa kare} → [2] F: m²|Σq   n(X1∧X2)=1
+  {[6] G: k=m , [7] G: Σq kare} → [16] MQ: MQ v-yarılara 14/15   n(X1∧X2)=1
+  {[6] G: k=m , [7] G: Σq kare} → [14] G: Σw=m·kG   n(X1∧X2)=1
+  {[6] G: k=m , [7] G: Σq kare} → [12] U: m|Σv(U)   n(X1∧X2)=1
+  {[6] G: k=m , [7] G: Σq kare} → [8] G: m|Σn   n(X1∧X2)=1
+  {[6] G: k=m , [7] G: Σq kare} → [3] F: Σn kare   n(X1∧X2)=1
+  {[4] F: n-yarılar eşit , [6] G: k=m} → [21] RP: F'nin tepe değeri v=114 (≥2)   n(X1∧X2)=1
+  {[4] F: n-yarılar eşit , [6] G: k=m} → [11] U: |F∩G|=1   n(X1∧X2)=1
+  {[4] F: n-yarılar eşit , [6] G: k=m} → [2] F: 114|Σq   n(X1∧X2)=1
+  {[4] F: n-yarılar eşit , [6] G: k=m} → [0] kitap: |E|=|O|   n(X1∧X2)=1
+  {[4] F: v-yarılar m²| , [6] G: k=m} → [18] AY: a(n)=a(115−n) çifti ≥3   n(X1∧X2)=1
+  {[4] F: v-yarılar m²| , [6] G: k=m} → [12] U: m|Σv(U)   n(X1∧X2)=1
+  {[4] F: v-yarılar m²| , [6] G: k=m} → [11] U: |F∩G|=1   n(X1∧X2)=1
+  {[4] F: v-yarılar m²| , [6] G: k=m} → [8] G: m|Σn   n(X1∧X2)=1
+  {[4] F: v-yarılar m²| , [6] G: k=m} → [7] G: 114|Σq   n(X1∧X2)=1
+  {[4] F: v-yarılar m²| , [6] G: k=m} → [2] F: Σq kare   n(X1∧X2)=1
+  {[4] F: v-yarılar m²| , [6] G: k=m} → [1] F: k≥2E   n(X1∧X2)=1
+  {[4] F: v-yarılar eşit , [6] G: k=m} → [18] AY: a(n)=a(115−n) çifti ≥3   n(X1∧X2)=1
+  {[4] F: v-yarılar eşit , [6] G: k=m} → [12] U: m|Σv(U)   n(X1∧X2)=1
+  {[4] F: v-yarılar eşit , [6] G: k=m} → [11] U: |F∩G|=1   n(X1∧X2)=1
+  {[4] F: v-yarılar eşit , [6] G: k=m} → [8] G: m|Σn   n(X1∧X2)=1
+  {[4] F: v-yarılar eşit , [6] G: k=m} → [7] G: 114|Σq   n(X1∧X2)=1
+  {[4] F: v-yarılar eşit , [6] G: k=m} → [2] F: Σq kare   n(X1∧X2)=1
+  {[4] F: v-yarılar eşit , [6] G: k=m} → [2] F: m²|Σq   n(X1∧X2)=1
+  {[4] F: v-yarılar eşit , [6] G: k=m} → [1] F: k≥2E   n(X1∧X2)=1
+  {[3] F: Σa kare , [6] G: k=m} → [15] MD: |F∩Medenî|≥2×bekl.   n(X1∧X2)=1
+  {[3] F: Σa kare , [6] G: k=m} → [11] U: F∩G=∅   n(X1∧X2)=1
+  {[2] F: 114|Σq , [4] F: n-yarılar m²|} → [11] U: F∩G=∅   n(X1∧X2)=1
+  {[2] F: 114|Σq , [4] F: n-yarılar m²|} → [1] F: k≥2E   n(X1∧X2)=1
+  {[2] F: Σq kare , [6] G: k=m} → [18] AY: a(n)=a(115−n) çifti ≥3   n(X1∧X2)=1
+  {[2] F: Σq kare , [6] G: k=m} → [12] U: m|Σv(U)   n(X1∧X2)=1
+  {[2] F: Σq kare , [6] G: k=m} → [11] U: |F∩G|=1   n(X1∧X2)=1
+  {[2] F: Σq kare , [6] G: k=m} → [8] G: m|Σn   n(X1∧X2)=1
+  {[2] F: Σq kare , [6] G: k=m} → [7] G: 114|Σq   n(X1∧X2)=1
+  {[2] F: Σq kare , [6] G: k=m} → [4] F: v-yarılar m²|   n(X1∧X2)=1
+  {[2] F: Σq kare , [6] G: k=m} → [4] F: v-yarılar eşit   n(X1∧X2)=1
+  {[2] F: Σq kare , [6] G: k=m} → [1] F: k≥2E   n(X1∧X2)=1
+  {[2] F: Σq kare , [4] F: n-yarılar Δ∈{m²,2m²}} → [21] RP: F'nin tepe değeri v=114 (≥2)   n(X1∧X2)=1
+  {[2] F: Σq kare , [4] F: n-yarılar Δ∈{m²,2m²}} → [11] U: F∩G=∅   n(X1∧X2)=1
+  {[2] F: Σq kare , [4] F: n-yarılar Δ∈{m²,2m²}} → [0] kitap: |E|=|O|   n(X1∧X2)=1
+  {[1] F: k=m , [20] AF: m|Σn{a≡0}} → [16] MQ: MQ v-yarılara 14/15   n(X1∧X2)=1
+  {[1] F: k=m , [20] AF: m|Σn{a≡0}} → [15] MD: |G∩Medenî|≥2×bekl.   n(X1∧X2)=1
+  {[1] F: k=m , [20] AF: m|Σn{a≡0}} → [11] U: |F∩G|=1   n(X1∧X2)=1
+  {[1] F: k=m , [17] W: kümülatif-v durakları ≥2E} → [16] MQ: m|Σa(MQ)   n(X1∧X2)=1
+  {[1] F: k=m , [17] W: kümülatif-v durakları ≥2E} → [15] MD: m|Σv(Medenî)   n(X1∧X2)=1
+  {[1] F: k=m , [17] W: kümülatif-v durakları ≥2E} → [11] U: |F∩G|=1   n(X1∧X2)=1
+  {[1] F: k=m , [17] W: kümülatif-v durakları ≥2E} → [8] G: Σn=Σa   n(X1∧X2)=1
+  {[1] F: k=m , [17] W: kümülatif-v durakları ≥2E} → [7] G: m²|Σq   n(X1∧X2)=1
+  {[1] F: k=m , [17] W: kümülatif-v durakları ≥2E} → [3] F: Σa kare   n(X1∧X2)=1
+  {[1] F: k=m , [12] U: m|Σw(U)} → [21] RP: F'de aynı v ≥5 kez   n(X1∧X2)=1
+  {[1] F: k=m , [12] U: m|Σw(U)} → [16] MQ: m|Σa(MQ)   n(X1∧X2)=1
+  {[1] F: k=m , [12] U: m|Σw(U)} → [15] MD: m|Σv(Medenî)   n(X1∧X2)=1
+  {[1] F: k=m , [12] U: m|Σw(U)} → [11] U: F∩G=∅   n(X1∧X2)=1
+  {[1] F: k=m , [12] U: m|Σv(U)} → [21] RP: F'de aynı v ≥5 kez   n(X1∧X2)=1
+  {[1] F: k=m , [12] U: m|Σv(U)} → [18] AY: m|v(n)+v(115−n) çiftleri ≥2E   n(X1∧X2)=1
+  {[1] F: k=m , [12] U: m|Σv(U)} → [15] MD: m|Σv(Medenî)   n(X1∧X2)=1
+  {[1] F: k=m , [12] U: m|Σv(U)} → [11] U: |F∩G|=1   n(X1∧X2)=1
+  {[1] F: k=m , [9] G: v-yarılar eşit} → [15] MD: |G∩Medenî|≥2×bekl.   n(X1∧X2)=1
+  {[1] F: k=m , [9] G: v-yarılar eşit} → [11] U: F∩G=∅   n(X1∧X2)=1
+  {[1] F: k=m , [9] G: v-yarılar eşit} → [3] F: Σa kare   n(X1∧X2)=1
+  {[1] F: k=m , [8] G: m|Σn} → [21] RP: F'de aynı v ≥5 kez   n(X1∧X2)=1
+  {[1] F: k=m , [8] G: m|Σn} → [18] AY: m|v(n)+v(115−n) çiftleri ≥2E   n(X1∧X2)=1
+  {[1] F: k=m , [8] G: m|Σn} → [15] MD: m|Σv(Medenî)   n(X1∧X2)=1
+  {[1] F: k=m , [8] G: m|Σn} → [11] U: |F∩G|=1   n(X1∧X2)=1
+  {[1] F: k=m , [3] F: m|Σn} → [21] RP: F'de aynı v ≥5 kez   n(X1∧X2)=1
+  {[1] F: k=m , [3] F: m|Σn} → [16] MQ: m|Σa(MQ)   n(X1∧X2)=1
+  {[1] F: k=m , [3] F: m|Σn} → [15] MD: m|Σv(Medenî)   n(X1∧X2)=1
+  {[1] F: k=m , [3] F: m|Σn} → [11] U: F∩G=∅   n(X1∧X2)=1
+  {[1] F: k=m , [2] F: m²|Σq} → [21] RP: kitapta aynı v ≥6 kez   n(X1∧X2)=1
+  {[1] F: k=m , [2] F: m²|Σq} → [21] RP: F'de aynı v ≥5 kez   n(X1∧X2)=1
+  {[1] F: k=m , [2] F: m²|Σq} → [15] MD: G∩Medenî=∅ (kG≥4)   n(X1∧X2)=1
+  {[1] F: k=m , [2] F: m²|Σq} → [11] U: F∩G=∅   n(X1∧X2)=1
+  {[1] F: k=m , [2] F: m²|Σq} → [10] G: katsayı bandı   n(X1∧X2)=1
+  {[1] F: k=m , [2] F: m²|Σq} → [7] G: 114|Σq   n(X1∧X2)=1
+  {[1] F: k≥2E , [6] G: k=m} → [18] AY: a(n)=a(115−n) çifti ≥3   n(X1∧X2)=1
+  {[1] F: k≥2E , [6] G: k=m} → [12] U: m|Σv(U)   n(X1∧X2)=1
+  {[1] F: k≥2E , [6] G: k=m} → [11] U: |F∩G|=1   n(X1∧X2)=1
+  {[1] F: k≥2E , [6] G: k=m} → [8] G: m|Σn   n(X1∧X2)=1
+  {[1] F: k≥2E , [6] G: k=m} → [7] G: 114|Σq   n(X1∧X2)=1
+  {[1] F: k≥2E , [6] G: k=m} → [4] F: v-yarılar m²|   n(X1∧X2)=1
+  {[1] F: k≥2E , [6] G: k=m} → [4] F: v-yarılar eşit   n(X1∧X2)=1
+  {[1] F: k≥2E , [6] G: k=m} → [2] F: Σq kare   n(X1∧X2)=1
+  {[1] F: k≥2E , [6] G: k=m} → [2] F: m²|Σq   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & nE=aO , [4] F: hücreler dengeli} → [15] MD: |G∩Medenî|≥2×bekl.   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & nE=aO , [4] F: hücreler dengeli} → [11] U: |F∩G|=1   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & nE=aO , [4] F: hücreler dengeli} → [2] F: Σq kare   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & nE=aO , [4] F: hücreler dengeli} → [2] F: m²|Σq   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & nE=aO , [4] F: hücreler dengeli} → [1] F: k≥2E   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & nE=aO , [4] F: n-yarılar m²|} → [16] MQ: F∩MQ=∅ (kF≥4)   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & nE=aO , [4] F: n-yarılar m²|} → [11] U: F∩G=∅   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & nE=aO , [4] F: n-yarılar m²|} → [5] F: katsayı bandı   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & nE=aO , [4] F: n-yarılar Δ∈{m²,2m²}} → [15] MD: Medenî v-yarılara 14/14   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & nE=aO , [4] F: n-yarılar Δ∈{m²,2m²}} → [15] MD: F∩Medenî=∅ (kF≥4)   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & nE=aO , [4] F: n-yarılar Δ∈{m²,2m²}} → [14] G: Σw=m·kG   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & nE=aO , [4] F: n-yarılar Δ∈{m²,2m²}} → [11] R: kF=kG   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & nE=aO , [4] F: n-yarılar Δ∈{m²,2m²}} → [11] U: F∩G=∅   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & nE=aO , [4] F: n-yarılar Δ∈{m²,2m²}} → [7] G: 114|Σq   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & nE=aE , [4] F: n-yarılar m²|} → [16] MQ: |G∩MQ|≥2×bekl.   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & nE=aE , [4] F: n-yarılar m²|} → [16] MQ: F∩MQ=∅ (kF≥4)   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & nE=aE , [4] F: n-yarılar m²|} → [15] MD: G∩Medenî=∅ (kG≥4)   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & nE=aE , [4] F: n-yarılar m²|} → [11] U: F∩G=∅   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & aE=aO , [9] G: hücreler dengeli} → [18] AY: m|v(n)+v(115−n) çiftleri ≥2E   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & aE=aO , [9] G: hücreler dengeli} → [15] MD: G∩Medenî=∅ (kG≥4)   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & aE=aO , [9] G: hücreler dengeli} → [15] MD: |F∩Medenî|≥2×bekl.   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & aE=aO , [9] G: hücreler dengeli} → [12] U: m|Σv(U)   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & aE=aO , [9] G: hücreler dengeli} → [11] U: F∩G=∅   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & aE=aO , [9] G: hücreler dengeli} → [8] G: m|Σn   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & aE=aO , [9] G: hücreler dengeli} → [7] G: 114|Σq   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & aE=aO , [9] G: hücreler dengeli} → [2] F: 114|Σq   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & aE=aO , [9] G: n-yarılar Δ∈{m²,2m²}} → [15] MD: F∩Medenî=∅ (kF≥4)   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & aE=aO , [9] G: n-yarılar Δ∈{m²,2m²}} → [11] U: F∩G=∅   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & aE=aO , [9] G: n-yarılar Δ∈{m²,2m²}} → [5] F: katsayı bandı   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & aE=aO , [9] G: v-yarılar Δ∈{m²,2m²}} → [21] RP: F'nin tepe değeri v=114 (≥2)   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & aE=aO , [9] G: v-yarılar Δ∈{m²,2m²}} → [16] MQ: G∩MQ=∅ (kG≥4)   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & aE=aO , [9] G: v-yarılar Δ∈{m²,2m²}} → [15] MD: Medenî v-yarılara 14/14   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & aE=aO , [9] G: v-yarılar Δ∈{m²,2m²}} → [15] MD: F∩Medenî=∅ (kF≥4)   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & aE=aO , [9] G: v-yarılar Δ∈{m²,2m²}} → [12] U: m|Σw(U)   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & aE=aO , [9] G: v-yarılar Δ∈{m²,2m²}} → [11] U: |F∩G|=1   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & aE=aO , [9] G: v-yarılar Δ∈{m²,2m²}} → [3] F: m|Σn   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vO=Σn , [4] F: hücreler dengeli} → [15] MD: |G∩Medenî|≥2×bekl.   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vO=Σn , [4] F: hücreler dengeli} → [11] U: |F∩G|=1   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vO=Σn , [4] F: hücreler dengeli} → [2] F: Σq kare   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vO=Σn , [4] F: hücreler dengeli} → [2] F: m²|Σq   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vO=Σn , [4] F: hücreler dengeli} → [1] F: k≥2E   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vO=Σn , [4] F: n-yarılar m²|} → [16] MQ: F∩MQ=∅ (kF≥4)   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vO=Σn , [4] F: n-yarılar m²|} → [11] U: F∩G=∅   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vO=Σn , [4] F: n-yarılar m²|} → [5] F: katsayı bandı   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vO=Σn , [4] F: n-yarılar Δ∈{m²,2m²}} → [15] MD: Medenî v-yarılara 14/14   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vO=Σn , [4] F: n-yarılar Δ∈{m²,2m²}} → [15] MD: F∩Medenî=∅ (kF≥4)   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vO=Σn , [4] F: n-yarılar Δ∈{m²,2m²}} → [14] G: Σw=m·kG   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vO=Σn , [4] F: n-yarılar Δ∈{m²,2m²}} → [11] R: kF=kG   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vO=Σn , [4] F: n-yarılar Δ∈{m²,2m²}} → [11] U: F∩G=∅   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vO=Σn , [4] F: n-yarılar Δ∈{m²,2m²}} → [7] G: 114|Σq   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vE=Σa , [4] F: hücreler dengeli} → [15] MD: |G∩Medenî|≥2×bekl.   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vE=Σa , [4] F: hücreler dengeli} → [11] U: |F∩G|=1   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vE=Σa , [4] F: hücreler dengeli} → [2] F: Σq kare   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vE=Σa , [4] F: hücreler dengeli} → [2] F: m²|Σq   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vE=Σa , [4] F: hücreler dengeli} → [1] F: k≥2E   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vE=Σa , [4] F: n-yarılar m²|} → [16] MQ: F∩MQ=∅ (kF≥4)   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vE=Σa , [4] F: n-yarılar m²|} → [11] U: F∩G=∅   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vE=Σa , [4] F: n-yarılar m²|} → [5] F: katsayı bandı   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vE=Σa , [4] F: n-yarılar Δ∈{m²,2m²}} → [15] MD: Medenî v-yarılara 14/14   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vE=Σa , [4] F: n-yarılar Δ∈{m²,2m²}} → [15] MD: F∩Medenî=∅ (kF≥4)   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vE=Σa , [4] F: n-yarılar Δ∈{m²,2m²}} → [14] G: Σw=m·kG   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vE=Σa , [4] F: n-yarılar Δ∈{m²,2m²}} → [11] R: kF=kG   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vE=Σa , [4] F: n-yarılar Δ∈{m²,2m²}} → [11] U: F∩G=∅   n(X1∧X2)=1
+  {[0] kitap: |E|=|O| & vE=Σa , [4] F: n-yarılar Δ∈{m²,2m²}} → [7] G: 114|Σq   n(X1∧X2)=1

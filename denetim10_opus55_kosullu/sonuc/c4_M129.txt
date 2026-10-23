@@ -1,0 +1,81 @@
+# kodeks 129 sıfır M mod S iskelet 5000 R 200 K 20 | sütunlar: olgu, doğrudan ort, zincir ort, z_eşleşmemiş, z_eşleşmiş (aynı iskeletlerde fark; ölçüt)
+kitap: |E|=|O|                               1.57400e-01 1.57784e-01 +0.07 +0.07
+kitap: |E|=|O| & vE=Σa                      2.00000e-04 5.26000e-04 +1.62 +1.62
+kitap: |E|=|O| & vO=Σn                      2.00000e-04 5.26000e-04 +1.62 +1.62
+kitap: |E|=|O| & nE=aE                       2.00000e-04 2.62000e-04 +0.31 +0.31
+kitap: |E|=|O| & nE=aO                       2.00000e-04 5.26000e-04 +1.62 +1.62
+F: k≥2E                                    1.00000e+00 1.00000e+00 +0.00 +0.00   (iskelete bağlı: tamamlamayla değişmez)
+F: m²|Σq                                   1.00000e+00 1.00000e+00 +0.00 +0.00   (iskelete bağlı: tamamlamayla değişmez)
+F: Σq kare                                  1.00000e+00 1.00000e+00 +0.00 +0.00   (iskelete bağlı: tamamlamayla değişmez)
+F: Σn=Σa                                   2.20000e-03 2.20000e-03 +0.00 +0.00   (iskelete bağlı: tamamlamayla değişmez)
+F: m|Σn                                     5.16000e-02 5.16000e-02 +0.00 +0.00   (iskelete bağlı: tamamlamayla değişmez)
+F: Σn kare                                  2.08000e-02 2.08000e-02 +0.00 +0.00   (iskelete bağlı: tamamlamayla değişmez)
+F: Σa kare                                  1.90000e-02 1.90000e-02 +0.00 +0.00   (iskelete bağlı: tamamlamayla değişmez)
+F: v-yarılar eşit                          1.00000e+00 1.00000e+00 +0.00 +0.00   (iskelete bağlı: tamamlamayla değişmez)
+F: v-yarılar m²|                           1.00000e+00 1.00000e+00 +0.00 +0.00   (iskelete bağlı: tamamlamayla değişmez)
+F: n-yarılar m²|                           3.16000e-02 3.16000e-02 +0.00 +0.00   (iskelete bağlı: tamamlamayla değişmez)
+F: hücreler dengeli                         1.61400e-01 1.61400e-01 +0.00 +0.00   (iskelete bağlı: tamamlamayla değişmez)
+F: katsayı bandı                           2.77400e-01 2.77400e-01 +0.00 +0.00   (iskelete bağlı: tamamlamayla değişmez)
+G: k≥2E                                    1.66000e-02 1.46940e-02 -1.03 -1.08
+G: k=m                                       0.00000e+00 5.00000e-06 +1.89 +1.89
+G: m²|Σq                                   5.22000e-02 5.21370e-02 -0.02 -0.02
+G: Σq kare                                  1.66000e-02 1.41220e-02 -1.36 -1.37
+G: 114|Σq                                   1.19000e-01 1.28356e-01 +2.03 +2.04
+G: Σn=Σa                                   3.32000e-02 3.68190e-02 +1.42 +1.43
+G: m|Σn                                     5.08000e-02 5.31880e-02 +0.77 +0.77
+G: Σn kare                                  3.12000e-02 3.10250e-02 -0.07 -0.07
+G: Σa kare                                  3.04000e-02 3.28480e-02 +1.00 +1.00
+G: v-yarılar eşit                          5.00000e-03 6.82100e-03 +1.81 +1.82
+G: v-yarılar Δ∈{m²,2m²}                2.40000e-03 2.41800e-03 +0.03 +0.03
+G: v-yarılar m²|                           4.80000e-03 5.98700e-03 +1.21 +1.21
+G: n-yarılar eşit                          1.04000e-02 7.64900e-03 -1.91 -1.91
+G: n-yarılar Δ∈{m²,2m²}                1.60000e-03 2.55000e-03 +1.67 +1.67
+G: n-yarılar m²|                           2.20000e-03 3.19200e-03 +1.49 +1.49
+G: hücreler dengeli                         2.00000e-04 2.85000e-04 +0.42 +0.42
+G: katsayı bandı                           2.58000e-02 2.70670e-02 +0.56 +0.57
+G: katsayı adım-2                          1.38000e-02 1.32810e-02 -0.31 -0.31
+U: |U|=m                                     1.19600e-01 1.23428e-01 +0.83 +0.83
+U: F∩G=∅                                 5.97800e-01 5.97025e-01 -0.08 -1.36
+U: |F∩G|=1                                 3.46400e-01 3.46400e-01 +0.00 +0.00   (iskelete bağlı: tamamlamayla değişmez)
+R: kF=kG                                     9.20000e-03 8.84400e-03 -0.26 -0.27
+U: m|Σa(U)                                  5.06000e-02 5.25310e-02 +0.62 +0.62
+U: m|Σn(U)                                  5.54000e-02 5.27500e-02 -0.82 -0.82
+U: m|Σv(U)                                  5.24000e-02 5.55630e-02 +1.00 +1.00
+U: m|Σw(U)                                  5.16000e-02 5.16000e-02 +0.00 +0.00   (iskelete bağlı: tamamlamayla değişmez)
+U: Σv(U) kare/asal-kuvvet                   1.68000e-02 1.73810e-02 +0.32 +0.32
+U: Σa(U) kare                               1.52000e-02 1.54450e-02 +0.14 +0.14
+G: Σw=m·kG                                 3.80000e-02 3.92150e-02 +0.45 +0.45
+MD: F∩Medenî=∅ (kF≥4)                 3.12000e-02 3.12000e-02 +0.00 +0.00   (iskelete bağlı: tamamlamayla değişmez)
+MD: |F∩Medenî|≥2×bekl.                 3.98000e-02 3.98000e-02 +0.00 +0.00   (iskelete bağlı: tamamlamayla değişmez)
+MD: G∩Medenî=∅ (kG≥4)                 1.61800e-01 1.61780e-01 -0.00 -0.00
+MD: |G∩Medenî|≥2×bekl.                 9.84000e-02 1.05354e-01 +1.58 +1.70
+MD: U∩Medenî=∅ (|U|≥4)                7.40000e-03 7.85500e-03 +0.33 +0.43
+MD: |U∩Medenî|≥2×bekl.                 7.80000e-03 9.05500e-03 +0.86 +1.20
+MD: Medenî v-yarılara 14/14                1.48400e-01 1.50860e-01 +0.49 +0.49
+MD: m|Σv(Medenî)                           5.28000e-02 5.23590e-02 -0.14 -0.14
+MQ: F∩MQ=∅ (kF≥4)                      4.02000e-02 4.02000e-02 +0.00 +0.00   (iskelete bağlı: tamamlamayla değişmez)
+MQ: |F∩MQ|≥2×bekl.                      4.80000e-03 4.80000e-03 +0.00 +0.00   (iskelete bağlı: tamamlamayla değişmez)
+MQ: G∩MQ=∅ (kG≥4)                      1.68000e-01 1.64724e-01 -0.60 -0.62
+MQ: |G∩MQ|≥2×bekl.                      4.32000e-02 4.79220e-02 +1.59 +1.65
+MQ: U∩MQ=∅ (|U|≥4)                     1.16000e-02 8.60700e-03 -1.81 -2.34
+MQ: |U∩MQ|≥2×bekl.                      2.60000e-03 2.29300e-03 -0.39 -0.50
+MQ: MQ v-yarılara 14/15                     2.97200e-01 2.89013e-01 -1.25 -1.26
+MQ: m|Σv(MQ)                                6.02000e-02 5.25620e-02 -2.26 -2.26
+MQ: m|Σa(MQ)                                5.26000e-02 5.29600e-02 +0.11 +0.11
+W: kümülatif-a durakları ≥2E            1.40000e-02 1.46720e-02 +0.40 +0.40
+W: kümülatif-v durakları ≥2E            2.78000e-02 2.75060e-02 -0.13 -0.13
+AY: m|v(n)+v(115−n) çiftleri ≥2E        8.76000e-02 8.44190e-02 -0.76 -0.83
+AY: a(n)=a(115−n) çifti ≥3              2.80000e-03 1.27500e-03 -2.03 -2.04
+AY: v(n)=v(115−n) çifti ≥2              1.30000e-01 1.30794e-01 +0.16 +0.17
+BL: m²|Σv(1..57)                           4.00000e-04 3.32000e-04 -0.24 -0.24
+BL: ilk 38 ve 76'da v-parite dengesi         1.54000e-02 1.71380e-02 +0.99 +1.00
+AF: m|Σn{a≡0}                             4.62000e-02 5.28630e-02 +2.22 +2.23
+AF: Σn{a≡0} kare                          2.84000e-02 2.91730e-02 +0.33 +0.33
+NP: m|Σa{n≡0}                             5.34000e-02 5.32140e-02 -0.06 -0.06
+NP: Σa{n≡0} kare                          3.22000e-02 3.14250e-02 -0.31 -0.31
+RP: F'de aynı v ≥5 kez                    1.83600e-01 1.83600e-01 +0.00 +0.00   (iskelete bağlı: tamamlamayla değişmez)
+RP: F'nin tepe değeri v=114 (≥2)          4.83600e-01 4.83600e-01 +0.00 +0.00   (iskelete bağlı: tamamlamayla değişmez)
+RP: kitapta aynı v ≥6 kez                 1.86000e-01 1.87465e-01 +0.26 +0.27
+OLAY A (terazi)                              2.00000e-04 5.26000e-04 +1.62 +1.62
+OLAY W (İki El)                             4.20000e-03 3.84600e-03 -0.39 -0.39
+# en büyük |z_eşleşmiş| (beklenen sayı ≥ 50 olanlar) = 2.34

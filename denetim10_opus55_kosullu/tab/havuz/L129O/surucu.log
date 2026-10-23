@@ -1,0 +1,204 @@
+[2026-10-23T02:48:27Z] BAŞLA ['129', 'L', 'O', '3291001', '100', '1000', 'tab/havuz/L129O', '3', '16']
+[2026-10-23T02:59:43Z] 3291001 bitti rc=0 676s  | harcanan 0.19 çekirdek-saat
+[2026-10-23T03:00:08Z] 3291002 bitti rc=0 701s  | harcanan 0.57 çekirdek-saat
+[2026-10-23T03:00:08Z] 3291003 bitti rc=0 693s  | harcanan 0.57 çekirdek-saat
+[2026-10-23T03:09:56Z] 3291004 bitti rc=0 613s  | harcanan 0.75 çekirdek-saat
+[2026-10-23T03:11:20Z] 3291005 bitti rc=0 680s  | harcanan 1.10 çekirdek-saat
+[2026-10-23T03:11:20Z] 3291006 bitti rc=0 612s  | harcanan 1.10 çekirdek-saat
+[2026-10-23T03:20:31Z] 3291007 bitti rc=0 635s  | harcanan 1.28 çekirdek-saat
+[2026-10-23T03:21:28Z] 3291008 bitti rc=0 668s  | harcanan 1.63 çekirdek-saat
+[2026-10-23T03:21:28Z] 3291009 bitti rc=0 602s  | harcanan 1.63 çekirdek-saat
+[2026-10-23T03:37:40Z] 3291010 bitti rc=0 1029s  | harcanan 1.92 çekirdek-saat
+[2026-10-23T03:39:07Z] 3291011 bitti rc=0 1065s  | harcanan 2.21 çekirdek-saat
+[2026-10-23T03:39:20Z] 3291012 bitti rc=0 1072s  | harcanan 2.51 çekirdek-saat
+[2026-10-23T03:56:42Z] 3291013 bitti rc=0 1142s  | harcanan 2.83 çekirdek-saat
+[2026-10-23T03:56:56Z] 3291014 bitti rc=0 1068s  | harcanan 3.13 çekirdek-saat
+[2026-10-23T03:57:18Z] 3291015 bitti rc=0 1078s  | harcanan 3.43 çekirdek-saat
+[2026-10-23T04:08:54Z] 3291016 bitti rc=0 732s  | harcanan 3.63 çekirdek-saat
+[2026-10-23T04:09:13Z] 3291017 bitti rc=0 737s  | harcanan 3.83 çekirdek-saat
+[2026-10-23T04:09:13Z] 3291018 bitti rc=0 715s  | harcanan 4.03 çekirdek-saat
+[2026-10-23T04:21:01Z] 3291019 bitti rc=0 728s  | harcanan 4.23 çekirdek-saat
+[2026-10-23T04:21:29Z] 3291020 bitti rc=0 737s  | harcanan 4.44 çekirdek-saat
+[2026-10-23T04:21:40Z] 3291021 bitti rc=0 747s  | harcanan 4.65 çekirdek-saat
+[2026-10-23T04:33:35Z] 3291022 bitti rc=0 754s  | harcanan 4.86 çekirdek-saat
+[2026-10-23T04:34:00Z] 3291023 bitti rc=0 750s  | harcanan 5.06 çekirdek-saat
+[2026-10-23T04:34:06Z] 3291024 bitti rc=0 747s  | harcanan 5.27 çekirdek-saat
+[2026-10-23T04:45:01Z] 3291025 bitti rc=0 686s  | harcanan 5.46 çekirdek-saat
+[2026-10-23T04:45:25Z] 3291026 bitti rc=0 685s  | harcanan 5.65 çekirdek-saat
+[2026-10-23T04:45:57Z] 3291027 bitti rc=0 710s  | harcanan 5.85 çekirdek-saat
+[2026-10-23T04:59:26Z] 3291028 bitti rc=0 865s  | harcanan 6.32 çekirdek-saat
+[2026-10-23T04:59:26Z] 3291029 bitti rc=0 810s  | harcanan 6.32 çekirdek-saat
+[2026-10-23T05:00:12Z] 3291030 bitti rc=0 855s  | harcanan 6.55 çekirdek-saat
+[2026-10-23T05:00:35Z] BAŞLA ['129', 'L', 'O', '3291001', '100', '1000', 'tab/havuz/L129O', '2', '16']
+[2026-10-23T05:11:12Z] 3291031 bitti rc=0 737s  | harcanan 6.76 çekirdek-saat
+[2026-10-23T05:11:34Z] 3291032 bitti rc=0 727s  | harcanan 6.96 çekirdek-saat
+[2026-10-23T05:12:41Z] 3291033 bitti rc=0 749s  | harcanan 7.17 çekirdek-saat
+[2026-10-23T05:12:43Z] 3291100 bitti rc=0 728s  | harcanan 7.37 çekirdek-saat
+[2026-10-23T05:14:21Z] 3291099 bitti rc=0 826s  | harcanan 7.60 çekirdek-saat
+[2026-10-23T05:23:35Z] 3291034 bitti rc=0 743s  | harcanan 7.81 çekirdek-saat
+[2026-10-23T05:24:13Z] 3291035 bitti rc=0 759s  | harcanan 8.02 çekirdek-saat
+[2026-10-23T05:24:21Z] 3291036 bitti rc=0 700s  | harcanan 8.21 çekirdek-saat
+[2026-10-23T05:25:04Z] 3291098 bitti rc=0 740s  | harcanan 8.42 çekirdek-saat
+[2026-10-23T05:26:16Z] 3291097 bitti rc=0 715s  | harcanan 8.62 çekirdek-saat
+[2026-10-23T05:35:20Z] 3291037 bitti rc=0 705s  | harcanan 8.99 çekirdek-saat
+[2026-10-23T05:35:30Z] 3291038 bitti rc=0 677s  | harcanan 9.18 çekirdek-saat
+[2026-10-23T05:35:30Z] 3291039 bitti rc=0 657s  | harcanan 9.18 çekirdek-saat
+[2026-10-23T05:36:13Z] 3291096 bitti rc=0 670s  | harcanan 9.37 çekirdek-saat
+[2026-10-23T05:37:36Z] 3291095 bitti rc=0 680s  | harcanan 9.56 çekirdek-saat
+[2026-10-23T05:46:21Z] 3291040 bitti rc=0 664s  | harcanan 9.74 çekirdek-saat
+[2026-10-23T05:46:56Z] 3291041 bitti rc=0 696s  | harcanan 9.93 çekirdek-saat
+[2026-10-23T05:47:02Z] 3291042 bitti rc=0 692s  | harcanan 10.13 çekirdek-saat
+[2026-10-23T05:47:47Z] 3291094 bitti rc=0 694s  | harcanan 10.32 çekirdek-saat
+[2026-10-23T05:50:06Z] 3291093 bitti rc=0 749s  | harcanan 10.53 çekirdek-saat
+[2026-10-23T05:57:37Z] 3291043 bitti rc=0 676s  | harcanan 10.72 çekirdek-saat
+[2026-10-23T05:58:25Z] 3291044 bitti rc=0 689s  | harcanan 11.09 çekirdek-saat
+[2026-10-23T05:58:25Z] 3291045 bitti rc=0 675s  | harcanan 11.09 çekirdek-saat
+[2026-10-23T05:59:28Z] 3291092 bitti rc=0 701s  | harcanan 11.29 çekirdek-saat
+[2026-10-23T06:01:52Z] 3291091 bitti rc=0 707s  | harcanan 11.48 çekirdek-saat
+[2026-10-23T06:09:12Z] 3291046 bitti rc=0 695s  | harcanan 11.68 çekirdek-saat
+[2026-10-23T06:09:24Z] 3291047 bitti rc=0 667s  | harcanan 11.86 çekirdek-saat
+[2026-10-23T06:09:47Z] 3291048 bitti rc=0 682s  | harcanan 12.05 çekirdek-saat
+[2026-10-23T06:11:36Z] 3291090 bitti rc=0 728s  | harcanan 12.25 çekirdek-saat
+[2026-10-23T06:14:21Z] 3291089 bitti rc=0 749s  | harcanan 12.46 çekirdek-saat
+[2026-10-23T06:20:57Z] 3291049 bitti rc=0 705s  | harcanan 12.66 çekirdek-saat
+[2026-10-23T06:21:39Z] 3291050 bitti rc=0 735s  | harcanan 13.06 çekirdek-saat
+[2026-10-23T06:21:39Z] 3291051 bitti rc=0 708s  | harcanan 13.06 çekirdek-saat
+[2026-10-23T06:23:28Z] 3291088 bitti rc=0 712s  | harcanan 13.26 çekirdek-saat
+[2026-10-23T06:26:34Z] 3291087 bitti rc=0 733s  | harcanan 13.46 çekirdek-saat
+[2026-10-23T06:32:30Z] 3291052 bitti rc=0 693s  | harcanan 13.65 çekirdek-saat
+[2026-10-23T06:33:22Z] 3291053 bitti rc=0 707s  | harcanan 13.85 çekirdek-saat
+[2026-10-23T06:34:01Z] 3291054 bitti rc=0 742s  | harcanan 14.06 çekirdek-saat
+[2026-10-23T06:35:19Z] 3291086 bitti rc=0 710s  | harcanan 14.25 çekirdek-saat
+[2026-10-23T06:38:43Z] 3291085 bitti rc=0 729s  | harcanan 14.46 çekirdek-saat
+[2026-10-23T06:44:10Z] 3291055 bitti rc=0 700s  | harcanan 14.65 çekirdek-saat
+[2026-10-23T06:45:00Z] 3291056 bitti rc=0 698s  | harcanan 14.84 çekirdek-saat
+[2026-10-23T06:45:14Z] 3291057 bitti rc=0 673s  | harcanan 15.03 çekirdek-saat
+[2026-10-23T06:46:47Z] 3291084 bitti rc=0 688s  | harcanan 15.22 çekirdek-saat
+[2026-10-23T06:50:06Z] 3291083 bitti rc=0 683s  | harcanan 15.41 çekirdek-saat
+[2026-10-23T06:56:02Z] 3291058 bitti rc=0 712s  | harcanan 15.61 çekirdek-saat
+[2026-10-23T06:56:06Z] 3291059 bitti rc=0 666s  | harcanan 15.79 çekirdek-saat
+[2026-10-23T06:56:30Z] 3291060 bitti rc=0 677s  | harcanan 15.98 çekirdek-saat
+[2026-10-23T06:58:32Z] 3291082 bitti rc=0 705s  | harcanan 16.18 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291081 bitti rc=0 686s  | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291080 TAVAN | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291079 TAVAN | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291078 TAVAN | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291077 TAVAN | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291076 TAVAN | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291075 TAVAN | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291074 TAVAN | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291073 TAVAN | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291072 TAVAN | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291071 TAVAN | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291070 TAVAN | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291069 TAVAN | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291068 TAVAN | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291067 TAVAN | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291066 TAVAN | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291065 TAVAN | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291064 TAVAN | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291063 başka sürücüde sürüyor | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291062 başka sürücüde sürüyor | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291061 başka sürücüde sürüyor | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291060 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291059 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291058 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291057 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291056 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291055 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291054 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291053 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291052 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291051 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291050 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291049 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291048 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291047 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291046 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291045 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291044 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291043 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291042 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291041 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291040 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291039 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291038 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291037 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291036 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291035 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291034 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291033 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291032 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291031 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291030 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291029 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291028 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291027 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291026 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291025 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291024 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291023 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291022 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291021 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291020 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291019 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291018 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291017 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291016 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291015 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291014 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291013 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291012 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291011 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291010 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291009 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291008 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291007 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291006 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291005 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291004 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291003 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291002 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] 3291001 mevcut | harcanan 16.37 çekirdek-saat
+[2026-10-23T07:01:32Z] BİTTİ
+[2026-10-23T07:05:44Z] 3291061 bitti rc=0 582s  | harcanan 16.53 çekirdek-saat
+[2026-10-23T07:06:00Z] 3291062 bitti rc=0 594s  | harcanan 16.70 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291063 bitti rc=0 592s  | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291064 TAVAN | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291065 TAVAN | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291066 TAVAN | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291067 TAVAN | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291068 TAVAN | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291069 TAVAN | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291070 TAVAN | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291071 TAVAN | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291072 TAVAN | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291073 TAVAN | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291074 TAVAN | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291075 TAVAN | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291076 TAVAN | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291077 TAVAN | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291078 TAVAN | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291079 TAVAN | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291080 TAVAN | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291081 mevcut | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291082 mevcut | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291083 mevcut | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291084 mevcut | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291085 mevcut | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291086 mevcut | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291087 mevcut | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291088 mevcut | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291089 mevcut | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291090 mevcut | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291091 mevcut | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291092 mevcut | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291093 mevcut | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291094 mevcut | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291095 mevcut | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291096 mevcut | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291097 mevcut | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291098 mevcut | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291099 mevcut | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] 3291100 mevcut | harcanan 16.86 çekirdek-saat
+[2026-10-23T07:06:23Z] BİTTİ

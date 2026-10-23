@@ -1,0 +1,4 @@
+ONKAYIT.md SHA-256 4608859bd46f5951c8eac47a0a3901f4fac6747295fe7360d0b8ecc35ec71159
+Dondurma zamanı (UTC) 2026-10-23T02:48:18Z
+Kod özetleri: sonuc/onkayit_kod_sha256.txt (SHA-256 5136b29612bf30479d00d5eb4e36770d4d06d40ae888e4fa30d9371fa85db13f)
+Durum: hiçbir rastgele kitabın koşullu puanı hesaplanmadan donduruldu.

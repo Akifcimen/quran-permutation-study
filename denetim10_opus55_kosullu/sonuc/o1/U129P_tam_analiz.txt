@@ -1,0 +1,8 @@
+# kodeks 129 koşul P sıfır U N=104514 | Kur'an T2*=6.2521 | yakın (≥Q−2.00) 22173 kitap, bant [Q−3.00, Q−2.00) 500 örnek | düzey-2 iskelet 0, R=50, K=20, MCAP=2000
+# sahip T2* T2 düzey h1 nF m h2toplam h2kare h2isabet P_tam S_tam=-log10(P) | hikâye (onaltılık)
+Kur'an: T2*=6.252  düzey 1  P_tam=0.000e+00  S_tam=99.000  (h1=0, nF=0, m=0, isabet=0)  D=S_tam−T2*=+92.748
+değerlendirilen rakip 22673 (yakın 22173); nokta kestirimle Kur'an'ı tam puanla geçen/eşleyen k_tam = 10520
+sonsal (4.000): k_tam medyan 5388, %95 [244, 15542] → p_tam = (k+1)/(N+1) medyan 5.156e-02
+denetim bandı: 500 kitap, Kur'an'ı tam puanla geçen 4
+düzey-2'de 30'dan az isabetli hikâye: 0 (bunlarda iskeletler arası sapma aralığa girmedi)
+rakiplerin D = S_tam − T2* dağılımı: medyan +0.38, çeyrekler [-0.16, +93.00]
