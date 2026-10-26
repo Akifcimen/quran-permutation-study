@@ -1,0 +1,713 @@
+{
+  "uniform": {
+    "unrestricted": {
+      "upper_bound": 36.82197011942378,
+      "maximizing_relaxed_configuration": {
+        "variant": 129,
+        "active": 15,
+        "partition": [
+          15
+        ],
+        "blocks": [
+          {
+            "modules": 15,
+            "form": 6,
+            "prime": 83,
+            "G": 2,
+            "C": 7,
+            "W": 3,
+            "M": 11,
+            "view": 0,
+            "utilities": [
+              16.609647687893982,
+              14.609647687893982,
+              16.609647687893982,
+              8.150216069256686
+            ],
+            "logical_bounds": {
+              "F_count_bounds": [
+                0,
+                64
+              ],
+              "F_weighted_bounds": [
+                0,
+                13363
+              ],
+              "union_count_bounds": [
+                0,
+                83
+              ],
+              "G_balance_sum_bounds": [
+                5344,
+                8584
+              ]
+            }
+          }
+        ]
+      },
+      "warning": "Upper bound only; maximizing modules/residues need not be jointly realizable."
+    },
+    "no_C": {
+      "upper_bound": 23.797284932250957,
+      "maximizing_relaxed_configuration": {
+        "variant": 129,
+        "active": 13,
+        "partition": [
+          13
+        ],
+        "blocks": [
+          {
+            "modules": 13,
+            "form": 6,
+            "prime": 83,
+            "G": 2,
+            "C": 0,
+            "W": 3,
+            "M": 11,
+            "view": 0,
+            "utilities": [
+              16.609647687893982,
+              null,
+              16.609647687893982,
+              8.150216069256686
+            ],
+            "logical_bounds": {
+              "F_count_bounds": [
+                0,
+                64
+              ],
+              "F_weighted_bounds": [
+                0,
+                13363
+              ],
+              "union_count_bounds": [
+                0,
+                83
+              ],
+              "G_balance_sum_bounds": [
+                5344,
+                8584
+              ]
+            }
+          }
+        ]
+      },
+      "warning": "Upper bound only; maximizing modules/residues need not be jointly realizable."
+    },
+    "no_C15": {
+      "upper_bound": 36.82197011942378,
+      "maximizing_relaxed_configuration": {
+        "variant": 129,
+        "active": 15,
+        "partition": [
+          15
+        ],
+        "blocks": [
+          {
+            "modules": 15,
+            "form": 6,
+            "prime": 83,
+            "G": 2,
+            "C": 7,
+            "W": 3,
+            "M": 11,
+            "view": 0,
+            "utilities": [
+              16.609647687893982,
+              14.609647687893982,
+              16.609647687893982,
+              8.150216069256686
+            ],
+            "logical_bounds": {
+              "F_count_bounds": [
+                0,
+                64
+              ],
+              "F_weighted_bounds": [
+                0,
+                13363
+              ],
+              "union_count_bounds": [
+                0,
+                83
+              ],
+              "G_balance_sum_bounds": [
+                5344,
+                8584
+              ]
+            }
+          }
+        ]
+      },
+      "warning": "Upper bound only; maximizing modules/residues need not be jointly realizable."
+    },
+    "no_natural_C15": {
+      "upper_bound": 36.82197011942378,
+      "maximizing_relaxed_configuration": {
+        "variant": 129,
+        "active": 15,
+        "partition": [
+          15
+        ],
+        "blocks": [
+          {
+            "modules": 15,
+            "form": 6,
+            "prime": 83,
+            "G": 2,
+            "C": 7,
+            "W": 3,
+            "M": 11,
+            "view": 0,
+            "utilities": [
+              16.609647687893982,
+              14.609647687893982,
+              16.609647687893982,
+              8.150216069256686
+            ],
+            "logical_bounds": {
+              "F_count_bounds": [
+                0,
+                64
+              ],
+              "F_weighted_bounds": [
+                0,
+                13363
+              ],
+              "union_count_bounds": [
+                0,
+                83
+              ],
+              "G_balance_sum_bounds": [
+                5344,
+                8584
+              ]
+            }
+          }
+        ]
+      },
+      "warning": "Upper bound only; maximizing modules/residues need not be jointly realizable."
+    },
+    "no_natural_C": {
+      "upper_bound": 36.82197011942378,
+      "maximizing_relaxed_configuration": {
+        "variant": 129,
+        "active": 15,
+        "partition": [
+          15
+        ],
+        "blocks": [
+          {
+            "modules": 15,
+            "form": 6,
+            "prime": 83,
+            "G": 2,
+            "C": 7,
+            "W": 3,
+            "M": 11,
+            "view": 0,
+            "utilities": [
+              16.609647687893982,
+              14.609647687893982,
+              16.609647687893982,
+              8.150216069256686
+            ],
+            "logical_bounds": {
+              "F_count_bounds": [
+                0,
+                64
+              ],
+              "F_weighted_bounds": [
+                0,
+                13363
+              ],
+              "union_count_bounds": [
+                0,
+                83
+              ],
+              "G_balance_sum_bounds": [
+                5344,
+                8584
+              ]
+            }
+          }
+        ]
+      },
+      "warning": "Upper bound only; maximizing modules/residues need not be jointly realizable."
+    }
+  },
+  "block6": {
+    "unrestricted": {
+      "upper_bound": 27.55624853414808,
+      "maximizing_relaxed_configuration": {
+        "variant": 129,
+        "active": 15,
+        "partition": [
+          15
+        ],
+        "blocks": [
+          {
+            "modules": 15,
+            "form": 4,
+            "prime": 31,
+            "G": 3,
+            "C": 7,
+            "W": 3,
+            "M": 15,
+            "view": 4,
+            "utilities": [
+              9.09394784960994,
+              14.609647687893982,
+              16.609647687893982,
+              6.400194322265033
+            ],
+            "logical_bounds": {
+              "F_count_bounds": [
+                0,
+                19
+              ],
+              "F_weighted_bounds": [
+                0,
+                3720
+              ],
+              "union_count_bounds": [
+                0,
+                35
+              ],
+              "G_balance_sum_bounds": [
+                1832,
+                10962
+              ]
+            }
+          }
+        ]
+      },
+      "warning": "Upper bound only; maximizing modules/residues need not be jointly realizable."
+    },
+    "no_C": {
+      "upper_bound": 14.531563346975258,
+      "maximizing_relaxed_configuration": {
+        "variant": 129,
+        "active": 13,
+        "partition": [
+          13
+        ],
+        "blocks": [
+          {
+            "modules": 13,
+            "form": 4,
+            "prime": 31,
+            "G": 3,
+            "C": 0,
+            "W": 3,
+            "M": 15,
+            "view": 4,
+            "utilities": [
+              9.09394784960994,
+              null,
+              16.609647687893982,
+              6.400194322265033
+            ],
+            "logical_bounds": {
+              "F_count_bounds": [
+                0,
+                19
+              ],
+              "F_weighted_bounds": [
+                0,
+                3720
+              ],
+              "union_count_bounds": [
+                0,
+                35
+              ],
+              "G_balance_sum_bounds": [
+                1832,
+                10962
+              ]
+            }
+          }
+        ]
+      },
+      "warning": "Upper bound only; maximizing modules/residues need not be jointly realizable."
+    },
+    "no_C15": {
+      "upper_bound": 27.55624853414808,
+      "maximizing_relaxed_configuration": {
+        "variant": 129,
+        "active": 15,
+        "partition": [
+          15
+        ],
+        "blocks": [
+          {
+            "modules": 15,
+            "form": 4,
+            "prime": 31,
+            "G": 3,
+            "C": 7,
+            "W": 3,
+            "M": 15,
+            "view": 4,
+            "utilities": [
+              9.09394784960994,
+              14.609647687893982,
+              16.609647687893982,
+              6.400194322265033
+            ],
+            "logical_bounds": {
+              "F_count_bounds": [
+                0,
+                19
+              ],
+              "F_weighted_bounds": [
+                0,
+                3720
+              ],
+              "union_count_bounds": [
+                0,
+                35
+              ],
+              "G_balance_sum_bounds": [
+                1832,
+                10962
+              ]
+            }
+          }
+        ]
+      },
+      "warning": "Upper bound only; maximizing modules/residues need not be jointly realizable."
+    },
+    "no_natural_C15": {
+      "upper_bound": 27.55624853414808,
+      "maximizing_relaxed_configuration": {
+        "variant": 129,
+        "active": 15,
+        "partition": [
+          15
+        ],
+        "blocks": [
+          {
+            "modules": 15,
+            "form": 4,
+            "prime": 31,
+            "G": 3,
+            "C": 7,
+            "W": 3,
+            "M": 15,
+            "view": 4,
+            "utilities": [
+              9.09394784960994,
+              14.609647687893982,
+              16.609647687893982,
+              6.400194322265033
+            ],
+            "logical_bounds": {
+              "F_count_bounds": [
+                0,
+                19
+              ],
+              "F_weighted_bounds": [
+                0,
+                3720
+              ],
+              "union_count_bounds": [
+                0,
+                35
+              ],
+              "G_balance_sum_bounds": [
+                1832,
+                10962
+              ]
+            }
+          }
+        ]
+      },
+      "warning": "Upper bound only; maximizing modules/residues need not be jointly realizable."
+    },
+    "no_natural_C": {
+      "upper_bound": 27.55624853414808,
+      "maximizing_relaxed_configuration": {
+        "variant": 129,
+        "active": 15,
+        "partition": [
+          15
+        ],
+        "blocks": [
+          {
+            "modules": 15,
+            "form": 4,
+            "prime": 31,
+            "G": 3,
+            "C": 7,
+            "W": 3,
+            "M": 15,
+            "view": 4,
+            "utilities": [
+              9.09394784960994,
+              14.609647687893982,
+              16.609647687893982,
+              6.400194322265033
+            ],
+            "logical_bounds": {
+              "F_count_bounds": [
+                0,
+                19
+              ],
+              "F_weighted_bounds": [
+                0,
+                3720
+              ],
+              "union_count_bounds": [
+                0,
+                35
+              ],
+              "G_balance_sum_bounds": [
+                1832,
+                10962
+              ]
+            }
+          }
+        ]
+      },
+      "warning": "Upper bound only; maximizing modules/residues need not be jointly realizable."
+    }
+  },
+  "inversion_exact": {
+    "unrestricted": {
+      "upper_bound": 36.58096201991998,
+      "maximizing_relaxed_configuration": {
+        "variant": 129,
+        "active": 15,
+        "partition": [
+          15
+        ],
+        "blocks": [
+          {
+            "modules": 15,
+            "form": 6,
+            "prime": 83,
+            "G": 2,
+            "C": 7,
+            "W": 3,
+            "M": 11,
+            "view": 0,
+            "utilities": [
+              16.609647687893982,
+              14.609647687893982,
+              16.609647687893982,
+              7.90920796975289
+            ],
+            "logical_bounds": {
+              "F_count_bounds": [
+                0,
+                64
+              ],
+              "F_weighted_bounds": [
+                0,
+                13363
+              ],
+              "union_count_bounds": [
+                0,
+                83
+              ],
+              "G_balance_sum_bounds": [
+                5344,
+                8584
+              ]
+            }
+          }
+        ]
+      },
+      "warning": "Upper bound only; maximizing modules/residues need not be jointly realizable."
+    },
+    "no_C": {
+      "upper_bound": 23.556276832747162,
+      "maximizing_relaxed_configuration": {
+        "variant": 129,
+        "active": 13,
+        "partition": [
+          13
+        ],
+        "blocks": [
+          {
+            "modules": 13,
+            "form": 6,
+            "prime": 83,
+            "G": 2,
+            "C": 0,
+            "W": 3,
+            "M": 11,
+            "view": 0,
+            "utilities": [
+              16.609647687893982,
+              null,
+              16.609647687893982,
+              7.90920796975289
+            ],
+            "logical_bounds": {
+              "F_count_bounds": [
+                0,
+                64
+              ],
+              "F_weighted_bounds": [
+                0,
+                13363
+              ],
+              "union_count_bounds": [
+                0,
+                83
+              ],
+              "G_balance_sum_bounds": [
+                5344,
+                8584
+              ]
+            }
+          }
+        ]
+      },
+      "warning": "Upper bound only; maximizing modules/residues need not be jointly realizable."
+    },
+    "no_C15": {
+      "upper_bound": 36.58096201991998,
+      "maximizing_relaxed_configuration": {
+        "variant": 129,
+        "active": 15,
+        "partition": [
+          15
+        ],
+        "blocks": [
+          {
+            "modules": 15,
+            "form": 6,
+            "prime": 83,
+            "G": 2,
+            "C": 7,
+            "W": 3,
+            "M": 11,
+            "view": 0,
+            "utilities": [
+              16.609647687893982,
+              14.609647687893982,
+              16.609647687893982,
+              7.90920796975289
+            ],
+            "logical_bounds": {
+              "F_count_bounds": [
+                0,
+                64
+              ],
+              "F_weighted_bounds": [
+                0,
+                13363
+              ],
+              "union_count_bounds": [
+                0,
+                83
+              ],
+              "G_balance_sum_bounds": [
+                5344,
+                8584
+              ]
+            }
+          }
+        ]
+      },
+      "warning": "Upper bound only; maximizing modules/residues need not be jointly realizable."
+    },
+    "no_natural_C15": {
+      "upper_bound": 36.58096201991998,
+      "maximizing_relaxed_configuration": {
+        "variant": 129,
+        "active": 15,
+        "partition": [
+          15
+        ],
+        "blocks": [
+          {
+            "modules": 15,
+            "form": 6,
+            "prime": 83,
+            "G": 2,
+            "C": 7,
+            "W": 3,
+            "M": 11,
+            "view": 0,
+            "utilities": [
+              16.609647687893982,
+              14.609647687893982,
+              16.609647687893982,
+              7.90920796975289
+            ],
+            "logical_bounds": {
+              "F_count_bounds": [
+                0,
+                64
+              ],
+              "F_weighted_bounds": [
+                0,
+                13363
+              ],
+              "union_count_bounds": [
+                0,
+                83
+              ],
+              "G_balance_sum_bounds": [
+                5344,
+                8584
+              ]
+            }
+          }
+        ]
+      },
+      "warning": "Upper bound only; maximizing modules/residues need not be jointly realizable."
+    },
+    "no_natural_C": {
+      "upper_bound": 36.58096201991998,
+      "maximizing_relaxed_configuration": {
+        "variant": 129,
+        "active": 15,
+        "partition": [
+          15
+        ],
+        "blocks": [
+          {
+            "modules": 15,
+            "form": 6,
+            "prime": 83,
+            "G": 2,
+            "C": 7,
+            "W": 3,
+            "M": 11,
+            "view": 0,
+            "utilities": [
+              16.609647687893982,
+              14.609647687893982,
+              16.609647687893982,
+              7.90920796975289
+            ],
+            "logical_bounds": {
+              "F_count_bounds": [
+                0,
+                64
+              ],
+              "F_weighted_bounds": [
+                0,
+                13363
+              ],
+              "union_count_bounds": [
+                0,
+                83
+              ],
+              "G_balance_sum_bounds": [
+                5344,
+                8584
+              ]
+            }
+          }
+        ]
+      },
+      "warning": "Upper bound only; maximizing modules/residues need not be jointly realizable."
+    }
+  }
+}

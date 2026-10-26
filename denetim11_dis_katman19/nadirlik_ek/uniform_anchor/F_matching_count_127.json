@@ -1,0 +1,688 @@
+{
+  "phase": "feasibility, no production importance estimates",
+  "variant": 127,
+  "patterns": [
+    [
+      [
+        4,
+        8,
+        8
+      ],
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [
+        5,
+        5,
+        9
+      ]
+    ],
+    [
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        4,
+        8,
+        8
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [
+        5,
+        5,
+        9
+      ]
+    ],
+    [
+      [
+        4,
+        8,
+        8
+      ],
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [
+        5,
+        7,
+        7
+      ]
+    ],
+    [
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        4,
+        8,
+        8
+      ],
+      [
+        3,
+        7,
+        9
+      ],
+      [
+        5,
+        7,
+        7
+      ]
+    ],
+    [
+      [
+        4,
+        8,
+        8
+      ],
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        5,
+        5,
+        9
+      ],
+      [
+        3,
+        7,
+        9
+      ]
+    ],
+    [
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        4,
+        8,
+        8
+      ],
+      [
+        5,
+        5,
+        9
+      ],
+      [
+        3,
+        7,
+        9
+      ]
+    ],
+    [
+      [
+        4,
+        8,
+        8
+      ],
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        5,
+        5,
+        9
+      ],
+      [
+        5,
+        7,
+        7
+      ]
+    ],
+    [
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        4,
+        8,
+        8
+      ],
+      [
+        5,
+        5,
+        9
+      ],
+      [
+        5,
+        7,
+        7
+      ]
+    ],
+    [
+      [
+        4,
+        8,
+        8
+      ],
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        5,
+        7,
+        7
+      ],
+      [
+        3,
+        7,
+        9
+      ]
+    ],
+    [
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        4,
+        8,
+        8
+      ],
+      [
+        5,
+        7,
+        7
+      ],
+      [
+        3,
+        7,
+        9
+      ]
+    ],
+    [
+      [
+        4,
+        8,
+        8
+      ],
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        5,
+        7,
+        7
+      ],
+      [
+        5,
+        5,
+        9
+      ]
+    ],
+    [
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        4,
+        8,
+        8
+      ],
+      [
+        5,
+        7,
+        7
+      ],
+      [
+        5,
+        5,
+        9
+      ]
+    ],
+    [
+      [
+        4,
+        8,
+        8
+      ],
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        5,
+        7,
+        7
+      ],
+      [
+        5,
+        7,
+        7
+      ]
+    ],
+    [
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        4,
+        8,
+        8
+      ],
+      [
+        5,
+        7,
+        7
+      ],
+      [
+        5,
+        7,
+        7
+      ]
+    ],
+    [
+      [
+        6,
+        6,
+        8
+      ],
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        5,
+        5,
+        9
+      ],
+      [
+        5,
+        7,
+        7
+      ]
+    ],
+    [
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        6,
+        6,
+        8
+      ],
+      [
+        5,
+        5,
+        9
+      ],
+      [
+        5,
+        7,
+        7
+      ]
+    ],
+    [
+      [
+        6,
+        6,
+        8
+      ],
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        5,
+        7,
+        7
+      ],
+      [
+        5,
+        5,
+        9
+      ]
+    ],
+    [
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        6,
+        6,
+        8
+      ],
+      [
+        5,
+        7,
+        7
+      ],
+      [
+        5,
+        5,
+        9
+      ]
+    ],
+    [
+      [
+        6,
+        6,
+        8
+      ],
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        5,
+        7,
+        7
+      ],
+      [
+        5,
+        7,
+        7
+      ]
+    ],
+    [
+      [
+        6,
+        6,
+        6
+      ],
+      [
+        6,
+        6,
+        8
+      ],
+      [
+        5,
+        7,
+        7
+      ],
+      [
+        5,
+        7,
+        7
+      ]
+    ]
+  ],
+  "classes": [
+    [
+      0,
+      4
+    ],
+    [
+      0,
+      6
+    ],
+    [
+      0,
+      8
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      1,
+      6
+    ],
+    [
+      1,
+      8
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      2,
+      9
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      3,
+      5
+    ],
+    [
+      3,
+      7
+    ],
+    [
+      3,
+      9
+    ]
+  ],
+  "local_groups": [
+    {
+      "residue": 1,
+      "row_count": 6,
+      "column_count": 7,
+      "allowed_F_edges": 31,
+      "partial_matchings": 6433,
+      "distinct_signatures": 1282
+    },
+    {
+      "residue": 2,
+      "row_count": 6,
+      "column_count": 5,
+      "allowed_F_edges": 24,
+      "partial_matchings": 1773,
+      "distinct_signatures": 1148
+    },
+    {
+      "residue": 3,
+      "row_count": 6,
+      "column_count": 7,
+      "allowed_F_edges": 31,
+      "partial_matchings": 6783,
+      "distinct_signatures": 1356
+    },
+    {
+      "residue": 4,
+      "row_count": 6,
+      "column_count": 4,
+      "allowed_F_edges": 19,
+      "partial_matchings": 504,
+      "distinct_signatures": 396
+    },
+    {
+      "residue": 5,
+      "row_count": 6,
+      "column_count": 6,
+      "allowed_F_edges": 29,
+      "partial_matchings": 5159,
+      "distinct_signatures": 697
+    },
+    {
+      "residue": 6,
+      "row_count": 6,
+      "column_count": 4,
+      "allowed_F_edges": 13,
+      "partial_matchings": 142,
+      "distinct_signatures": 88
+    },
+    {
+      "residue": 7,
+      "row_count": 6,
+      "column_count": 7,
+      "allowed_F_edges": 35,
+      "partial_matchings": 15706,
+      "distinct_signatures": 2669
+    },
+    {
+      "residue": 8,
+      "row_count": 6,
+      "column_count": 10,
+      "allowed_F_edges": 41,
+      "partial_matchings": 28357,
+      "distinct_signatures": 480
+    },
+    {
+      "residue": 9,
+      "row_count": 6,
+      "column_count": 4,
+      "allowed_F_edges": 15,
+      "partial_matchings": 136,
+      "distinct_signatures": 26
+    },
+    {
+      "residue": 10,
+      "row_count": 6,
+      "column_count": 5,
+      "allowed_F_edges": 22,
+      "partial_matchings": 1307,
+      "distinct_signatures": 572
+    },
+    {
+      "residue": 11,
+      "row_count": 6,
+      "column_count": 6,
+      "allowed_F_edges": 26,
+      "partial_matchings": 2047,
+      "distinct_signatures": 56
+    },
+    {
+      "residue": 12,
+      "row_count": 6,
+      "column_count": 7,
+      "allowed_F_edges": 36,
+      "partial_matchings": 17544,
+      "distinct_signatures": 2599
+    },
+    {
+      "residue": 13,
+      "row_count": 6,
+      "column_count": 5,
+      "allowed_F_edges": 22,
+      "partial_matchings": 1274,
+      "distinct_signatures": 513
+    },
+    {
+      "residue": 14,
+      "row_count": 6,
+      "column_count": 8,
+      "allowed_F_edges": 33,
+      "partial_matchings": 9190,
+      "distinct_signatures": 761
+    },
+    {
+      "residue": 15,
+      "row_count": 6,
+      "column_count": 5,
+      "allowed_F_edges": 21,
+      "partial_matchings": 1126,
+      "distinct_signatures": 448
+    },
+    {
+      "residue": 16,
+      "row_count": 6,
+      "column_count": 8,
+      "allowed_F_edges": 38,
+      "partial_matchings": 26525,
+      "distinct_signatures": 1432
+    },
+    {
+      "residue": 17,
+      "row_count": 6,
+      "column_count": 7,
+      "allowed_F_edges": 35,
+      "partial_matchings": 14850,
+      "distinct_signatures": 2774
+    },
+    {
+      "residue": 18,
+      "row_count": 6,
+      "column_count": 5,
+      "allowed_F_edges": 19,
+      "partial_matchings": 504,
+      "distinct_signatures": 227
+    }
+  ],
+  "excluded_residue0_reason": "Every F edge with n and a divisible by19 also belongs to H, violating W disjointness.",
+  "local_enumeration_seconds": 0.7226282020001236,
+  "F_partial_matching_counts_by_pattern": [
+    "23173833173552346",
+    "18569135753528103",
+    "50097862271668282",
+    "44399780897789356",
+    "28931046775861321",
+    "24673341756517198",
+    "45563098058867531",
+    "38018202428079033",
+    "32090054741933906",
+    "29814235541982112",
+    "23446375829150803",
+    "19124346451167532",
+    "50536259164694901",
+    "45893013374192086",
+    "96850912984672596",
+    "89974069374136028",
+    "52628972264853373",
+    "48644908460331754",
+    "113817497959038614",
+    "108931428673369410"
+  ],
+  "F_partial_matching_total": "985178375935386285",
+  "count_cache": {
+    "hits": 3986396,
+    "misses": 178127,
+    "maxsize": null,
+    "currsize": 178127
+  },
+  "sampler_export": {
+    "positive_sampler_states": 161507,
+    "cdf_choices": 3567012,
+    "sampler_file_bytes": 90531156
+  },
+  "seconds": 273.99635796300026,
+  "source_sha256": "48413e0f8593d279cd32208a2941e718745515c1ed44706fe484a2c0ef0accc8"
+}

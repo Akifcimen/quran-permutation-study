@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "independently_enumerated_complete_bags": 20,
+  "bags_by_equal_positive_cell_size": {
+    "1": 0,
+    "2": 0,
+    "3": 20,
+    "4": 0
+  },
+  "all_20_bags_match_forward_and_sampler_counts": true,
+  "F_partial_matching_total": "985178375935386285",
+  "initial_remaining_completion_size": 95,
+  "universal_initial_Hall_upper_bound_Rg_plus_Cg": 28,
+  "exhaustive_small_Hall_feasible_count_states": 9631,
+  "all_allowed_greedy_transitions_verified_Hall_preserving": 17559,
+  "source_hashes_at_audit": {
+    "rare_event/uniform_anchor/f_matchings.py": "48413e0f8593d279cd32208a2941e718745515c1ed44706fe484a2c0ef0accc8",
+    "rare_event/uniform_anchor/uniform_sis.hpp": "3aac4c3ad533eda19c3192333fb9be89fd8415ebc35ac5a538c4370e747f54a3",
+    "rare_event/uniform_anchor/uniform_sis_alias.hpp": "e7203bd20c8a9fac0621fa86fa56740e355d215bd83fe83bd05d89947c0ea0ba",
+    "rare_event/uniform_anchor/F_conditional_sampler_127.bin": "251ad2f14850d6d9041efb54861177929911d0c2d23d69ae920bd884dc1b2901",
+    "rare_event/uniform_anchor/validate_sis_toys.py": "bb2f5287081b3e7b2604cde411f05b383075ed7bdd5ffaa286d3b7a8e5939073"
+  },
+  "scope": "Independent pattern completeness and Hall-support checks, accompanying the separate trace-weight proof. No new rarity estimate."
+}

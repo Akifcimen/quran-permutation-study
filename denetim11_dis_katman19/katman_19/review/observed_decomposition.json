@@ -1,0 +1,3377 @@
+{
+  "kind": "post-freeze descriptive diagnostic",
+  "test_definition_changed": false,
+  "primary_policy": "equal mixture of uniform, literal-value, discussion-value policies",
+  "variant_charge_retained": true,
+  "score_is_not_log_joint_probability": true,
+  "reuse_scope": "Shared form and prime bindings within the finite grammar; L(K), plus/minus construction, and module templates are fixed primitives, not alternative operators searched by this diagnostic.",
+  "fixed_parameter_reuse": {
+    "q19": 0.16149425287356323,
+    "form_saving_bits": 11.422064766172813,
+    "prime_saving_bits": 5.260890541030329,
+    "total_code_saving_bits": 16.68295530720314
+  },
+  "textual_prior_score_shift_natural_one_prime_bits": 2.2275357246124075,
+  "models": {
+    "uniform": {
+      "training_n": 200000,
+      "training_sha256": "8881edb916c58d15869de4b6eed778f484b23aeb3554a939d816dcab353a225a",
+      "variants": [
+        {
+          "maximum_score": 19.88596710135406,
+          "winning_program": {
+            "variant": 129,
+            "active_mask": 7,
+            "active_modules": [
+              "G",
+              "C",
+              "W"
+            ],
+            "blocks": [
+              {
+                "module_mask": 7,
+                "modules": [
+                  "G",
+                  "C",
+                  "W"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": null,
+                "positive_masks": [
+                  3,
+                  15,
+                  3,
+                  0
+                ],
+                "block_value": 27.20789519624142
+              }
+            ],
+            "raw_program_score": 19.88596710135406,
+            "costs": {
+              "predicate_mask_bits": 8,
+              "matrix_view_bits": 0,
+              "form_binding_bits": 3.807354922057604,
+              "prime_binding_bits": 2.6304452705151644,
+              "activation_bits": 4,
+              "global_variant_bits": 1,
+              "partition_bits": 2.321928094887362,
+              "total_bits": 21.759728287460128
+            },
+            "sum_fitted_module_surprisals_bits": 41.64569538881419
+          },
+          "four_module_shared_tuple_maximum": {
+            "variant": 129,
+            "active_mask": 15,
+            "active_modules": [
+              "G",
+              "C",
+              "W",
+              "M"
+            ],
+            "blocks": [
+              {
+                "module_mask": 15,
+                "modules": [
+                  "G",
+                  "C",
+                  "W",
+                  "M"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": 7,
+                "positive_masks": [
+                  3,
+                  15,
+                  3,
+                  4
+                ],
+                "block_value": 23.159526705159614
+              }
+            ],
+            "raw_program_score": 14.252636109551094,
+            "costs": {
+              "predicate_mask_bits": 12,
+              "matrix_view_bits": 3,
+              "form_binding_bits": 3.807354922057604,
+              "prime_binding_bits": 2.6304452705151644,
+              "activation_bits": 4,
+              "global_variant_bits": 1,
+              "partition_bits": 3.9068905956085187,
+              "total_bits": 30.34469078818129
+            },
+            "sum_fitted_module_surprisals_bits": 44.59732689773239
+          },
+          "four_module_fully_separate_bindings_maximum": {
+            "variant": 129,
+            "active_mask": 15,
+            "active_modules": [
+              "G",
+              "C",
+              "W",
+              "M"
+            ],
+            "blocks": [
+              {
+                "module_mask": 1,
+                "modules": [
+                  "G"
+                ],
+                "form_index": 0,
+                "prime_index": null,
+                "prime": null,
+                "matrix_view": null,
+                "positive_masks": [
+                  3,
+                  0,
+                  0,
+                  0
+                ],
+                "block_value": 5.931928046252974
+              },
+              {
+                "module_mask": 2,
+                "modules": [
+                  "C"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": null,
+                "positive_masks": [
+                  0,
+                  15,
+                  0,
+                  0
+                ],
+                "block_value": 8.171847495321215
+              },
+              {
+                "module_mask": 4,
+                "modules": [
+                  "W"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": null,
+                "positive_masks": [
+                  0,
+                  0,
+                  3,
+                  0
+                ],
+                "block_value": 2.8589645400368595
+              },
+              {
+                "module_mask": 8,
+                "modules": [
+                  "M"
+                ],
+                "form_index": 11,
+                "prime_index": 13,
+                "prime": 47,
+                "matrix_view": 0,
+                "positive_masks": [
+                  0,
+                  0,
+                  0,
+                  15
+                ],
+                "block_value": -4.571388067575237
+              }
+            ],
+            "raw_program_score": 3.4844614184272924,
+            "costs": {
+              "predicate_mask_bits": 12,
+              "matrix_view_bits": 3,
+              "form_binding_bits": 15.229419688230417,
+              "prime_binding_bits": 11.703834036879057,
+              "activation_bits": 4,
+              "global_variant_bits": 1,
+              "partition_bits": 3.9068905956085187,
+              "total_bits": 50.84014432071799
+            },
+            "sum_fitted_module_surprisals_bits": 54.324605739145284
+          },
+          "variant": 129,
+          "natural_tuple": {
+            "form": [
+              1,
+              1
+            ],
+            "prime": 19,
+            "matrix_view": 0,
+            "raw_arithmetic": {
+              "G": 3,
+              "C": 15,
+              "W": 3,
+              "matrix_masks": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                4
+              ],
+              "cell_counts": [
+                3,
+                3,
+                3,
+                3
+              ],
+              "cell_sums": [
+                20,
+                18,
+                19,
+                19
+              ],
+              "P": [
+                3303,
+                2933,
+                3252,
+                3303
+              ],
+              "R": [
+                590,
+                854,
+                5965,
+                5382
+              ],
+              "union_cardinality": 19,
+              "union_a": 1159,
+              "even_count": 57
+            },
+            "full_mask_module_statistics": [
+              {
+                "positive_mask": 3,
+                "training_successes": 58,
+                "training_n": 200000,
+                "fitted_probability": 0.00029249853750731245,
+                "fitted_surprisal_bits": 11.739282968310578,
+                "predicate_code_bits": 2,
+                "view_code_bits": 0,
+                "utility": 9.739282968310578,
+                "module": "G",
+                "actual_mask": 3,
+                "full_conjunction_satisfied": true
+              },
+              {
+                "positive_mask": 15,
+                "training_successes": 0,
+                "training_n": 200000,
+                "fitted_probability": 2.4999875000624998e-06,
+                "fitted_surprisal_bits": 18.609647687893982,
+                "predicate_code_bits": 4,
+                "view_code_bits": 0,
+                "utility": 14.609647687893982,
+                "module": "C",
+                "actual_mask": 15,
+                "full_conjunction_satisfied": true
+              },
+              {
+                "positive_mask": 3,
+                "training_successes": 79,
+                "training_n": 200000,
+                "fitted_probability": 0.00039749801250993746,
+                "fitted_surprisal_bits": 11.296764732609628,
+                "predicate_code_bits": 2,
+                "view_code_bits": 0,
+                "utility": 9.296764732609628,
+                "module": "W",
+                "actual_mask": 3,
+                "full_conjunction_satisfied": true
+              },
+              {
+                "positive_mask": 15,
+                "training_successes": 0,
+                "training_n": 200000,
+                "fitted_probability": 2.4999875000624998e-06,
+                "fitted_surprisal_bits": 18.609647687893982,
+                "predicate_code_bits": 4,
+                "view_code_bits": 3,
+                "utility": 11.609647687893982,
+                "module": "M",
+                "actual_mask": 0,
+                "full_conjunction_satisfied": false
+              }
+            ],
+            "full_four_module_program_eligible": false,
+            "maximum_eligible_full_module_mask": 7,
+            "four_full_modules": null,
+            "all_satisfied_full_modules": {
+              "shared": {
+                "variant": 129,
+                "active_mask": 7,
+                "active_modules": [
+                  "G",
+                  "C",
+                  "W"
+                ],
+                "blocks": [
+                  {
+                    "module_mask": 7,
+                    "modules": [
+                      "G",
+                      "C",
+                      "W"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      3,
+                      15,
+                      3,
+                      0
+                    ],
+                    "block_value": 27.20789519624142
+                  }
+                ],
+                "raw_program_score": 19.88596710135406,
+                "costs": {
+                  "predicate_mask_bits": 8,
+                  "matrix_view_bits": 0,
+                  "form_binding_bits": 3.807354922057604,
+                  "prime_binding_bits": 2.6304452705151644,
+                  "activation_bits": 4,
+                  "global_variant_bits": 1,
+                  "partition_bits": 2.321928094887362,
+                  "total_bits": 21.759728287460128
+                },
+                "sum_fitted_module_surprisals_bits": 41.64569538881419
+              },
+              "fixed_identical_predicates_separately_bound": {
+                "variant": 129,
+                "active_mask": 7,
+                "active_modules": [
+                  "G",
+                  "C",
+                  "W"
+                ],
+                "blocks": [
+                  {
+                    "module_mask": 1,
+                    "modules": [
+                      "G"
+                    ],
+                    "form_index": 0,
+                    "prime_index": null,
+                    "prime": null,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      3,
+                      0,
+                      0,
+                      0
+                    ],
+                    "block_value": 5.931928046252974
+                  },
+                  {
+                    "module_mask": 2,
+                    "modules": [
+                      "C"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      0,
+                      15,
+                      0,
+                      0
+                    ],
+                    "block_value": 8.171847495321215
+                  },
+                  {
+                    "module_mask": 4,
+                    "modules": [
+                      "W"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      0,
+                      0,
+                      3,
+                      0
+                    ],
+                    "block_value": 2.8589645400368595
+                  }
+                ],
+                "raw_program_score": 9.640811986723687,
+                "costs": {
+                  "predicate_mask_bits": 8,
+                  "matrix_view_bits": 0,
+                  "form_binding_bits": 11.422064766172813,
+                  "prime_binding_bits": 5.260890541030329,
+                  "activation_bits": 4,
+                  "global_variant_bits": 1,
+                  "partition_bits": 2.321928094887362,
+                  "total_bits": 32.004883402090506
+                },
+                "sum_fitted_module_surprisals_bits": 41.64569538881419
+              },
+              "code_saving_only_bits": 10.245155114630379
+            },
+            "G_C_W_shared_program": {
+              "variant": 129,
+              "active_mask": 7,
+              "active_modules": [
+                "G",
+                "C",
+                "W"
+              ],
+              "blocks": [
+                {
+                  "module_mask": 7,
+                  "modules": [
+                    "G",
+                    "C",
+                    "W"
+                  ],
+                  "form_index": 0,
+                  "prime_index": 6,
+                  "prime": 19,
+                  "matrix_view": null,
+                  "positive_masks": [
+                    3,
+                    15,
+                    3,
+                    0
+                  ],
+                  "block_value": 27.20789519624142
+                }
+              ],
+              "raw_program_score": 19.88596710135406,
+              "costs": {
+                "predicate_mask_bits": 8,
+                "matrix_view_bits": 0,
+                "form_binding_bits": 3.807354922057604,
+                "prime_binding_bits": 2.6304452705151644,
+                "activation_bits": 4,
+                "global_variant_bits": 1,
+                "partition_bits": 2.321928094887362,
+                "total_bits": 21.759728287460128
+              },
+              "sum_fitted_module_surprisals_bits": 41.64569538881419
+            },
+            "matrix_extension_from_GCW": null
+          }
+        },
+        {
+          "maximum_score": 23.940435757549533,
+          "winning_program": {
+            "variant": 127,
+            "active_mask": 15,
+            "active_modules": [
+              "G",
+              "C",
+              "W",
+              "M"
+            ],
+            "blocks": [
+              {
+                "module_mask": 15,
+                "modules": [
+                  "G",
+                  "C",
+                  "W",
+                  "M"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": 0,
+                "positive_masks": [
+                  3,
+                  15,
+                  3,
+                  15
+                ],
+                "block_value": 32.84732635315805
+              }
+            ],
+            "raw_program_score": 23.940435757549533,
+            "costs": {
+              "predicate_mask_bits": 12,
+              "matrix_view_bits": 3,
+              "form_binding_bits": 3.807354922057604,
+              "prime_binding_bits": 2.6304452705151644,
+              "activation_bits": 4,
+              "global_variant_bits": 1,
+              "partition_bits": 3.9068905956085187,
+              "total_bits": 30.34469078818129
+            },
+            "sum_fitted_module_surprisals_bits": 54.28512654573082
+          },
+          "four_module_shared_tuple_maximum": {
+            "variant": 127,
+            "active_mask": 15,
+            "active_modules": [
+              "G",
+              "C",
+              "W",
+              "M"
+            ],
+            "blocks": [
+              {
+                "module_mask": 15,
+                "modules": [
+                  "G",
+                  "C",
+                  "W",
+                  "M"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": 0,
+                "positive_masks": [
+                  3,
+                  15,
+                  3,
+                  15
+                ],
+                "block_value": 32.84732635315805
+              }
+            ],
+            "raw_program_score": 23.940435757549533,
+            "costs": {
+              "predicate_mask_bits": 12,
+              "matrix_view_bits": 3,
+              "form_binding_bits": 3.807354922057604,
+              "prime_binding_bits": 2.6304452705151644,
+              "activation_bits": 4,
+              "global_variant_bits": 1,
+              "partition_bits": 3.9068905956085187,
+              "total_bits": 30.34469078818129
+            },
+            "sum_fitted_module_surprisals_bits": 54.28512654573082
+          },
+          "four_module_fully_separate_bindings_maximum": {
+            "variant": 127,
+            "active_mask": 15,
+            "active_modules": [
+              "G",
+              "C",
+              "W",
+              "M"
+            ],
+            "blocks": [
+              {
+                "module_mask": 1,
+                "modules": [
+                  "G"
+                ],
+                "form_index": 0,
+                "prime_index": null,
+                "prime": null,
+                "matrix_view": null,
+                "positive_masks": [
+                  3,
+                  0,
+                  0,
+                  0
+                ],
+                "block_value": 5.725477168785549
+              },
+              {
+                "module_mask": 2,
+                "modules": [
+                  "C"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": null,
+                "positive_masks": [
+                  0,
+                  15,
+                  0,
+                  0
+                ],
+                "block_value": 8.171847495321215
+              },
+              {
+                "module_mask": 4,
+                "modules": [
+                  "W"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": null,
+                "positive_masks": [
+                  0,
+                  0,
+                  3,
+                  0
+                ],
+                "block_value": 2.823119341090137
+              },
+              {
+                "module_mask": 8,
+                "modules": [
+                  "M"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": 0,
+                "positive_masks": [
+                  0,
+                  0,
+                  0,
+                  15
+                ],
+                "block_value": -0.5560729592419849
+              }
+            ],
+            "raw_program_score": 7.257480450346396,
+            "costs": {
+              "predicate_mask_bits": 12,
+              "matrix_view_bits": 3,
+              "form_binding_bits": 15.229419688230417,
+              "prime_binding_bits": 7.891335811545494,
+              "activation_bits": 4,
+              "global_variant_bits": 1,
+              "partition_bits": 3.9068905956085187,
+              "total_bits": 47.027646095384426
+            },
+            "sum_fitted_module_surprisals_bits": 54.28512654573082
+          },
+          "variant": 127,
+          "natural_tuple": {
+            "form": [
+              1,
+              1
+            ],
+            "prime": 19,
+            "matrix_view": 0,
+            "raw_arithmetic": {
+              "G": 3,
+              "C": 15,
+              "W": 3,
+              "matrix_masks": [
+                15,
+                1,
+                1,
+                15,
+                2,
+                0,
+                0,
+                6
+              ],
+              "cell_counts": [
+                3,
+                3,
+                3,
+                3
+              ],
+              "cell_sums": [
+                20,
+                18,
+                19,
+                19
+              ],
+              "P": [
+                3303,
+                2931,
+                3252,
+                3303
+              ],
+              "R": [
+                590,
+                854,
+                5965,
+                5380
+              ],
+              "union_cardinality": 19,
+              "union_a": 1159,
+              "even_count": 57
+            },
+            "full_mask_module_statistics": [
+              {
+                "positive_mask": 3,
+                "training_successes": 67,
+                "training_n": 200000,
+                "fitted_probability": 0.00033749831250843746,
+                "fitted_surprisal_bits": 11.532832090843153,
+                "predicate_code_bits": 2,
+                "view_code_bits": 0,
+                "utility": 9.532832090843153,
+                "module": "G",
+                "actual_mask": 3,
+                "full_conjunction_satisfied": true
+              },
+              {
+                "positive_mask": 15,
+                "training_successes": 0,
+                "training_n": 200000,
+                "fitted_probability": 2.4999875000624998e-06,
+                "fitted_surprisal_bits": 18.609647687893982,
+                "predicate_code_bits": 4,
+                "view_code_bits": 0,
+                "utility": 14.609647687893982,
+                "module": "C",
+                "actual_mask": 15,
+                "full_conjunction_satisfied": true
+              },
+              {
+                "positive_mask": 3,
+                "training_successes": 81,
+                "training_n": 200000,
+                "fitted_probability": 0.00040749796251018743,
+                "fitted_surprisal_bits": 11.260919533662905,
+                "predicate_code_bits": 2,
+                "view_code_bits": 0,
+                "utility": 9.260919533662905,
+                "module": "W",
+                "actual_mask": 3,
+                "full_conjunction_satisfied": true
+              },
+              {
+                "positive_mask": 15,
+                "training_successes": 26,
+                "training_n": 200000,
+                "fitted_probability": 0.0001324993375033125,
+                "fitted_surprisal_bits": 12.881727233330784,
+                "predicate_code_bits": 4,
+                "view_code_bits": 3,
+                "utility": 5.881727233330784,
+                "module": "M",
+                "actual_mask": 15,
+                "full_conjunction_satisfied": true
+              }
+            ],
+            "full_four_module_program_eligible": true,
+            "maximum_eligible_full_module_mask": 15,
+            "four_full_modules": {
+              "shared": {
+                "variant": 127,
+                "active_mask": 15,
+                "active_modules": [
+                  "G",
+                  "C",
+                  "W",
+                  "M"
+                ],
+                "blocks": [
+                  {
+                    "module_mask": 15,
+                    "modules": [
+                      "G",
+                      "C",
+                      "W",
+                      "M"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": 0,
+                    "positive_masks": [
+                      3,
+                      15,
+                      3,
+                      15
+                    ],
+                    "block_value": 32.84732635315805
+                  }
+                ],
+                "raw_program_score": 23.940435757549533,
+                "costs": {
+                  "predicate_mask_bits": 12,
+                  "matrix_view_bits": 3,
+                  "form_binding_bits": 3.807354922057604,
+                  "prime_binding_bits": 2.6304452705151644,
+                  "activation_bits": 4,
+                  "global_variant_bits": 1,
+                  "partition_bits": 3.9068905956085187,
+                  "total_bits": 30.34469078818129
+                },
+                "sum_fitted_module_surprisals_bits": 54.28512654573082
+              },
+              "fixed_identical_predicates_separately_bound": {
+                "variant": 127,
+                "active_mask": 15,
+                "active_modules": [
+                  "G",
+                  "C",
+                  "W",
+                  "M"
+                ],
+                "blocks": [
+                  {
+                    "module_mask": 1,
+                    "modules": [
+                      "G"
+                    ],
+                    "form_index": 0,
+                    "prime_index": null,
+                    "prime": null,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      3,
+                      0,
+                      0,
+                      0
+                    ],
+                    "block_value": 5.725477168785549
+                  },
+                  {
+                    "module_mask": 2,
+                    "modules": [
+                      "C"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      0,
+                      15,
+                      0,
+                      0
+                    ],
+                    "block_value": 8.171847495321215
+                  },
+                  {
+                    "module_mask": 4,
+                    "modules": [
+                      "W"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      0,
+                      0,
+                      3,
+                      0
+                    ],
+                    "block_value": 2.823119341090137
+                  },
+                  {
+                    "module_mask": 8,
+                    "modules": [
+                      "M"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": 0,
+                    "positive_masks": [
+                      0,
+                      0,
+                      0,
+                      15
+                    ],
+                    "block_value": -0.5560729592419849
+                  }
+                ],
+                "raw_program_score": 7.257480450346396,
+                "costs": {
+                  "predicate_mask_bits": 12,
+                  "matrix_view_bits": 3,
+                  "form_binding_bits": 15.229419688230417,
+                  "prime_binding_bits": 7.891335811545494,
+                  "activation_bits": 4,
+                  "global_variant_bits": 1,
+                  "partition_bits": 3.9068905956085187,
+                  "total_bits": 47.027646095384426
+                },
+                "sum_fitted_module_surprisals_bits": 54.28512654573082
+              },
+              "code_saving_only_bits": 16.682955307203137
+            },
+            "all_satisfied_full_modules": {
+              "shared": {
+                "variant": 127,
+                "active_mask": 15,
+                "active_modules": [
+                  "G",
+                  "C",
+                  "W",
+                  "M"
+                ],
+                "blocks": [
+                  {
+                    "module_mask": 15,
+                    "modules": [
+                      "G",
+                      "C",
+                      "W",
+                      "M"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": 0,
+                    "positive_masks": [
+                      3,
+                      15,
+                      3,
+                      15
+                    ],
+                    "block_value": 32.84732635315805
+                  }
+                ],
+                "raw_program_score": 23.940435757549533,
+                "costs": {
+                  "predicate_mask_bits": 12,
+                  "matrix_view_bits": 3,
+                  "form_binding_bits": 3.807354922057604,
+                  "prime_binding_bits": 2.6304452705151644,
+                  "activation_bits": 4,
+                  "global_variant_bits": 1,
+                  "partition_bits": 3.9068905956085187,
+                  "total_bits": 30.34469078818129
+                },
+                "sum_fitted_module_surprisals_bits": 54.28512654573082
+              },
+              "fixed_identical_predicates_separately_bound": {
+                "variant": 127,
+                "active_mask": 15,
+                "active_modules": [
+                  "G",
+                  "C",
+                  "W",
+                  "M"
+                ],
+                "blocks": [
+                  {
+                    "module_mask": 1,
+                    "modules": [
+                      "G"
+                    ],
+                    "form_index": 0,
+                    "prime_index": null,
+                    "prime": null,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      3,
+                      0,
+                      0,
+                      0
+                    ],
+                    "block_value": 5.725477168785549
+                  },
+                  {
+                    "module_mask": 2,
+                    "modules": [
+                      "C"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      0,
+                      15,
+                      0,
+                      0
+                    ],
+                    "block_value": 8.171847495321215
+                  },
+                  {
+                    "module_mask": 4,
+                    "modules": [
+                      "W"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      0,
+                      0,
+                      3,
+                      0
+                    ],
+                    "block_value": 2.823119341090137
+                  },
+                  {
+                    "module_mask": 8,
+                    "modules": [
+                      "M"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": 0,
+                    "positive_masks": [
+                      0,
+                      0,
+                      0,
+                      15
+                    ],
+                    "block_value": -0.5560729592419849
+                  }
+                ],
+                "raw_program_score": 7.257480450346396,
+                "costs": {
+                  "predicate_mask_bits": 12,
+                  "matrix_view_bits": 3,
+                  "form_binding_bits": 15.229419688230417,
+                  "prime_binding_bits": 7.891335811545494,
+                  "activation_bits": 4,
+                  "global_variant_bits": 1,
+                  "partition_bits": 3.9068905956085187,
+                  "total_bits": 47.027646095384426
+                },
+                "sum_fitted_module_surprisals_bits": 54.28512654573082
+              },
+              "code_saving_only_bits": 16.682955307203137
+            },
+            "G_C_W_shared_program": {
+              "variant": 127,
+              "active_mask": 7,
+              "active_modules": [
+                "G",
+                "C",
+                "W"
+              ],
+              "blocks": [
+                {
+                  "module_mask": 7,
+                  "modules": [
+                    "G",
+                    "C",
+                    "W"
+                  ],
+                  "form_index": 0,
+                  "prime_index": 6,
+                  "prime": 19,
+                  "matrix_view": null,
+                  "positive_masks": [
+                    3,
+                    15,
+                    3,
+                    0
+                  ],
+                  "block_value": 26.96559911982727
+                }
+              ],
+              "raw_program_score": 19.64367102493991,
+              "costs": {
+                "predicate_mask_bits": 8,
+                "matrix_view_bits": 0,
+                "form_binding_bits": 3.807354922057604,
+                "prime_binding_bits": 2.6304452705151644,
+                "activation_bits": 4,
+                "global_variant_bits": 1,
+                "partition_bits": 2.321928094887362,
+                "total_bits": 21.759728287460128
+              },
+              "sum_fitted_module_surprisals_bits": 41.40339931240004
+            },
+            "matrix_extension_from_GCW": {
+              "score_increment": 4.296764732609624,
+              "matrix_fitted_surprisal_bits": 12.881727233330784,
+              "additional_predicate_bits": 4,
+              "additional_view_bits": 3,
+              "additional_partition_bits": 1.584962500721156,
+              "additional_form_or_prime_bits": 0,
+              "not_an_independent_probability_multiplier": true
+            }
+          }
+        }
+      ],
+      "joint_observed_primary_score_reproduced": 23.940435757549533,
+      "top_control_verification": {
+        "status": "pass",
+        "scope": "Saved strongest primary control; all six stored policy traces reconstructed directly, not a new search",
+        "run_n": 1000000,
+        "permutation_sha256": "e2bf53353d76713a00b37d3f2f4de1208b2a8a4402c1f61775aa653a1df2ed5c",
+        "strict_ascending_pair_counts_129_127": [
+          3146,
+          3145
+        ],
+        "raw_tuple_contexts_checked": 1,
+        "policy_checks": [
+          {
+            "policy": 0,
+            "score_reconstructed": 7.802292765836379,
+            "blocks_checked": 1
+          },
+          {
+            "policy": 1,
+            "score_reconstructed": 9.084962269136895,
+            "blocks_checked": 1
+          },
+          {
+            "policy": 2,
+            "score_reconstructed": 9.393479444764697,
+            "blocks_checked": 1
+          },
+          {
+            "policy": 3,
+            "score_reconstructed": 9.715407539652062,
+            "blocks_checked": 1
+          },
+          {
+            "policy": 4,
+            "score_reconstructed": 11.715407539652062,
+            "blocks_checked": 1
+          },
+          {
+            "policy": 5,
+            "score_reconstructed": 7.802292765836379,
+            "blocks_checked": 1
+          }
+        ]
+      }
+    },
+    "block6": {
+      "training_n": 200000,
+      "training_sha256": "b9c43dd64a5b68b9b298035255fe7a5b8f4e7a4a9015f94ff8868a396d93f49c",
+      "variants": [
+        {
+          "maximum_score": 18.48205257538115,
+          "winning_program": {
+            "variant": 129,
+            "active_mask": 7,
+            "active_modules": [
+              "G",
+              "C",
+              "W"
+            ],
+            "blocks": [
+              {
+                "module_mask": 7,
+                "modules": [
+                  "G",
+                  "C",
+                  "W"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": null,
+                "positive_masks": [
+                  3,
+                  15,
+                  3,
+                  0
+                ],
+                "block_value": 25.803980670268512
+              }
+            ],
+            "raw_program_score": 18.48205257538115,
+            "costs": {
+              "predicate_mask_bits": 8,
+              "matrix_view_bits": 0,
+              "form_binding_bits": 3.807354922057604,
+              "prime_binding_bits": 2.6304452705151644,
+              "activation_bits": 4,
+              "global_variant_bits": 1,
+              "partition_bits": 2.321928094887362,
+              "total_bits": 21.759728287460128
+            },
+            "sum_fitted_module_surprisals_bits": 40.24178086284128
+          },
+          "four_module_shared_tuple_maximum": {
+            "variant": 129,
+            "active_mask": 15,
+            "active_modules": [
+              "G",
+              "C",
+              "W",
+              "M"
+            ],
+            "blocks": [
+              {
+                "module_mask": 15,
+                "modules": [
+                  "G",
+                  "C",
+                  "W",
+                  "M"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": 7,
+                "positive_masks": [
+                  3,
+                  15,
+                  3,
+                  4
+                ],
+                "block_value": 21.742446683151915
+              }
+            ],
+            "raw_program_score": 12.835556087543395,
+            "costs": {
+              "predicate_mask_bits": 12,
+              "matrix_view_bits": 3,
+              "form_binding_bits": 3.807354922057604,
+              "prime_binding_bits": 2.6304452705151644,
+              "activation_bits": 4,
+              "global_variant_bits": 1,
+              "partition_bits": 3.9068905956085187,
+              "total_bits": 30.34469078818129
+            },
+            "sum_fitted_module_surprisals_bits": 43.180246875724684
+          },
+          "four_module_fully_separate_bindings_maximum": {
+            "variant": 129,
+            "active_mask": 15,
+            "active_modules": [
+              "G",
+              "C",
+              "W",
+              "M"
+            ],
+            "blocks": [
+              {
+                "module_mask": 1,
+                "modules": [
+                  "G"
+                ],
+                "form_index": 0,
+                "prime_index": null,
+                "prime": null,
+                "matrix_view": null,
+                "positive_masks": [
+                  3,
+                  0,
+                  0,
+                  0
+                ],
+                "block_value": 5.286592927552336
+              },
+              {
+                "module_mask": 2,
+                "modules": [
+                  "C"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": null,
+                "positive_masks": [
+                  0,
+                  15,
+                  0,
+                  0
+                ],
+                "block_value": 8.171847495321215
+              },
+              {
+                "module_mask": 4,
+                "modules": [
+                  "W"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": null,
+                "positive_masks": [
+                  0,
+                  0,
+                  3,
+                  0
+                ],
+                "block_value": 2.100385132764591
+              },
+              {
+                "module_mask": 8,
+                "modules": [
+                  "M"
+                ],
+                "form_index": 11,
+                "prime_index": 13,
+                "prime": 47,
+                "matrix_view": 0,
+                "positive_masks": [
+                  0,
+                  0,
+                  0,
+                  15
+                ],
+                "block_value": -4.523293779374191
+              }
+            ],
+            "raw_program_score": 2.128641180655432,
+            "costs": {
+              "predicate_mask_bits": 12,
+              "matrix_view_bits": 3,
+              "form_binding_bits": 15.229419688230417,
+              "prime_binding_bits": 11.703834036879057,
+              "activation_bits": 4,
+              "global_variant_bits": 1,
+              "partition_bits": 3.9068905956085187,
+              "total_bits": 50.84014432071799
+            },
+            "sum_fitted_module_surprisals_bits": 52.96878550137342
+          },
+          "variant": 129,
+          "natural_tuple": {
+            "form": [
+              1,
+              1
+            ],
+            "prime": 19,
+            "matrix_view": 0,
+            "raw_arithmetic": {
+              "G": 3,
+              "C": 15,
+              "W": 3,
+              "matrix_masks": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                4
+              ],
+              "cell_counts": [
+                3,
+                3,
+                3,
+                3
+              ],
+              "cell_sums": [
+                20,
+                18,
+                19,
+                19
+              ],
+              "P": [
+                3303,
+                2933,
+                3252,
+                3303
+              ],
+              "R": [
+                590,
+                854,
+                5965,
+                5382
+              ],
+              "union_cardinality": 19,
+              "union_a": 1159,
+              "even_count": 57
+            },
+            "full_mask_module_statistics": [
+              {
+                "positive_mask": 3,
+                "training_successes": 91,
+                "training_n": 200000,
+                "fitted_probability": 0.00045749771251143745,
+                "fitted_surprisal_bits": 11.09394784960994,
+                "predicate_code_bits": 2,
+                "view_code_bits": 0,
+                "utility": 9.09394784960994,
+                "module": "G",
+                "actual_mask": 3,
+                "full_conjunction_satisfied": true
+              },
+              {
+                "positive_mask": 15,
+                "training_successes": 0,
+                "training_n": 200000,
+                "fitted_probability": 2.4999875000624998e-06,
+                "fitted_surprisal_bits": 18.609647687893982,
+                "predicate_code_bits": 4,
+                "view_code_bits": 0,
+                "utility": 14.609647687893982,
+                "module": "C",
+                "actual_mask": 15,
+                "full_conjunction_satisfied": true
+              },
+              {
+                "positive_mask": 3,
+                "training_successes": 134,
+                "training_n": 200000,
+                "fitted_probability": 0.0006724966375168124,
+                "fitted_surprisal_bits": 10.53818532533736,
+                "predicate_code_bits": 2,
+                "view_code_bits": 0,
+                "utility": 8.53818532533736,
+                "module": "W",
+                "actual_mask": 3,
+                "full_conjunction_satisfied": true
+              },
+              {
+                "positive_mask": 15,
+                "training_successes": 0,
+                "training_n": 200000,
+                "fitted_probability": 2.4999875000624998e-06,
+                "fitted_surprisal_bits": 18.609647687893982,
+                "predicate_code_bits": 4,
+                "view_code_bits": 3,
+                "utility": 11.609647687893982,
+                "module": "M",
+                "actual_mask": 0,
+                "full_conjunction_satisfied": false
+              }
+            ],
+            "full_four_module_program_eligible": false,
+            "maximum_eligible_full_module_mask": 7,
+            "four_full_modules": null,
+            "all_satisfied_full_modules": {
+              "shared": {
+                "variant": 129,
+                "active_mask": 7,
+                "active_modules": [
+                  "G",
+                  "C",
+                  "W"
+                ],
+                "blocks": [
+                  {
+                    "module_mask": 7,
+                    "modules": [
+                      "G",
+                      "C",
+                      "W"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      3,
+                      15,
+                      3,
+                      0
+                    ],
+                    "block_value": 25.803980670268512
+                  }
+                ],
+                "raw_program_score": 18.48205257538115,
+                "costs": {
+                  "predicate_mask_bits": 8,
+                  "matrix_view_bits": 0,
+                  "form_binding_bits": 3.807354922057604,
+                  "prime_binding_bits": 2.6304452705151644,
+                  "activation_bits": 4,
+                  "global_variant_bits": 1,
+                  "partition_bits": 2.321928094887362,
+                  "total_bits": 21.759728287460128
+                },
+                "sum_fitted_module_surprisals_bits": 40.24178086284128
+              },
+              "fixed_identical_predicates_separately_bound": {
+                "variant": 129,
+                "active_mask": 7,
+                "active_modules": [
+                  "G",
+                  "C",
+                  "W"
+                ],
+                "blocks": [
+                  {
+                    "module_mask": 1,
+                    "modules": [
+                      "G"
+                    ],
+                    "form_index": 0,
+                    "prime_index": null,
+                    "prime": null,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      3,
+                      0,
+                      0,
+                      0
+                    ],
+                    "block_value": 5.286592927552336
+                  },
+                  {
+                    "module_mask": 2,
+                    "modules": [
+                      "C"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      0,
+                      15,
+                      0,
+                      0
+                    ],
+                    "block_value": 8.171847495321215
+                  },
+                  {
+                    "module_mask": 4,
+                    "modules": [
+                      "W"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      0,
+                      0,
+                      3,
+                      0
+                    ],
+                    "block_value": 2.100385132764591
+                  }
+                ],
+                "raw_program_score": 8.23689746075078,
+                "costs": {
+                  "predicate_mask_bits": 8,
+                  "matrix_view_bits": 0,
+                  "form_binding_bits": 11.422064766172813,
+                  "prime_binding_bits": 5.260890541030329,
+                  "activation_bits": 4,
+                  "global_variant_bits": 1,
+                  "partition_bits": 2.321928094887362,
+                  "total_bits": 32.004883402090506
+                },
+                "sum_fitted_module_surprisals_bits": 40.24178086284129
+              },
+              "code_saving_only_bits": 10.245155114630379
+            },
+            "G_C_W_shared_program": {
+              "variant": 129,
+              "active_mask": 7,
+              "active_modules": [
+                "G",
+                "C",
+                "W"
+              ],
+              "blocks": [
+                {
+                  "module_mask": 7,
+                  "modules": [
+                    "G",
+                    "C",
+                    "W"
+                  ],
+                  "form_index": 0,
+                  "prime_index": 6,
+                  "prime": 19,
+                  "matrix_view": null,
+                  "positive_masks": [
+                    3,
+                    15,
+                    3,
+                    0
+                  ],
+                  "block_value": 25.803980670268512
+                }
+              ],
+              "raw_program_score": 18.48205257538115,
+              "costs": {
+                "predicate_mask_bits": 8,
+                "matrix_view_bits": 0,
+                "form_binding_bits": 3.807354922057604,
+                "prime_binding_bits": 2.6304452705151644,
+                "activation_bits": 4,
+                "global_variant_bits": 1,
+                "partition_bits": 2.321928094887362,
+                "total_bits": 21.759728287460128
+              },
+              "sum_fitted_module_surprisals_bits": 40.24178086284128
+            },
+            "matrix_extension_from_GCW": null
+          }
+        },
+        {
+          "maximum_score": 22.69418342742572,
+          "winning_program": {
+            "variant": 127,
+            "active_mask": 15,
+            "active_modules": [
+              "G",
+              "C",
+              "W",
+              "M"
+            ],
+            "blocks": [
+              {
+                "module_mask": 15,
+                "modules": [
+                  "G",
+                  "C",
+                  "W",
+                  "M"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": 0,
+                "positive_masks": [
+                  3,
+                  15,
+                  3,
+                  15
+                ],
+                "block_value": 31.60107402303424
+              }
+            ],
+            "raw_program_score": 22.69418342742572,
+            "costs": {
+              "predicate_mask_bits": 12,
+              "matrix_view_bits": 3,
+              "form_binding_bits": 3.807354922057604,
+              "prime_binding_bits": 2.6304452705151644,
+              "activation_bits": 4,
+              "global_variant_bits": 1,
+              "partition_bits": 3.9068905956085187,
+              "total_bits": 30.34469078818129
+            },
+            "sum_fitted_module_surprisals_bits": 53.03887421560701
+          },
+          "four_module_shared_tuple_maximum": {
+            "variant": 127,
+            "active_mask": 15,
+            "active_modules": [
+              "G",
+              "C",
+              "W",
+              "M"
+            ],
+            "blocks": [
+              {
+                "module_mask": 15,
+                "modules": [
+                  "G",
+                  "C",
+                  "W",
+                  "M"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": 0,
+                "positive_masks": [
+                  3,
+                  15,
+                  3,
+                  15
+                ],
+                "block_value": 31.60107402303424
+              }
+            ],
+            "raw_program_score": 22.69418342742572,
+            "costs": {
+              "predicate_mask_bits": 12,
+              "matrix_view_bits": 3,
+              "form_binding_bits": 3.807354922057604,
+              "prime_binding_bits": 2.6304452705151644,
+              "activation_bits": 4,
+              "global_variant_bits": 1,
+              "partition_bits": 3.9068905956085187,
+              "total_bits": 30.34469078818129
+            },
+            "sum_fitted_module_surprisals_bits": 53.03887421560701
+          },
+          "four_module_fully_separate_bindings_maximum": {
+            "variant": 127,
+            "active_mask": 15,
+            "active_modules": [
+              "G",
+              "C",
+              "W",
+              "M"
+            ],
+            "blocks": [
+              {
+                "module_mask": 1,
+                "modules": [
+                  "G"
+                ],
+                "form_index": 0,
+                "prime_index": null,
+                "prime": null,
+                "matrix_view": null,
+                "positive_masks": [
+                  3,
+                  0,
+                  0,
+                  0
+                ],
+                "block_value": 5.2553983059487415
+              },
+              {
+                "module_mask": 2,
+                "modules": [
+                  "C"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": null,
+                "positive_masks": [
+                  0,
+                  15,
+                  0,
+                  0
+                ],
+                "block_value": 8.171847495321215
+              },
+              {
+                "module_mask": 4,
+                "modules": [
+                  "W"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": null,
+                "positive_masks": [
+                  0,
+                  0,
+                  3,
+                  0
+                ],
+                "block_value": 2.100385132764591
+              },
+              {
+                "module_mask": 8,
+                "modules": [
+                  "M"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": 0,
+                "positive_masks": [
+                  0,
+                  0,
+                  0,
+                  15
+                ],
+                "block_value": -0.609512218203446
+              }
+            ],
+            "raw_program_score": 6.011228120222581,
+            "costs": {
+              "predicate_mask_bits": 12,
+              "matrix_view_bits": 3,
+              "form_binding_bits": 15.229419688230417,
+              "prime_binding_bits": 7.891335811545494,
+              "activation_bits": 4,
+              "global_variant_bits": 1,
+              "partition_bits": 3.9068905956085187,
+              "total_bits": 47.027646095384426
+            },
+            "sum_fitted_module_surprisals_bits": 53.03887421560701
+          },
+          "variant": 127,
+          "natural_tuple": {
+            "form": [
+              1,
+              1
+            ],
+            "prime": 19,
+            "matrix_view": 0,
+            "raw_arithmetic": {
+              "G": 3,
+              "C": 15,
+              "W": 3,
+              "matrix_masks": [
+                15,
+                1,
+                1,
+                15,
+                2,
+                0,
+                0,
+                6
+              ],
+              "cell_counts": [
+                3,
+                3,
+                3,
+                3
+              ],
+              "cell_sums": [
+                20,
+                18,
+                19,
+                19
+              ],
+              "P": [
+                3303,
+                2931,
+                3252,
+                3303
+              ],
+              "R": [
+                590,
+                854,
+                5965,
+                5380
+              ],
+              "union_cardinality": 19,
+              "union_a": 1159,
+              "even_count": 57
+            },
+            "full_mask_module_statistics": [
+              {
+                "positive_mask": 3,
+                "training_successes": 93,
+                "training_n": 200000,
+                "fitted_probability": 0.0004674976625116874,
+                "fitted_surprisal_bits": 11.062753228006345,
+                "predicate_code_bits": 2,
+                "view_code_bits": 0,
+                "utility": 9.062753228006345,
+                "module": "G",
+                "actual_mask": 3,
+                "full_conjunction_satisfied": true
+              },
+              {
+                "positive_mask": 15,
+                "training_successes": 0,
+                "training_n": 200000,
+                "fitted_probability": 2.4999875000624998e-06,
+                "fitted_surprisal_bits": 18.609647687893982,
+                "predicate_code_bits": 4,
+                "view_code_bits": 0,
+                "utility": 14.609647687893982,
+                "module": "C",
+                "actual_mask": 15,
+                "full_conjunction_satisfied": true
+              },
+              {
+                "positive_mask": 3,
+                "training_successes": 134,
+                "training_n": 200000,
+                "fitted_probability": 0.0006724966375168124,
+                "fitted_surprisal_bits": 10.53818532533736,
+                "predicate_code_bits": 2,
+                "view_code_bits": 0,
+                "utility": 8.53818532533736,
+                "module": "W",
+                "actual_mask": 3,
+                "full_conjunction_satisfied": true
+              },
+              {
+                "positive_mask": 15,
+                "training_successes": 27,
+                "training_n": 200000,
+                "fitted_probability": 0.00013749931250343748,
+                "fitted_surprisal_bits": 12.828287974369323,
+                "predicate_code_bits": 4,
+                "view_code_bits": 3,
+                "utility": 5.8282879743693226,
+                "module": "M",
+                "actual_mask": 15,
+                "full_conjunction_satisfied": true
+              }
+            ],
+            "full_four_module_program_eligible": true,
+            "maximum_eligible_full_module_mask": 15,
+            "four_full_modules": {
+              "shared": {
+                "variant": 127,
+                "active_mask": 15,
+                "active_modules": [
+                  "G",
+                  "C",
+                  "W",
+                  "M"
+                ],
+                "blocks": [
+                  {
+                    "module_mask": 15,
+                    "modules": [
+                      "G",
+                      "C",
+                      "W",
+                      "M"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": 0,
+                    "positive_masks": [
+                      3,
+                      15,
+                      3,
+                      15
+                    ],
+                    "block_value": 31.60107402303424
+                  }
+                ],
+                "raw_program_score": 22.69418342742572,
+                "costs": {
+                  "predicate_mask_bits": 12,
+                  "matrix_view_bits": 3,
+                  "form_binding_bits": 3.807354922057604,
+                  "prime_binding_bits": 2.6304452705151644,
+                  "activation_bits": 4,
+                  "global_variant_bits": 1,
+                  "partition_bits": 3.9068905956085187,
+                  "total_bits": 30.34469078818129
+                },
+                "sum_fitted_module_surprisals_bits": 53.03887421560701
+              },
+              "fixed_identical_predicates_separately_bound": {
+                "variant": 127,
+                "active_mask": 15,
+                "active_modules": [
+                  "G",
+                  "C",
+                  "W",
+                  "M"
+                ],
+                "blocks": [
+                  {
+                    "module_mask": 1,
+                    "modules": [
+                      "G"
+                    ],
+                    "form_index": 0,
+                    "prime_index": null,
+                    "prime": null,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      3,
+                      0,
+                      0,
+                      0
+                    ],
+                    "block_value": 5.2553983059487415
+                  },
+                  {
+                    "module_mask": 2,
+                    "modules": [
+                      "C"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      0,
+                      15,
+                      0,
+                      0
+                    ],
+                    "block_value": 8.171847495321215
+                  },
+                  {
+                    "module_mask": 4,
+                    "modules": [
+                      "W"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      0,
+                      0,
+                      3,
+                      0
+                    ],
+                    "block_value": 2.100385132764591
+                  },
+                  {
+                    "module_mask": 8,
+                    "modules": [
+                      "M"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": 0,
+                    "positive_masks": [
+                      0,
+                      0,
+                      0,
+                      15
+                    ],
+                    "block_value": -0.609512218203446
+                  }
+                ],
+                "raw_program_score": 6.011228120222581,
+                "costs": {
+                  "predicate_mask_bits": 12,
+                  "matrix_view_bits": 3,
+                  "form_binding_bits": 15.229419688230417,
+                  "prime_binding_bits": 7.891335811545494,
+                  "activation_bits": 4,
+                  "global_variant_bits": 1,
+                  "partition_bits": 3.9068905956085187,
+                  "total_bits": 47.027646095384426
+                },
+                "sum_fitted_module_surprisals_bits": 53.03887421560701
+              },
+              "code_saving_only_bits": 16.682955307203137
+            },
+            "all_satisfied_full_modules": {
+              "shared": {
+                "variant": 127,
+                "active_mask": 15,
+                "active_modules": [
+                  "G",
+                  "C",
+                  "W",
+                  "M"
+                ],
+                "blocks": [
+                  {
+                    "module_mask": 15,
+                    "modules": [
+                      "G",
+                      "C",
+                      "W",
+                      "M"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": 0,
+                    "positive_masks": [
+                      3,
+                      15,
+                      3,
+                      15
+                    ],
+                    "block_value": 31.60107402303424
+                  }
+                ],
+                "raw_program_score": 22.69418342742572,
+                "costs": {
+                  "predicate_mask_bits": 12,
+                  "matrix_view_bits": 3,
+                  "form_binding_bits": 3.807354922057604,
+                  "prime_binding_bits": 2.6304452705151644,
+                  "activation_bits": 4,
+                  "global_variant_bits": 1,
+                  "partition_bits": 3.9068905956085187,
+                  "total_bits": 30.34469078818129
+                },
+                "sum_fitted_module_surprisals_bits": 53.03887421560701
+              },
+              "fixed_identical_predicates_separately_bound": {
+                "variant": 127,
+                "active_mask": 15,
+                "active_modules": [
+                  "G",
+                  "C",
+                  "W",
+                  "M"
+                ],
+                "blocks": [
+                  {
+                    "module_mask": 1,
+                    "modules": [
+                      "G"
+                    ],
+                    "form_index": 0,
+                    "prime_index": null,
+                    "prime": null,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      3,
+                      0,
+                      0,
+                      0
+                    ],
+                    "block_value": 5.2553983059487415
+                  },
+                  {
+                    "module_mask": 2,
+                    "modules": [
+                      "C"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      0,
+                      15,
+                      0,
+                      0
+                    ],
+                    "block_value": 8.171847495321215
+                  },
+                  {
+                    "module_mask": 4,
+                    "modules": [
+                      "W"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      0,
+                      0,
+                      3,
+                      0
+                    ],
+                    "block_value": 2.100385132764591
+                  },
+                  {
+                    "module_mask": 8,
+                    "modules": [
+                      "M"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": 0,
+                    "positive_masks": [
+                      0,
+                      0,
+                      0,
+                      15
+                    ],
+                    "block_value": -0.609512218203446
+                  }
+                ],
+                "raw_program_score": 6.011228120222581,
+                "costs": {
+                  "predicate_mask_bits": 12,
+                  "matrix_view_bits": 3,
+                  "form_binding_bits": 15.229419688230417,
+                  "prime_binding_bits": 7.891335811545494,
+                  "activation_bits": 4,
+                  "global_variant_bits": 1,
+                  "partition_bits": 3.9068905956085187,
+                  "total_bits": 47.027646095384426
+                },
+                "sum_fitted_module_surprisals_bits": 53.03887421560701
+              },
+              "code_saving_only_bits": 16.682955307203137
+            },
+            "G_C_W_shared_program": {
+              "variant": 127,
+              "active_mask": 7,
+              "active_modules": [
+                "G",
+                "C",
+                "W"
+              ],
+              "blocks": [
+                {
+                  "module_mask": 7,
+                  "modules": [
+                    "G",
+                    "C",
+                    "W"
+                  ],
+                  "form_index": 0,
+                  "prime_index": 6,
+                  "prime": 19,
+                  "matrix_view": null,
+                  "positive_masks": [
+                    3,
+                    15,
+                    3,
+                    0
+                  ],
+                  "block_value": 25.772786048664916
+                }
+              ],
+              "raw_program_score": 18.450857953777554,
+              "costs": {
+                "predicate_mask_bits": 8,
+                "matrix_view_bits": 0,
+                "form_binding_bits": 3.807354922057604,
+                "prime_binding_bits": 2.6304452705151644,
+                "activation_bits": 4,
+                "global_variant_bits": 1,
+                "partition_bits": 2.321928094887362,
+                "total_bits": 21.759728287460128
+              },
+              "sum_fitted_module_surprisals_bits": 40.21058624123768
+            },
+            "matrix_extension_from_GCW": {
+              "score_increment": 4.2433254736481665,
+              "matrix_fitted_surprisal_bits": 12.828287974369323,
+              "additional_predicate_bits": 4,
+              "additional_view_bits": 3,
+              "additional_partition_bits": 1.584962500721156,
+              "additional_form_or_prime_bits": 0,
+              "not_an_independent_probability_multiplier": true
+            }
+          }
+        }
+      ],
+      "joint_observed_primary_score_reproduced": 22.69418342742572,
+      "top_control_verification": {
+        "status": "pass",
+        "scope": "Saved strongest primary control; all six stored policy traces reconstructed directly, not a new search",
+        "run_n": 1000000,
+        "permutation_sha256": "43e404e1720ee5559cd064b8fb97f2f9299f7cdcac805895971ed396a6b6e0c7",
+        "strict_ascending_pair_counts_129_127": [
+          1008,
+          1009
+        ],
+        "raw_tuple_contexts_checked": 1,
+        "policy_checks": [
+          {
+            "policy": 0,
+            "score_reconstructed": 4.86177988229025,
+            "blocks_checked": 1
+          },
+          {
+            "policy": 1,
+            "score_reconstructed": 6.042352127932071,
+            "blocks_checked": 1
+          },
+          {
+            "policy": 2,
+            "score_reconstructed": 7.397832782530459,
+            "blocks_checked": 1
+          },
+          {
+            "policy": 3,
+            "score_reconstructed": 0.0,
+            "blocks_checked": 0
+          },
+          {
+            "policy": 4,
+            "score_reconstructed": 0.0,
+            "blocks_checked": 0
+          },
+          {
+            "policy": 5,
+            "score_reconstructed": 4.165172025740185,
+            "blocks_checked": 1
+          }
+        ]
+      }
+    },
+    "inversion_exact": {
+      "training_n": 200000,
+      "training_sha256": "912658303c400ebf9072ba5f499200e0d1e69c550fedb04d1cafa8f55b7f0a48",
+      "variants": [
+        {
+          "maximum_score": 19.10528012975853,
+          "winning_program": {
+            "variant": 129,
+            "active_mask": 7,
+            "active_modules": [
+              "G",
+              "C",
+              "W"
+            ],
+            "blocks": [
+              {
+                "module_mask": 7,
+                "modules": [
+                  "G",
+                  "C",
+                  "W"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": null,
+                "positive_masks": [
+                  3,
+                  15,
+                  3,
+                  0
+                ],
+                "block_value": 26.42720822464589
+              }
+            ],
+            "raw_program_score": 19.10528012975853,
+            "costs": {
+              "predicate_mask_bits": 8,
+              "matrix_view_bits": 0,
+              "form_binding_bits": 3.807354922057604,
+              "prime_binding_bits": 2.6304452705151644,
+              "activation_bits": 4,
+              "global_variant_bits": 1,
+              "partition_bits": 2.321928094887362,
+              "total_bits": 21.759728287460128
+            },
+            "sum_fitted_module_surprisals_bits": 40.86500841721866
+          },
+          "four_module_shared_tuple_maximum": {
+            "variant": 129,
+            "active_mask": 15,
+            "active_modules": [
+              "G",
+              "C",
+              "W",
+              "M"
+            ],
+            "blocks": [
+              {
+                "module_mask": 15,
+                "modules": [
+                  "G",
+                  "C",
+                  "W",
+                  "M"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": 7,
+                "positive_masks": [
+                  3,
+                  15,
+                  3,
+                  4
+                ],
+                "block_value": 22.389425593727857
+              }
+            ],
+            "raw_program_score": 13.482534998119338,
+            "costs": {
+              "predicate_mask_bits": 12,
+              "matrix_view_bits": 3,
+              "form_binding_bits": 3.807354922057604,
+              "prime_binding_bits": 2.6304452705151644,
+              "activation_bits": 4,
+              "global_variant_bits": 1,
+              "partition_bits": 3.9068905956085187,
+              "total_bits": 30.34469078818129
+            },
+            "sum_fitted_module_surprisals_bits": 43.82722578630063
+          },
+          "four_module_fully_separate_bindings_maximum": {
+            "variant": 129,
+            "active_mask": 15,
+            "active_modules": [
+              "G",
+              "C",
+              "W",
+              "M"
+            ],
+            "blocks": [
+              {
+                "module_mask": 1,
+                "modules": [
+                  "G"
+                ],
+                "form_index": 0,
+                "prime_index": null,
+                "prime": null,
+                "matrix_view": null,
+                "positive_masks": [
+                  3,
+                  0,
+                  0,
+                  0
+                ],
+                "block_value": 5.151241074657451
+              },
+              {
+                "module_mask": 2,
+                "modules": [
+                  "C"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": null,
+                "positive_masks": [
+                  0,
+                  15,
+                  0,
+                  0
+                ],
+                "block_value": 8.171847495321215
+              },
+              {
+                "module_mask": 4,
+                "modules": [
+                  "W"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": null,
+                "positive_masks": [
+                  0,
+                  0,
+                  3,
+                  0
+                ],
+                "block_value": 2.8589645400368595
+              },
+              {
+                "module_mask": 8,
+                "modules": [
+                  "M"
+                ],
+                "form_index": 11,
+                "prime_index": 13,
+                "prime": 47,
+                "matrix_view": 0,
+                "positive_masks": [
+                  0,
+                  0,
+                  0,
+                  15
+                ],
+                "block_value": -4.473540744177091
+              }
+            ],
+            "raw_program_score": 2.8016217702299144,
+            "costs": {
+              "predicate_mask_bits": 12,
+              "matrix_view_bits": 3,
+              "form_binding_bits": 15.229419688230417,
+              "prime_binding_bits": 11.703834036879057,
+              "activation_bits": 4,
+              "global_variant_bits": 1,
+              "partition_bits": 3.9068905956085187,
+              "total_bits": 50.84014432071799
+            },
+            "sum_fitted_module_surprisals_bits": 53.641766090947904
+          },
+          "variant": 129,
+          "natural_tuple": {
+            "form": [
+              1,
+              1
+            ],
+            "prime": 19,
+            "matrix_view": 0,
+            "raw_arithmetic": {
+              "G": 3,
+              "C": 15,
+              "W": 3,
+              "matrix_masks": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                4
+              ],
+              "cell_counts": [
+                3,
+                3,
+                3,
+                3
+              ],
+              "cell_sums": [
+                20,
+                18,
+                19,
+                19
+              ],
+              "P": [
+                3303,
+                2933,
+                3252,
+                3303
+              ],
+              "R": [
+                590,
+                854,
+                5965,
+                5382
+              ],
+              "union_cardinality": 19,
+              "union_a": 1159,
+              "even_count": 57
+            },
+            "full_mask_module_statistics": [
+              {
+                "positive_mask": 3,
+                "training_successes": 100,
+                "training_n": 200000,
+                "fitted_probability": 0.0005024974875125624,
+                "fitted_surprisal_bits": 10.958595996715054,
+                "predicate_code_bits": 2,
+                "view_code_bits": 0,
+                "utility": 8.958595996715054,
+                "module": "G",
+                "actual_mask": 3,
+                "full_conjunction_satisfied": true
+              },
+              {
+                "positive_mask": 15,
+                "training_successes": 0,
+                "training_n": 200000,
+                "fitted_probability": 2.4999875000624998e-06,
+                "fitted_surprisal_bits": 18.609647687893982,
+                "predicate_code_bits": 4,
+                "view_code_bits": 0,
+                "utility": 14.609647687893982,
+                "module": "C",
+                "actual_mask": 15,
+                "full_conjunction_satisfied": true
+              },
+              {
+                "positive_mask": 3,
+                "training_successes": 79,
+                "training_n": 200000,
+                "fitted_probability": 0.00039749801250993746,
+                "fitted_surprisal_bits": 11.296764732609628,
+                "predicate_code_bits": 2,
+                "view_code_bits": 0,
+                "utility": 9.296764732609628,
+                "module": "W",
+                "actual_mask": 3,
+                "full_conjunction_satisfied": true
+              },
+              {
+                "positive_mask": 15,
+                "training_successes": 0,
+                "training_n": 200000,
+                "fitted_probability": 2.4999875000624998e-06,
+                "fitted_surprisal_bits": 18.609647687893982,
+                "predicate_code_bits": 4,
+                "view_code_bits": 3,
+                "utility": 11.609647687893982,
+                "module": "M",
+                "actual_mask": 0,
+                "full_conjunction_satisfied": false
+              }
+            ],
+            "full_four_module_program_eligible": false,
+            "maximum_eligible_full_module_mask": 7,
+            "four_full_modules": null,
+            "all_satisfied_full_modules": {
+              "shared": {
+                "variant": 129,
+                "active_mask": 7,
+                "active_modules": [
+                  "G",
+                  "C",
+                  "W"
+                ],
+                "blocks": [
+                  {
+                    "module_mask": 7,
+                    "modules": [
+                      "G",
+                      "C",
+                      "W"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      3,
+                      15,
+                      3,
+                      0
+                    ],
+                    "block_value": 26.42720822464589
+                  }
+                ],
+                "raw_program_score": 19.10528012975853,
+                "costs": {
+                  "predicate_mask_bits": 8,
+                  "matrix_view_bits": 0,
+                  "form_binding_bits": 3.807354922057604,
+                  "prime_binding_bits": 2.6304452705151644,
+                  "activation_bits": 4,
+                  "global_variant_bits": 1,
+                  "partition_bits": 2.321928094887362,
+                  "total_bits": 21.759728287460128
+                },
+                "sum_fitted_module_surprisals_bits": 40.86500841721866
+              },
+              "fixed_identical_predicates_separately_bound": {
+                "variant": 129,
+                "active_mask": 7,
+                "active_modules": [
+                  "G",
+                  "C",
+                  "W"
+                ],
+                "blocks": [
+                  {
+                    "module_mask": 1,
+                    "modules": [
+                      "G"
+                    ],
+                    "form_index": 0,
+                    "prime_index": null,
+                    "prime": null,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      3,
+                      0,
+                      0,
+                      0
+                    ],
+                    "block_value": 5.151241074657451
+                  },
+                  {
+                    "module_mask": 2,
+                    "modules": [
+                      "C"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      0,
+                      15,
+                      0,
+                      0
+                    ],
+                    "block_value": 8.171847495321215
+                  },
+                  {
+                    "module_mask": 4,
+                    "modules": [
+                      "W"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      0,
+                      0,
+                      3,
+                      0
+                    ],
+                    "block_value": 2.8589645400368595
+                  }
+                ],
+                "raw_program_score": 8.860125015128162,
+                "costs": {
+                  "predicate_mask_bits": 8,
+                  "matrix_view_bits": 0,
+                  "form_binding_bits": 11.422064766172813,
+                  "prime_binding_bits": 5.260890541030329,
+                  "activation_bits": 4,
+                  "global_variant_bits": 1,
+                  "partition_bits": 2.321928094887362,
+                  "total_bits": 32.004883402090506
+                },
+                "sum_fitted_module_surprisals_bits": 40.86500841721867
+              },
+              "code_saving_only_bits": 10.245155114630379
+            },
+            "G_C_W_shared_program": {
+              "variant": 129,
+              "active_mask": 7,
+              "active_modules": [
+                "G",
+                "C",
+                "W"
+              ],
+              "blocks": [
+                {
+                  "module_mask": 7,
+                  "modules": [
+                    "G",
+                    "C",
+                    "W"
+                  ],
+                  "form_index": 0,
+                  "prime_index": 6,
+                  "prime": 19,
+                  "matrix_view": null,
+                  "positive_masks": [
+                    3,
+                    15,
+                    3,
+                    0
+                  ],
+                  "block_value": 26.42720822464589
+                }
+              ],
+              "raw_program_score": 19.10528012975853,
+              "costs": {
+                "predicate_mask_bits": 8,
+                "matrix_view_bits": 0,
+                "form_binding_bits": 3.807354922057604,
+                "prime_binding_bits": 2.6304452705151644,
+                "activation_bits": 4,
+                "global_variant_bits": 1,
+                "partition_bits": 2.321928094887362,
+                "total_bits": 21.759728287460128
+              },
+              "sum_fitted_module_surprisals_bits": 40.86500841721866
+            },
+            "matrix_extension_from_GCW": null
+          }
+        },
+        {
+          "maximum_score": 23.203247516669524,
+          "winning_program": {
+            "variant": 127,
+            "active_mask": 15,
+            "active_modules": [
+              "G",
+              "C",
+              "W",
+              "M"
+            ],
+            "blocks": [
+              {
+                "module_mask": 15,
+                "modules": [
+                  "G",
+                  "C",
+                  "W",
+                  "M"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": 0,
+                "positive_masks": [
+                  3,
+                  15,
+                  3,
+                  15
+                ],
+                "block_value": 32.110138112278044
+              }
+            ],
+            "raw_program_score": 23.203247516669524,
+            "costs": {
+              "predicate_mask_bits": 12,
+              "matrix_view_bits": 3,
+              "form_binding_bits": 3.807354922057604,
+              "prime_binding_bits": 2.6304452705151644,
+              "activation_bits": 4,
+              "global_variant_bits": 1,
+              "partition_bits": 3.9068905956085187,
+              "total_bits": 30.34469078818129
+            },
+            "sum_fitted_module_surprisals_bits": 53.54793830485082
+          },
+          "four_module_shared_tuple_maximum": {
+            "variant": 127,
+            "active_mask": 15,
+            "active_modules": [
+              "G",
+              "C",
+              "W",
+              "M"
+            ],
+            "blocks": [
+              {
+                "module_mask": 15,
+                "modules": [
+                  "G",
+                  "C",
+                  "W",
+                  "M"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": 0,
+                "positive_masks": [
+                  3,
+                  15,
+                  3,
+                  15
+                ],
+                "block_value": 32.110138112278044
+              }
+            ],
+            "raw_program_score": 23.203247516669524,
+            "costs": {
+              "predicate_mask_bits": 12,
+              "matrix_view_bits": 3,
+              "form_binding_bits": 3.807354922057604,
+              "prime_binding_bits": 2.6304452705151644,
+              "activation_bits": 4,
+              "global_variant_bits": 1,
+              "partition_bits": 3.9068905956085187,
+              "total_bits": 30.34469078818129
+            },
+            "sum_fitted_module_surprisals_bits": 53.54793830485082
+          },
+          "four_module_fully_separate_bindings_maximum": {
+            "variant": 127,
+            "active_mask": 15,
+            "active_modules": [
+              "G",
+              "C",
+              "W",
+              "M"
+            ],
+            "blocks": [
+              {
+                "module_mask": 1,
+                "modules": [
+                  "G"
+                ],
+                "form_index": 0,
+                "prime_index": null,
+                "prime": null,
+                "matrix_view": null,
+                "positive_masks": [
+                  3,
+                  0,
+                  0,
+                  0
+                ],
+                "block_value": 5.35108165400405
+              },
+              {
+                "module_mask": 2,
+                "modules": [
+                  "C"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": null,
+                "positive_masks": [
+                  0,
+                  15,
+                  0,
+                  0
+                ],
+                "block_value": 8.171847495321215
+              },
+              {
+                "module_mask": 4,
+                "modules": [
+                  "W"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": null,
+                "positive_masks": [
+                  0,
+                  0,
+                  3,
+                  0
+                ],
+                "block_value": 2.8409306172065967
+              },
+              {
+                "module_mask": 8,
+                "modules": [
+                  "M"
+                ],
+                "form_index": 0,
+                "prime_index": 6,
+                "prime": 19,
+                "matrix_view": 0,
+                "positive_masks": [
+                  0,
+                  0,
+                  0,
+                  15
+                ],
+                "block_value": -0.9366769614569543
+              }
+            ],
+            "raw_program_score": 6.520292209466387,
+            "costs": {
+              "predicate_mask_bits": 12,
+              "matrix_view_bits": 3,
+              "form_binding_bits": 15.229419688230417,
+              "prime_binding_bits": 7.891335811545494,
+              "activation_bits": 4,
+              "global_variant_bits": 1,
+              "partition_bits": 3.9068905956085187,
+              "total_bits": 47.027646095384426
+            },
+            "sum_fitted_module_surprisals_bits": 53.54793830485082
+          },
+          "variant": 127,
+          "natural_tuple": {
+            "form": [
+              1,
+              1
+            ],
+            "prime": 19,
+            "matrix_view": 0,
+            "raw_arithmetic": {
+              "G": 3,
+              "C": 15,
+              "W": 3,
+              "matrix_masks": [
+                15,
+                1,
+                1,
+                15,
+                2,
+                0,
+                0,
+                6
+              ],
+              "cell_counts": [
+                3,
+                3,
+                3,
+                3
+              ],
+              "cell_sums": [
+                20,
+                18,
+                19,
+                19
+              ],
+              "P": [
+                3303,
+                2931,
+                3252,
+                3303
+              ],
+              "R": [
+                590,
+                854,
+                5965,
+                5380
+              ],
+              "union_cardinality": 19,
+              "union_a": 1159,
+              "even_count": 57
+            },
+            "full_mask_module_statistics": [
+              {
+                "positive_mask": 3,
+                "training_successes": 87,
+                "training_n": 200000,
+                "fitted_probability": 0.00043749781251093745,
+                "fitted_surprisal_bits": 11.158436576061654,
+                "predicate_code_bits": 2,
+                "view_code_bits": 0,
+                "utility": 9.158436576061654,
+                "module": "G",
+                "actual_mask": 3,
+                "full_conjunction_satisfied": true
+              },
+              {
+                "positive_mask": 15,
+                "training_successes": 0,
+                "training_n": 200000,
+                "fitted_probability": 2.4999875000624998e-06,
+                "fitted_surprisal_bits": 18.609647687893982,
+                "predicate_code_bits": 4,
+                "view_code_bits": 0,
+                "utility": 14.609647687893982,
+                "module": "C",
+                "actual_mask": 15,
+                "full_conjunction_satisfied": true
+              },
+              {
+                "positive_mask": 3,
+                "training_successes": 80,
+                "training_n": 200000,
+                "fitted_probability": 0.00040249798751006247,
+                "fitted_surprisal_bits": 11.278730809779365,
+                "predicate_code_bits": 2,
+                "view_code_bits": 0,
+                "utility": 9.278730809779365,
+                "module": "W",
+                "actual_mask": 3,
+                "full_conjunction_satisfied": true
+              },
+              {
+                "positive_mask": 15,
+                "training_successes": 34,
+                "training_n": 200000,
+                "fitted_probability": 0.0001724991375043125,
+                "fitted_surprisal_bits": 12.501123231115814,
+                "predicate_code_bits": 4,
+                "view_code_bits": 3,
+                "utility": 5.501123231115814,
+                "module": "M",
+                "actual_mask": 15,
+                "full_conjunction_satisfied": true
+              }
+            ],
+            "full_four_module_program_eligible": true,
+            "maximum_eligible_full_module_mask": 15,
+            "four_full_modules": {
+              "shared": {
+                "variant": 127,
+                "active_mask": 15,
+                "active_modules": [
+                  "G",
+                  "C",
+                  "W",
+                  "M"
+                ],
+                "blocks": [
+                  {
+                    "module_mask": 15,
+                    "modules": [
+                      "G",
+                      "C",
+                      "W",
+                      "M"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": 0,
+                    "positive_masks": [
+                      3,
+                      15,
+                      3,
+                      15
+                    ],
+                    "block_value": 32.110138112278044
+                  }
+                ],
+                "raw_program_score": 23.203247516669524,
+                "costs": {
+                  "predicate_mask_bits": 12,
+                  "matrix_view_bits": 3,
+                  "form_binding_bits": 3.807354922057604,
+                  "prime_binding_bits": 2.6304452705151644,
+                  "activation_bits": 4,
+                  "global_variant_bits": 1,
+                  "partition_bits": 3.9068905956085187,
+                  "total_bits": 30.34469078818129
+                },
+                "sum_fitted_module_surprisals_bits": 53.54793830485082
+              },
+              "fixed_identical_predicates_separately_bound": {
+                "variant": 127,
+                "active_mask": 15,
+                "active_modules": [
+                  "G",
+                  "C",
+                  "W",
+                  "M"
+                ],
+                "blocks": [
+                  {
+                    "module_mask": 1,
+                    "modules": [
+                      "G"
+                    ],
+                    "form_index": 0,
+                    "prime_index": null,
+                    "prime": null,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      3,
+                      0,
+                      0,
+                      0
+                    ],
+                    "block_value": 5.35108165400405
+                  },
+                  {
+                    "module_mask": 2,
+                    "modules": [
+                      "C"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      0,
+                      15,
+                      0,
+                      0
+                    ],
+                    "block_value": 8.171847495321215
+                  },
+                  {
+                    "module_mask": 4,
+                    "modules": [
+                      "W"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      0,
+                      0,
+                      3,
+                      0
+                    ],
+                    "block_value": 2.8409306172065967
+                  },
+                  {
+                    "module_mask": 8,
+                    "modules": [
+                      "M"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": 0,
+                    "positive_masks": [
+                      0,
+                      0,
+                      0,
+                      15
+                    ],
+                    "block_value": -0.9366769614569543
+                  }
+                ],
+                "raw_program_score": 6.520292209466387,
+                "costs": {
+                  "predicate_mask_bits": 12,
+                  "matrix_view_bits": 3,
+                  "form_binding_bits": 15.229419688230417,
+                  "prime_binding_bits": 7.891335811545494,
+                  "activation_bits": 4,
+                  "global_variant_bits": 1,
+                  "partition_bits": 3.9068905956085187,
+                  "total_bits": 47.027646095384426
+                },
+                "sum_fitted_module_surprisals_bits": 53.54793830485082
+              },
+              "code_saving_only_bits": 16.682955307203137
+            },
+            "all_satisfied_full_modules": {
+              "shared": {
+                "variant": 127,
+                "active_mask": 15,
+                "active_modules": [
+                  "G",
+                  "C",
+                  "W",
+                  "M"
+                ],
+                "blocks": [
+                  {
+                    "module_mask": 15,
+                    "modules": [
+                      "G",
+                      "C",
+                      "W",
+                      "M"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": 0,
+                    "positive_masks": [
+                      3,
+                      15,
+                      3,
+                      15
+                    ],
+                    "block_value": 32.110138112278044
+                  }
+                ],
+                "raw_program_score": 23.203247516669524,
+                "costs": {
+                  "predicate_mask_bits": 12,
+                  "matrix_view_bits": 3,
+                  "form_binding_bits": 3.807354922057604,
+                  "prime_binding_bits": 2.6304452705151644,
+                  "activation_bits": 4,
+                  "global_variant_bits": 1,
+                  "partition_bits": 3.9068905956085187,
+                  "total_bits": 30.34469078818129
+                },
+                "sum_fitted_module_surprisals_bits": 53.54793830485082
+              },
+              "fixed_identical_predicates_separately_bound": {
+                "variant": 127,
+                "active_mask": 15,
+                "active_modules": [
+                  "G",
+                  "C",
+                  "W",
+                  "M"
+                ],
+                "blocks": [
+                  {
+                    "module_mask": 1,
+                    "modules": [
+                      "G"
+                    ],
+                    "form_index": 0,
+                    "prime_index": null,
+                    "prime": null,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      3,
+                      0,
+                      0,
+                      0
+                    ],
+                    "block_value": 5.35108165400405
+                  },
+                  {
+                    "module_mask": 2,
+                    "modules": [
+                      "C"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      0,
+                      15,
+                      0,
+                      0
+                    ],
+                    "block_value": 8.171847495321215
+                  },
+                  {
+                    "module_mask": 4,
+                    "modules": [
+                      "W"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": null,
+                    "positive_masks": [
+                      0,
+                      0,
+                      3,
+                      0
+                    ],
+                    "block_value": 2.8409306172065967
+                  },
+                  {
+                    "module_mask": 8,
+                    "modules": [
+                      "M"
+                    ],
+                    "form_index": 0,
+                    "prime_index": 6,
+                    "prime": 19,
+                    "matrix_view": 0,
+                    "positive_masks": [
+                      0,
+                      0,
+                      0,
+                      15
+                    ],
+                    "block_value": -0.9366769614569543
+                  }
+                ],
+                "raw_program_score": 6.520292209466387,
+                "costs": {
+                  "predicate_mask_bits": 12,
+                  "matrix_view_bits": 3,
+                  "form_binding_bits": 15.229419688230417,
+                  "prime_binding_bits": 7.891335811545494,
+                  "activation_bits": 4,
+                  "global_variant_bits": 1,
+                  "partition_bits": 3.9068905956085187,
+                  "total_bits": 47.027646095384426
+                },
+                "sum_fitted_module_surprisals_bits": 53.54793830485082
+              },
+              "code_saving_only_bits": 16.682955307203137
+            },
+            "G_C_W_shared_program": {
+              "variant": 127,
+              "active_mask": 7,
+              "active_modules": [
+                "G",
+                "C",
+                "W"
+              ],
+              "blocks": [
+                {
+                  "module_mask": 7,
+                  "modules": [
+                    "G",
+                    "C",
+                    "W"
+                  ],
+                  "form_index": 0,
+                  "prime_index": 6,
+                  "prime": 19,
+                  "matrix_view": null,
+                  "positive_masks": [
+                    3,
+                    15,
+                    3,
+                    0
+                  ],
+                  "block_value": 26.609014881162235
+                }
+              ],
+              "raw_program_score": 19.287086786274873,
+              "costs": {
+                "predicate_mask_bits": 8,
+                "matrix_view_bits": 0,
+                "form_binding_bits": 3.807354922057604,
+                "prime_binding_bits": 2.6304452705151644,
+                "activation_bits": 4,
+                "global_variant_bits": 1,
+                "partition_bits": 2.321928094887362,
+                "total_bits": 21.759728287460128
+              },
+              "sum_fitted_module_surprisals_bits": 41.046815073735004
+            },
+            "matrix_extension_from_GCW": {
+              "score_increment": 3.916160730394651,
+              "matrix_fitted_surprisal_bits": 12.501123231115814,
+              "additional_predicate_bits": 4,
+              "additional_view_bits": 3,
+              "additional_partition_bits": 1.584962500721156,
+              "additional_form_or_prime_bits": 0,
+              "not_an_independent_probability_multiplier": true
+            }
+          }
+        }
+      ],
+      "joint_observed_primary_score_reproduced": 23.203247516669524,
+      "top_control_verification": {
+        "status": "pass",
+        "scope": "Saved strongest primary control; all six stored policy traces reconstructed directly, not a new search",
+        "run_n": 1000000,
+        "permutation_sha256": "5fdceafaec2e65b2f534b3f1d8c39c97469fdca2c73fa4831f2bf3a25b04602d",
+        "strict_ascending_pair_counts_129_127": [
+          993,
+          994
+        ],
+        "raw_tuple_contexts_checked": 1,
+        "policy_checks": [
+          {
+            "policy": 0,
+            "score_reconstructed": 6.328752021659287,
+            "blocks_checked": 1
+          },
+          {
+            "policy": 1,
+            "score_reconstructed": 7.509324267301109,
+            "blocks_checked": 1
+          },
+          {
+            "policy": 2,
+            "score_reconstructed": 8.864804921899498,
+            "blocks_checked": 1
+          },
+          {
+            "policy": 3,
+            "score_reconstructed": 0.0,
+            "blocks_checked": 0
+          },
+          {
+            "policy": 4,
+            "score_reconstructed": 0.0,
+            "blocks_checked": 0
+          },
+          {
+            "policy": 5,
+            "score_reconstructed": 5.6321441651092226,
+            "blocks_checked": 1
+          }
+        ]
+      }
+    }
+  }
+}

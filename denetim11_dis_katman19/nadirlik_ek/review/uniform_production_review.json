@@ -1,0 +1,699 @@
+{
+  "status": "passed",
+  "scope": "independent uniform natural127-anchor production audit",
+  "production_plan_sha256": "5775166d1544f9ebc50b6d396e85f817035c35c3c6ca97ed4745f527c327fa6c",
+  "n": 100000000,
+  "source_hashes_all_match": {
+    "rare_event/uniform_anchor/production_uniform.cpp": true,
+    "rare_event/uniform_anchor/uniform_sis_production.hpp": true,
+    "rare_event/uniform_anchor/F_conditional_sampler_127.bin": true,
+    "src/common.hpp": true,
+    "src/sampler.hpp": true,
+    "src/features.hpp": true,
+    "src/scorer.hpp": true,
+    "src/matrix.hpp": true,
+    "data/counts.txt": true,
+    "results/train_uniform.bin": true,
+    "protocol.json": true
+  },
+  "all_worker_and_bag_aggregates_reconciled": true,
+  "all_published_metric_estimates_diagnostics_and_intervals_reproduced": true,
+  "published_summary_sha256": "9603cd28a282bfa2bee27923f7604b63b0a546ab506ddb0d19750d11e5b51f2c",
+  "deadends_retained_as_zero": 5271535,
+  "metrics": {
+    "anchor_C15_W_127": {
+      "hits": 94728465,
+      "probability": 9.367713590519708e-12,
+      "SE": 6.337244765222106e-16,
+      "CI95_weighted_normal": [
+        9.366471513369603e-12,
+        9.368955667669813e-12
+      ],
+      "worker_SE": 5.743852739877528e-16,
+      "CI95_worker_t": [
+        9.36648931728849e-12,
+        9.368937863750926e-12
+      ],
+      "ESS": 68603560.19006735,
+      "RSE": 6.764985611468213e-05,
+      "max_draw_share": 1.5566448069532324e-07,
+      "nonzero_workers": 16,
+      "worker_probabilities": [
+        9.365284463187433e-12,
+        9.368997880386377e-12,
+        9.363815409380665e-12,
+        9.368271458875029e-12,
+        9.36899701161672e-12,
+        9.366095324496562e-12,
+        9.365614049684089e-12,
+        9.372526110486897e-12,
+        9.369423140660096e-12,
+        9.367421968180642e-12,
+        9.367677677469994e-12,
+        9.371088975433994e-12,
+        9.366623009128952e-12,
+        9.368729730075582e-12,
+        9.364951307172485e-12,
+        9.367899932079822e-12
+      ],
+      "all_proposals_in_denominator": 100000000
+    },
+    "G127": {
+      "hits": 32642,
+      "probability": 3.2256276076731944e-15,
+      "SE": 2.1028217799292725e-17,
+      "CI95_weighted_normal": [
+        3.1844130581275166e-15,
+        3.266842157218872e-15
+      ],
+      "worker_SE": 1.9638919722663605e-17,
+      "CI95_worker_t": [
+        3.1837682411550383e-15,
+        3.2674869741913504e-15
+      ],
+      "ESS": 23524.551289274783,
+      "RSE": 0.006519108947750303,
+      "max_draw_share": 0.0002800172074058478,
+      "nonzero_workers": 16,
+      "worker_probabilities": [
+        3.222858183015783e-15,
+        3.1655324264161114e-15,
+        3.2320969137858125e-15,
+        3.3049704525524037e-15,
+        3.365767133464857e-15,
+        3.189078318173965e-15,
+        3.1126077760623656e-15,
+        3.305797031025227e-15,
+        3.0840968645816205e-15,
+        3.273588931074583e-15,
+        3.216711241590127e-15,
+        3.2758049884963396e-15,
+        3.2099754585253277e-15,
+        3.3169894087813637e-15,
+        3.1350070376000475e-15,
+        3.199159557625174e-15
+      ],
+      "all_proposals_in_denominator": 100000000
+    },
+    "G127_Mview0": {
+      "hits": 83,
+      "probability": 7.780716111327623e-18,
+      "SE": 9.82735257742e-19,
+      "CI95_weighted_normal": [
+        5.854590399815615e-18,
+        9.70684182283963e-18
+      ],
+      "worker_SE": 8.75124875721794e-19,
+      "CI95_worker_t": [
+        5.91543159266235e-18,
+        9.646000629992896e-18
+      ],
+      "ESS": 62.68531270113107,
+      "RSE": 0.12630396016007786,
+      "max_draw_share": 0.03462202811448717,
+      "nonzero_workers": 16,
+      "worker_probabilities": [
+        6.189507472542013e-18,
+        5.16247941998156e-18,
+        3.774078672317749e-18,
+        6.59585097920873e-18,
+        6.00893489502652e-18,
+        2.6129082904109217e-18,
+        1.1649097792737291e-17,
+        1.2508058689298485e-17,
+        5.5237888796773686e-18,
+        2.2816541805593336e-18,
+        1.2162483161472224e-17,
+        1.1029665744033998e-17,
+        7.406977939862005e-18,
+        1.0409223413885577e-17,
+        1.156231624546175e-17,
+        9.61443200476644e-18
+      ],
+      "all_proposals_in_denominator": 100000000
+    },
+    "G127_Manyview": {
+      "hits": 174,
+      "probability": 1.5667926702638346e-17,
+      "SE": 1.3748091697386639e-18,
+      "CI95_weighted_normal": [
+        1.297335024433515e-17,
+        1.836250316094154e-17
+      ],
+      "worker_SE": 1.4260275355543612e-18,
+      "CI95_worker_t": [
+        1.2628420960025275e-17,
+        1.8707432445251417e-17
+      ],
+      "ESS": 129.87861906671907,
+      "RSE": 0.0877467195137668,
+      "max_draw_share": 0.023148238192565642,
+      "nonzero_workers": 16,
+      "worker_probabilities": [
+        1.7890625661057563e-17,
+        1.2631767307957024e-17,
+        1.0824837861165193e-17,
+        6.931616699743113e-18,
+        1.640462678814273e-17,
+        6.6062402845793815e-18,
+        2.081987595489775e-17,
+        2.5417453568920768e-17,
+        8.749171077879589e-18,
+        1.2363001052329822e-17,
+        1.812784784266212e-17,
+        2.1650826658003976e-17,
+        1.4418055973210698e-17,
+        2.2003779648298867e-17,
+        2.0868390425842396e-17,
+        1.497871043752253e-17
+      ],
+      "all_proposals_in_denominator": 100000000
+    },
+    "both_variant_CW_anchors": {
+      "hits": 68589715,
+      "probability": 6.8293143694873556e-12,
+      "SE": 6.854300492270813e-16,
+      "CI95_weighted_normal": [
+        6.827970951276949e-12,
+        6.830657787697762e-12
+      ],
+      "worker_SE": 8.112607507826859e-16,
+      "CI95_worker_t": [
+        6.827585208128769e-12,
+        6.831043530845942e-12
+      ],
+      "ESS": 49817402.0131522,
+      "RSE": 0.00010036586575799018,
+      "max_draw_share": 2.1352367052920336e-07,
+      "nonzero_workers": 16,
+      "worker_probabilities": [
+        6.8251340565477165e-12,
+        6.832988336389574e-12,
+        6.829503664090877e-12,
+        6.832753992495713e-12,
+        6.828913936016323e-12,
+        6.829106985988996e-12,
+        6.8250423683487505e-12,
+        6.831779034934872e-12,
+        6.831230432416067e-12,
+        6.827189170240375e-12,
+        6.829088584677179e-12,
+        6.832925668604502e-12,
+        6.825301783757534e-12,
+        6.833364104736342e-12,
+        6.823538243663853e-12,
+        6.831169548889027e-12
+      ],
+      "all_proposals_in_denominator": 100000000
+    },
+    "tail_uniform": {
+      "hits": 83,
+      "probability": 7.780716111327623e-18,
+      "SE": 9.82735257742e-19,
+      "CI95_weighted_normal": [
+        5.854590399815615e-18,
+        9.70684182283963e-18
+      ],
+      "worker_SE": 8.75124875721794e-19,
+      "CI95_worker_t": [
+        5.91543159266235e-18,
+        9.646000629992896e-18
+      ],
+      "ESS": 62.68531270113107,
+      "RSE": 0.12630396016007786,
+      "max_draw_share": 0.03462202811448717,
+      "nonzero_workers": 16,
+      "worker_probabilities": [
+        6.189507472542013e-18,
+        5.16247941998156e-18,
+        3.774078672317749e-18,
+        6.59585097920873e-18,
+        6.00893489502652e-18,
+        2.6129082904109217e-18,
+        1.1649097792737291e-17,
+        1.2508058689298485e-17,
+        5.5237888796773686e-18,
+        2.2816541805593336e-18,
+        1.2162483161472224e-17,
+        1.1029665744033998e-17,
+        7.406977939862005e-18,
+        1.0409223413885577e-17,
+        1.156231624546175e-17,
+        9.61443200476644e-18
+      ],
+      "all_proposals_in_denominator": 100000000
+    },
+    "tail_mixture": {
+      "hits": 83,
+      "probability": 7.780716111327623e-18,
+      "SE": 9.82735257742e-19,
+      "CI95_weighted_normal": [
+        5.854590399815615e-18,
+        9.70684182283963e-18
+      ],
+      "worker_SE": 8.75124875721794e-19,
+      "CI95_worker_t": [
+        5.91543159266235e-18,
+        9.646000629992896e-18
+      ],
+      "ESS": 62.68531270113107,
+      "RSE": 0.12630396016007786,
+      "max_draw_share": 0.03462202811448717,
+      "nonzero_workers": 16,
+      "worker_probabilities": [
+        6.189507472542013e-18,
+        5.16247941998156e-18,
+        3.774078672317749e-18,
+        6.59585097920873e-18,
+        6.00893489502652e-18,
+        2.6129082904109217e-18,
+        1.1649097792737291e-17,
+        1.2508058689298485e-17,
+        5.5237888796773686e-18,
+        2.2816541805593336e-18,
+        1.2162483161472224e-17,
+        1.1029665744033998e-17,
+        7.406977939862005e-18,
+        1.0409223413885577e-17,
+        1.156231624546175e-17,
+        9.61443200476644e-18
+      ],
+      "all_proposals_in_denominator": 100000000
+    },
+    "tail_literal": {
+      "hits": 83,
+      "probability": 7.780716111327623e-18,
+      "SE": 9.82735257742e-19,
+      "CI95_weighted_normal": [
+        5.854590399815615e-18,
+        9.70684182283963e-18
+      ],
+      "worker_SE": 8.75124875721794e-19,
+      "CI95_worker_t": [
+        5.91543159266235e-18,
+        9.646000629992896e-18
+      ],
+      "ESS": 62.68531270113107,
+      "RSE": 0.12630396016007786,
+      "max_draw_share": 0.03462202811448717,
+      "nonzero_workers": 16,
+      "worker_probabilities": [
+        6.189507472542013e-18,
+        5.16247941998156e-18,
+        3.774078672317749e-18,
+        6.59585097920873e-18,
+        6.00893489502652e-18,
+        2.6129082904109217e-18,
+        1.1649097792737291e-17,
+        1.2508058689298485e-17,
+        5.5237888796773686e-18,
+        2.2816541805593336e-18,
+        1.2162483161472224e-17,
+        1.1029665744033998e-17,
+        7.406977939862005e-18,
+        1.0409223413885577e-17,
+        1.156231624546175e-17,
+        9.61443200476644e-18
+      ],
+      "all_proposals_in_denominator": 100000000
+    },
+    "tail_discussion": {
+      "hits": 83,
+      "probability": 7.780716111327623e-18,
+      "SE": 9.82735257742e-19,
+      "CI95_weighted_normal": [
+        5.854590399815615e-18,
+        9.70684182283963e-18
+      ],
+      "worker_SE": 8.75124875721794e-19,
+      "CI95_worker_t": [
+        5.91543159266235e-18,
+        9.646000629992896e-18
+      ],
+      "ESS": 62.68531270113107,
+      "RSE": 0.12630396016007786,
+      "max_draw_share": 0.03462202811448717,
+      "nonzero_workers": 16,
+      "worker_probabilities": [
+        6.189507472542013e-18,
+        5.16247941998156e-18,
+        3.774078672317749e-18,
+        6.59585097920873e-18,
+        6.00893489502652e-18,
+        2.6129082904109217e-18,
+        1.1649097792737291e-17,
+        1.2508058689298485e-17,
+        5.5237888796773686e-18,
+        2.2816541805593336e-18,
+        1.2162483161472224e-17,
+        1.1029665744033998e-17,
+        7.406977939862005e-18,
+        1.0409223413885577e-17,
+        1.156231624546175e-17,
+        9.61443200476644e-18
+      ],
+      "all_proposals_in_denominator": 100000000
+    },
+    "tail_anchored19": {
+      "hits": 83,
+      "probability": 7.780716111327623e-18,
+      "SE": 9.82735257742e-19,
+      "CI95_weighted_normal": [
+        5.854590399815615e-18,
+        9.70684182283963e-18
+      ],
+      "worker_SE": 8.75124875721794e-19,
+      "CI95_worker_t": [
+        5.91543159266235e-18,
+        9.646000629992896e-18
+      ],
+      "ESS": 62.68531270113107,
+      "RSE": 0.12630396016007786,
+      "max_draw_share": 0.03462202811448717,
+      "nonzero_workers": 16,
+      "worker_probabilities": [
+        6.189507472542013e-18,
+        5.16247941998156e-18,
+        3.774078672317749e-18,
+        6.59585097920873e-18,
+        6.00893489502652e-18,
+        2.6129082904109217e-18,
+        1.1649097792737291e-17,
+        1.2508058689298485e-17,
+        5.5237888796773686e-18,
+        2.2816541805593336e-18,
+        1.2162483161472224e-17,
+        1.1029665744033998e-17,
+        7.406977939862005e-18,
+        1.0409223413885577e-17,
+        1.156231624546175e-17,
+        9.61443200476644e-18
+      ],
+      "all_proposals_in_denominator": 100000000
+    },
+    "tail_frequency": {
+      "hits": 83,
+      "probability": 7.780716111327623e-18,
+      "SE": 9.82735257742e-19,
+      "CI95_weighted_normal": [
+        5.854590399815615e-18,
+        9.70684182283963e-18
+      ],
+      "worker_SE": 8.75124875721794e-19,
+      "CI95_worker_t": [
+        5.91543159266235e-18,
+        9.646000629992896e-18
+      ],
+      "ESS": 62.68531270113107,
+      "RSE": 0.12630396016007786,
+      "max_draw_share": 0.03462202811448717,
+      "nonzero_workers": 16,
+      "worker_probabilities": [
+        6.189507472542013e-18,
+        5.16247941998156e-18,
+        3.774078672317749e-18,
+        6.59585097920873e-18,
+        6.00893489502652e-18,
+        2.6129082904109217e-18,
+        1.1649097792737291e-17,
+        1.2508058689298485e-17,
+        5.5237888796773686e-18,
+        2.2816541805593336e-18,
+        1.2162483161472224e-17,
+        1.1029665744033998e-17,
+        7.406977939862005e-18,
+        1.0409223413885577e-17,
+        1.156231624546175e-17,
+        9.61443200476644e-18
+      ],
+      "all_proposals_in_denominator": 100000000
+    }
+  },
+  "precision_gate_checks": {
+    "target_ESS": true,
+    "relative_standard_error": true,
+    "largest_draw_contribution": true,
+    "nonzero_workers": true
+  },
+  "passes_predeclared_precision_diagnostics": true,
+  "all_16_recorded_RNG_final_states_match_exact_calls": true,
+  "production_counter_windows_pairwise_disjoint": true,
+  "RNG_streams": [
+    {
+      "batch": 1,
+      "worker": 4,
+      "seed": 13449200077778388721,
+      "calls": 873294086,
+      "position": 1408547509822679661,
+      "forward_gap": 1262935590752799348,
+      "margin": 1262935589879505262
+    },
+    {
+      "batch": 1,
+      "worker": 7,
+      "seed": 18297549379782824565,
+      "calls": 873325810,
+      "position": 2671483100575479009,
+      "forward_gap": 1122837664271757114,
+      "margin": 1122837663398431304
+    },
+    {
+      "batch": 0,
+      "worker": 7,
+      "seed": 12437554438092065335,
+      "calls": 873355762,
+      "position": 3794320764847236123,
+      "forward_gap": 1595634073205536831,
+      "margin": 1595634072332181069
+    },
+    {
+      "batch": 1,
+      "worker": 1,
+      "seed": 964248334681533282,
+      "calls": 873258381,
+      "position": 5389954838052772954,
+      "forward_gap": 2027014288286613540,
+      "margin": 2027014287413355159
+    },
+    {
+      "batch": 0,
+      "worker": 1,
+      "seed": 2064574244128349782,
+      "calls": 873348821,
+      "position": 7416969126339386494,
+      "forward_gap": 3738565099092982930,
+      "margin": 3738565098219634109
+    },
+    {
+      "batch": 1,
+      "worker": 3,
+      "seed": 8304413744864988752,
+      "calls": 873385537,
+      "position": 11155534225432369424,
+      "forward_gap": 2117434336923072771,
+      "margin": 2117434336049687234
+    },
+    {
+      "batch": 0,
+      "worker": 0,
+      "seed": 16351187469071691663,
+      "calls": 873382220,
+      "position": 13272968562355442195,
+      "forward_gap": 532469514047111471,
+      "margin": 532469513173729251
+    },
+    {
+      "batch": 0,
+      "worker": 3,
+      "seed": 10542984073080392810,
+      "calls": 873364408,
+      "position": 13805438076402553666,
+      "forward_gap": 1001688281178379472,
+      "margin": 1001688280305015064
+    },
+    {
+      "batch": 1,
+      "worker": 0,
+      "seed": 9959969173633253754,
+      "calls": 873263301,
+      "position": 14807126357580933138,
+      "forward_gap": 670991225197878652,
+      "margin": 670991224324615351
+    },
+    {
+      "batch": 1,
+      "worker": 6,
+      "seed": 16736984963914431654,
+      "calls": 873391136,
+      "position": 15478117582778811790,
+      "forward_gap": 3114724034760188,
+      "margin": 3114723161369052
+    },
+    {
+      "batch": 0,
+      "worker": 6,
+      "seed": 510393874259309138,
+      "calls": 873374787,
+      "position": 15481232306813571978,
+      "forward_gap": 369455524962049778,
+      "margin": 369455524088674991
+    },
+    {
+      "batch": 1,
+      "worker": 5,
+      "seed": 14208168570419786796,
+      "calls": 873362217,
+      "position": 15850687831775621756,
+      "forward_gap": 61345521645774562,
+      "margin": 61345520772412345
+    },
+    {
+      "batch": 1,
+      "worker": 2,
+      "seed": 5745502276975271094,
+      "calls": 873318678,
+      "position": 15912033353421396318,
+      "forward_gap": 1112569082324992806,
+      "margin": 1112569081451674128
+    },
+    {
+      "batch": 0,
+      "worker": 2,
+      "seed": 5991088883321210580,
+      "calls": 873291398,
+      "position": 17024602435746389124,
+      "forward_gap": 672528232662889910,
+      "margin": 672528231789598512
+    },
+    {
+      "batch": 0,
+      "worker": 4,
+      "seed": 16941155685636069058,
+      "calls": 873396200,
+      "position": 17697130668409279034,
+      "forward_gap": 317101960555814629,
+      "margin": 317101959682418429
+    },
+    {
+      "batch": 0,
+      "worker": 5,
+      "seed": 4206107115133602699,
+      "calls": 873330919,
+      "position": 18014232628965093663,
+      "forward_gap": 1841058954567137614,
+      "margin": 1841058953693806695
+    }
+  ],
+  "pilot_worker_start_collisions": [],
+  "RNG_interpretation": "Recorded 16 production counter windows are pairwise disjoint. Pilot start-state collisions were excluded; pilots with unrecorded lengths are not given fabricated exact windows. PRNG window disjointness does not prove mathematical independence.",
+  "pattern_sampling_diagnostic": {
+    "chi_square": 23.286594696713927,
+    "degrees_of_freedom": 19,
+    "p_value": 0.22495428804981837
+  },
+  "max_target_witnesses": [
+    {
+      "pattern": 7,
+      "weight": 1.6904706875305435e-11,
+      "trace_weight_reconstructed_with_7_factorial": true,
+      "direct_natural_predicates_and_matrix_powers_passed": true
+    },
+    {
+      "pattern": 3,
+      "weight": 8.936153830259007e-12,
+      "trace_weight_reconstructed_with_7_factorial": true,
+      "direct_natural_predicates_and_matrix_powers_passed": true
+    },
+    {
+      "pattern": 12,
+      "weight": 7.288451810910838e-12,
+      "trace_weight_reconstructed_with_7_factorial": true,
+      "direct_natural_predicates_and_matrix_powers_passed": true
+    },
+    {
+      "pattern": 19,
+      "weight": 1.0800113854556969e-11,
+      "trace_weight_reconstructed_with_7_factorial": true,
+      "direct_natural_predicates_and_matrix_powers_passed": true
+    },
+    {
+      "pattern": 7,
+      "weight": 2.1605690877974873e-11,
+      "trace_weight_reconstructed_with_7_factorial": true,
+      "direct_natural_predicates_and_matrix_powers_passed": true
+    },
+    {
+      "pattern": 16,
+      "weight": 1.0294315357840177e-11,
+      "trace_weight_reconstructed_with_7_factorial": true,
+      "direct_natural_predicates_and_matrix_powers_passed": true
+    },
+    {
+      "pattern": 17,
+      "weight": 2.3269671454466792e-11,
+      "trace_weight_reconstructed_with_7_factorial": true,
+      "direct_natural_predicates_and_matrix_powers_passed": true
+    },
+    {
+      "pattern": 4,
+      "weight": 2.016962650730916e-11,
+      "trace_weight_reconstructed_with_7_factorial": true,
+      "direct_natural_predicates_and_matrix_powers_passed": true
+    },
+    {
+      "pattern": 5,
+      "weight": 1.6676038317276832e-11,
+      "trace_weight_reconstructed_with_7_factorial": true,
+      "direct_natural_predicates_and_matrix_powers_passed": true
+    },
+    {
+      "pattern": 17,
+      "weight": 8.881513910922375e-12,
+      "trace_weight_reconstructed_with_7_factorial": true,
+      "direct_natural_predicates_and_matrix_powers_passed": true
+    },
+    {
+      "pattern": 19,
+      "weight": 2.6938417195722824e-11,
+      "trace_weight_reconstructed_with_7_factorial": true,
+      "direct_natural_predicates_and_matrix_powers_passed": true
+    },
+    {
+      "pattern": 2,
+      "weight": 1.6436070034502844e-11,
+      "trace_weight_reconstructed_with_7_factorial": true,
+      "direct_natural_predicates_and_matrix_powers_passed": true
+    },
+    {
+      "pattern": 4,
+      "weight": 1.9876053603770745e-11,
+      "trace_weight_reconstructed_with_7_factorial": true,
+      "direct_natural_predicates_and_matrix_powers_passed": true
+    },
+    {
+      "pattern": 19,
+      "weight": 1.69631535595996e-11,
+      "trace_weight_reconstructed_with_7_factorial": true,
+      "direct_natural_predicates_and_matrix_powers_passed": true
+    },
+    {
+      "pattern": 16,
+      "weight": 1.8950020195060228e-11,
+      "trace_weight_reconstructed_with_7_factorial": true,
+      "direct_natural_predicates_and_matrix_powers_passed": true
+    },
+    {
+      "pattern": 4,
+      "weight": 1.506234581340144e-11,
+      "trace_weight_reconstructed_with_7_factorial": true,
+      "direct_natural_predicates_and_matrix_powers_passed": true
+    }
+  ],
+  "max_target_witness_scores_compared_bit_exactly": 96,
+  "interval_interpretation": "Weighted normal and 16-worker Student-t intervals are asymptotic Monte Carlo diagnostics, not exact binomial intervals. Expected waiting 1/p is a parameter, not a prediction of actual waiting time.",
+  "tail_scope": "Tail metrics are CW127 intersect natural Geither intersect frozen full-score threshold; they are not the full unrestricted score-tail probability.",
+  "input_hashes": {
+    "production_batch0.json": "b051fe3868f74a1f069f325f28a47ddc3f76b59650ff8f93cc378a19d788f353",
+    "production_batch1.json": "cee477c9bdf30cedf655ff716245479949c0fe68d900c9600b1b258ad1288736"
+  }
+}

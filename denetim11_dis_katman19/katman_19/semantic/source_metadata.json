@@ -1,0 +1,37 @@
+{
+  "retrieved_utc": "2026-10-25T13:25:10.068092+00:00",
+  "sources": [
+    {
+      "url": "https://tanzil.net/pub/download/index.php",
+      "request_method": "POST",
+      "parameters": {
+        "quranType": "simple-clean",
+        "outType": "txt-2",
+        "marks": "true",
+        "sajdah": "true",
+        "tatweel": "true",
+        "agree": "true"
+      },
+      "file": "quran_simple-clean.txt",
+      "bytes": 781176,
+      "sha256": "228df2a717671aeb9d2ff573002bd28d6b3f973f4bc7153554e3a81663d67610",
+      "preview": "1|1|بسم الله الرحمن الرحيم\n1|2|الحمد لله رب العالمين\n1|3|الرحمن الرحيم\n1|4|مالك يوم الدين\n1|5|إياك نعبد وإياك نستعين\n1|6|اهدنا الصراط المستقيم\n1|7|صر"
+    },
+    {
+      "url": "https://tanzil.net/pub/download/index.php",
+      "request_method": "POST",
+      "parameters": {
+        "quranType": "uthmani",
+        "outType": "txt-2",
+        "marks": "true",
+        "sajdah": "true",
+        "tatweel": "true",
+        "agree": "true"
+      },
+      "file": "quran_uthmani.txt",
+      "bytes": 1370878,
+      "sha256": "bf4f57b968d03f4131c070b1e285da9be0e0a108a21c910e872801ca273312c8",
+      "preview": "1|1|بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ\n1|2|ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ\n1|3|ٱلرَّحْمَٰنِ ٱلرَّحِيمِ\n1|4|مَٰلِكِ يَوْمِ ٱلدِّين"
+    }
+  ]
+}

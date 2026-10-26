@@ -1,0 +1,36 @@
+{
+  "deterministic_rebuild_verified": true,
+  "compared_files": [
+    "inventory.json",
+    "inventory.csv",
+    "literal_integer_inventory.json",
+    "literal_integer_inventory.csv",
+    "eligible_prime_inventory.json",
+    "eligible_prime_inventory.csv",
+    "semantic_weights.json",
+    "semantic_weights.csv",
+    "numeral_summary.json"
+  ],
+  "literal_integer_contexts": 158,
+  "eligible_prime_contexts": 38,
+  "full_corpus_source_integrity_checked": true,
+  "manual_audit_notes": [
+    "All unambiguous integer>=2 candidate contexts inspected; cardinal1 occurrences inspected separately.",
+    "Independent eligible-prime context audit agrees47mentions after correcting definite-article omissions in reviewer scan.",
+    "Prefix false positives for negative copula/crushed verb versus six explicitly excluded.",
+    "United-hearts verb versus thousand disambiguated at3:103 and8:63.",
+    "Accusative ألفا at8:65 added to thousand numeral lexicon.",
+    "The5:3 wild-beast homograph is not seven.",
+    "Broad unmatched lexical-root tokens inspected: remaining matches are nonnumerical vocabulary, verbal forms, names or paired/oft-repeated vocabulary outside exact lexical numeral scope."
+  ],
+  "counts": {
+    "literal_integer_mentions": 207,
+    "literal_distinct_values": 30,
+    "eligible_prime_mentions": 47
+  },
+  "limitations": [
+    "Model-assisted review; original19hypothesis known; not a blinded human panel.",
+    "All eligible-prime contexts reviewed; nonprime salience annotations not exhaustive.",
+    "No assertion of completeness for implicit quantity expressions, dual nouns or indefinite-one usage."
+  ]
+}

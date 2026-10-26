@@ -1,0 +1,130 @@
+figures/primary_distributions.svg	150993	ipynb/svg (html/png var)
+katman_19_analizi.ipynb	343801	ipynb/svg (html/png var)
+rare_event/exact/block6_C10W_sampler.bin	17257032	>=1MB
+rare_event/exact/block6_CW_sampler.bin	3917560	>=1MB
+rare_event/exact/block6_C_sampler.json	2962841	>=1MB
+rare_event/exact/block6_C_validation_draws.bin	11400000	>=1MB
+rare_event/exact/integer_test_vectors.bin	8000000	>=1MB
+rare_event/nadirlik_ek_analizi.ipynb	375877	ipynb/svg (html/png var)
+rare_event/pilot/betas_score.txt	82	pilot
+rare_event/pilot/guided_block6_rep0.json	17622	pilot
+rare_event/pilot/guided_block6_rep1.json	17723	pilot
+rare_event/pilot/guided_block6_run.json	314	pilot
+rare_event/pilot/guided_block6_states0.bin	129024	pilot
+rare_event/pilot/guided_block6_states1.bin	129024	pilot
+rare_event/pilot/guided_inversion_rep0.json	17556	pilot
+rare_event/pilot/guided_inversion_rep1.json	17397	pilot
+rare_event/pilot/guided_inversion_run.json	324	pilot
+rare_event/pilot/guided_inversion_states0.bin	129024	pilot
+rare_event/pilot/guided_inversion_states1.bin	129024	pilot
+rare_event/pilot/guided_plan.json	1462	pilot
+rare_event/pilot/guided_uniform_rep0.json	17712	pilot
+rare_event/pilot/guided_uniform_rep1.json	17747	pilot
+rare_event/pilot/guided_uniform_run.json	336	pilot
+rare_event/pilot/guided_uniform_states0.bin	129024	pilot
+rare_event/pilot/guided_uniform_states1.bin	129024	pilot
+rare_event/pilot/schedule_soft.txt	221	pilot
+rare_event/pilot/score_block6_rep0.json	13463	pilot
+rare_event/pilot/score_block6_rep1.json	13527	pilot
+rare_event/pilot/score_block6_run.json	266	pilot
+rare_event/pilot/score_block6_states0.bin	129024	pilot
+rare_event/pilot/score_block6_states1.bin	129024	pilot
+rare_event/pilot/score_inversion_rep0.json	13305	pilot
+rare_event/pilot/score_inversion_rep1.json	13495	pilot
+rare_event/pilot/score_inversion_run.json	276	pilot
+rare_event/pilot/score_inversion_states0.bin	129024	pilot
+rare_event/pilot/score_inversion_states1.bin	129024	pilot
+rare_event/pilot/score_uniform_rep0.json	13555	pilot
+rare_event/pilot/score_uniform_rep1.json	13619	pilot
+rare_event/pilot/score_uniform_run.json	268	pilot
+rare_event/pilot/score_uniform_states0.bin	129024	pilot
+rare_event/pilot/score_uniform_states1.bin	129024	pilot
+rare_event/production/block6_states0.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/block6_states1.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/block6_states2.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/block6_states3.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/block6_states4.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/block6_states5.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/block6_states6.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/block6_states7.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/inversion_exact_states0.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/inversion_exact_states1.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/inversion_exact_states2.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/inversion_exact_states3.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/inversion_exact_states4.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/inversion_exact_states5.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/inversion_exact_states6.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/inversion_exact_states7.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/uniform_states0.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/uniform_states1.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/uniform_states2.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/uniform_states3.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/uniform_states4.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/uniform_states5.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/uniform_states6.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/production/uniform_states7.bin	258048	>200KB üretim/denetim ayrıntısı
+rare_event/review/block6_cover.json	274771	>200KB üretim/denetim ayrıntısı
+rare_event/review/block6_outside_w7_cover.json	259657	>200KB üretim/denetim ayrıntısı
+rare_event/uniform_anchor/F_conditional_sampler_127.bin	90531156	>=1MB
+rare_event/uniform_anchor/F_local_matchings_127.bin	1046880	>=1MB
+results/test_block6_scores_0.bin	6000000	>=1MB
+results/test_block6_scores_1.bin	6000000	>=1MB
+results/test_block6_scores_2.bin	6000000	>=1MB
+results/test_block6_scores_3.bin	6000000	>=1MB
+results/test_block6_scores_4.bin	6000000	>=1MB
+results/test_block6_scores_5.bin	6000000	>=1MB
+results/test_block6_scores_6.bin	6000000	>=1MB
+results/test_block6_scores_7.bin	6000000	>=1MB
+results/test_inversion_exact_scores_0.bin	6000000	>=1MB
+results/test_inversion_exact_scores_1.bin	6000000	>=1MB
+results/test_inversion_exact_scores_2.bin	6000000	>=1MB
+results/test_inversion_exact_scores_3.bin	6000000	>=1MB
+results/test_inversion_exact_scores_4.bin	6000000	>=1MB
+results/test_inversion_exact_scores_5.bin	6000000	>=1MB
+results/test_inversion_exact_scores_6.bin	6000000	>=1MB
+results/test_inversion_exact_scores_7.bin	6000000	>=1MB
+results/test_uniform_scores_0.bin	6000000	>=1MB
+results/test_uniform_scores_1.bin	6000000	>=1MB
+results/test_uniform_scores_2.bin	6000000	>=1MB
+results/test_uniform_scores_3.bin	6000000	>=1MB
+results/test_uniform_scores_4.bin	6000000	>=1MB
+results/test_uniform_scores_5.bin	6000000	>=1MB
+results/test_uniform_scores_6.bin	6000000	>=1MB
+results/test_uniform_scores_7.bin	6000000	>=1MB
+semantic/eligible_prime_inventory.csv	78159	metin/envanter
+semantic/inventory.csv	635397	metin/envanter
+semantic/inventory.json	917836	metin/envanter
+semantic/lexical_candidates.tsv	89846	metin/envanter
+semantic/literal_integer_inventory.csv	322088	metin/envanter
+semantic/literal_integer_inventory.json	463885	metin/envanter
+semantic/quran_simple-clean.txt	781176	metin/envanter
+semantic/quran_uthmani.txt	1370878	>=1MB
+sources/original_quran_meta.json	60587	kaynak kopyası
+sources/readme.txt	44268	kaynak kopyası
+rare_event/review/production_block6_rep3_state_review.json	119118	>60KB denetim ayrıntısı
+rare_event/review/production_inversion_exact_rep2_state_review.json	119235	>60KB denetim ayrıntısı
+rare_event/review/pilot_inversion_exact_rep0_state_review.json	61674	>60KB denetim ayrıntısı
+rare_event/review/production_block6_rep6_state_review.json	114898	>60KB denetim ayrıntısı
+rare_event/review/production_seed_review.json	117908	>60KB denetim ayrıntısı
+rare_event/review/production_inversion_exact_rep7_state_review.json	120148	>60KB denetim ayrıntısı
+rare_event/review/production_block6_rep2_state_review.json	117907	>60KB denetim ayrıntısı
+rare_event/review/production_inversion_exact_rep3_state_review.json	116441	>60KB denetim ayrıntısı
+rare_event/review/production_inversion_exact_rep0_state_review.json	119540	>60KB denetim ayrıntısı
+rare_event/review/production_block6_rep4_state_review.json	117809	>60KB denetim ayrıntısı
+rare_event/review/production_inversion_exact_rep5_state_review.json	111189	>60KB denetim ayrıntısı
+rare_event/review/production_block6_rep0_state_review.json	117705	>60KB denetim ayrıntısı
+rare_event/review/production_inversion_exact_rep1_state_review.json	113204	>60KB denetim ayrıntısı
+rare_event/review/production_block6_rep5_state_review.json	115839	>60KB denetim ayrıntısı
+rare_event/review/production_inversion_exact_rep4_state_review.json	112053	>60KB denetim ayrıntısı
+rare_event/review/production_block6_rep7_state_review.json	118735	>60KB denetim ayrıntısı
+rare_event/review/production_inversion_exact_rep6_state_review.json	114128	>60KB denetim ayrıntısı
+rare_event/review/production_block6_rep1_state_review.json	119150	>60KB denetim ayrıntısı
+rare_event/review/production_uniform_rep0_state_review.json	116830	>60KB denetim ayrıntısı
+rare_event/review/production_uniform_rep5_state_review.json	119968	>60KB denetim ayrıntısı
+rare_event/review/production_uniform_rep1_state_review.json	117430	>60KB denetim ayrıntısı
+rare_event/review/production_review.json	93386	>60KB denetim ayrıntısı
+rare_event/review/production_uniform_rep4_state_review.json	119031	>60KB denetim ayrıntısı
+rare_event/review/production_uniform_rep2_state_review.json	115376	>60KB denetim ayrıntısı
+rare_event/review/production_uniform_rep7_state_review.json	116331	>60KB denetim ayrıntısı
+rare_event/review/production_uniform_rep3_state_review.json	116067	>60KB denetim ayrıntısı
+rare_event/review/production_uniform_rep6_state_review.json	117611	>60KB denetim ayrıntısı

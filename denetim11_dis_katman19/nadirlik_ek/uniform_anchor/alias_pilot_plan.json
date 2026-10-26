@@ -1,0 +1,15 @@
+{
+  "phase": "implementation-performance pilot only",
+  "proposal_distribution_unchanged": true,
+  "change": "Exact integer alias tables replacing F CDF unranking; every alias table mass identity checked with128bit integers; removeinitializationofarrayentriesneverread",
+  "n": 1000000,
+  "seed": 202610253006,
+  "threads": 8,
+  "scoremode": 1,
+  "source_hashes": {
+    "uniform_sis_alias.hpp": "e7203bd20c8a9fac0621fa86fa56740e355d215bd83fe83bd05d89947c0ea0ba",
+    "pilot_uniform_alias.cpp": "ef24006e767ca6c63ac980caaa1b9382dc60afb9172cb08974022ea00caee5f5",
+    "F_conditional_sampler_127.bin": "251ad2f14850d6d9041efb54861177929911d0c2d23d69ae920bd884dc1b2901"
+  },
+  "timestamp_utc": "2026-10-25T15:14:42.079564+00:00"
+}

@@ -1,0 +1,255 @@
+{
+  "status": "passed",
+  "toy_values": [
+    10,
+    10,
+    7,
+    4,
+    3,
+    1
+  ],
+  "edited_values": [
+    10,
+    5,
+    7,
+    4,
+    3,
+    1
+  ],
+  "labeled_states": 720,
+  "target_inversions": [
+    8,
+    7
+  ],
+  "fiber_states": 35,
+  "additional_event_states": 18,
+  "primitive_symmetry": {
+    "all_transpositions": {
+      "states": 720,
+      "integer_row_mass": 15,
+      "symmetric": true
+    },
+    "adjacent_transpositions": {
+      "states": 720,
+      "integer_row_mass": 5,
+      "symmetric": true
+    },
+    "parity_filtered_transpositions": {
+      "states": 720,
+      "integer_row_mass": 6,
+      "symmetric": true
+    },
+    "residue_filtered_transpositions": {
+      "states": 720,
+      "integer_row_mass": 6,
+      "symmetric": true
+    },
+    "adjacent_inverse_paired_three_cycles": {
+      "states": 720,
+      "integer_row_mass": 8,
+      "symmetric": true
+    }
+  },
+  "constrained_kernels": {
+    "global_two": {
+      "fiber_states": 35,
+      "fiber_components": [
+        35
+      ],
+      "event_states": 18,
+      "event_components": [
+        18
+      ],
+      "row_mass": 225,
+      "exact_detailed_balance": true
+    },
+    "global_four": {
+      "fiber_states": 35,
+      "fiber_components": [
+        35
+      ],
+      "event_states": 18,
+      "event_components": [
+        18
+      ],
+      "row_mass": 50625,
+      "exact_detailed_balance": true
+    },
+    "adjacent_two": {
+      "fiber_states": 35,
+      "fiber_components": [
+        35
+      ],
+      "event_states": 18,
+      "event_components": [
+        6,
+        4,
+        3,
+        2,
+        1,
+        1,
+        1
+      ],
+      "row_mass": 25,
+      "exact_detailed_balance": true
+    },
+    "parity_two": {
+      "fiber_states": 35,
+      "fiber_components": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "event_states": 18,
+      "event_components": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "row_mass": 36,
+      "exact_detailed_balance": true
+    },
+    "residue_two": {
+      "fiber_states": 35,
+      "fiber_components": [
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "event_states": 18,
+      "event_components": [
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "row_mass": 36,
+      "exact_detailed_balance": true
+    },
+    "adjacent_three_cycle": {
+      "fiber_states": 35,
+      "fiber_components": [
+        19,
+        7,
+        6,
+        3
+      ],
+      "event_states": 18,
+      "event_components": [
+        5,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "row_mass": 8,
+      "exact_detailed_balance": true
+    }
+  },
+  "paired_repair": {
+    "exact_rational_detailed_balance": true,
+    "row_mass_exactly_one": true,
+    "additional_level_restriction_validated": true,
+    "min_second_choices": 1,
+    "max_second_choices": 5,
+    "fiber_components": [
+      35
+    ],
+    "with_refresh_all_transitions_positive": true
+  },
+  "production_header_sha256": "3a1778c180b36995c31c540ea057b8856bda037b2f074f977dd720ee58212807",
+  "important_limit": "Stationarity and full support do not establish useful mixing in the actual rare-event tail. Report numeric motion and independent-replicate convergence separately."
+}

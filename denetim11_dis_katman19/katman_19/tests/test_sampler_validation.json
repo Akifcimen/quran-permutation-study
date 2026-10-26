@@ -1,0 +1,65 @@
+{
+  "status": "passed",
+  "purpose": "Validate sampling distributions and constraints only; no feature results or inferential study outcomes were inspected.",
+  "exact_rational_checks": {
+    "rational_projection_factor": "5/3",
+    "rational_projected_mean": "2164/1235",
+    "labeled_orders_enumerated": 24,
+    "numeric_words_enumerated": 12,
+    "joint_support": [
+      "acdb",
+      "bcda",
+      "cabd",
+      "cbad"
+    ],
+    "raw_joint_weights": [
+      "4/9",
+      "8/27",
+      "4/9",
+      "8/27"
+    ],
+    "uniformized_joint_weights": [
+      "10/27",
+      "10/27",
+      "10/27",
+      "10/27"
+    ],
+    "edited_label_and_value_conditional_groups_verified": 288
+  },
+  "compiled_production_code_checks": {
+    "status": "passed",
+    "bounded_rng_chi2_df2": 3.74212,
+    "toy_proposals": 240000,
+    "toy_raw_mallows_chi2_df23": 13.33580881433618,
+    "toy_uniformly_labeled_projection_chi2_df23": 6.577532091263743,
+    "toy_mean_exact": 1.7522267206477733,
+    "toy_mean_empirical": 1.7525583333333334,
+    "toy_conditional_accepted": 60000,
+    "toy_conditional_attempts": 342858,
+    "toy_conditional_uniform_chi2_df3": 6.4156,
+    "uniform_draws_checked": 1000,
+    "fixed_block_draws_checked": 1000,
+    "actual_conditional_draws_checked": 1000,
+    "actual_conditional_proposals": 475906,
+    "actual_conditional_max_proposals_per_draw": 2852,
+    "q": 0.9145731284623988,
+    "elapsed_seconds": 1.409737884
+  },
+  "compiler_command": [
+    "g++",
+    "-std=c++17",
+    "-O3",
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic",
+    "-I",
+    "/workspace/scratch/6c9672781e7f/joint_study/src",
+    "/workspace/scratch/6c9672781e7f/joint_study/tests/test_sampler.cpp",
+    "-o",
+    "/workspace/scratch/6c9672781e7f/joint_study/tests/test_sampler"
+  ],
+  "compiler_diagnostics": "",
+  "sampler_sha256": "c987ddbe3af2cb30757be1f1574b8543d81794f07de0a7da40b3933dc9129a9b",
+  "cpp_test_sha256": "31ab5c0f72fdb5c78a07c1324d309c6aac82d86d5e1bb853f5b65a1b7aa08fe2",
+  "floating_point_note": "Alias probabilities and q use floating-point arithmetic. Exact statements concern the mathematical proposal/conditioning construction; empirical checks exercise its finite-precision implementation."
+}

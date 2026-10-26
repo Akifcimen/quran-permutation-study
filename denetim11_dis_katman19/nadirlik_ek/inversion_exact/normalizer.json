@@ -1,0 +1,183 @@
+{
+  "status": "passed",
+  "scope": "Exact normalizer of the joint inversion null support; not a feature or full-grammar rarity estimate.",
+  "input": {
+    "n": 114,
+    "counts_sha256": "0777e72c82177411059ac4bd665a44e0c27ba40ccc91d54469b08c021e00b96d",
+    "script_sha256": "3a43aa49f5d379d103c66d5db76f637c6293dbdaef60c4327498fd9b64933915",
+    "changed_id_zero_based": 8,
+    "original": 129,
+    "replacement": 127,
+    "crossed_id_zero_based": 15,
+    "crossed_value": 128,
+    "multiplicity_129": 1,
+    "multiplicity_128": 1,
+    "multiplicity_127": 0,
+    "strict_pair_convention": "Number of i<j with a_i<a_j",
+    "target_129": 993,
+    "target_127": 994,
+    "joint_condition": "I129=993 and original ID8 (129) precedes original ID15 (128)",
+    "mallows_q_decimal": "0.9145731284623988",
+    "mallows_q_binary64_exact_decimal": "0.9145731284623987988879889599047601222991943359375"
+  },
+  "exact_counts": {
+    "polynomial_degree_T": 6384,
+    "polynomial_degree_A": 6383,
+    "distinct_values": 77,
+    "tie_label_factor": "176120502681600",
+    "all_unlabeled_words": "14442155766898814462849419236331560554652233627948606804940608193162089015561178686483076260108565185162354671374483628029723521741611133728758693888000000000000000000000000",
+    "all_labeled_permutations": "2543559733472187557120132004189335234812341496026552301496526393412538629248600474981599398141467853800514886431180030568224218435400019580180261753940817530060800000000000000000000000000",
+    "single_I993_unlabeled_words_T993": "464371334858576951247227577923845819734565571562588548156849544539994983276408739564759872634301659730731021254395580340856201040294741850",
+    "joint_I993_I994_unlabeled_words_A993": "242443177649573838345119558907835969331713589035282802573127524541132859808741517025939468218607905677706859067115832077558275717980947877",
+    "joint_I993_I994_labeled_permutations": "42699214319367394381358834180900134003938998517611685187594869566045359645447337212488224169154611626929530737668687177793417597768935695908888326963200",
+    "preferred_previous_A992": "221928157209003112902108019016009850402851982527305745583722019998862123467667222538820404415693754053024162187279748263297925322313793973",
+    "recurrence": "A993=T993-A992; A_minus1=0"
+  },
+  "probabilities_decimal_90_digit_arithmetic": {
+    "uniform_joint": "1.67871875613784507477238308220367328121593605441000702141612792686880441642248696793802783E-35",
+    "uniform_single_I993": "3.21538794037181401358976073316058325548202732329890409529951458435760227385530276549986011E-35",
+    "conditional_preferred_order_given_I993": "0.522089025420592035553752228796831041259572423281899634460658054205053975000179104918596549",
+    "uniform_joint_one_in": "59569239715928135908206814692152718.0492635984742464628225011163915320883416345836486087558",
+    "uniform_joint_surprisal_bits": "115.520122772207318560188386069992905218737201241553122359694363403321994378411275776665455",
+    "uniform_lower_tail_I_at_most_993": "3.75343460876391418402199293527006568979941222421854306256398443178529118437723985374373776E-34",
+    "projected_mallows_partition_Tq": "3.54898744351012263075044117860454576384951816747674604233542995892223446356917042356060972E+101",
+    "projected_mallows_expected_I": "992.999999999999422254532095730873303855646410007922059441008503150499319850922276037230912",
+    "mallows_joint_acceptance": "0.00211063653319210211891378271717495375525735189407980095065846521580924759202123727417741693",
+    "mallows_single_I993_probability": "0.00404267554080797807255570845293773135273256182868099626928808639363910475582105531094247288",
+    "mallows_expected_proposals_per_accept": "473.790718711578275810040577828642577400430765944978654636960358185875996323156288748242994",
+    "mallows_preferred_order_probability_unconditional": "0.522309639226527705445378350069114510930324481752170020025045857294850126843465263118293319",
+    "binary64_q_mallows_joint_acceptance": "0.00211063653319210211891378271717345593872518005320298929129828177404872159970266406733728882",
+    "binary64_q_relative_acceptance_difference": "-7.09651571275780293848958342930633149534283050465554061696038E-31"
+  },
+  "observed_proposal_comparisons": [
+    {
+      "phase": "train",
+      "source": "results/train_inversion_exact_run.json",
+      "accepted_draws": 200000,
+      "observed_proposals": 94677856,
+      "observed_acceptance_fraction": "0.00211242637349117833847019095996428140493591236371047523509615595858021964502449231634480612",
+      "predicted_proposals_mean": "94758143.7423156551620081155657957607456840637415851818906878127568345427916035384012982862",
+      "predicted_proposals_sd_negative_binomial": "211661.925918915474016872743667121550443762399189257836748111950949482276341738459384162543",
+      "proposal_total_standardized_deviation": "-0.379320664153893214864911546934460523852593432208333653700263790175979493943722082291948331",
+      "observed_relative_error_in_proposal_total": "-0.000847291210494676240930017440814058055162896743875205544596125745952996996307643081329328"
+    },
+    {
+      "phase": "test",
+      "source": "results/test_inversion_exact_run.json",
+      "accepted_draws": 1000000,
+      "observed_proposals": 474324719,
+      "observed_acceptance_fraction": "0.00210826035402131340323420926329584775445784852718165000378148118399032878571103944511059732",
+      "predicted_proposals_mean": "473790718.711578275810040577828978803728420318707925909453439063784172713958017692006491431",
+      "predicted_proposals_sd_negative_binomial": "473290.454603219639715300471965739025599501913243534623764870188574840542816015227918113804",
+      "proposal_total_standardized_deviation": "1.12827183229249847025864444593097841521969826150939674768993542324416584504923779631174172",
+      "observed_relative_error_in_proposal_total": "0.00112708051747801057308457255035596239470224695991294555506664765848136508819661729115660"
+    },
+    {
+      "phase": "combined",
+      "source": null,
+      "accepted_draws": 1200000,
+      "observed_proposals": 569002575,
+      "observed_acceptance_fraction": "0.00210895354911179444135204484795169863686469257190971411684736224611988794602555181758184486",
+      "predicted_proposals_mean": "568548862.453893930972048693394774564474104382449511091344126876541007256749621230407789717",
+      "predicted_proposals_sd_negative_binomial": "518463.716476116361971347970900692685661175646578470327827572370828160655631660206075836663",
+      "proposal_total_standardized_deviation": "0.875109543228701188229051163916768172813642136746223897547891366110642560533256502473177410",
+      "observed_relative_error_in_proposal_total": "0.00079801856281589610408214088516095898639138967594825370512285209107563807411257389574228"
+    }
+  ],
+  "validation": {
+    "toys": [
+      {
+        "values": [
+          2,
+          4,
+          6,
+          8
+        ],
+        "changed_id_zero_based": 2,
+        "crossed_id_zero_based": 1,
+        "replacement": 3,
+        "labeled_permutations_checked": 24,
+        "distinct_words": 24,
+        "tie_label_factor": 1,
+        "degree": 6,
+        "all_coefficients_match_enumeration": true,
+        "adjacent_swap_delta_checked_every_state": true,
+        "merged_pair_polynomial_matches": true
+      },
+      {
+        "values": [
+          0,
+          0,
+          2,
+          3,
+          5,
+          5
+        ],
+        "changed_id_zero_based": 3,
+        "crossed_id_zero_based": 2,
+        "replacement": 1,
+        "labeled_permutations_checked": 720,
+        "distinct_words": 180,
+        "tie_label_factor": 4,
+        "degree": 13,
+        "all_coefficients_match_enumeration": true,
+        "adjacent_swap_delta_checked_every_state": true,
+        "merged_pair_polynomial_matches": true
+      },
+      {
+        "values": [
+          2,
+          2,
+          4,
+          6,
+          8,
+          8,
+          8
+        ],
+        "changed_id_zero_based": 3,
+        "crossed_id_zero_based": 2,
+        "replacement": 3,
+        "labeled_permutations_checked": 5040,
+        "distinct_words": 420,
+        "tie_label_factor": 12,
+        "degree": 17,
+        "all_coefficients_match_enumeration": true,
+        "adjacent_swap_delta_checked_every_state": true,
+        "merged_pair_polynomial_matches": true
+      },
+      {
+        "values": [
+          0,
+          0,
+          3,
+          5,
+          7,
+          7,
+          10,
+          10
+        ],
+        "changed_id_zero_based": 3,
+        "crossed_id_zero_based": 2,
+        "replacement": 2,
+        "labeled_permutations_checked": 40320,
+        "distinct_words": 5040,
+        "tie_label_factor": 8,
+        "degree": 25,
+        "all_coefficients_match_enumeration": true,
+        "adjacent_swap_delta_checked_every_state": true,
+        "merged_pair_polynomial_matches": true
+      }
+    ],
+    "total_labeled_toy_permutations": 46104,
+    "full_polynomial_independent_route_agrees_through_993": true,
+    "full_polynomial_total_equals_multinomial": true,
+    "full_polynomial_palindromic": true,
+    "full_preferred_polynomial_palindromic_at_degree_D_minus_1": true,
+    "full_preferred_mass_is_half_all_words": true,
+    "merged_adjacent_pair_coefficients_agree_through_993": true,
+    "observed_both_inversion_targets_recounted": true,
+    "decimal_reporting_precision": 90
+  },
+  "coefficient_file_sha256": "768c5bcdcb4350ecfb105ae557ef47b35cb235bd2a602451f2988fac7bf8f685",
+  "seconds": 0.7248862809992715
+}

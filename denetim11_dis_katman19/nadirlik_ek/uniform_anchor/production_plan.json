@@ -1,0 +1,49 @@
+{
+  "phase": "fixed independent production; pilots excluded",
+  "created_utc": "2026-10-25T21:28:33.920845+00:00",
+  "n_total": 100000000,
+  "batches": [
+    {
+      "batch": 0,
+      "n": 50000000,
+      "seed": 202610263001,
+      "threads": 8,
+      "output": "production_batch0.json"
+    },
+    {
+      "batch": 1,
+      "n": 50000000,
+      "seed": 202610263002,
+      "threads": 8,
+      "output": "production_batch1.json"
+    }
+  ],
+  "method": "SIS, exact integer F alias; ordered H and Hall avoiding completion",
+  "variant_anchor": 127,
+  "score_mode": 1,
+  "event_primary": "C15&W3&G3&natural M15, form (1,1), p=19, variant127",
+  "score_component": "C15W3(127) intersect natural Geither intersect full scanned score >= observed threshold; NOT full tail",
+  "estimator": "sum of unnormalized trace-corrected importance weights times indicators / all proposals, including deadends as zero",
+  "confidence": "iid weighted-moment asymptotic normal interval, plus 16 independent worker batch t interval and diagnostics; neither is an exact binomial interval",
+  "precision_diagnostics_predeclared": {
+    "primary_target_ESS_min": 30,
+    "primary_relative_standard_error_max": 0.2,
+    "primary_largest_draw_contribution_max": 0.1,
+    "nonzero_worker_batches_min": 12
+  },
+  "stopping": "exactly two predetermined 50 million batches; no optional stopping or exclusion of zero batches; do not pool any pilot",
+  "rng": "SplitMix64 worker seed hash of batch seed xor odd constant times worker index; retain every actual RNG call count and final state for exact stream window overlap audit",
+  "source_sha256": {
+    "rare_event/uniform_anchor/production_uniform.cpp": "b227214ae27d2f1cc79518943cd35ee74ca4882a5a38834e14ec6ebf0afab097",
+    "rare_event/uniform_anchor/uniform_sis_production.hpp": "4fff56b05d1f6b1405d5446e45abd6463b550553c369e91cc7f11f12e5e15529",
+    "rare_event/uniform_anchor/F_conditional_sampler_127.bin": "251ad2f14850d6d9041efb54861177929911d0c2d23d69ae920bd884dc1b2901",
+    "src/common.hpp": "4f83236ef3e435b714bb01937ea483a3fb80236657e03c28325a7acf213659d1",
+    "src/sampler.hpp": "c987ddbe3af2cb30757be1f1574b8543d81794f07de0a7da40b3933dc9129a9b",
+    "src/features.hpp": "6a5ce5c62fee76df23f83fafefdac7326dcd87b37774829b235d879a54a67d3c",
+    "src/scorer.hpp": "ae07964b5e6a22a6f3bb032bb689863adc04cb96626a985c29928486a83d8929",
+    "src/matrix.hpp": "03d9fba5028b7af889a12d657a13241286521ff2021ee685cf19cdcac7818f18",
+    "data/counts.txt": "0777e72c82177411059ac4bd665a44e0c27ba40ccc91d54469b08c021e00b96d",
+    "results/train_uniform.bin": "8881edb916c58d15869de4b6eed778f484b23aeb3554a939d816dcab353a225a",
+    "protocol.json": "e956d7b71df9185c1fa23a3733d27f05762a7567a06ee534070279c0b9be9768"
+  }
+}

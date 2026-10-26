@@ -1,0 +1,2402 @@
+{
+  "scope": "Block6 model only; conditional natural-event probabilities and subset contributions, not full scanned-score tail probabilities",
+  "conditional_sampling": "Uniform labeled block-preserving orders conditional on each exactly counted anchor; independent random ranks, no MCMC or mixing assumption",
+  "intervals": "Two-sided95% Clopper-Pearson for fixed-n conditional Bernoulli counts, multiplied by an exactly known anchor probability. A component interval upper endpoint is not an upper bound on the full score tail.",
+  "experiments": {
+    "C15_and_W": {
+      "n": 100000000,
+      "seed": 202610250701,
+      "threads": 8,
+      "exact_anchor_numerator": "6052295999638228458971",
+      "exact_anchor_denominator": "1462463376025190400000000000000",
+      "seconds": 24.93012641,
+      "estimates": {
+        "Ecount57": {
+          "hits": 15797221,
+          "conditional_n": 100000000,
+          "conditional_estimate": 0.15797221,
+          "conditional_CP95": [
+            0.15790073208510308,
+            0.1580437077154102
+          ],
+          "exact_anchor_probability": 4.1384256856316515e-09,
+          "unconditional_estimate": 6.537562514799973e-10,
+          "unconditional_CP95": [
+            6.534604454410324e-10,
+            6.540521394619148e-10
+          ]
+        },
+        "G129": {
+          "hits": 51482,
+          "conditional_n": 100000000,
+          "conditional_estimate": 0.00051482,
+          "conditional_CP95": [
+            0.000510383520384942,
+            0.0005192854360032943
+          ],
+          "exact_anchor_probability": 4.1384256856316515e-09,
+          "unconditional_estimate": 2.130544311476887e-12,
+          "unconditional_CP95": [
+            2.1121842702841493e-12,
+            2.1490241865304644e-12
+          ]
+        },
+        "G127": {
+          "hits": 50888,
+          "conditional_n": 100000000,
+          "conditional_estimate": 0.00050888,
+          "conditional_CP95": [
+            0.0005044692305590038,
+            0.0005133197264243026
+          ],
+          "exact_anchor_probability": 4.1384256856316515e-09,
+          "unconditional_estimate": 2.105962062904235e-12,
+          "unconditional_CP95": [
+            2.087708421356217e-12,
+            2.1243355407757464e-12
+          ]
+        },
+        "G_either": {
+          "hits": 78454,
+          "conditional_n": 100000000,
+          "conditional_estimate": 0.00078454,
+          "conditional_CP95": [
+            0.0007790618201353685,
+            0.0007900471124377522
+          ],
+          "exact_anchor_probability": 4.1384256856316515e-09,
+          "unconditional_estimate": 3.246760487405456e-12,
+          "unconditional_CP95": [
+            3.2240894471431548e-12,
+            3.2695512629715114e-12
+          ]
+        },
+        "G_both": {
+          "hits": 23916,
+          "conditional_n": 100000000,
+          "conditional_estimate": 0.00023916,
+          "conditional_CP95": [
+            0.00023613879335944633,
+            0.00024221019914335803
+          ],
+          "exact_anchor_probability": 4.1384256856316515e-09,
+          "unconditional_estimate": 9.897458869756658e-13,
+          "unconditional_CP95": [
+            9.772428478127976e-13,
+            1.0023689094568303e-12
+          ]
+        },
+        "G129_M_view0": {
+          "hits": 0,
+          "conditional_n": 100000000,
+          "conditional_estimate": 0.0,
+          "conditional_CP95": [
+            0.0,
+            3.688879386074778e-08
+          ],
+          "exact_anchor_probability": 4.1384256856316515e-09,
+          "unconditional_estimate": 0.0,
+          "unconditional_CP95": [
+            0.0,
+            1.5266153202528978e-16
+          ]
+        },
+        "G127_M_view0": {
+          "hits": 146,
+          "conditional_n": 100000000,
+          "conditional_estimate": 1.46e-06,
+          "conditional_CP95": [
+            1.2327857589981007e-06,
+            1.7169580311099029e-06
+          ],
+          "exact_anchor_probability": 4.1384256856316515e-09,
+          "unconditional_estimate": 6.042101501022211e-15,
+          "unconditional_CP95": [
+            5.101792249918651e-15,
+            7.10550321709677e-15
+          ]
+        },
+        "G129_M_any": {
+          "hits": 278,
+          "conditional_n": 100000000,
+          "conditional_estimate": 2.78e-06,
+          "conditional_CP95": [
+            2.4627812141426825e-06,
+            3.1267441952468957e-06
+          ],
+          "exact_anchor_probability": 4.1384256856316515e-09,
+          "unconditional_estimate": 1.150482340605599e-14,
+          "unconditional_CP95": [
+            1.0192037034699182e-14,
+            1.293979849000942e-14
+          ]
+        },
+        "G127_M_any": {
+          "hits": 304,
+          "conditional_n": 100000000,
+          "conditional_estimate": 3.04e-06,
+          "conditional_CP95": [
+            2.7078368869832146e-06,
+            3.4016632729779933e-06
+          ],
+          "exact_anchor_probability": 4.1384256856316515e-09,
+          "unconditional_estimate": 1.258081408432022e-14,
+          "unconditional_CP95": [
+            1.1206181725592186e-14,
+            1.407753066276196e-14
+          ]
+        },
+        "G_either_M_any": {
+          "hits": 582,
+          "conditional_n": 100000000,
+          "conditional_estimate": 5.82e-06,
+          "conditional_CP95": [
+            5.356707864410074e-06,
+            6.3126386162816205e-06
+          ],
+          "exact_anchor_probability": 4.1384256856316515e-09,
+          "unconditional_estimate": 2.408563749037621e-14,
+          "unconditional_CP95": [
+            2.2168337416499718e-14,
+            2.6124385793730104e-14
+          ]
+        },
+        "tail_uniform_intersect_Geither": {
+          "hits": 146,
+          "conditional_n": 100000000,
+          "conditional_estimate": 1.46e-06,
+          "conditional_CP95": [
+            1.2327857589981007e-06,
+            1.7169580311099029e-06
+          ],
+          "exact_anchor_probability": 4.1384256856316515e-09,
+          "unconditional_estimate": 6.042101501022211e-15,
+          "unconditional_CP95": [
+            5.101792249918651e-15,
+            7.10550321709677e-15
+          ]
+        },
+        "tail_mixture_intersect_Geither": {
+          "hits": 146,
+          "conditional_n": 100000000,
+          "conditional_estimate": 1.46e-06,
+          "conditional_CP95": [
+            1.2327857589981007e-06,
+            1.7169580311099029e-06
+          ],
+          "exact_anchor_probability": 4.1384256856316515e-09,
+          "unconditional_estimate": 6.042101501022211e-15,
+          "unconditional_CP95": [
+            5.101792249918651e-15,
+            7.10550321709677e-15
+          ]
+        },
+        "tail_literal_intersect_Geither": {
+          "hits": 146,
+          "conditional_n": 100000000,
+          "conditional_estimate": 1.46e-06,
+          "conditional_CP95": [
+            1.2327857589981007e-06,
+            1.7169580311099029e-06
+          ],
+          "exact_anchor_probability": 4.1384256856316515e-09,
+          "unconditional_estimate": 6.042101501022211e-15,
+          "unconditional_CP95": [
+            5.101792249918651e-15,
+            7.10550321709677e-15
+          ]
+        },
+        "tail_discussion_intersect_Geither": {
+          "hits": 146,
+          "conditional_n": 100000000,
+          "conditional_estimate": 1.46e-06,
+          "conditional_CP95": [
+            1.2327857589981007e-06,
+            1.7169580311099029e-06
+          ],
+          "exact_anchor_probability": 4.1384256856316515e-09,
+          "unconditional_estimate": 6.042101501022211e-15,
+          "unconditional_CP95": [
+            5.101792249918651e-15,
+            7.10550321709677e-15
+          ]
+        },
+        "tail_anchored19_intersect_Geither": {
+          "hits": 146,
+          "conditional_n": 100000000,
+          "conditional_estimate": 1.46e-06,
+          "conditional_CP95": [
+            1.2327857589981007e-06,
+            1.7169580311099029e-06
+          ],
+          "exact_anchor_probability": 4.1384256856316515e-09,
+          "unconditional_estimate": 6.042101501022211e-15,
+          "unconditional_CP95": [
+            5.101792249918651e-15,
+            7.10550321709677e-15
+          ]
+        },
+        "tail_frequency_intersect_Geither": {
+          "hits": 146,
+          "conditional_n": 100000000,
+          "conditional_estimate": 1.46e-06,
+          "conditional_CP95": [
+            1.2327857589981007e-06,
+            1.7169580311099029e-06
+          ],
+          "exact_anchor_probability": 4.1384256856316515e-09,
+          "unconditional_estimate": 6.042101501022211e-15,
+          "unconditional_CP95": [
+            5.101792249918651e-15,
+            7.10550321709677e-15
+          ]
+        }
+      },
+      "production_plan_hashes_match": true
+    },
+    "Cpattern_centre_and_W": {
+      "n": 100000000,
+      "seed": 202610250801,
+      "threads": 8,
+      "exact_anchor_numerator": "145862726858984102776691",
+      "exact_anchor_denominator": "8226356490141696000000000000000",
+      "seconds": 44.441061268,
+      "estimates": {
+        "Ecount57": {
+          "hits": 15944152,
+          "conditional_n": 100000000,
+          "conditional_estimate": 0.15944152,
+          "conditional_CP95": [
+            0.15936977306307107,
+            0.15951328665237482
+          ],
+          "exact_anchor_probability": 1.7731145864366945e-08,
+          "unconditional_estimate": 2.8270808479563796e-09,
+          "unconditional_CP95": [
+            2.825808692552371e-09,
+            2.828353352937835e-09
+          ]
+        },
+        "G129": {
+          "hits": 64853,
+          "conditional_n": 100000000,
+          "conditional_estimate": 0.00064853,
+          "conditional_CP95": [
+            0.0006435497846262447,
+            0.0006535391593143286
+          ],
+          "exact_anchor_probability": 1.7731145864366945e-08,
+          "unconditional_estimate": 1.1499180027417894e-11,
+          "unconditional_CP95": [
+            1.1410875102189877e-11,
+            1.1587998161878108e-11
+          ]
+        },
+        "G127": {
+          "hits": 64308,
+          "conditional_n": 100000000,
+          "conditional_estimate": 0.00064308,
+          "conditional_CP95": [
+            0.0006381207811640213,
+            0.0006480681632547285
+          ],
+          "exact_anchor_probability": 1.7731145864366945e-08,
+          "unconditional_estimate": 1.1402545282457095e-11,
+          "unconditional_CP95": [
+            1.1314612649903042e-11,
+            1.1490991132721962e-11
+          ]
+        },
+        "G_either": {
+          "hits": 97051,
+          "conditional_n": 100000000,
+          "conditional_estimate": 0.00097051,
+          "conditional_CP95": [
+            0.0009644165350050636,
+            0.0009766323832714437
+          ],
+          "exact_anchor_probability": 1.7731145864366945e-08,
+          "unconditional_estimate": 1.7208254372826766e-11,
+          "unconditional_CP95": [
+            1.7100210256182133e-11,
+            1.7316811243650294e-11
+          ]
+        },
+        "G_both": {
+          "hits": 32110,
+          "conditional_n": 100000000,
+          "conditional_estimate": 0.0003211,
+          "conditional_CP95": [
+            0.00031759792468994037,
+            0.0003246310544009379
+          ],
+          "exact_anchor_probability": 1.7731145864366945e-08,
+          "unconditional_estimate": 5.693470937048226e-12,
+          "unconditional_CP95": [
+            5.631375128897561e-12,
+            5.7560805776862704e-12
+          ]
+        },
+        "G129_M_view0": {
+          "hits": 0,
+          "conditional_n": 100000000,
+          "conditional_estimate": 0.0,
+          "conditional_CP95": [
+            0.0,
+            3.688879386074778e-08
+          ],
+          "exact_anchor_probability": 1.7731145864366945e-08,
+          "unconditional_estimate": 0.0,
+          "unconditional_CP95": [
+            0.0,
+            6.540805847054827e-16
+          ]
+        },
+        "G127_M_view0": {
+          "hits": 189,
+          "conditional_n": 100000000,
+          "conditional_estimate": 1.89e-06,
+          "conditional_CP95": [
+            1.630142574501647e-06,
+            2.1795053916812053e-06
+          ],
+          "exact_anchor_probability": 1.7731145864366945e-08,
+          "unconditional_estimate": 3.3511865683653523e-14,
+          "unconditional_CP95": [
+            2.890429576820336e-14,
+            3.8645128012073666e-14
+          ]
+        },
+        "G129_M_any": {
+          "hits": 399,
+          "conditional_n": 100000000,
+          "conditional_estimate": 3.99e-06,
+          "conditional_CP95": [
+            3.6080540381790705e-06,
+            4.401375779153116e-06
+          ],
+          "exact_anchor_probability": 1.7731145864366945e-08,
+          "unconditional_estimate": 7.074727199882412e-14,
+          "unconditional_CP95": [
+            6.397493243747128e-14,
+            7.804143594405561e-14
+          ]
+        },
+        "G127_M_any": {
+          "hits": 374,
+          "conditional_n": 100000000,
+          "conditional_estimate": 3.74e-06,
+          "conditional_CP95": [
+            3.370520189104052e-06,
+            4.13892552644053e-06
+          ],
+          "exact_anchor_probability": 1.7731145864366945e-08,
+          "unconditional_estimate": 6.631448553273238e-14,
+          "unconditional_CP95": [
+            5.976318511179761e-14,
+            7.338789223106879e-14
+          ]
+        },
+        "G_either_M_any": {
+          "hits": 773,
+          "conditional_n": 100000000,
+          "conditional_estimate": 7.73e-06,
+          "conditional_CP95": [
+            7.194607985744684e-06,
+            8.294685260513925e-06
+          ],
+          "exact_anchor_probability": 1.7731145864366945e-08,
+          "unconditional_estimate": 1.3706175753155647e-13,
+          "unconditional_CP95": [
+            1.2756864363217824e-13,
+            1.4707427425318694e-13
+          ]
+        },
+        "tail_uniform_intersect_Geither": {
+          "hits": 47,
+          "conditional_n": 100000000,
+          "conditional_estimate": 4.7e-07,
+          "conditional_CP95": [
+            3.4533834146919655e-07,
+            6.25000314968825e-07
+          ],
+          "exact_anchor_probability": 1.7731145864366945e-08,
+          "unconditional_estimate": 8.333638556252465e-15,
+          "unconditional_CP95": [
+            6.1232445051488845e-15,
+            1.1081971749987519e-14
+          ]
+        },
+        "tail_mixture_intersect_Geither": {
+          "hits": 47,
+          "conditional_n": 100000000,
+          "conditional_estimate": 4.7e-07,
+          "conditional_CP95": [
+            3.4533834146919655e-07,
+            6.25000314968825e-07
+          ],
+          "exact_anchor_probability": 1.7731145864366945e-08,
+          "unconditional_estimate": 8.333638556252465e-15,
+          "unconditional_CP95": [
+            6.1232445051488845e-15,
+            1.1081971749987519e-14
+          ]
+        },
+        "tail_literal_intersect_Geither": {
+          "hits": 47,
+          "conditional_n": 100000000,
+          "conditional_estimate": 4.7e-07,
+          "conditional_CP95": [
+            3.4533834146919655e-07,
+            6.25000314968825e-07
+          ],
+          "exact_anchor_probability": 1.7731145864366945e-08,
+          "unconditional_estimate": 8.333638556252465e-15,
+          "unconditional_CP95": [
+            6.1232445051488845e-15,
+            1.1081971749987519e-14
+          ]
+        },
+        "tail_discussion_intersect_Geither": {
+          "hits": 47,
+          "conditional_n": 100000000,
+          "conditional_estimate": 4.7e-07,
+          "conditional_CP95": [
+            3.4533834146919655e-07,
+            6.25000314968825e-07
+          ],
+          "exact_anchor_probability": 1.7731145864366945e-08,
+          "unconditional_estimate": 8.333638556252465e-15,
+          "unconditional_CP95": [
+            6.1232445051488845e-15,
+            1.1081971749987519e-14
+          ]
+        },
+        "tail_anchored19_intersect_Geither": {
+          "hits": 47,
+          "conditional_n": 100000000,
+          "conditional_estimate": 4.7e-07,
+          "conditional_CP95": [
+            3.4533834146919655e-07,
+            6.25000314968825e-07
+          ],
+          "exact_anchor_probability": 1.7731145864366945e-08,
+          "unconditional_estimate": 8.333638556252465e-15,
+          "unconditional_CP95": [
+            6.1232445051488845e-15,
+            1.1081971749987519e-14
+          ]
+        },
+        "tail_frequency_intersect_Geither": {
+          "hits": 47,
+          "conditional_n": 100000000,
+          "conditional_estimate": 4.7e-07,
+          "conditional_CP95": [
+            3.4533834146919655e-07,
+            6.25000314968825e-07
+          ],
+          "exact_anchor_probability": 1.7731145864366945e-08,
+          "unconditional_estimate": 8.333638556252465e-15,
+          "unconditional_CP95": [
+            6.1232445051488845e-15,
+            1.1081971749987519e-14
+          ]
+        }
+      },
+      "production_plan_hashes_match": true,
+      "by_Cmask": {
+        "10": {
+          "conditional_draws": 51545045,
+          "estimates": {
+            "Ecount57": {
+              "hits": 8294505,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.08294505,
+              "conditional_CP95": [
+                0.0828910014329683,
+                0.08299912271169795
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 1.4707107802772097e-09,
+              "unconditional_CP95": [
+                1.4697524372514105e-09,
+                1.4716695514156075e-09
+              ]
+            },
+            "G129": {
+              "hits": 37594,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.00037594,
+              "conditional_CP95": [
+                0.0003721499760175649,
+                0.0003797589957569247
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 6.66584697625011e-12,
+              "unconditional_CP95": [
+                6.5986455081881036e-12,
+                6.733562147071539e-12
+              ]
+            },
+            "G127": {
+              "hits": 37236,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.00037236,
+              "conditional_CP95": [
+                0.00036858810356868205,
+                0.00037616086865521113
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 6.602369474055675e-12,
+              "unconditional_CP95": [
+                6.535489428246692e-12,
+                6.669763230592525e-12
+              ]
+            },
+            "G_either": {
+              "hits": 56596,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.00056596,
+              "conditional_CP95": [
+                0.0005613080446485585,
+                0.0005706409067826284
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 1.0035119313397116e-11,
+              "unconditional_CP95": [
+                9.952634814506183e-12,
+                1.0118117154337406e-11
+              ]
+            },
+            "G_both": {
+              "hits": 18234,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.00018234,
+              "conditional_CP95": [
+                0.0001797031156684101,
+                0.00018500588931318917
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 3.2330971369086692e-12,
+              "unconditional_CP95": [
+                3.1863421561977844e-12,
+                3.280366409179083e-12
+              ]
+            },
+            "G129_M_view0": {
+              "hits": 0,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.0,
+              "conditional_CP95": [
+                0.0,
+                3.688879386074778e-08
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 0.0,
+              "unconditional_CP95": [
+                0.0,
+                6.540805847054827e-16
+              ]
+            },
+            "G127_M_view0": {
+              "hits": 100,
+              "conditional_n": 100000000,
+              "conditional_estimate": 1e-06,
+              "conditional_CP95": [
+                8.13639984256057e-07,
+                1.216267806404362e-06
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 1.7731145864366947e-14,
+              "unconditional_CP95": [
+                1.4426769241925372e-14,
+                2.1565821885489362e-14
+              ]
+            },
+            "G129_M_any": {
+              "hits": 241,
+              "conditional_n": 100000000,
+              "conditional_estimate": 2.41e-06,
+              "conditional_CP95": [
+                2.1153114457994596e-06,
+                2.734256659641509e-06
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 4.2732061533124335e-14,
+              "unconditional_CP95": [
+                3.750689579403515e-14,
+                4.8481503662720323e-14
+              ]
+            },
+            "G127_M_any": {
+              "hits": 212,
+              "conditional_n": 100000000,
+              "conditional_estimate": 2.12e-06,
+              "conditional_CP95": [
+                1.8442114851666075e-06,
+                2.425397567495478e-06
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 3.7590029232457923e-14,
+              "unconditional_CP95": [
+                3.2699982848229913e-14,
+                4.3005078048343095e-14
+              ]
+            },
+            "G_either_M_any": {
+              "hits": 453,
+              "conditional_n": 100000000,
+              "conditional_estimate": 4.53e-06,
+              "conditional_CP95": [
+                4.122396854469737e-06,
+                4.96700320370387e-06
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 8.032209076558226e-14,
+              "unconditional_CP95": [
+                7.309481993741039e-14,
+                8.807065831365124e-14
+              ]
+            },
+            "tail_uniform_intersect_Geither": {
+              "hits": 0,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.0,
+              "conditional_CP95": [
+                0.0,
+                3.688879386074778e-08
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 0.0,
+              "unconditional_CP95": [
+                0.0,
+                6.540805847054827e-16
+              ]
+            },
+            "tail_mixture_intersect_Geither": {
+              "hits": 0,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.0,
+              "conditional_CP95": [
+                0.0,
+                3.688879386074778e-08
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 0.0,
+              "unconditional_CP95": [
+                0.0,
+                6.540805847054827e-16
+              ]
+            },
+            "tail_literal_intersect_Geither": {
+              "hits": 0,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.0,
+              "conditional_CP95": [
+                0.0,
+                3.688879386074778e-08
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 0.0,
+              "unconditional_CP95": [
+                0.0,
+                6.540805847054827e-16
+              ]
+            },
+            "tail_discussion_intersect_Geither": {
+              "hits": 0,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.0,
+              "conditional_CP95": [
+                0.0,
+                3.688879386074778e-08
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 0.0,
+              "unconditional_CP95": [
+                0.0,
+                6.540805847054827e-16
+              ]
+            },
+            "tail_anchored19_intersect_Geither": {
+              "hits": 0,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.0,
+              "conditional_CP95": [
+                0.0,
+                3.688879386074778e-08
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 0.0,
+              "unconditional_CP95": [
+                0.0,
+                6.540805847054827e-16
+              ]
+            },
+            "tail_frequency_intersect_Geither": {
+              "hits": 0,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.0,
+              "conditional_CP95": [
+                0.0,
+                3.688879386074778e-08
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 0.0,
+              "unconditional_CP95": [
+                0.0,
+                6.540805847054827e-16
+              ]
+            }
+          }
+        },
+        "11": {
+          "conditional_draws": 6688559,
+          "estimates": {
+            "Ecount57": {
+              "hits": 1054192,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.01054192,
+              "conditional_CP95": [
+                0.010521911815332111,
+                0.010561956526891158
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 1.869203212104872e-10,
+              "unconditional_CP95": [
+                1.8656555316965965e-10,
+                1.8727559179140962e-10
+              ]
+            },
+            "G129": {
+              "hits": 4027,
+              "conditional_n": 100000000,
+              "conditional_estimate": 4.027e-05,
+              "conditional_CP95": [
+                3.903575570758912e-05,
+                4.153333909442416e-05
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 7.140332439580569e-13,
+              "unconditional_CP95": [
+                6.921486783770572e-13,
+                7.36433693717449e-13
+              ]
+            },
+            "G127": {
+              "hits": 3987,
+              "conditional_n": 100000000,
+              "conditional_estimate": 3.987e-05,
+              "conditional_CP95": [
+                3.864194803425638e-05,
+                4.112714756019753e-05
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 7.069407856123102e-13,
+              "unconditional_CP95": [
+                6.851660170786875e-13,
+                7.292314523752056e-13
+              ]
+            },
+            "G_either": {
+              "hits": 6109,
+              "conditional_n": 100000000,
+              "conditional_estimate": 6.109e-05,
+              "conditional_CP95": [
+                5.956762880883052e-05,
+                6.264143585692274e-05
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 1.0831957008541767e-12,
+              "unconditional_CP95": [
+                1.0562023152038406e-12,
+                1.1107044363324829e-12
+              ]
+            },
+            "G_both": {
+              "hits": 1905,
+              "conditional_n": 100000000,
+              "conditional_estimate": 1.905e-05,
+              "conditional_CP95": [
+                1.8204066303444625e-05,
+                1.9925099439833375e-05
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 3.377783287161903e-13,
+              "unconditional_CP95": [
+                3.2277895495098385e-13,
+                3.532948445297017e-13
+              ]
+            },
+            "G129_M_view0": {
+              "hits": 0,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.0,
+              "conditional_CP95": [
+                0.0,
+                3.688879386074778e-08
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 0.0,
+              "unconditional_CP95": [
+                0.0,
+                6.540805847054827e-16
+              ]
+            },
+            "G127_M_view0": {
+              "hits": 11,
+              "conditional_n": 100000000,
+              "conditional_estimate": 1.1e-07,
+              "conditional_CP95": [
+                5.491160491030652e-08,
+                1.9682037666571279e-07
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 1.950426045080364e-15,
+              "unconditional_CP95": [
+                9.736456763111331e-16,
+                3.4898508077393975e-15
+              ]
+            },
+            "G129_M_any": {
+              "hits": 23,
+              "conditional_n": 100000000,
+              "conditional_estimate": 2.3e-07,
+              "conditional_CP95": [
+                1.4580027577961758e-07,
+                3.4511290895054234e-07
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 4.078163548804397e-15,
+              "unconditional_CP95": [
+                2.5852059569133265e-15,
+                6.119247328278055e-15
+              ]
+            },
+            "G127_M_any": {
+              "hits": 19,
+              "conditional_n": 100000000,
+              "conditional_estimate": 1.9e-07,
+              "conditional_CP95": [
+                1.1439241539617273e-07,
+                2.967085197658925e-07
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 3.3689177142297195e-15,
+              "unconditional_CP95": [
+                2.028308603166794e-15,
+                5.260982043169442e-15
+              ]
+            },
+            "G_either_M_any": {
+              "hits": 42,
+              "conditional_n": 100000000,
+              "conditional_estimate": 4.2e-07,
+              "conditional_CP95": [
+                3.0269907356472645e-07,
+                5.677179458538251e-07
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 7.447081263034118e-15,
+              "unconditional_CP95": [
+                5.367201426384905e-15,
+                1.0066289707752948e-14
+              ]
+            },
+            "tail_uniform_intersect_Geither": {
+              "hits": 11,
+              "conditional_n": 100000000,
+              "conditional_estimate": 1.1e-07,
+              "conditional_CP95": [
+                5.491160491030652e-08,
+                1.9682037666571279e-07
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 1.950426045080364e-15,
+              "unconditional_CP95": [
+                9.736456763111331e-16,
+                3.4898508077393975e-15
+              ]
+            },
+            "tail_mixture_intersect_Geither": {
+              "hits": 11,
+              "conditional_n": 100000000,
+              "conditional_estimate": 1.1e-07,
+              "conditional_CP95": [
+                5.491160491030652e-08,
+                1.9682037666571279e-07
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 1.950426045080364e-15,
+              "unconditional_CP95": [
+                9.736456763111331e-16,
+                3.4898508077393975e-15
+              ]
+            },
+            "tail_literal_intersect_Geither": {
+              "hits": 11,
+              "conditional_n": 100000000,
+              "conditional_estimate": 1.1e-07,
+              "conditional_CP95": [
+                5.491160491030652e-08,
+                1.9682037666571279e-07
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 1.950426045080364e-15,
+              "unconditional_CP95": [
+                9.736456763111331e-16,
+                3.4898508077393975e-15
+              ]
+            },
+            "tail_discussion_intersect_Geither": {
+              "hits": 11,
+              "conditional_n": 100000000,
+              "conditional_estimate": 1.1e-07,
+              "conditional_CP95": [
+                5.491160491030652e-08,
+                1.9682037666571279e-07
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 1.950426045080364e-15,
+              "unconditional_CP95": [
+                9.736456763111331e-16,
+                3.4898508077393975e-15
+              ]
+            },
+            "tail_anchored19_intersect_Geither": {
+              "hits": 11,
+              "conditional_n": 100000000,
+              "conditional_estimate": 1.1e-07,
+              "conditional_CP95": [
+                5.491160491030652e-08,
+                1.9682037666571279e-07
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 1.950426045080364e-15,
+              "unconditional_CP95": [
+                9.736456763111331e-16,
+                3.4898508077393975e-15
+              ]
+            },
+            "tail_frequency_intersect_Geither": {
+              "hits": 11,
+              "conditional_n": 100000000,
+              "conditional_estimate": 1.1e-07,
+              "conditional_CP95": [
+                5.491160491030652e-08,
+                1.9682037666571279e-07
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 1.950426045080364e-15,
+              "unconditional_CP95": [
+                9.736456763111331e-16,
+                3.4898508077393975e-15
+              ]
+            }
+          }
+        },
+        "14": {
+          "conditional_draws": 18428555,
+          "estimates": {
+            "Ecount57": {
+              "hits": 2909494,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.02909494,
+              "conditional_CP95": [
+                0.029062006991702367,
+                0.029127900272660538
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 5.158866250550044e-10,
+              "unconditional_CP95": [
+                5.153026850811267e-10,
+                5.164710484572778e-10
+              ]
+            },
+            "G129": {
+              "hits": 11345,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.00011345,
+              "conditional_CP95": [
+                0.000111371988107542,
+                0.0001155570402525925
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 2.01159849831243e-12,
+              "unconditional_CP95": [
+                1.974752966339368e-12,
+                2.04895873637324e-12
+              ]
+            },
+            "G127": {
+              "hits": 11274,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.00011274,
+              "conditional_CP95": [
+                0.00011066852974233706,
+                0.00011484049894743429
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 1.9990093847487295e-12,
+              "unconditional_CP95": [
+                1.96227984345641e-12,
+                2.036253637973636e-12
+              ]
+            },
+            "G_either": {
+              "hits": 16272,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.00016272,
+              "conditional_CP95": [
+                0.00016022951936191346,
+                0.00016523949099816776
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 2.8852120550497894e-12,
+              "unconditional_CP95": [
+                2.8410529795834954e-12,
+                2.9298855174422616e-12
+              ]
+            },
+            "G_both": {
+              "hits": 6347,
+              "conditional_n": 100000000,
+              "conditional_estimate": 6.347e-05,
+              "conditional_CP95": [
+                6.191807543520954e-05,
+                6.505098672786055e-05
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 1.12539582801137e-12,
+              "unconditional_CP95": [
+                1.097878427182576e-12,
+                1.1534285342926936e-12
+              ]
+            },
+            "G129_M_view0": {
+              "hits": 0,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.0,
+              "conditional_CP95": [
+                0.0,
+                3.688879386074778e-08
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 0.0,
+              "unconditional_CP95": [
+                0.0,
+                6.540805847054827e-16
+              ]
+            },
+            "G127_M_view0": {
+              "hits": 42,
+              "conditional_n": 100000000,
+              "conditional_estimate": 4.2e-07,
+              "conditional_CP95": [
+                3.0269907356472645e-07,
+                5.677179458538251e-07
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 7.447081263034118e-15,
+              "unconditional_CP95": [
+                5.367201426384905e-15,
+                1.0066289707752948e-14
+              ]
+            },
+            "G129_M_any": {
+              "hits": 54,
+              "conditional_n": 100000000,
+              "conditional_estimate": 5.4e-07,
+              "conditional_CP95": [
+                4.0566464494468463e-07,
+                7.045828059559699e-07
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 9.57481876675815e-15,
+              "unconditional_CP95": [
+                7.19289899153083e-15,
+                1.2493060505930254e-14
+              ]
+            },
+            "G127_M_any": {
+              "hits": 78,
+              "conditional_n": 100000000,
+              "conditional_estimate": 7.8e-07,
+              "conditional_CP95": [
+                6.165576793532468e-07,
+                9.73475206336973e-07
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 1.3830293774206218e-14,
+              "unconditional_CP95": [
+                1.0932274146408004e-14,
+                1.7260830878905578e-14
+              ]
+            },
+            "G_either_M_any": {
+              "hits": 132,
+              "conditional_n": 100000000,
+              "conditional_estimate": 1.32e-06,
+              "conditional_CP95": [
+                1.1044331977001223e-06,
+                1.5653513920897787e-06
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 2.3405112540964368e-14,
+              "unconditional_CP95": [
+                1.9582866125870083e-14,
+                2.775547386213372e-14
+              ]
+            },
+            "tail_uniform_intersect_Geither": {
+              "hits": 0,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.0,
+              "conditional_CP95": [
+                0.0,
+                3.688879386074778e-08
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 0.0,
+              "unconditional_CP95": [
+                0.0,
+                6.540805847054827e-16
+              ]
+            },
+            "tail_mixture_intersect_Geither": {
+              "hits": 0,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.0,
+              "conditional_CP95": [
+                0.0,
+                3.688879386074778e-08
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 0.0,
+              "unconditional_CP95": [
+                0.0,
+                6.540805847054827e-16
+              ]
+            },
+            "tail_literal_intersect_Geither": {
+              "hits": 0,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.0,
+              "conditional_CP95": [
+                0.0,
+                3.688879386074778e-08
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 0.0,
+              "unconditional_CP95": [
+                0.0,
+                6.540805847054827e-16
+              ]
+            },
+            "tail_discussion_intersect_Geither": {
+              "hits": 0,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.0,
+              "conditional_CP95": [
+                0.0,
+                3.688879386074778e-08
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 0.0,
+              "unconditional_CP95": [
+                0.0,
+                6.540805847054827e-16
+              ]
+            },
+            "tail_anchored19_intersect_Geither": {
+              "hits": 0,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.0,
+              "conditional_CP95": [
+                0.0,
+                3.688879386074778e-08
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 0.0,
+              "unconditional_CP95": [
+                0.0,
+                6.540805847054827e-16
+              ]
+            },
+            "tail_frequency_intersect_Geither": {
+              "hits": 0,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.0,
+              "conditional_CP95": [
+                0.0,
+                3.688879386074778e-08
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 0.0,
+              "unconditional_CP95": [
+                0.0,
+                6.540805847054827e-16
+              ]
+            }
+          }
+        },
+        "15": {
+          "conditional_draws": 23337841,
+          "estimates": {
+            "Ecount57": {
+              "hits": 3685961,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.03685961,
+              "conditional_CP95": [
+                0.036822689345809345,
+                0.036896557468414186
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 6.535631214136785e-10,
+              "unconditional_CP95": [
+                6.529084759088161e-10,
+                6.542182423654495e-10
+              ]
+            },
+            "G129": {
+              "hits": 11887,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.00011887,
+              "conditional_CP95": [
+                0.00011674271072939174,
+                0.00012102631520016927
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 2.107701308897299e-12,
+              "unconditional_CP95": [
+                2.069982032544441e-12,
+                2.145935248241052e-12
+              ]
+            },
+            "G127": {
+              "hits": 11811,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.00011811,
+              "conditional_CP95": [
+                0.00011598955171661829,
+                0.00012025947454496173
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 2.09422563804038e-12,
+              "unconditional_CP95": [
+                2.0566276602298922e-12,
+                2.1323382847288403e-12
+              ]
+            },
+            "G_either": {
+              "hits": 18074,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.00018074,
+              "conditional_CP95": [
+                0.00017811474992101255,
+                0.00018339425547314183
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 3.2047273035256815e-12,
+              "unconditional_CP95": [
+                3.1581786114447144e-12,
+                3.2517902944812537e-12
+              ]
+            },
+            "G_both": {
+              "hits": 5624,
+              "conditional_n": 100000000,
+              "conditional_estimate": 5.624e-05,
+              "conditional_CP95": [
+                5.477969174480434e-05,
+                5.772937847700198e-05
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 9.97199643411997e-13,
+              "unconditional_CP95": [
+                9.713067047321835e-13,
+                1.0236080304349678e-12
+              ]
+            },
+            "G129_M_view0": {
+              "hits": 0,
+              "conditional_n": 100000000,
+              "conditional_estimate": 0.0,
+              "conditional_CP95": [
+                0.0,
+                3.688879386074778e-08
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 0.0,
+              "unconditional_CP95": [
+                0.0,
+                6.540805847054827e-16
+              ]
+            },
+            "G127_M_view0": {
+              "hits": 36,
+              "conditional_n": 100000000,
+              "conditional_estimate": 3.6e-07,
+              "conditional_CP95": [
+                2.521395865103971e-07,
+                4.983917102856372e-07
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 6.383212511172101e-15,
+              "unconditional_CP95": [
+                4.470723786597019e-15,
+                8.837056112665944e-15
+              ]
+            },
+            "G129_M_any": {
+              "hits": 81,
+              "conditional_n": 100000000,
+              "conditional_estimate": 8.1e-07,
+              "conditional_CP95": [
+                6.432569703545025e-07,
+                1.0067559427586106e-06
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 1.4362228150137227e-14,
+              "unconditional_CP95": [
+                1.1405683169626447e-14,
+                1.7850936470871184e-14
+              ]
+            },
+            "G127_M_any": {
+              "hits": 65,
+              "conditional_n": 100000000,
+              "conditional_estimate": 6.5e-07,
+              "conditional_CP95": [
+                5.016563119928485e-07,
+                8.284782842259801e-07
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 1.1525244811838515e-14,
+              "unconditional_CP95": [
+                8.894941241725571e-15,
+                1.468986930307131e-14
+              ]
+            },
+            "G_either_M_any": {
+              "hits": 146,
+              "conditional_n": 100000000,
+              "conditional_estimate": 1.46e-06,
+              "conditional_CP95": [
+                1.2327857589981007e-06,
+                1.7169580311099029e-06
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 2.588747296197574e-14,
+              "unconditional_CP95": [
+                2.185870411230964e-14,
+                3.044363329260597e-14
+              ]
+            },
+            "tail_uniform_intersect_Geither": {
+              "hits": 36,
+              "conditional_n": 100000000,
+              "conditional_estimate": 3.6e-07,
+              "conditional_CP95": [
+                2.521395865103971e-07,
+                4.983917102856372e-07
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 6.383212511172101e-15,
+              "unconditional_CP95": [
+                4.470723786597019e-15,
+                8.837056112665944e-15
+              ]
+            },
+            "tail_mixture_intersect_Geither": {
+              "hits": 36,
+              "conditional_n": 100000000,
+              "conditional_estimate": 3.6e-07,
+              "conditional_CP95": [
+                2.521395865103971e-07,
+                4.983917102856372e-07
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 6.383212511172101e-15,
+              "unconditional_CP95": [
+                4.470723786597019e-15,
+                8.837056112665944e-15
+              ]
+            },
+            "tail_literal_intersect_Geither": {
+              "hits": 36,
+              "conditional_n": 100000000,
+              "conditional_estimate": 3.6e-07,
+              "conditional_CP95": [
+                2.521395865103971e-07,
+                4.983917102856372e-07
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 6.383212511172101e-15,
+              "unconditional_CP95": [
+                4.470723786597019e-15,
+                8.837056112665944e-15
+              ]
+            },
+            "tail_discussion_intersect_Geither": {
+              "hits": 36,
+              "conditional_n": 100000000,
+              "conditional_estimate": 3.6e-07,
+              "conditional_CP95": [
+                2.521395865103971e-07,
+                4.983917102856372e-07
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 6.383212511172101e-15,
+              "unconditional_CP95": [
+                4.470723786597019e-15,
+                8.837056112665944e-15
+              ]
+            },
+            "tail_anchored19_intersect_Geither": {
+              "hits": 36,
+              "conditional_n": 100000000,
+              "conditional_estimate": 3.6e-07,
+              "conditional_CP95": [
+                2.521395865103971e-07,
+                4.983917102856372e-07
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 6.383212511172101e-15,
+              "unconditional_CP95": [
+                4.470723786597019e-15,
+                8.837056112665944e-15
+              ]
+            },
+            "tail_frequency_intersect_Geither": {
+              "hits": 36,
+              "conditional_n": 100000000,
+              "conditional_estimate": 3.6e-07,
+              "conditional_CP95": [
+                2.521395865103971e-07,
+                4.983917102856372e-07
+              ],
+              "exact_anchor_probability": 1.7731145864366945e-08,
+              "unconditional_estimate": 6.383212511172101e-15,
+              "unconditional_CP95": [
+                4.470723786597019e-15,
+                8.837056112665944e-15
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "same_sample_ratio": {
+    "meaning": "P(C15,G127,W,Mview0) / P(Cpattern-centre,G127,W,Mview0)",
+    "numerator_hits": 36,
+    "denominator_hits": 189,
+    "estimate": 0.19047619047619047,
+    "CP95": [
+      0.13711712856387226,
+      0.2538142710866018
+    ],
+    "reciprocal_reduction_factor": 5.25,
+    "interpretation": "The ratio conditions on denominator-event hits within the SAME fixed-budget sample; it is not a product of independent predicate probabilities."
+  },
+  "validation": {
+    "matrix_reference": {
+      "condition": "G3 and natural C centre (sumF(n+a)=4*19^2), prime19",
+      "method": "Independent direct matrix multiplication and exact multiplicative orders across all361 residuepairs and8views, eachvariant",
+      "all_passing_pairs": {
+        "129": [
+          {
+            "E_N_mod19": 8,
+            "F_N_mod19": 9,
+            "views": [
+              1
+            ],
+            "P_mod19": [
+              8,
+              15,
+              11,
+              8
+            ],
+            "R_mod19": [
+              9,
+              10,
+              10,
+              13
+            ]
+          },
+          {
+            "E_N_mod19": 10,
+            "F_N_mod19": 11,
+            "views": [
+              1
+            ],
+            "P_mod19": [
+              10,
+              13,
+              9,
+              10
+            ],
+            "R_mod19": [
+              11,
+              8,
+              8,
+              15
+            ]
+          }
+        ],
+        "127": [
+          {
+            "E_N_mod19": 16,
+            "F_N_mod19": 1,
+            "views": [
+              0,
+              3
+            ],
+            "P_mod19": [
+              16,
+              5,
+              3,
+              16
+            ],
+            "R_mod19": [
+              1,
+              18,
+              18,
+              3
+            ]
+          },
+          {
+            "E_N_mod19": 18,
+            "F_N_mod19": 3,
+            "views": [
+              5,
+              6
+            ],
+            "P_mod19": [
+              18,
+              3,
+              1,
+              18
+            ],
+            "R_mod19": [
+              3,
+              16,
+              16,
+              5
+            ]
+          }
+        ]
+      },
+      "reference_sha256": "3e6f1d016614aaa2a93cdf198a72ba393f45db562bf8e4de1de22333328ec87f"
+    },
+    "Cmask_distribution": {
+      "masks": [
+        "10",
+        "11",
+        "14",
+        "15"
+      ],
+      "observed": [
+        51545045,
+        6688559,
+        18428555,
+        23337841
+      ],
+      "exact_expected": [
+        51546192.81924779,
+        6688965.302186776,
+        18424975.875046965,
+        23339866.00351847
+      ],
+      "chi2": 0.9211908288571341,
+      "df": 3,
+      "p": 0.8203111959588131,
+      "purpose": "Sampler distribution check against exact anchor stratum masses; not a Quran numerical-structure p value."
+    },
+    "forward_count_validation.json": {
+      "status": "exact_agreement",
+      "method": "Independent forward polynomial convolution, independently enumerated all720 labeled permutations of each block",
+      "C_count": "1722075030862920049254249867105596866560000000000",
+      "CW_count": "8056614675646853691542453340177169593139200000"
+    },
+    "forward_C10_count_validation.json": {
+      "status": "exact_agreement",
+      "method": "Independent forward polynomial convolution for all18 Cpattern-centre allocations, independently enumerated all720 labeled permutations of each block",
+      "C_count": "5806120169070816936825352648867096559616000000000",
+      "CW_count": "34518684359337470401940894695044046053703680000"
+    },
+    "exact_integer_division": {
+      "python_integer_reference_cases": 100000,
+      "input_sha256": "6e67fcdac08ddc1af57d51e584dfee11d1323882cb83941cff3a47df34177d6f",
+      "coverage": "Random1..171bit denominators, quotients0..719, and remainders0,d\u22121,random; exact correction of floating quotient guesses."
+    },
+    "rng_streams": {
+      "distinct_worker_streams_including_original_training_testing": 80,
+      "all_new_seed_formulas_and_final_states_checked": true,
+      "minimum_circular_counter_gap": 9562352722671573,
+      "maximum_consumed_or_proved_upper_bound": 12819487675210,
+      "consumed_counter_intervals_disjoint": true,
+      "records": [
+        {
+          "model": "uniform",
+          "phase": "train",
+          "thread": 0,
+          "seed": 17425609456057036312,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "uniform",
+          "phase": "train",
+          "thread": 1,
+          "seed": 8363416852270926590,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "uniform",
+          "phase": "train",
+          "thread": 2,
+          "seed": 10844027753416502796,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "uniform",
+          "phase": "train",
+          "thread": 3,
+          "seed": 93175888846260984,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "uniform",
+          "phase": "train",
+          "thread": 4,
+          "seed": 16911581915720915281,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "uniform",
+          "phase": "train",
+          "thread": 5,
+          "seed": 14344999335758914918,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "uniform",
+          "phase": "train",
+          "thread": 6,
+          "seed": 15614687321380007786,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "uniform",
+          "phase": "train",
+          "thread": 7,
+          "seed": 10013649010038215973,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "uniform",
+          "phase": "test",
+          "thread": 0,
+          "seed": 247756617526260163,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "uniform",
+          "phase": "test",
+          "thread": 1,
+          "seed": 1865706903904791462,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "uniform",
+          "phase": "test",
+          "thread": 2,
+          "seed": 1643842969043090609,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "uniform",
+          "phase": "test",
+          "thread": 3,
+          "seed": 15783675113915136528,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "uniform",
+          "phase": "test",
+          "thread": 4,
+          "seed": 2494842001853400127,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "uniform",
+          "phase": "test",
+          "thread": 5,
+          "seed": 6259505201673377313,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "uniform",
+          "phase": "test",
+          "thread": 6,
+          "seed": 11315406854627014201,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "uniform",
+          "phase": "test",
+          "thread": 7,
+          "seed": 937399957946576080,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "block6",
+          "phase": "train",
+          "thread": 0,
+          "seed": 2948832764441267591,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "block6",
+          "phase": "train",
+          "thread": 1,
+          "seed": 5291530834285509883,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "block6",
+          "phase": "train",
+          "thread": 2,
+          "seed": 6209756062294269232,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "block6",
+          "phase": "train",
+          "thread": 3,
+          "seed": 13688473906764797885,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "block6",
+          "phase": "train",
+          "thread": 4,
+          "seed": 14451544006524884345,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "block6",
+          "phase": "train",
+          "thread": 5,
+          "seed": 192944074887255342,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "block6",
+          "phase": "train",
+          "thread": 6,
+          "seed": 16073538630161194434,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "block6",
+          "phase": "train",
+          "thread": 7,
+          "seed": 9056731248476789513,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "block6",
+          "phase": "test",
+          "thread": 0,
+          "seed": 7566977838635885516,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "block6",
+          "phase": "test",
+          "thread": 1,
+          "seed": 14411521433914690069,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "block6",
+          "phase": "test",
+          "thread": 2,
+          "seed": 1611344634707306169,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "block6",
+          "phase": "test",
+          "thread": 3,
+          "seed": 9989791658533037850,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "block6",
+          "phase": "test",
+          "thread": 4,
+          "seed": 14315883314294221624,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "block6",
+          "phase": "test",
+          "thread": 5,
+          "seed": 202423397984032221,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "block6",
+          "phase": "test",
+          "thread": 6,
+          "seed": 18438728477492002447,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "block6",
+          "phase": "test",
+          "thread": 7,
+          "seed": 12595203296332904637,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "inversion_exact",
+          "phase": "train",
+          "thread": 0,
+          "seed": 8386557226306606285,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "inversion_exact",
+          "phase": "train",
+          "thread": 1,
+          "seed": 11813750506036396513,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "inversion_exact",
+          "phase": "train",
+          "thread": 2,
+          "seed": 6506054686859198403,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "inversion_exact",
+          "phase": "train",
+          "thread": 3,
+          "seed": 14366157502958873326,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "inversion_exact",
+          "phase": "train",
+          "thread": 4,
+          "seed": 11900758590710673898,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "inversion_exact",
+          "phase": "train",
+          "thread": 5,
+          "seed": 14989175170323919009,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "inversion_exact",
+          "phase": "train",
+          "thread": 6,
+          "seed": 12393641396547674869,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "inversion_exact",
+          "phase": "train",
+          "thread": 7,
+          "seed": 7933236854695590504,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "inversion_exact",
+          "phase": "test",
+          "thread": 0,
+          "seed": 3161176576329000445,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "inversion_exact",
+          "phase": "test",
+          "thread": 1,
+          "seed": 1184943506896452635,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "inversion_exact",
+          "phase": "test",
+          "thread": 2,
+          "seed": 5966964150055420343,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "inversion_exact",
+          "phase": "test",
+          "thread": 3,
+          "seed": 6538256069904493973,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "inversion_exact",
+          "phase": "test",
+          "thread": 4,
+          "seed": 6849208370666717073,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "inversion_exact",
+          "phase": "test",
+          "thread": 5,
+          "seed": 15265170635461501149,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "inversion_exact",
+          "phase": "test",
+          "thread": 6,
+          "seed": 10599116588880633423,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "model": "inversion_exact",
+          "phase": "test",
+          "thread": 7,
+          "seed": 1939260977760084372,
+          "source": "original_frozen_study",
+          "calls_bound": 12819487675210
+        },
+        {
+          "seed": 15685619154126891036,
+          "processed": 12500,
+          "rng_calls": 53175,
+          "final_rng_state": 14898898274502022687,
+          "source": "C15_pilot_rng_replay.json",
+          "thread": 0,
+          "calls_bound": 53175
+        },
+        {
+          "seed": 2570541974430457542,
+          "processed": 12500,
+          "rng_calls": 53091,
+          "final_rng_state": 3354468104553600485,
+          "source": "C15_pilot_rng_replay.json",
+          "thread": 1,
+          "calls_bound": 53091
+        },
+        {
+          "seed": 7127383774260946255,
+          "processed": 12500,
+          "rng_calls": 52773,
+          "final_rng_state": 16492579880388639320,
+          "source": "C15_pilot_rng_replay.json",
+          "thread": 2,
+          "calls_bound": 52773
+        },
+        {
+          "seed": 3876079777208287932,
+          "processed": 12500,
+          "rng_calls": 52944,
+          "final_rng_state": 7408638174390450636,
+          "source": "C15_pilot_rng_replay.json",
+          "thread": 3,
+          "calls_bound": 52944
+        },
+        {
+          "seed": 10104464685432124873,
+          "processed": 12500,
+          "rng_calls": 52758,
+          "final_rng_state": 14479635165097805207,
+          "source": "C15_pilot_rng_replay.json",
+          "thread": 4,
+          "calls_bound": 52758
+        },
+        {
+          "seed": 3427016335435234346,
+          "processed": 12500,
+          "rng_calls": 53490,
+          "final_rng_state": 15197113242964875268,
+          "source": "C15_pilot_rng_replay.json",
+          "thread": 5,
+          "calls_bound": 53490
+        },
+        {
+          "seed": 16032372102338898259,
+          "processed": 12500,
+          "rng_calls": 53397,
+          "final_rng_state": 553658940545970572,
+          "source": "C15_pilot_rng_replay.json",
+          "thread": 6,
+          "calls_bound": 53397
+        },
+        {
+          "seed": 4672865127574933362,
+          "processed": 12500,
+          "rng_calls": 52752,
+          "final_rng_state": 14430722986139629250,
+          "source": "C15_pilot_rng_replay.json",
+          "thread": 7,
+          "calls_bound": 52752
+        },
+        {
+          "seed": 10140540699275322454,
+          "processed": 12500000,
+          "rng_calls": 53140599,
+          "final_rng_state": 16864907845343518233,
+          "source": "C15_production_rng_replay.json",
+          "thread": 0,
+          "calls_bound": 53140599
+        },
+        {
+          "seed": 10165575041995886808,
+          "processed": 12500000,
+          "rng_calls": 53149905,
+          "final_rng_state": 6270138832408288765,
+          "source": "C15_production_rng_replay.json",
+          "thread": 1,
+          "calls_bound": 53149905
+        },
+        {
+          "seed": 12832392077169764094,
+          "processed": 12500000,
+          "rng_calls": 53151570,
+          "final_rng_state": 9427478193579030712,
+          "source": "C15_production_rng_replay.json",
+          "thread": 2,
+          "calls_bound": 53151570
+        },
+        {
+          "seed": 7114347085053239449,
+          "processed": 12500000,
+          "rng_calls": 53157516,
+          "final_rng_state": 575278014598509077,
+          "source": "C15_production_rng_replay.json",
+          "thread": 3,
+          "calls_bound": 53157516
+        },
+        {
+          "seed": 16789801391412163586,
+          "processed": 12500000,
+          "rng_calls": 53144661,
+          "final_rng_state": 13443395543628497659,
+          "source": "C15_production_rng_replay.json",
+          "thread": 4,
+          "calls_bound": 53144661
+        },
+        {
+          "seed": 12578197763972324322,
+          "processed": 12500000,
+          "rng_calls": 53138523,
+          "final_rng_state": 144502490725636953,
+          "source": "C15_production_rng_replay.json",
+          "thread": 5,
+          "calls_bound": 53138523
+        },
+        {
+          "seed": 12013700836817161978,
+          "processed": 12500000,
+          "rng_calls": 53146443,
+          "final_rng_state": 14875877868756867105,
+          "source": "C15_production_rng_replay.json",
+          "thread": 6,
+          "calls_bound": 53146443
+        },
+        {
+          "seed": 10921942742790611256,
+          "processed": 12500000,
+          "rng_calls": 53139819,
+          "final_rng_state": 16419394344767867647,
+          "source": "C15_production_rng_replay.json",
+          "thread": 7,
+          "calls_bound": 53139819
+        },
+        {
+          "seed": 12509021727677542505,
+          "processed": 1250,
+          "rng_calls": 4938,
+          "final_rng_state": 9775886584080129403,
+          "source": "block6_C10W_validation_pilot.json",
+          "thread": 0,
+          "calls_bound": 4938
+        },
+        {
+          "seed": 13563126165472549125,
+          "processed": 1250,
+          "rng_calls": 4986,
+          "final_rng_state": 4661980138102114823,
+          "source": "block6_C10W_validation_pilot.json",
+          "thread": 1,
+          "calls_bound": 4986
+        },
+        {
+          "seed": 11860540753892031866,
+          "processed": 1250,
+          "rng_calls": 4836,
+          "final_rng_state": 8399370683030125102,
+          "source": "block6_C10W_validation_pilot.json",
+          "thread": 2,
+          "calls_bound": 4836
+        },
+        {
+          "seed": 4737087335160601548,
+          "processed": 1250,
+          "rng_calls": 5031,
+          "final_rng_state": 10806018187176205439,
+          "source": "block6_C10W_validation_pilot.json",
+          "thread": 3,
+          "calls_bound": 5031
+        },
+        {
+          "seed": 3920949794930480943,
+          "processed": 1250,
+          "rng_calls": 4914,
+          "final_rng_state": 4271820093219578441,
+          "source": "block6_C10W_validation_pilot.json",
+          "thread": 4,
+          "calls_bound": 4914
+        },
+        {
+          "seed": 303024150288583163,
+          "processed": 1250,
+          "rng_calls": 4962,
+          "final_rng_state": 12932627638514211077,
+          "source": "block6_C10W_validation_pilot.json",
+          "thread": 5,
+          "calls_bound": 4962
+        },
+        {
+          "seed": 17020943777265226512,
+          "processed": 1250,
+          "rng_calls": 4920,
+          "final_rng_state": 11989126696655308456,
+          "source": "block6_C10W_validation_pilot.json",
+          "thread": 6,
+          "calls_bound": 4920
+        },
+        {
+          "seed": 3905403651928925268,
+          "processed": 1250,
+          "rng_calls": 4947,
+          "final_rng_state": 11544981513692540451,
+          "source": "block6_C10W_validation_pilot.json",
+          "thread": 7,
+          "calls_bound": 4947
+        },
+        {
+          "seed": 13835505560913238659,
+          "processed": 12500000,
+          "rng_calls": 49619325,
+          "final_rng_state": 1823490821616510404,
+          "source": "block6_C10W_production.json",
+          "thread": 0,
+          "calls_bound": 49619325
+        },
+        {
+          "seed": 4087213539096803293,
+          "processed": 12500000,
+          "rng_calls": 49613694,
+          "final_rng_state": 7766171773818581299,
+          "source": "block6_C10W_production.json",
+          "thread": 1,
+          "calls_bound": 49613694
+        },
+        {
+          "seed": 5944544173733268573,
+          "processed": 12500000,
+          "rng_calls": 49619025,
+          "final_rng_state": 4812481347453595394,
+          "source": "block6_C10W_production.json",
+          "thread": 2,
+          "calls_bound": 49619025
+        },
+        {
+          "seed": 11170178527438595939,
+          "processed": 12500000,
+          "rng_calls": 49609722,
+          "final_rng_state": 17966575367365208805,
+          "source": "block6_C10W_production.json",
+          "thread": 3,
+          "calls_bound": 49609722
+        },
+        {
+          "seed": 13758680558854011810,
+          "processed": 12500000,
+          "rng_calls": 49611510,
+          "final_rng_state": 2934228825895428560,
+          "source": "block6_C10W_production.json",
+          "thread": 4,
+          "calls_bound": 49611510
+        },
+        {
+          "seed": 13018056220717577866,
+          "processed": 12500000,
+          "rng_calls": 49616250,
+          "final_rng_state": 11068456184443130252,
+          "source": "block6_C10W_production.json",
+          "thread": 5,
+          "calls_bound": 49616250
+        },
+        {
+          "seed": 15000152926383197419,
+          "processed": 12500000,
+          "rng_calls": 49614888,
+          "final_rng_state": 17435479035354873907,
+          "source": "block6_C10W_production.json",
+          "thread": 6,
+          "calls_bound": 49614888
+        },
+        {
+          "seed": 631559693070633182,
+          "processed": 12500000,
+          "rng_calls": 49603074,
+          "final_rng_state": 13147236544921307912,
+          "source": "block6_C10W_production.json",
+          "thread": 7,
+          "calls_bound": 49603074
+        }
+      ],
+      "caveat": "Finite nonoverlap of the deterministic pseudorandom streams is verified; this is not a mathematical proof of statistical independence of a PRNG."
+    },
+    "observed_frozen_scores_exactly_match_saved_block6": true,
+    "scope_limit": "The unconditional uniform and exact-inversion models have not been evaluated by these block6-specific conditional calculations."
+  },
+  "conditional_chain_C15_127": {
+    "P_C15_exact": 8.845749520391251e-07,
+    "P_W_given_C15_exact": 0.004678434174618825,
+    "P_G127_given_C15_W": {
+      "hits": 50888,
+      "n": 100000000,
+      "estimate": 0.00050888,
+      "CP95": [
+        0.0005044692305590038,
+        0.0005133197264243026
+      ]
+    },
+    "P_Mview0_given_G127_C15_W": {
+      "hits": 146,
+      "n": 50888,
+      "estimate": 0.0028690457475239743,
+      "CP95": [
+        0.002423064302098049,
+        0.003373142064177829
+      ]
+    },
+    "P_Manyview_given_G127_C15_W": {
+      "hits": 304,
+      "n": 50888,
+      "estimate": 0.0059739034742964945,
+      "CP95": [
+        0.005322856236852497,
+        0.006682230795195746
+      ]
+    },
+    "interpretation": "A sequential conditional-probability factorization, with no independence assumption between G,C,W,M; matrix numerator and G denominator come from the SAME conditional sample."
+  },
+  "same_sample_added_C_conditions": {
+    "base": "G127,W,Mview0,and Cpattern-centre",
+    "equal_counts": {
+      "hits": 47,
+      "n": 189,
+      "estimate": 0.24867724867724866,
+      "CP95": [
+        0.1888013876839198,
+        0.3166147827524269
+      ]
+    },
+    "band_and_constant_cell": {
+      "hits": 78,
+      "n": 189,
+      "estimate": 0.4126984126984127,
+      "CP95": [
+        0.34173652373863644,
+        0.4864432974641407
+      ]
+    },
+    "both": {
+      "meaning": "P(C15,G127,W,Mview0) / P(Cpattern-centre,G127,W,Mview0)",
+      "numerator_hits": 36,
+      "denominator_hits": 189,
+      "estimate": 0.19047619047619047,
+      "CP95": [
+        0.13711712856387226,
+        0.2538142710866018
+      ],
+      "reciprocal_reduction_factor": 5.25,
+      "interpretation": "The ratio conditions on denominator-event hits within the SAME fixed-budget sample; it is not a product of independent predicate probabilities."
+    },
+    "band_given_equal": {
+      "hits": 36,
+      "n": 47,
+      "estimate": 0.7659574468085106,
+      "CP95": [
+        0.6197427018764016,
+        0.8769665367144984
+      ]
+    },
+    "equal_given_band": {
+      "hits": 36,
+      "n": 78,
+      "estimate": 0.46153846153846156,
+      "CP95": [
+        0.34792744438155065,
+        0.5781579580297724
+      ]
+    }
+  }
+}

@@ -1,0 +1,3020 @@
+{
+  "scope": "Extension of the frozen joint-grammar-v1 study. Fixed natural conjunctions, score-tail components and complete score-tail estimators are distinct estimands.",
+  "conditional_independence": "No independence assumption between G,C,W,M. Exact conditioning plus IID draws.",
+  "block6": {
+    "C15_and_W": {
+      "n": 100000000,
+      "anchor": 4.1384256856316515e-09,
+      "estimates": {
+        "Ecount57": {
+          "hits": 15797221,
+          "n": 100000000,
+          "anchor_probability": 4.1384256856316515e-09,
+          "p": 6.537562514799973e-10,
+          "cp95": [
+            6.534604454410324e-10,
+            6.540521394619148e-10
+          ],
+          "reciprocal": 1529622084.2801325,
+          "reciprocal_ci": [
+            1528930095.4243412,
+            1530314507.9042723
+          ]
+        },
+        "G129": {
+          "hits": 51482,
+          "n": 100000000,
+          "anchor_probability": 4.1384256856316515e-09,
+          "p": 2.130544311476887e-12,
+          "cp95": [
+            2.1121842702841493e-12,
+            2.1490241865304644e-12
+          ],
+          "reciprocal": 469363624409.57776,
+          "reciprocal_ci": [
+            465327475729.56366,
+            473443540920.5426
+          ]
+        },
+        "G127": {
+          "hits": 50888,
+          "n": 100000000,
+          "anchor_probability": 4.1384256856316515e-09,
+          "p": 2.105962062904235e-12,
+          "cp95": [
+            2.087708421356217e-12,
+            2.1243355407757464e-12
+          ],
+          "reciprocal": 474842361889.9128,
+          "reciprocal_ci": [
+            470735427998.7373,
+            478994092168.4744
+          ]
+        },
+        "G_either": {
+          "hits": 78454,
+          "n": 100000000,
+          "anchor_probability": 4.1384256856316515e-09,
+          "p": 3.246760487405456e-12,
+          "cp95": [
+            3.2240894471431548e-12,
+            3.2695512629715114e-12
+          ],
+          "reciprocal": 307999313124.30066,
+          "reciprocal_ci": [
+            305852369199.78925,
+            310165092003.2922
+          ]
+        },
+        "G_both": {
+          "hits": 23916,
+          "n": 100000000,
+          "anchor_probability": 4.1384256856316515e-09,
+          "p": 9.897458869756658e-13,
+          "cp95": [
+            9.772428478127976e-13,
+            1.0023689094568303e-12
+          ],
+          "reciprocal": 1010360349216.1683,
+          "reciprocal_ci": [
+            997636689012.9165,
+            1023287100272.0931
+          ]
+        },
+        "G129_M_view0": {
+          "hits": 0,
+          "n": 100000000,
+          "anchor_probability": 4.1384256856316515e-09,
+          "p": 0.0,
+          "cp95": [
+            0.0,
+            1.5266153202528978e-16
+          ],
+          "reciprocal": null,
+          "reciprocal_ci": null
+        },
+        "G127_M_view0": {
+          "hits": 146,
+          "n": 100000000,
+          "anchor_probability": 4.1384256856316515e-09,
+          "p": 6.042101501022211e-15,
+          "cp95": [
+            5.101792249918651e-15,
+            7.10550321709677e-15
+          ],
+          "reciprocal": 165505329533245.78,
+          "reciprocal_ci": [
+            140735985819254.73,
+            196009549392362.1
+          ]
+        },
+        "G129_M_any": {
+          "hits": 278,
+          "n": 100000000,
+          "anchor_probability": 4.1384256856316515e-09,
+          "p": 1.150482340605599e-14,
+          "cp95": [
+            1.0192037034699182e-14,
+            1.293979849000942e-14
+          ],
+          "reciprocal": 86920065150553.55,
+          "reciprocal_ci": [
+            77280956173473.77,
+            98115813021034.11
+          ]
+        },
+        "G127_M_any": {
+          "hits": 304,
+          "n": 100000000,
+          "anchor_probability": 4.1384256856316515e-09,
+          "p": 1.258081408432022e-14,
+          "cp95": [
+            1.1206181725592186e-14,
+            1.407753066276196e-14
+          ],
+          "reciprocal": 79486112210045.67,
+          "reciprocal_ci": [
+            71035185357131.64,
+            89236461132541.16
+          ]
+        },
+        "G_either_M_any": {
+          "hits": 582,
+          "n": 100000000,
+          "anchor_probability": 4.1384256856316515e-09,
+          "p": 2.408563749037621e-14,
+          "cp95": [
+            2.2168337416499718e-14,
+            2.6124385793730104e-14
+          ],
+          "reciprocal": 41518519092532.445,
+          "reciprocal_ci": [
+            38278411898204.38,
+            45109381962749.625
+          ]
+        },
+        "tail_uniform_intersect_Geither": {
+          "hits": 146,
+          "n": 100000000,
+          "anchor_probability": 4.1384256856316515e-09,
+          "p": 6.042101501022211e-15,
+          "cp95": [
+            5.101792249918651e-15,
+            7.10550321709677e-15
+          ],
+          "reciprocal": 165505329533245.78,
+          "reciprocal_ci": [
+            140735985819254.73,
+            196009549392362.1
+          ]
+        },
+        "tail_mixture_intersect_Geither": {
+          "hits": 146,
+          "n": 100000000,
+          "anchor_probability": 4.1384256856316515e-09,
+          "p": 6.042101501022211e-15,
+          "cp95": [
+            5.101792249918651e-15,
+            7.10550321709677e-15
+          ],
+          "reciprocal": 165505329533245.78,
+          "reciprocal_ci": [
+            140735985819254.73,
+            196009549392362.1
+          ]
+        },
+        "tail_literal_intersect_Geither": {
+          "hits": 146,
+          "n": 100000000,
+          "anchor_probability": 4.1384256856316515e-09,
+          "p": 6.042101501022211e-15,
+          "cp95": [
+            5.101792249918651e-15,
+            7.10550321709677e-15
+          ],
+          "reciprocal": 165505329533245.78,
+          "reciprocal_ci": [
+            140735985819254.73,
+            196009549392362.1
+          ]
+        },
+        "tail_discussion_intersect_Geither": {
+          "hits": 146,
+          "n": 100000000,
+          "anchor_probability": 4.1384256856316515e-09,
+          "p": 6.042101501022211e-15,
+          "cp95": [
+            5.101792249918651e-15,
+            7.10550321709677e-15
+          ],
+          "reciprocal": 165505329533245.78,
+          "reciprocal_ci": [
+            140735985819254.73,
+            196009549392362.1
+          ]
+        },
+        "tail_anchored19_intersect_Geither": {
+          "hits": 146,
+          "n": 100000000,
+          "anchor_probability": 4.1384256856316515e-09,
+          "p": 6.042101501022211e-15,
+          "cp95": [
+            5.101792249918651e-15,
+            7.10550321709677e-15
+          ],
+          "reciprocal": 165505329533245.78,
+          "reciprocal_ci": [
+            140735985819254.73,
+            196009549392362.1
+          ]
+        },
+        "tail_frequency_intersect_Geither": {
+          "hits": 146,
+          "n": 100000000,
+          "anchor_probability": 4.1384256856316515e-09,
+          "p": 6.042101501022211e-15,
+          "cp95": [
+            5.101792249918651e-15,
+            7.10550321709677e-15
+          ],
+          "reciprocal": 165505329533245.78,
+          "reciprocal_ci": [
+            140735985819254.73,
+            196009549392362.1
+          ]
+        }
+      }
+    },
+    "Cpattern_centre_and_W": {
+      "n": 100000000,
+      "anchor": 1.7731145864366945e-08,
+      "estimates": {
+        "Ecount57": {
+          "hits": 15944152,
+          "n": 100000000,
+          "anchor_probability": 1.7731145864366945e-08,
+          "p": 2.8270808479563796e-09,
+          "cp95": [
+            2.825808692552371e-09,
+            2.828353352937835e-09
+          ],
+          "reciprocal": 353721755.3303695,
+          "reciprocal_ci": [
+            353562612.3098415,
+            353880997.9017951
+          ]
+        },
+        "G129": {
+          "hits": 64853,
+          "n": 100000000,
+          "anchor_probability": 1.7731145864366945e-08,
+          "p": 1.1499180027417894e-11,
+          "cp95": [
+            1.1410875102189877e-11,
+            1.1587998161878108e-11
+          ],
+          "reciprocal": 86962722351.99947,
+          "reciprocal_ci": [
+            86296182138.66945,
+            87635697616.9241
+          ]
+        },
+        "G127": {
+          "hits": 64308,
+          "n": 100000000,
+          "anchor_probability": 1.7731145864366945e-08,
+          "p": 1.1402545282457095e-11,
+          "cp95": [
+            1.1314612649903042e-11,
+            1.1490991132721962e-11
+          ],
+          "reciprocal": 87699717495.40059,
+          "reciprocal_ci": [
+            87024695124.19875,
+            88381284533.7281
+          ]
+        },
+        "G_either": {
+          "hits": 97051,
+          "n": 100000000,
+          "anchor_probability": 1.7731145864366945e-08,
+          "p": 1.7208254372826766e-11,
+          "cp95": [
+            1.7100210256182133e-11,
+            1.7316811243650294e-11
+          ],
+          "reciprocal": 58111646790.802986,
+          "reciprocal_ci": [
+            57747352323.11773,
+            58478813126.78458
+          ]
+        },
+        "G_both": {
+          "hits": 32110,
+          "n": 100000000,
+          "anchor_probability": 1.7731145864366945e-08,
+          "p": 5.693470937048226e-12,
+          "cp95": [
+            5.631375128897561e-12,
+            5.7560805776862704e-12
+          ],
+          "reciprocal": 175639783017.5715,
+          "reciprocal_ci": [
+            173729326145.3895,
+            177576520318.89542
+          ]
+        },
+        "G129_M_view0": {
+          "hits": 0,
+          "n": 100000000,
+          "anchor_probability": 1.7731145864366945e-08,
+          "p": 0.0,
+          "cp95": [
+            0.0,
+            6.540805847054827e-16
+          ],
+          "reciprocal": null,
+          "reciprocal_ci": null
+        },
+        "G127_M_view0": {
+          "hits": 189,
+          "n": 100000000,
+          "anchor_probability": 1.7731145864366945e-08,
+          "p": 3.3511865683653523e-14,
+          "cp95": [
+            2.890429576820336e-14,
+            3.8645128012073666e-14
+          ],
+          "reciprocal": 29840176892562.02,
+          "reciprocal_ci": [
+            25876483050789.117,
+            34596933549928.11
+          ]
+        },
+        "G129_M_any": {
+          "hits": 399,
+          "n": 100000000,
+          "anchor_probability": 1.7731145864366945e-08,
+          "p": 7.074727199882412e-14,
+          "cp95": [
+            6.397493243747128e-14,
+            7.804143594405561e-14
+          ],
+          "reciprocal": 14134820633318.85,
+          "reciprocal_ci": [
+            12813705794917.139,
+            15631122408411.982
+          ]
+        },
+        "G127_M_any": {
+          "hits": 374,
+          "n": 100000000,
+          "anchor_probability": 1.7731145864366945e-08,
+          "p": 6.631448553273238e-14,
+          "cp95": [
+            5.976318511179761e-14,
+            7.338789223106879e-14
+          ],
+          "reciprocal": 15079661584743.906,
+          "reciprocal_ci": [
+            13626225929086.564,
+            16732709244484.26
+          ]
+        },
+        "G_either_M_any": {
+          "hits": 773,
+          "n": 100000000,
+          "anchor_probability": 1.7731145864366945e-08,
+          "p": 1.3706175753155647e-13,
+          "cp95": [
+            1.2756864363217824e-13,
+            1.4707427425318694e-13
+          ],
+          "reciprocal": 7295981154843.754,
+          "reciprocal_ci": [
+            6799285633587.487,
+            7838916927605.849
+          ]
+        },
+        "tail_uniform_intersect_Geither": {
+          "hits": 47,
+          "n": 100000000,
+          "anchor_probability": 1.7731145864366945e-08,
+          "p": 8.333638556252465e-15,
+          "cp95": [
+            6.1232445051488845e-15,
+            1.1081971749987519e-14
+          ],
+          "reciprocal": 119995604950940.88,
+          "reciprocal_ci": [
+            90236649448337.23,
+            163312113236557.0
+          ]
+        },
+        "tail_mixture_intersect_Geither": {
+          "hits": 47,
+          "n": 100000000,
+          "anchor_probability": 1.7731145864366945e-08,
+          "p": 8.333638556252465e-15,
+          "cp95": [
+            6.1232445051488845e-15,
+            1.1081971749987519e-14
+          ],
+          "reciprocal": 119995604950940.88,
+          "reciprocal_ci": [
+            90236649448337.23,
+            163312113236557.0
+          ]
+        },
+        "tail_literal_intersect_Geither": {
+          "hits": 47,
+          "n": 100000000,
+          "anchor_probability": 1.7731145864366945e-08,
+          "p": 8.333638556252465e-15,
+          "cp95": [
+            6.1232445051488845e-15,
+            1.1081971749987519e-14
+          ],
+          "reciprocal": 119995604950940.88,
+          "reciprocal_ci": [
+            90236649448337.23,
+            163312113236557.0
+          ]
+        },
+        "tail_discussion_intersect_Geither": {
+          "hits": 47,
+          "n": 100000000,
+          "anchor_probability": 1.7731145864366945e-08,
+          "p": 8.333638556252465e-15,
+          "cp95": [
+            6.1232445051488845e-15,
+            1.1081971749987519e-14
+          ],
+          "reciprocal": 119995604950940.88,
+          "reciprocal_ci": [
+            90236649448337.23,
+            163312113236557.0
+          ]
+        },
+        "tail_anchored19_intersect_Geither": {
+          "hits": 47,
+          "n": 100000000,
+          "anchor_probability": 1.7731145864366945e-08,
+          "p": 8.333638556252465e-15,
+          "cp95": [
+            6.1232445051488845e-15,
+            1.1081971749987519e-14
+          ],
+          "reciprocal": 119995604950940.88,
+          "reciprocal_ci": [
+            90236649448337.23,
+            163312113236557.0
+          ]
+        },
+        "tail_frequency_intersect_Geither": {
+          "hits": 47,
+          "n": 100000000,
+          "anchor_probability": 1.7731145864366945e-08,
+          "p": 8.333638556252465e-15,
+          "cp95": [
+            6.1232445051488845e-15,
+            1.1081971749987519e-14
+          ],
+          "reciprocal": 119995604950940.88,
+          "reciprocal_ci": [
+            90236649448337.23,
+            163312113236557.0
+          ]
+        }
+      }
+    },
+    "chain": [
+      {
+        "label": "C",
+        "p": 8.845749520391251e-07,
+        "cp95": null,
+        "exact": true,
+        "reciprocal": 1130486.4530640356
+      },
+      {
+        "label": "C+W",
+        "p": 4.1384256856316515e-09,
+        "cp95": null,
+        "exact": true,
+        "reciprocal": 241637781.11853883
+      },
+      {
+        "label": "C+W+G127",
+        "hits": 50888,
+        "n": 100000000,
+        "anchor_probability": 4.1384256856316515e-09,
+        "p": 2.105962062904235e-12,
+        "cp95": [
+          2.087708421356217e-12,
+          2.1243355407757464e-12
+        ],
+        "reciprocal": 474842361889.9128,
+        "reciprocal_ci": [
+          470735427998.7373,
+          478994092168.4744
+        ],
+        "exact": false
+      },
+      {
+        "label": "C+W+G127+M0",
+        "hits": 146,
+        "n": 100000000,
+        "anchor_probability": 4.1384256856316515e-09,
+        "p": 6.042101501022211e-15,
+        "cp95": [
+          5.101792249918651e-15,
+          7.10550321709677e-15
+        ],
+        "reciprocal": 165505329533245.78,
+        "reciprocal_ci": [
+          140735985819254.73,
+          196009549392362.1
+        ],
+        "exact": false
+      }
+    ],
+    "conditional_factors": {
+      "P_W_given_C": 0.004678434174618825,
+      "P_G127_given_CW": 0.00050888,
+      "P_M0_given_CWG127": 0.0028690457475239743
+    },
+    "same_sample_added_C_conditions": {
+      "base": "G127,W,Mview0,and Cpattern-centre",
+      "equal_counts": {
+        "hits": 47,
+        "n": 189,
+        "estimate": 0.24867724867724866,
+        "CP95": [
+          0.1888013876839198,
+          0.3166147827524269
+        ]
+      },
+      "band_and_constant_cell": {
+        "hits": 78,
+        "n": 189,
+        "estimate": 0.4126984126984127,
+        "CP95": [
+          0.34173652373863644,
+          0.4864432974641407
+        ]
+      },
+      "both": {
+        "meaning": "P(C15,G127,W,Mview0) / P(Cpattern-centre,G127,W,Mview0)",
+        "numerator_hits": 36,
+        "denominator_hits": 189,
+        "estimate": 0.19047619047619047,
+        "CP95": [
+          0.13711712856387226,
+          0.2538142710866018
+        ],
+        "reciprocal_reduction_factor": 5.25,
+        "interpretation": "The ratio conditions on denominator-event hits within the SAME fixed-budget sample; it is not a product of independent predicate probabilities."
+      },
+      "band_given_equal": {
+        "hits": 36,
+        "n": 47,
+        "estimate": 0.7659574468085106,
+        "CP95": [
+          0.6197427018764016,
+          0.8769665367144984
+        ]
+      },
+      "equal_given_band": {
+        "hits": 36,
+        "n": 78,
+        "estimate": 0.46153846153846156,
+        "CP95": [
+          0.34792744438155065,
+          0.5781579580297724
+        ]
+      }
+    }
+  },
+  "smc_production": {
+    "uniform": {
+      "status": "complete",
+      "primary": {
+        "replicates": 8,
+        "values": [
+          4.5586552128240225e-12,
+          6.251832111809708e-13,
+          1.2873180726916801e-12,
+          6.856167781732026e-14,
+          8.31758130157624e-14,
+          6.386840386469658e-13,
+          2.4249469698689243e-14,
+          1.0263113392425796e-12
+        ],
+        "mean": 1.0390173543897488e-12,
+        "se": 5.289200914876519e-13,
+        "relative_se": 0.5090579952808442,
+        "maximum_replicate_share": 0.5484334782239368,
+        "nonzero": 8,
+        "approximate_t_interval": [
+          0.0,
+          2.2897146298761245e-12
+        ],
+        "precision_gates": {
+          "at_least_six_nonzero": true,
+          "relative_se_at_most_035": false,
+          "maximum_share_at_most_035": false
+        },
+        "passes_predeclared_precision_gates": false,
+        "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+      },
+      "policies": {
+        "uniform": {
+          "replicates": 8,
+          "values": [
+            4.5586552128240225e-12,
+            6.251832111809708e-13,
+            1.2873180726916801e-12,
+            6.856167781732026e-14,
+            8.317581301576238e-14,
+            6.386840386469658e-13,
+            2.4249469698689243e-14,
+            1.0222865888926086e-12
+          ],
+          "mean": 1.0385142605960023e-12,
+          "se": 5.289220572627512e-13,
+          "relative_se": 0.509306494221084,
+          "maximum_replicate_share": 0.5486991591968866,
+          "nonzero": 8,
+          "approximate_t_interval": [
+            0.0,
+            2.289216184401851e-12
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": true,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "mixture": {
+          "replicates": 8,
+          "values": [
+            4.5586552128240225e-12,
+            6.251832111809708e-13,
+            1.2873180726916801e-12,
+            6.856167781732026e-14,
+            8.317581301576238e-14,
+            6.386840386469658e-13,
+            2.4249469698689243e-14,
+            1.0263113392425794e-12
+          ],
+          "mean": 1.0390173543897488e-12,
+          "se": 5.289200914876519e-13,
+          "relative_se": 0.5090579952808442,
+          "maximum_replicate_share": 0.5484334782239368,
+          "nonzero": 8,
+          "approximate_t_interval": [
+            0.0,
+            2.2897146298761245e-12
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": true,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "literal": {
+          "replicates": 8,
+          "values": [
+            4.5586552128240225e-12,
+            6.22741089262295e-13,
+            1.2873180726916801e-12,
+            6.856167781732026e-14,
+            8.317581301576238e-14,
+            6.386840386469658e-13,
+            2.4249469698689243e-14,
+            1.0263113392425794e-12
+          ],
+          "mean": 1.0387120891499144e-12,
+          "se": 5.289542989874545e-13,
+          "relative_se": 0.5092405340351362,
+          "maximum_replicate_share": 0.5485946563588715,
+          "nonzero": 8,
+          "approximate_t_interval": [
+            0.0,
+            2.2894902525199095e-12
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": true,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "discussion": {
+          "replicates": 8,
+          "values": [
+            4.5586552128240225e-12,
+            6.22741089262295e-13,
+            1.2873180726916801e-12,
+            6.856167781732026e-14,
+            8.317581301576238e-14,
+            6.386840386469658e-13,
+            2.4249469698689243e-14,
+            1.0263113392425794e-12
+          ],
+          "mean": 1.0387120891499144e-12,
+          "se": 5.289542989874545e-13,
+          "relative_se": 0.5092405340351362,
+          "maximum_replicate_share": 0.5485946563588715,
+          "nonzero": 8,
+          "approximate_t_interval": [
+            0.0,
+            2.2894902525199095e-12
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": true,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "anchored19": {
+          "replicates": 8,
+          "values": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "mean": 0.0,
+          "se": 0.0,
+          "relative_se": null,
+          "maximum_replicate_share": null,
+          "nonzero": 0,
+          "approximate_t_interval": [
+            0.0,
+            0.0
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": false,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "frequency": {
+          "replicates": 8,
+          "values": [
+            4.5586552128240225e-12,
+            6.251832111809708e-13,
+            1.2873180726916801e-12,
+            6.856167781732026e-14,
+            2.654513744845825e-13,
+            7.070743523286519e-13,
+            2.4249469698689243e-14,
+            1.2465372322970556e-12
+          ],
+          "mean": 1.0978788254153716e-12,
+          "se": 5.229763426558511e-13,
+          "relative_se": 0.476351606888846,
+          "maximum_replicate_share": 0.5190298677883806,
+          "nonzero": 8,
+          "approximate_t_interval": [
+            0.0,
+            2.334521368268695e-12
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": true,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        }
+      },
+      "natural_events": {
+        "0": {
+          "replicates": 8,
+          "values": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "mean": 0.0,
+          "se": 0.0,
+          "relative_se": null,
+          "maximum_replicate_share": null,
+          "nonzero": 0,
+          "approximate_t_interval": [
+            0.0,
+            0.0
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": false,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "1": {
+          "replicates": 8,
+          "values": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "mean": 0.0,
+          "se": 0.0,
+          "relative_se": null,
+          "maximum_replicate_share": null,
+          "nonzero": 0,
+          "approximate_t_interval": [
+            0.0,
+            0.0
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": false,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "2": {
+          "replicates": 8,
+          "values": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "mean": 0.0,
+          "se": 0.0,
+          "relative_se": null,
+          "maximum_replicate_share": null,
+          "nonzero": 0,
+          "approximate_t_interval": [
+            0.0,
+            0.0
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": false,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "3": {
+          "replicates": 8,
+          "values": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "mean": 0.0,
+          "se": 0.0,
+          "relative_se": null,
+          "maximum_replicate_share": null,
+          "nonzero": 0,
+          "approximate_t_interval": [
+            0.0,
+            0.0
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": false,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        }
+      }
+    },
+    "block6": {
+      "status": "complete",
+      "primary": {
+        "replicates": 8,
+        "values": [
+          1.6297041781394454e-13,
+          5.218846349231834e-12,
+          1.7360964917531479e-12,
+          1.433518160041021e-13,
+          1.219622961655907e-12,
+          2.676075753506981e-12,
+          5.126152729275253e-13,
+          7.47676786617461e-13
+        ],
+        "mean": 1.5521569811888627e-12,
+        "se": 6.049590245003467e-13,
+        "relative_se": 0.38975376320311556,
+        "maximum_replicate_share": 0.4202898299335112,
+        "nonzero": 8,
+        "approximate_t_interval": [
+          1.2165620063542974e-13,
+          2.9826577617422957e-12
+        ],
+        "precision_gates": {
+          "at_least_six_nonzero": true,
+          "relative_se_at_most_035": false,
+          "maximum_share_at_most_035": false
+        },
+        "passes_predeclared_precision_gates": false,
+        "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+      },
+      "policies": {
+        "uniform": {
+          "replicates": 8,
+          "values": [
+            1.6297041781394454e-13,
+            5.218846349231834e-12,
+            1.7258640959274908e-12,
+            1.433518160041021e-13,
+            1.219622961655907e-12,
+            2.5872216757538193e-12,
+            5.126152729275253e-13,
+            7.47676786617461e-13
+          ],
+          "mean": 1.5397711719915105e-12,
+          "se": 6.020486196156362e-13,
+          "relative_se": 0.39099876044370807,
+          "maximum_replicate_share": 0.4236706112702674,
+          "nonzero": 8,
+          "approximate_t_interval": [
+            1.1615240541041798e-13,
+            2.963389938572603e-12
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": true,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "mixture": {
+          "replicates": 8,
+          "values": [
+            1.6297041781394454e-13,
+            5.218846349231834e-12,
+            1.7360964917531479e-12,
+            1.433518160041021e-13,
+            1.219622961655907e-12,
+            2.676075753506981e-12,
+            5.126152729275253e-13,
+            7.47676786617461e-13
+          ],
+          "mean": 1.5521569811888627e-12,
+          "se": 6.049590245003467e-13,
+          "relative_se": 0.38975376320311556,
+          "maximum_replicate_share": 0.4202898299335112,
+          "nonzero": 8,
+          "approximate_t_interval": [
+            1.2165620063542974e-13,
+            2.9826577617422957e-12
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": true,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "literal": {
+          "replicates": 8,
+          "values": [
+            1.6297041781394454e-13,
+            5.218846349231834e-12,
+            1.7360964917531479e-12,
+            1.433518160041021e-13,
+            1.219622961655907e-12,
+            2.676075753506981e-12,
+            5.126152729275253e-13,
+            7.47676786617461e-13
+          ],
+          "mean": 1.5521569811888627e-12,
+          "se": 6.049590245003467e-13,
+          "relative_se": 0.38975376320311556,
+          "maximum_replicate_share": 0.4202898299335112,
+          "nonzero": 8,
+          "approximate_t_interval": [
+            1.2165620063542974e-13,
+            2.9826577617422957e-12
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": true,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "discussion": {
+          "replicates": 8,
+          "values": [
+            1.6297041781394454e-13,
+            5.218846349231834e-12,
+            1.7360964917531479e-12,
+            1.433518160041021e-13,
+            1.219622961655907e-12,
+            2.676075753506981e-12,
+            5.126152729275253e-13,
+            7.47676786617461e-13
+          ],
+          "mean": 1.5521569811888627e-12,
+          "se": 6.049590245003467e-13,
+          "relative_se": 0.38975376320311556,
+          "maximum_replicate_share": 0.4202898299335112,
+          "nonzero": 8,
+          "approximate_t_interval": [
+            1.2165620063542974e-13,
+            2.9826577617422957e-12
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": true,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "anchored19": {
+          "replicates": 8,
+          "values": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "mean": 0.0,
+          "se": 0.0,
+          "relative_se": null,
+          "maximum_replicate_share": null,
+          "nonzero": 0,
+          "approximate_t_interval": [
+            0.0,
+            0.0
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": false,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "frequency": {
+          "replicates": 8,
+          "values": [
+            1.6297041781394454e-13,
+            5.218846349231834e-12,
+            1.8439525726874537e-12,
+            1.4630880428080553e-13,
+            1.219622961655907e-12,
+            2.676075753506981e-12,
+            1.0332755899879772e-12,
+            7.47676786617461e-13
+          ],
+          "mean": 1.6310911544727955e-12,
+          "se": 5.927592519933241e-13,
+          "relative_se": 0.36341270711195595,
+          "maximum_replicate_share": 0.3999505434537379,
+          "nonzero": 8,
+          "approximate_t_interval": [
+            2.2943825185338306e-13,
+            3.032744057092208e-12
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": true,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        }
+      },
+      "natural_events": {
+        "0": {
+          "replicates": 8,
+          "values": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "mean": 0.0,
+          "se": 0.0,
+          "relative_se": null,
+          "maximum_replicate_share": null,
+          "nonzero": 0,
+          "approximate_t_interval": [
+            0.0,
+            0.0
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": false,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "1": {
+          "replicates": 8,
+          "values": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "mean": 0.0,
+          "se": 0.0,
+          "relative_se": null,
+          "maximum_replicate_share": null,
+          "nonzero": 0,
+          "approximate_t_interval": [
+            0.0,
+            0.0
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": false,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "2": {
+          "replicates": 8,
+          "values": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "mean": 0.0,
+          "se": 0.0,
+          "relative_se": null,
+          "maximum_replicate_share": null,
+          "nonzero": 0,
+          "approximate_t_interval": [
+            0.0,
+            0.0
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": false,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "3": {
+          "replicates": 8,
+          "values": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "mean": 0.0,
+          "se": 0.0,
+          "relative_se": null,
+          "maximum_replicate_share": null,
+          "nonzero": 0,
+          "approximate_t_interval": [
+            0.0,
+            0.0
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": false,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        }
+      }
+    },
+    "inversion_exact": {
+      "status": "complete",
+      "primary": {
+        "replicates": 8,
+        "values": [
+          1.4048039608626236e-13,
+          1.764736498899268e-13,
+          9.070841601628956e-14,
+          4.534454090623717e-15,
+          1.844927472332577e-14,
+          4.567256775647467e-13,
+          1.863352825326402e-12,
+          0.0
+        ],
+        "mean": 3.438405867121971e-13,
+        "se": 2.2338059882551207e-13,
+        "relative_se": 0.6496632668105788,
+        "maximum_replicate_share": 0.6774043326093996,
+        "nonzero": 7,
+        "approximate_t_interval": [
+          0.0,
+          8.720517680303215e-13
+        ],
+        "precision_gates": {
+          "at_least_six_nonzero": true,
+          "relative_se_at_most_035": false,
+          "maximum_share_at_most_035": false
+        },
+        "passes_predeclared_precision_gates": false,
+        "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+      },
+      "policies": {
+        "uniform": {
+          "replicates": 8,
+          "values": [
+            1.4048039608626236e-13,
+            1.764736498899268e-13,
+            9.070841601628956e-14,
+            3.312277011510293e-15,
+            1.844927472332577e-14,
+            4.567256775647466e-13,
+            1.863352825326402e-12,
+            0.0
+          ],
+          "mean": 3.436878145773079e-13,
+          "se": 2.2341379927368287e-13,
+          "relative_se": 0.6500486482142327,
+          "maximum_replicate_share": 0.6777054445536889,
+          "nonzero": 7,
+          "approximate_t_interval": [
+            0.0,
+            8.719775024803407e-13
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": true,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "mixture": {
+          "replicates": 8,
+          "values": [
+            1.4048039608626236e-13,
+            1.764736498899268e-13,
+            9.070841601628956e-14,
+            4.534454090623717e-15,
+            1.844927472332577e-14,
+            4.567256775647466e-13,
+            1.863352825326402e-12,
+            0.0
+          ],
+          "mean": 3.438405867121971e-13,
+          "se": 2.2338059882551207e-13,
+          "relative_se": 0.6496632668105788,
+          "maximum_replicate_share": 0.6774043326093996,
+          "nonzero": 7,
+          "approximate_t_interval": [
+            0.0,
+            8.720517680303215e-13
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": true,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "literal": {
+          "replicates": 8,
+          "values": [
+            1.4048039608626236e-13,
+            1.764736498899268e-13,
+            9.070841601628956e-14,
+            4.534454090623717e-15,
+            1.8413240983631774e-14,
+            4.567256775647466e-13,
+            1.863352825326402e-12,
+            0.0
+          ],
+          "mean": 3.4383608249473535e-13,
+          "se": 2.2338153617585225e-13,
+          "relative_se": 0.6496745034874941,
+          "maximum_replicate_share": 0.6774132065367706,
+          "nonzero": 7,
+          "approximate_t_interval": [
+            0.0,
+            8.720494802942063e-13
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": true,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "discussion": {
+          "replicates": 8,
+          "values": [
+            1.4048039608626236e-13,
+            1.764736498899268e-13,
+            9.070841601628956e-14,
+            4.534454090623717e-15,
+            1.8413240983631774e-14,
+            4.567256775647466e-13,
+            1.863352825326402e-12,
+            0.0
+          ],
+          "mean": 3.4383608249473535e-13,
+          "se": 2.2338153617585225e-13,
+          "relative_se": 0.6496745034874941,
+          "maximum_replicate_share": 0.6774132065367706,
+          "nonzero": 7,
+          "approximate_t_interval": [
+            0.0,
+            8.720494802942063e-13
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": true,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "anchored19": {
+          "replicates": 8,
+          "values": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "mean": 0.0,
+          "se": 0.0,
+          "relative_se": null,
+          "maximum_replicate_share": null,
+          "nonzero": 0,
+          "approximate_t_interval": [
+            0.0,
+            0.0
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": false,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "frequency": {
+          "replicates": 8,
+          "values": [
+            1.4048039608626236e-13,
+            1.764736498899268e-13,
+            9.070841601628956e-14,
+            4.534454090623717e-15,
+            1.844927472332577e-14,
+            6.928533048883126e-13,
+            2.458817365116787e-12,
+            0.0
+          ],
+          "mean": 4.47789607601441e-13,
+          "se": 2.9824399527620784e-13,
+          "relative_se": 0.6660359914865699,
+          "maximum_replicate_share": 0.6863762923974775,
+          "nonzero": 7,
+          "approximate_t_interval": [
+            0.0,
+            1.1530245917234857e-12
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": true,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        }
+      },
+      "natural_events": {
+        "0": {
+          "replicates": 8,
+          "values": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "mean": 0.0,
+          "se": 0.0,
+          "relative_se": null,
+          "maximum_replicate_share": null,
+          "nonzero": 0,
+          "approximate_t_interval": [
+            0.0,
+            0.0
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": false,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "1": {
+          "replicates": 8,
+          "values": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "mean": 0.0,
+          "se": 0.0,
+          "relative_se": null,
+          "maximum_replicate_share": null,
+          "nonzero": 0,
+          "approximate_t_interval": [
+            0.0,
+            0.0
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": false,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "2": {
+          "replicates": 8,
+          "values": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "mean": 0.0,
+          "se": 0.0,
+          "relative_se": null,
+          "maximum_replicate_share": null,
+          "nonzero": 0,
+          "approximate_t_interval": [
+            0.0,
+            0.0
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": false,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        },
+        "3": {
+          "replicates": 8,
+          "values": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "mean": 0.0,
+          "se": 0.0,
+          "relative_se": null,
+          "maximum_replicate_share": null,
+          "nonzero": 0,
+          "approximate_t_interval": [
+            0.0,
+            0.0
+          ],
+          "precision_gates": {
+            "at_least_six_nonzero": false,
+            "relative_se_at_most_035": false,
+            "maximum_share_at_most_035": false
+          },
+          "passes_predeclared_precision_gates": false,
+          "caveat": "Passing empirical gates does not prove all rare modes were sampled. The t interval is a replicate-based approximation, not an exact binomial interval."
+        }
+      }
+    }
+  },
+  "original_direct_test": {
+    "uniform": {
+      "observed_score": 23.940435757549533,
+      "hits": 0,
+      "n": 1000000,
+      "rate": 0.0,
+      "cp95": [
+        0.0,
+        3.688872650206488e-06
+      ],
+      "upper95_one_sided": 2.9957277863525433e-06,
+      "p_plus_one": 9.99999000001e-07,
+      "control_mean": 0.0017733915100942535,
+      "control_sd": 0.06397049749917023,
+      "control_max": 9.084962269136895,
+      "control_quantiles": {
+        "0": 0.0,
+        "0.5": 0.0,
+        "0.9": 0.0,
+        "0.95": 0.0,
+        "0.99": 0.0,
+        "0.999": 0.7254771687855488,
+        "0.9999": 3.171847495321215
+      },
+      "winning_program": {
+        "policy": 1,
+        "name": "primary_mixture",
+        "value": 23.940435757549533,
+        "variant_index": 1,
+        "active_mask": 15,
+        "blocks_value": 32.84732635315805,
+        "program_penalty": 8.90689059560852,
+        "blocks": [
+          {
+            "module_mask": 15,
+            "form_index": 0,
+            "prime_index": 6,
+            "prime": 19,
+            "matrix_view": 0,
+            "positive_masks": [
+              3,
+              15,
+              3,
+              15
+            ],
+            "value": 32.84732635315805
+          }
+        ]
+      }
+    },
+    "block6": {
+      "observed_score": 22.69418342742572,
+      "hits": 0,
+      "n": 1000000,
+      "rate": 0.0,
+      "cp95": [
+        0.0,
+        3.688872650206488e-06
+      ],
+      "upper95_one_sided": 2.9957277863525433e-06,
+      "p_plus_one": 9.99999000001e-07,
+      "control_mean": 0.001465433158066665,
+      "control_sd": 0.05377228143080769,
+      "control_max": 6.0423521279320695,
+      "control_quantiles": {
+        "0": 0.0,
+        "0.5": 0.0,
+        "0.9": 0.0,
+        "0.95": 0.0,
+        "0.99": 0.0,
+        "0.999": 0.286592927552336,
+        "0.9999": 3.171847495321215
+      },
+      "winning_program": {
+        "policy": 1,
+        "name": "primary_mixture",
+        "value": 22.69418342742572,
+        "variant_index": 1,
+        "active_mask": 15,
+        "blocks_value": 31.60107402303424,
+        "program_penalty": 8.90689059560852,
+        "blocks": [
+          {
+            "module_mask": 15,
+            "form_index": 0,
+            "prime_index": 6,
+            "prime": 19,
+            "matrix_view": 0,
+            "positive_masks": [
+              3,
+              15,
+              3,
+              15
+            ],
+            "value": 31.60107402303424
+          }
+        ]
+      }
+    },
+    "inversion_exact": {
+      "observed_score": 23.203247516669524,
+      "hits": 0,
+      "n": 1000000,
+      "rate": 0.0,
+      "cp95": [
+        0.0,
+        3.688872650206488e-06
+      ],
+      "upper95_one_sided": 2.9957277863525433e-06,
+      "p_plus_one": 9.99999000001e-07,
+      "control_mean": 0.0015990017758945522,
+      "control_sd": 0.05917705414893477,
+      "control_max": 7.509324267301109,
+      "control_quantiles": {
+        "0": 0.0,
+        "0.5": 0.0,
+        "0.9": 0.0,
+        "0.95": 0.0,
+        "0.99": 0.0,
+        "0.999": 0.3510816540040498,
+        "0.9999": 3.171847495321215
+      },
+      "winning_program": {
+        "policy": 1,
+        "name": "primary_mixture",
+        "value": 23.203247516669524,
+        "variant_index": 1,
+        "active_mask": 15,
+        "blocks_value": 32.110138112278044,
+        "program_penalty": 8.90689059560852,
+        "blocks": [
+          {
+            "module_mask": 15,
+            "form_index": 0,
+            "prime_index": 6,
+            "prime": 19,
+            "matrix_view": 0,
+            "positive_masks": [
+              3,
+              15,
+              3,
+              15
+            ],
+            "value": 32.110138112278044
+          }
+        ]
+      }
+    }
+  },
+  "sources": {
+    "protocol.json": "e956d7b71df9185c1fa23a3733d27f05762a7567a06ee534070279c0b9be9768",
+    "rare_event/production/plan.json": "350fabb67f7bb4bed73e283facb5e63d10d6f1c96dab14eaaf59fc4a839d80a5",
+    "rare_event/exact/production_plan.json": "ed4859ce71a0f4050408ea93c32589663380ffdbf4cb488683c06bdb368ced12",
+    "rare_event/exact/production_C10_plan.json": "4ac7d1397583a4009c911fc0182a10eb5a371bf221fb9450481e6dc88d792ea8",
+    "rare_event/exact/conditional_results.json": "44bbf8f0588c1f6160000bf5e0447f35f788732a2eda99d52d0f38f3eea1b190",
+    "rare_event/block7/final_summary.json": "9148f25d869803f4a5afc0ff823b35c3e66fafe2bdeee4ffff517e39d5ec3375",
+    "rare_event/uniform_anchor/production_plan.json": "5775166d1544f9ebc50b6d396e85f817035c35c3c6ca97ed4745f527c327fa6c",
+    "rare_event/uniform_anchor/final_summary.json": "9603cd28a282bfa2bee27923f7604b63b0a546ab506ddb0d19750d11e5b51f2c"
+  },
+  "block7": {
+    "scope": "Block6 model; rigorous component estimate and rigorous full-tail bounds, not a precise full-tail point estimate",
+    "n": 100000000,
+    "primary_hits": 2480,
+    "B_exact": {
+      "numerator": "1042597649360650976219667547",
+      "denominator": "13014353041044480000000000000000000"
+    },
+    "B": 8.011136981396781e-08,
+    "p_component": 1.9867619713864016e-12,
+    "CP95": [
+      1.9093313674451053e-12,
+      2.06652684749066e-12
+    ],
+    "weighted_component": 1.992369767273379e-12,
+    "weighted_component_SE": 3.4572842624504636e-14,
+    "exact_union_mass": {
+      "numerator": "2006327828000828541633827353",
+      "denominator": "34704941442785280000000000000000000",
+      "probability": 5.781101320422827e-08
+    },
+    "thinning_acceptance_validation": {
+      "expected": 0.7216330633026903,
+      "accepted": 72164725,
+      "observed": 0.72164725,
+      "standardized_difference": 0.3165295540620929
+    },
+    "full_block6_primary_tail_CI95": [
+      1.9093313674451053e-12,
+      3.688872650206489e-06
+    ],
+    "full_block6_expected_waiting_CI95": [
+      271085.5306821242,
+      523743556016.73773
+    ],
+    "full_tail_interval_justification": "P_full>=P_component. Component CP95 lower endpoint is a one-sided97.5% lower bound; original0/1m one-sided97.5% upper is1-.025^(1/1m). Bonferroni failure<=.025+.025 gives joint coverage>=95%.",
+    "component_expected_waiting_point": 503331558788.68585,
+    "component_expected_waiting_CI95": [
+      483903705976.17883,
+      523743556016.73773
+    ],
+    "component_waiting_scope": "Waiting for this subset event only; NOT a point estimate of full-tail waiting",
+    "natural19_pattern": {
+      "estimate": 6.042101501022211e-15,
+      "CP95": [
+        5.101792249918651e-15,
+        7.10550321709677e-15
+      ],
+      "hits": 146,
+      "n": 100000000,
+      "event": "127 natural G3,C15,W3,M15 in view0"
+    },
+    "component_to_natural19_point_ratio": 328.8196947784274,
+    "full_tail_to_natural19_ratio_one_sided_lower95": 268.7116322530126,
+    "ratio_justification": "P_full/P_natural>=P_component/P_natural. Divide component one-sided97.5% lower by natural one-sided97.5% upper; Bonferroni gives>=95% lower-bound coverage. This is not a point estimate of the full-tail ratio.",
+    "per_policy": [
+      {
+        "policy": 0,
+        "name": "uniform",
+        "n": 100000000,
+        "thinned_hits": 2487,
+        "unthinned_hits": 3745,
+        "estimate": 1.992369767273379e-12,
+        "CP95": [
+          1.9148288881284694e-12,
+          2.0722448961823656e-12
+        ],
+        "weighted_estimate": 1.9975770063112874e-12,
+        "weighted_standard_error": 3.46215337757076e-14,
+        "weighted_minus_thinned_standardized_difference": 0.25984414025976416,
+        "complete_within_W7_union": false,
+        "scope": "Policy tail intersect W7 union and any G balance; completeness within union not asserted"
+      },
+      {
+        "policy": 1,
+        "name": "mixture",
+        "n": 100000000,
+        "thinned_hits": 2480,
+        "unthinned_hits": 3736,
+        "estimate": 1.9867619713864016e-12,
+        "CP95": [
+          1.9093313674451053e-12,
+          2.06652684749066e-12
+        ],
+        "weighted_estimate": 1.992369767273379e-12,
+        "weighted_standard_error": 3.4572842624504636e-14,
+        "weighted_minus_thinned_standardized_difference": 0.28011206724482635,
+        "complete_within_W7_union": true,
+        "scope": "Full frozen primary tail intersect W7 union"
+      },
+      {
+        "policy": 2,
+        "name": "literal",
+        "n": 100000000,
+        "thinned_hits": 2482,
+        "unthinned_hits": 3739,
+        "estimate": 1.9883641987826808e-12,
+        "CP95": [
+          1.910902071775038e-12,
+          2.0681605915440956e-12
+        ],
+        "weighted_estimate": 1.993971994669659e-12,
+        "weighted_standard_error": 3.4586761311434634e-14,
+        "weighted_minus_thinned_standardized_difference": 0.2800000000000151,
+        "complete_within_W7_union": false,
+        "scope": "Policy tail intersect W7 union and any G balance; completeness within union not asserted"
+      },
+      {
+        "policy": 3,
+        "name": "discussion",
+        "n": 100000000,
+        "thinned_hits": 2485,
+        "unthinned_hits": 3746,
+        "estimate": 1.9907675398771e-12,
+        "CP95": [
+          1.913258152077488e-12,
+          2.0706111838309706e-12
+        ],
+        "weighted_estimate": 1.9979775631603572e-12,
+        "weighted_standard_error": 3.462385060574482e-14,
+        "weighted_minus_thinned_standardized_difference": 0.35971234513985206,
+        "complete_within_W7_union": false,
+        "scope": "Policy tail intersect W7 union and any G balance; completeness within union not asserted"
+      },
+      {
+        "policy": 4,
+        "name": "anchored19",
+        "n": 100000000,
+        "thinned_hits": 0,
+        "unthinned_hits": 0,
+        "estimate": 0.0,
+        "CP95": [
+          0.0,
+          2.9552118069695907e-15
+        ],
+        "weighted_estimate": 0.0,
+        "weighted_standard_error": 0.0,
+        "weighted_minus_thinned_standardized_difference": null,
+        "complete_within_W7_union": false,
+        "scope": "Policy tail intersect W7 union and any G balance; completeness within union not asserted"
+      },
+      {
+        "policy": 5,
+        "name": "frequency",
+        "n": 100000000,
+        "thinned_hits": 7336,
+        "unthinned_hits": 10624,
+        "estimate": 5.876970089552678e-12,
+        "CP95": [
+          5.743250832321203e-12,
+          6.0130168246177734e-12
+        ],
+        "weighted_estimate": 5.89900071625152e-12,
+        "weighted_standard_error": 6.065604126183078e-14,
+        "weighted_minus_thinned_standardized_difference": 0.6810917023936669,
+        "complete_within_W7_union": false,
+        "scope": "Policy tail intersect W7 union and any G balance; completeness within union not asserted"
+      }
+    ],
+    "batches": [
+      {
+        "n": 50000000,
+        "seed": 202610251702,
+        "hits": 1213,
+        "estimate": 1.943501831686859e-12,
+        "weighted_estimate": 1.9875630850845416e-12,
+        "seconds": 118.177613589
+      },
+      {
+        "n": 50000000,
+        "seed": 202610251703,
+        "hits": 1267,
+        "estimate": 2.0300221110859443e-12,
+        "weighted_estimate": 1.9971764494622176e-12,
+        "seconds": 49.374811999
+      }
+    ],
+    "batch_agreement_standardized_difference": -1.0843595401600379,
+    "direct_feature_validations": 2000,
+    "rng_nonoverlap": {
+      "streams_checked_including_pilot": 24,
+      "maximum_actual_calls": 28219003,
+      "minimum_counter_gap": 2598370594992666,
+      "all_consumed_counter_intervals_disjoint": true
+    },
+    "pilot_excluded": true,
+    "all_fixed_proposals_retained": true,
+    "source_sha256": {
+      "production_plan.json": "c5334593f27b0551687d14b8105f01d73dfa9333675e9e7756f72b3210f91d47",
+      "production_batch0.json": "3799d95f38b6b284274f2122a4490175ed5a92da0d5988b5f66ab8b250593b49",
+      "production_batch1.json": "5c102a125b907eab0abf5338ea6f03cd2fcc5e734b5aa1870890838c6b2d5976",
+      "independent_counts.json": "8c3204ec2858dea92ee24d00fd551e688049896207cc7c184e634588b1e5b94a",
+      "independent_intersections.json": "c543382b8c0c8ae00f8b79f209380358176e395cabe404c05fb57feb762c7c31"
+    }
+  },
+  "full_tail_bounds": {
+    "uniform": {
+      "p_interval_at_least_95_coverage": [
+        2.597543385974372e-14,
+        3.688872650206489e-06
+      ],
+      "expected_waiting_interval": [
+        271085.5306821242,
+        38497913274502.91
+      ],
+      "lower_bound_method": "Markov inequality for the nonnegative unbiased mean of all eight fixed-budget SMC estimates: lower = .025 * mean.",
+      "upper_bound_method": "One-sided 97.5% exact binomial bound from the original zero exceedances in one million IID controls.",
+      "coverage_scope": "Pointwise for this model and frozen test, by Bonferroni. Not simultaneous over all models or conditional on a precision-gate outcome.",
+      "point_estimate_is_precise": false
+    },
+    "block6": {
+      "p_interval_at_least_95_coverage": [
+        1.9093313674451053e-12,
+        3.688872650206489e-06
+      ],
+      "expected_waiting_interval": [
+        271085.5306821242,
+        523743556016.73773
+      ],
+      "lower_bound_method": "Exact conditional W7 component: one-sided 97.5% scaled Clopper–Pearson lower endpoint.",
+      "upper_bound_method": "One-sided 97.5% exact binomial bound from the original zero exceedances in one million IID controls.",
+      "coverage_scope": "Pointwise for this model and frozen test, by Bonferroni. Not simultaneous over all models or conditional on a precision-gate outcome.",
+      "point_estimate_is_precise": false
+    },
+    "inversion_exact": {
+      "p_interval_at_least_95_coverage": [
+        8.596014667804929e-15,
+        3.688872650206489e-06
+      ],
+      "expected_waiting_interval": [
+        271085.5306821242,
+        116332979717373.98
+      ],
+      "lower_bound_method": "Markov inequality for the nonnegative unbiased mean of all eight fixed-budget SMC estimates: lower = .025 * mean.",
+      "upper_bound_method": "One-sided 97.5% exact binomial bound from the original zero exceedances in one million IID controls.",
+      "coverage_scope": "Pointwise for this model and frozen test, by Bonferroni. Not simultaneous over all models or conditional on a precision-gate outcome.",
+      "point_estimate_is_precise": false
+    }
+  },
+  "uniform_natural": {
+    "scope": "Uniform labeled permutation null; fixed natural form(1,1), prime19, variant127, natural matrix view0. The full frozen score tail is a distinct larger event.",
+    "n": 100000000,
+    "independent_worker_batches": 16,
+    "all_proposals_in_denominator": true,
+    "pilots_excluded": true,
+    "primary_event": "C15 & W3 & G3 & M15(view0), natural form/19, variant127",
+    "primary": {
+      "raw_hits": 83,
+      "estimate": 7.780716111327623e-18,
+      "SE": 9.82735257742e-19,
+      "variance_of_mean": 9.657685868092352e-37,
+      "relative_standard_error": 0.12630396016007786,
+      "normal_approx_95_interval": [
+        5.854590399815615e-18,
+        9.70684182283963e-18
+      ],
+      "target_ESS": 62.68531270113107,
+      "largest_draw_contribution_fraction": 0.03462202811448717,
+      "weight_sum": 7.780716111327623e-10,
+      "weight_square_sum": 9.657691825469814e-21,
+      "max_weight": 2.6938417195722824e-11,
+      "expected_waiting_point": 1.2852287446192021e+17,
+      "expected_waiting_normal_approx_95_interval": [
+        1.0302011903058507e+17,
+        1.7080614213959254e+17
+      ],
+      "worker_batch_t_approx_95_interval": [
+        5.91543159266235e-18,
+        9.646000629992896e-18
+      ],
+      "worker_batch_SE": 8.75124875721794e-19,
+      "worker_batch_means": [
+        6.189507472542013e-18,
+        5.16247941998156e-18,
+        3.774078672317749e-18,
+        6.59585097920873e-18,
+        6.00893489502652e-18,
+        2.6129082904109217e-18,
+        1.1649097792737291e-17,
+        1.2508058689298485e-17,
+        5.5237888796773686e-18,
+        2.2816541805593336e-18,
+        1.2162483161472224e-17,
+        1.1029665744033998e-17,
+        7.406977939862005e-18,
+        1.0409223413885577e-17,
+        1.156231624546175e-17,
+        9.61443200476644e-18
+      ],
+      "worker_batch_raw_hits": [
+        3,
+        6,
+        5,
+        6,
+        4,
+        2,
+        6,
+        8,
+        4,
+        2,
+        7,
+        6,
+        5,
+        6,
+        7,
+        6
+      ],
+      "nonzero_worker_batches": 16,
+      "largest_worker_contribution_fraction": 0.10047322854293995,
+      "worker_batch_SE_to_iid_SE_ratio": 0.8904991133955454,
+      "two_batch_standardized_difference": -0.9851092419015335,
+      "batches": [
+        {
+          "raw_hits": 40,
+          "estimate": 6.812614526440409e-18,
+          "SE": 1.2755943435795862e-18,
+          "target_ESS": 28.52346118264675,
+          "largest_draw_contribution_fraction": 0.0683134833598906
+        },
+        {
+          "raw_hits": 43,
+          "estimate": 8.748817696214837e-18,
+          "SE": 1.4953037882004518e-18,
+          "target_ESS": 34.23257578124845,
+          "largest_draw_contribution_fraction": 0.06158184598446414
+        }
+      ]
+    },
+    "metrics": {
+      "anchor_C15_W_127": {
+        "raw_hits": 94728465,
+        "estimate": 9.367713590519708e-12,
+        "SE": 6.337244765222106e-16,
+        "variance_of_mean": 4.016067121433499e-31,
+        "relative_standard_error": 6.764985611468213e-05,
+        "normal_approx_95_interval": [
+          9.366471513369603e-12,
+          9.368955667669813e-12
+        ],
+        "target_ESS": 68603560.19006735,
+        "largest_draw_contribution_fraction": 1.5566448069532324e-07,
+        "weight_sum": 0.0009367713590519709,
+        "weight_square_sum": 1.2791472872673593e-14,
+        "max_weight": 1.4582202713707722e-10,
+        "expected_waiting_point": 106749634298.38608,
+        "expected_waiting_normal_approx_95_interval": [
+          106735482104.02768,
+          106763790246.15732
+        ],
+        "worker_batch_t_approx_95_interval": [
+          9.36648931728849e-12,
+          9.368937863750926e-12
+        ],
+        "worker_batch_SE": 5.743852739877528e-16,
+        "worker_batch_means": [
+          9.365284463187433e-12,
+          9.368997880386377e-12,
+          9.363815409380665e-12,
+          9.368271458875029e-12,
+          9.36899701161672e-12,
+          9.366095324496562e-12,
+          9.365614049684089e-12,
+          9.372526110486897e-12,
+          9.369423140660096e-12,
+          9.367421968180642e-12,
+          9.367677677469994e-12,
+          9.371088975433994e-12,
+          9.366623009128952e-12,
+          9.368729730075582e-12,
+          9.364951307172485e-12,
+          9.367899932079822e-12
+        ],
+        "worker_batch_raw_hits": [
+          5920943,
+          5920618,
+          5920009,
+          5920726,
+          5921079,
+          5920419,
+          5920899,
+          5920706,
+          5919717,
+          5919667,
+          5920424,
+          5920995,
+          5920085,
+          5920803,
+          5921065,
+          5920310
+        ],
+        "nonzero_worker_batches": 16,
+        "largest_worker_contribution_fraction": 0.06253210842165945,
+        "worker_batch_SE_to_iid_SE_ratio": 0.906364351176551,
+        "two_batch_standardized_difference": -0.41560175463411403,
+        "batches": [
+          {
+            "raw_hits": 47365399,
+            "estimate": 9.367450213514222e-12,
+            "SE": 8.961189186281374e-16,
+            "target_ESS": 34303646.05107184,
+            "largest_draw_contribution_fraction": 3.1133771477472683e-07
+          },
+          {
+            "raw_hits": 47363066,
+            "estimate": 9.367976967525195e-12,
+            "SE": 8.96324575998956e-16,
+            "target_ESS": 34299914.60600568,
+            "largest_draw_contribution_fraction": 2.913997088456258e-07
+          }
+        ]
+      },
+      "G127": {
+        "raw_hits": 32642,
+        "estimate": 3.2256276076731944e-15,
+        "SE": 2.1028217799292725e-17,
+        "variance_of_mean": 4.4218594381449135e-34,
+        "relative_standard_error": 0.006519108947750303,
+        "normal_approx_95_interval": [
+          3.1844130581275166e-15,
+          3.266842157218872e-15
+        ],
+        "target_ESS": 23524.551289274783,
+        "largest_draw_contribution_fraction": 0.0002800172074058478,
+        "weight_sum": 3.225627607673194e-07,
+        "weight_square_sum": 4.4228998612726574e-18,
+        "max_weight": 9.032312348318535e-11,
+        "expected_waiting_point": 310017187855528.6,
+        "expected_waiting_normal_approx_95_interval": [
+          306106004475992.2,
+          314029612913349.6
+        ],
+        "worker_batch_t_approx_95_interval": [
+          3.1837682411550383e-15,
+          3.2674869741913504e-15
+        ],
+        "worker_batch_SE": 1.9638919722663605e-17,
+        "worker_batch_means": [
+          3.222858183015783e-15,
+          3.1655324264161114e-15,
+          3.2320969137858125e-15,
+          3.3049704525524037e-15,
+          3.365767133464857e-15,
+          3.189078318173965e-15,
+          3.1126077760623656e-15,
+          3.305797031025227e-15,
+          3.0840968645816205e-15,
+          3.273588931074583e-15,
+          3.216711241590127e-15,
+          3.2758049884963396e-15,
+          3.2099754585253277e-15,
+          3.3169894087813637e-15,
+          3.1350070376000475e-15,
+          3.199159557625174e-15
+        ],
+        "worker_batch_raw_hits": [
+          2022,
+          2032,
+          2003,
+          2057,
+          2096,
+          2001,
+          2006,
+          2058,
+          1971,
+          2056,
+          2031,
+          2104,
+          2053,
+          2081,
+          2043,
+          2028
+        ],
+        "nonzero_worker_batches": 16,
+        "largest_worker_contribution_fraction": 0.06521535385583366,
+        "worker_batch_SE_to_iid_SE_ratio": 0.9339317249854694,
+        "two_batch_standardized_difference": 0.5569146044736015,
+        "batches": [
+          {
+            "raw_hits": 16275,
+            "estimate": 3.2373385293120657e-15,
+            "SE": 2.998371022022361e-17,
+            "target_ESS": 11654.784639784222,
+            "largest_draw_contribution_fraction": 0.0005580085163498734
+          },
+          {
+            "raw_hits": 16367,
+            "estimate": 3.2139166860343226e-15,
+            "SE": 2.9491030990611945e-17,
+            "target_ESS": 11873.702971084724,
+            "largest_draw_contribution_fraction": 0.0004275432600261746
+          }
+        ]
+      },
+      "G127_Mview0": {
+        "raw_hits": 83,
+        "estimate": 7.780716111327623e-18,
+        "SE": 9.82735257742e-19,
+        "variance_of_mean": 9.657685868092352e-37,
+        "relative_standard_error": 0.12630396016007786,
+        "normal_approx_95_interval": [
+          5.854590399815615e-18,
+          9.70684182283963e-18
+        ],
+        "target_ESS": 62.68531270113107,
+        "largest_draw_contribution_fraction": 0.03462202811448717,
+        "weight_sum": 7.780716111327623e-10,
+        "weight_square_sum": 9.657691825469814e-21,
+        "max_weight": 2.6938417195722824e-11,
+        "expected_waiting_point": 1.2852287446192021e+17,
+        "expected_waiting_normal_approx_95_interval": [
+          1.0302011903058507e+17,
+          1.7080614213959254e+17
+        ],
+        "worker_batch_t_approx_95_interval": [
+          5.91543159266235e-18,
+          9.646000629992896e-18
+        ],
+        "worker_batch_SE": 8.75124875721794e-19,
+        "worker_batch_means": [
+          6.189507472542013e-18,
+          5.16247941998156e-18,
+          3.774078672317749e-18,
+          6.59585097920873e-18,
+          6.00893489502652e-18,
+          2.6129082904109217e-18,
+          1.1649097792737291e-17,
+          1.2508058689298485e-17,
+          5.5237888796773686e-18,
+          2.2816541805593336e-18,
+          1.2162483161472224e-17,
+          1.1029665744033998e-17,
+          7.406977939862005e-18,
+          1.0409223413885577e-17,
+          1.156231624546175e-17,
+          9.61443200476644e-18
+        ],
+        "worker_batch_raw_hits": [
+          3,
+          6,
+          5,
+          6,
+          4,
+          2,
+          6,
+          8,
+          4,
+          2,
+          7,
+          6,
+          5,
+          6,
+          7,
+          6
+        ],
+        "nonzero_worker_batches": 16,
+        "largest_worker_contribution_fraction": 0.10047322854293995,
+        "worker_batch_SE_to_iid_SE_ratio": 0.8904991133955454,
+        "two_batch_standardized_difference": -0.9851092419015335,
+        "batches": [
+          {
+            "raw_hits": 40,
+            "estimate": 6.812614526440409e-18,
+            "SE": 1.2755943435795862e-18,
+            "target_ESS": 28.52346118264675,
+            "largest_draw_contribution_fraction": 0.0683134833598906
+          },
+          {
+            "raw_hits": 43,
+            "estimate": 8.748817696214837e-18,
+            "SE": 1.4953037882004518e-18,
+            "target_ESS": 34.23257578124845,
+            "largest_draw_contribution_fraction": 0.06158184598446414
+          }
+        ]
+      },
+      "G127_Manyview": {
+        "raw_hits": 174,
+        "estimate": 1.5667926702638346e-17,
+        "SE": 1.3748091697386639e-18,
+        "variance_of_mean": 1.8901002531975142e-36,
+        "relative_standard_error": 0.0877467195137668,
+        "normal_approx_95_interval": [
+          1.297335024433515e-17,
+          1.836250316094154e-17
+        ],
+        "target_ESS": 129.87861906671907,
+        "largest_draw_contribution_fraction": 0.023148238192565642,
+        "weight_sum": 1.5667926702638345e-09,
+        "weight_square_sum": 1.890102689135783e-20,
+        "max_weight": 3.62684899296332e-11,
+        "expected_waiting_point": 6.382465395575334e+16,
+        "expected_waiting_normal_approx_95_interval": [
+          5.445880614616187e+16,
+          7.708109171234723e+16
+        ],
+        "worker_batch_t_approx_95_interval": [
+          1.2628420960025275e-17,
+          1.8707432445251417e-17
+        ],
+        "worker_batch_SE": 1.4260275355543612e-18,
+        "worker_batch_means": [
+          1.7890625661057563e-17,
+          1.2631767307957024e-17,
+          1.0824837861165193e-17,
+          6.931616699743113e-18,
+          1.640462678814273e-17,
+          6.6062402845793815e-18,
+          2.081987595489775e-17,
+          2.5417453568920768e-17,
+          8.749171077879589e-18,
+          1.2363001052329822e-17,
+          1.812784784266212e-17,
+          2.1650826658003976e-17,
+          1.4418055973210698e-17,
+          2.2003779648298867e-17,
+          2.0868390425842396e-17,
+          1.497871043752253e-17
+        ],
+        "worker_batch_raw_hits": [
+          10,
+          12,
+          10,
+          7,
+          8,
+          6,
+          12,
+          16,
+          7,
+          10,
+          12,
+          13,
+          10,
+          16,
+          15,
+          10
+        ],
+        "nonzero_worker_batches": 16,
+        "largest_worker_contribution_fraction": 0.10139126115454974,
+        "worker_batch_SE_to_iid_SE_ratio": 1.0372548910373018,
+        "two_batch_standardized_difference": -0.710677675068349,
+        "batches": [
+          {
+            "raw_hits": 81,
+            "estimate": 1.469088051580794e-17,
+            "SE": 1.9410236952816196e-18,
+            "target_ESS": 57.28402029781661,
+            "largest_draw_contribution_fraction": 0.04937551549834871
+          },
+          {
+            "raw_hits": 93,
+            "estimate": 1.6644972889468748e-17,
+            "SE": 1.9475184375416274e-18,
+            "target_ESS": 73.0470030687042,
+            "largest_draw_contribution_fraction": 0.032368231987649224
+          }
+        ]
+      },
+      "both_variant_CW_anchors": {
+        "raw_hits": 68589715,
+        "estimate": 6.8293143694873556e-12,
+        "SE": 6.854300492270813e-16,
+        "variance_of_mean": 4.69814352383439e-31,
+        "relative_standard_error": 0.00010036586575799018,
+        "normal_approx_95_interval": [
+          6.827970951276949e-12,
+          6.830657787697762e-12
+        ],
+        "target_ESS": 49817402.0131522,
+        "largest_draw_contribution_fraction": 2.1352367052920336e-07,
+        "weight_sum": 0.0006829314369487356,
+        "weight_square_sum": 9.362096952581603e-15,
+        "max_weight": 1.4582202713707722e-10,
+        "expected_waiting_point": 146427583487.4278,
+        "expected_waiting_normal_approx_95_interval": [
+          146398784872.67108,
+          146456393434.5653
+        ],
+        "worker_batch_t_approx_95_interval": [
+          6.827585208128769e-12,
+          6.831043530845942e-12
+        ],
+        "worker_batch_SE": 8.112607507826858e-16,
+        "worker_batch_means": [
+          6.8251340565477165e-12,
+          6.832988336389574e-12,
+          6.829503664090877e-12,
+          6.832753992495713e-12,
+          6.828913936016323e-12,
+          6.829106985988996e-12,
+          6.8250423683487505e-12,
+          6.831779034934872e-12,
+          6.831230432416067e-12,
+          6.827189170240375e-12,
+          6.829088584677179e-12,
+          6.832925668604502e-12,
+          6.825301783757534e-12,
+          6.833364104736342e-12,
+          6.823538243663853e-12,
+          6.831169548889027e-12
+        ],
+        "worker_batch_raw_hits": [
+          4285680,
+          4287199,
+          4288132,
+          4288583,
+          4286649,
+          4288553,
+          4285511,
+          4286270,
+          4287896,
+          4285111,
+          4286267,
+          4287965,
+          4284577,
+          4288447,
+          4285586,
+          4287289
+        ],
+        "nonzero_worker_batches": 16,
+        "largest_worker_contribution_fraction": 0.06253706205914206,
+        "worker_batch_SE_to_iid_SE_ratio": 1.18357920213375,
+        "two_batch_standardized_difference": 0.12901004838008862,
+        "batches": [
+          {
+            "raw_hits": 34296577,
+            "estimate": 6.829402796851603e-12,
+            "SE": 9.69312182454268e-16,
+            "target_ESS": 24909857.592442404,
+            "largest_draw_contribution_fraction": 4.270418116333747e-07
+          },
+          {
+            "raw_hits": 34293138,
+            "estimate": 6.829225942123109e-12,
+            "SE": 9.693767693519884e-16,
+            "target_ESS": 24907544.476562917,
+            "largest_draw_contribution_fraction": 3.997269652438394e-07
+          }
+        ]
+      },
+      "tail_uniform": {
+        "raw_hits": 83,
+        "estimate": 7.780716111327623e-18,
+        "SE": 9.82735257742e-19,
+        "variance_of_mean": 9.657685868092352e-37,
+        "relative_standard_error": 0.12630396016007786,
+        "normal_approx_95_interval": [
+          5.854590399815615e-18,
+          9.70684182283963e-18
+        ],
+        "target_ESS": 62.68531270113107,
+        "largest_draw_contribution_fraction": 0.03462202811448717,
+        "weight_sum": 7.780716111327623e-10,
+        "weight_square_sum": 9.657691825469814e-21,
+        "max_weight": 2.6938417195722824e-11,
+        "expected_waiting_point": 1.2852287446192021e+17,
+        "expected_waiting_normal_approx_95_interval": [
+          1.0302011903058507e+17,
+          1.7080614213959254e+17
+        ],
+        "worker_batch_t_approx_95_interval": [
+          5.91543159266235e-18,
+          9.646000629992896e-18
+        ],
+        "worker_batch_SE": 8.75124875721794e-19,
+        "worker_batch_means": [
+          6.189507472542013e-18,
+          5.16247941998156e-18,
+          3.774078672317749e-18,
+          6.59585097920873e-18,
+          6.00893489502652e-18,
+          2.6129082904109217e-18,
+          1.1649097792737291e-17,
+          1.2508058689298485e-17,
+          5.5237888796773686e-18,
+          2.2816541805593336e-18,
+          1.2162483161472224e-17,
+          1.1029665744033998e-17,
+          7.406977939862005e-18,
+          1.0409223413885577e-17,
+          1.156231624546175e-17,
+          9.61443200476644e-18
+        ],
+        "worker_batch_raw_hits": [
+          3,
+          6,
+          5,
+          6,
+          4,
+          2,
+          6,
+          8,
+          4,
+          2,
+          7,
+          6,
+          5,
+          6,
+          7,
+          6
+        ],
+        "nonzero_worker_batches": 16,
+        "largest_worker_contribution_fraction": 0.10047322854293995,
+        "worker_batch_SE_to_iid_SE_ratio": 0.8904991133955454,
+        "two_batch_standardized_difference": -0.9851092419015335,
+        "batches": [
+          {
+            "raw_hits": 40,
+            "estimate": 6.812614526440409e-18,
+            "SE": 1.2755943435795862e-18,
+            "target_ESS": 28.52346118264675,
+            "largest_draw_contribution_fraction": 0.0683134833598906
+          },
+          {
+            "raw_hits": 43,
+            "estimate": 8.748817696214837e-18,
+            "SE": 1.4953037882004518e-18,
+            "target_ESS": 34.23257578124845,
+            "largest_draw_contribution_fraction": 0.06158184598446414
+          }
+        ]
+      },
+      "tail_mixture": {
+        "raw_hits": 83,
+        "estimate": 7.780716111327623e-18,
+        "SE": 9.82735257742e-19,
+        "variance_of_mean": 9.657685868092352e-37,
+        "relative_standard_error": 0.12630396016007786,
+        "normal_approx_95_interval": [
+          5.854590399815615e-18,
+          9.70684182283963e-18
+        ],
+        "target_ESS": 62.68531270113107,
+        "largest_draw_contribution_fraction": 0.03462202811448717,
+        "weight_sum": 7.780716111327623e-10,
+        "weight_square_sum": 9.657691825469814e-21,
+        "max_weight": 2.6938417195722824e-11,
+        "expected_waiting_point": 1.2852287446192021e+17,
+        "expected_waiting_normal_approx_95_interval": [
+          1.0302011903058507e+17,
+          1.7080614213959254e+17
+        ],
+        "worker_batch_t_approx_95_interval": [
+          5.91543159266235e-18,
+          9.646000629992896e-18
+        ],
+        "worker_batch_SE": 8.75124875721794e-19,
+        "worker_batch_means": [
+          6.189507472542013e-18,
+          5.16247941998156e-18,
+          3.774078672317749e-18,
+          6.59585097920873e-18,
+          6.00893489502652e-18,
+          2.6129082904109217e-18,
+          1.1649097792737291e-17,
+          1.2508058689298485e-17,
+          5.5237888796773686e-18,
+          2.2816541805593336e-18,
+          1.2162483161472224e-17,
+          1.1029665744033998e-17,
+          7.406977939862005e-18,
+          1.0409223413885577e-17,
+          1.156231624546175e-17,
+          9.61443200476644e-18
+        ],
+        "worker_batch_raw_hits": [
+          3,
+          6,
+          5,
+          6,
+          4,
+          2,
+          6,
+          8,
+          4,
+          2,
+          7,
+          6,
+          5,
+          6,
+          7,
+          6
+        ],
+        "nonzero_worker_batches": 16,
+        "largest_worker_contribution_fraction": 0.10047322854293995,
+        "worker_batch_SE_to_iid_SE_ratio": 0.8904991133955454,
+        "two_batch_standardized_difference": -0.9851092419015335,
+        "batches": [
+          {
+            "raw_hits": 40,
+            "estimate": 6.812614526440409e-18,
+            "SE": 1.2755943435795862e-18,
+            "target_ESS": 28.52346118264675,
+            "largest_draw_contribution_fraction": 0.0683134833598906
+          },
+          {
+            "raw_hits": 43,
+            "estimate": 8.748817696214837e-18,
+            "SE": 1.4953037882004518e-18,
+            "target_ESS": 34.23257578124845,
+            "largest_draw_contribution_fraction": 0.06158184598446414
+          }
+        ]
+      },
+      "tail_literal": {
+        "raw_hits": 83,
+        "estimate": 7.780716111327623e-18,
+        "SE": 9.82735257742e-19,
+        "variance_of_mean": 9.657685868092352e-37,
+        "relative_standard_error": 0.12630396016007786,
+        "normal_approx_95_interval": [
+          5.854590399815615e-18,
+          9.70684182283963e-18
+        ],
+        "target_ESS": 62.68531270113107,
+        "largest_draw_contribution_fraction": 0.03462202811448717,
+        "weight_sum": 7.780716111327623e-10,
+        "weight_square_sum": 9.657691825469814e-21,
+        "max_weight": 2.6938417195722824e-11,
+        "expected_waiting_point": 1.2852287446192021e+17,
+        "expected_waiting_normal_approx_95_interval": [
+          1.0302011903058507e+17,
+          1.7080614213959254e+17
+        ],
+        "worker_batch_t_approx_95_interval": [
+          5.91543159266235e-18,
+          9.646000629992896e-18
+        ],
+        "worker_batch_SE": 8.75124875721794e-19,
+        "worker_batch_means": [
+          6.189507472542013e-18,
+          5.16247941998156e-18,
+          3.774078672317749e-18,
+          6.59585097920873e-18,
+          6.00893489502652e-18,
+          2.6129082904109217e-18,
+          1.1649097792737291e-17,
+          1.2508058689298485e-17,
+          5.5237888796773686e-18,
+          2.2816541805593336e-18,
+          1.2162483161472224e-17,
+          1.1029665744033998e-17,
+          7.406977939862005e-18,
+          1.0409223413885577e-17,
+          1.156231624546175e-17,
+          9.61443200476644e-18
+        ],
+        "worker_batch_raw_hits": [
+          3,
+          6,
+          5,
+          6,
+          4,
+          2,
+          6,
+          8,
+          4,
+          2,
+          7,
+          6,
+          5,
+          6,
+          7,
+          6
+        ],
+        "nonzero_worker_batches": 16,
+        "largest_worker_contribution_fraction": 0.10047322854293995,
+        "worker_batch_SE_to_iid_SE_ratio": 0.8904991133955454,
+        "two_batch_standardized_difference": -0.9851092419015335,
+        "batches": [
+          {
+            "raw_hits": 40,
+            "estimate": 6.812614526440409e-18,
+            "SE": 1.2755943435795862e-18,
+            "target_ESS": 28.52346118264675,
+            "largest_draw_contribution_fraction": 0.0683134833598906
+          },
+          {
+            "raw_hits": 43,
+            "estimate": 8.748817696214837e-18,
+            "SE": 1.4953037882004518e-18,
+            "target_ESS": 34.23257578124845,
+            "largest_draw_contribution_fraction": 0.06158184598446414
+          }
+        ]
+      },
+      "tail_discussion": {
+        "raw_hits": 83,
+        "estimate": 7.780716111327623e-18,
+        "SE": 9.82735257742e-19,
+        "variance_of_mean": 9.657685868092352e-37,
+        "relative_standard_error": 0.12630396016007786,
+        "normal_approx_95_interval": [
+          5.854590399815615e-18,
+          9.70684182283963e-18
+        ],
+        "target_ESS": 62.68531270113107,
+        "largest_draw_contribution_fraction": 0.03462202811448717,
+        "weight_sum": 7.780716111327623e-10,
+        "weight_square_sum": 9.657691825469814e-21,
+        "max_weight": 2.6938417195722824e-11,
+        "expected_waiting_point": 1.2852287446192021e+17,
+        "expected_waiting_normal_approx_95_interval": [
+          1.0302011903058507e+17,
+          1.7080614213959254e+17
+        ],
+        "worker_batch_t_approx_95_interval": [
+          5.91543159266235e-18,
+          9.646000629992896e-18
+        ],
+        "worker_batch_SE": 8.75124875721794e-19,
+        "worker_batch_means": [
+          6.189507472542013e-18,
+          5.16247941998156e-18,
+          3.774078672317749e-18,
+          6.59585097920873e-18,
+          6.00893489502652e-18,
+          2.6129082904109217e-18,
+          1.1649097792737291e-17,
+          1.2508058689298485e-17,
+          5.5237888796773686e-18,
+          2.2816541805593336e-18,
+          1.2162483161472224e-17,
+          1.1029665744033998e-17,
+          7.406977939862005e-18,
+          1.0409223413885577e-17,
+          1.156231624546175e-17,
+          9.61443200476644e-18
+        ],
+        "worker_batch_raw_hits": [
+          3,
+          6,
+          5,
+          6,
+          4,
+          2,
+          6,
+          8,
+          4,
+          2,
+          7,
+          6,
+          5,
+          6,
+          7,
+          6
+        ],
+        "nonzero_worker_batches": 16,
+        "largest_worker_contribution_fraction": 0.10047322854293995,
+        "worker_batch_SE_to_iid_SE_ratio": 0.8904991133955454,
+        "two_batch_standardized_difference": -0.9851092419015335,
+        "batches": [
+          {
+            "raw_hits": 40,
+            "estimate": 6.812614526440409e-18,
+            "SE": 1.2755943435795862e-18,
+            "target_ESS": 28.52346118264675,
+            "largest_draw_contribution_fraction": 0.0683134833598906
+          },
+          {
+            "raw_hits": 43,
+            "estimate": 8.748817696214837e-18,
+            "SE": 1.4953037882004518e-18,
+            "target_ESS": 34.23257578124845,
+            "largest_draw_contribution_fraction": 0.06158184598446414
+          }
+        ]
+      },
+      "tail_anchored19": {
+        "raw_hits": 83,
+        "estimate": 7.780716111327623e-18,
+        "SE": 9.82735257742e-19,
+        "variance_of_mean": 9.657685868092352e-37,
+        "relative_standard_error": 0.12630396016007786,
+        "normal_approx_95_interval": [
+          5.854590399815615e-18,
+          9.70684182283963e-18
+        ],
+        "target_ESS": 62.68531270113107,
+        "largest_draw_contribution_fraction": 0.03462202811448717,
+        "weight_sum": 7.780716111327623e-10,
+        "weight_square_sum": 9.657691825469814e-21,
+        "max_weight": 2.6938417195722824e-11,
+        "expected_waiting_point": 1.2852287446192021e+17,
+        "expected_waiting_normal_approx_95_interval": [
+          1.0302011903058507e+17,
+          1.7080614213959254e+17
+        ],
+        "worker_batch_t_approx_95_interval": [
+          5.91543159266235e-18,
+          9.646000629992896e-18
+        ],
+        "worker_batch_SE": 8.75124875721794e-19,
+        "worker_batch_means": [
+          6.189507472542013e-18,
+          5.16247941998156e-18,
+          3.774078672317749e-18,
+          6.59585097920873e-18,
+          6.00893489502652e-18,
+          2.6129082904109217e-18,
+          1.1649097792737291e-17,
+          1.2508058689298485e-17,
+          5.5237888796773686e-18,
+          2.2816541805593336e-18,
+          1.2162483161472224e-17,
+          1.1029665744033998e-17,
+          7.406977939862005e-18,
+          1.0409223413885577e-17,
+          1.156231624546175e-17,
+          9.61443200476644e-18
+        ],
+        "worker_batch_raw_hits": [
+          3,
+          6,
+          5,
+          6,
+          4,
+          2,
+          6,
+          8,
+          4,
+          2,
+          7,
+          6,
+          5,
+          6,
+          7,
+          6
+        ],
+        "nonzero_worker_batches": 16,
+        "largest_worker_contribution_fraction": 0.10047322854293995,
+        "worker_batch_SE_to_iid_SE_ratio": 0.8904991133955454,
+        "two_batch_standardized_difference": -0.9851092419015335,
+        "batches": [
+          {
+            "raw_hits": 40,
+            "estimate": 6.812614526440409e-18,
+            "SE": 1.2755943435795862e-18,
+            "target_ESS": 28.52346118264675,
+            "largest_draw_contribution_fraction": 0.0683134833598906
+          },
+          {
+            "raw_hits": 43,
+            "estimate": 8.748817696214837e-18,
+            "SE": 1.4953037882004518e-18,
+            "target_ESS": 34.23257578124845,
+            "largest_draw_contribution_fraction": 0.06158184598446414
+          }
+        ]
+      },
+      "tail_frequency": {
+        "raw_hits": 83,
+        "estimate": 7.780716111327623e-18,
+        "SE": 9.82735257742e-19,
+        "variance_of_mean": 9.657685868092352e-37,
+        "relative_standard_error": 0.12630396016007786,
+        "normal_approx_95_interval": [
+          5.854590399815615e-18,
+          9.70684182283963e-18
+        ],
+        "target_ESS": 62.68531270113107,
+        "largest_draw_contribution_fraction": 0.03462202811448717,
+        "weight_sum": 7.780716111327623e-10,
+        "weight_square_sum": 9.657691825469814e-21,
+        "max_weight": 2.6938417195722824e-11,
+        "expected_waiting_point": 1.2852287446192021e+17,
+        "expected_waiting_normal_approx_95_interval": [
+          1.0302011903058507e+17,
+          1.7080614213959254e+17
+        ],
+        "worker_batch_t_approx_95_interval": [
+          5.91543159266235e-18,
+          9.646000629992896e-18
+        ],
+        "worker_batch_SE": 8.75124875721794e-19,
+        "worker_batch_means": [
+          6.189507472542013e-18,
+          5.16247941998156e-18,
+          3.774078672317749e-18,
+          6.59585097920873e-18,
+          6.00893489502652e-18,
+          2.6129082904109217e-18,
+          1.1649097792737291e-17,
+          1.2508058689298485e-17,
+          5.5237888796773686e-18,
+          2.2816541805593336e-18,
+          1.2162483161472224e-17,
+          1.1029665744033998e-17,
+          7.406977939862005e-18,
+          1.0409223413885577e-17,
+          1.156231624546175e-17,
+          9.61443200476644e-18
+        ],
+        "worker_batch_raw_hits": [
+          3,
+          6,
+          5,
+          6,
+          4,
+          2,
+          6,
+          8,
+          4,
+          2,
+          7,
+          6,
+          5,
+          6,
+          7,
+          6
+        ],
+        "nonzero_worker_batches": 16,
+        "largest_worker_contribution_fraction": 0.10047322854293995,
+        "worker_batch_SE_to_iid_SE_ratio": 0.8904991133955454,
+        "two_batch_standardized_difference": -0.9851092419015335,
+        "batches": [
+          {
+            "raw_hits": 40,
+            "estimate": 6.812614526440409e-18,
+            "SE": 1.2755943435795862e-18,
+            "target_ESS": 28.52346118264675,
+            "largest_draw_contribution_fraction": 0.0683134833598906
+          },
+          {
+            "raw_hits": 43,
+            "estimate": 8.748817696214837e-18,
+            "SE": 1.4953037882004518e-18,
+            "target_ESS": 34.23257578124845,
+            "largest_draw_contribution_fraction": 0.06158184598446414
+          }
+        ]
+      }
+    },
+    "conditional_layer_steps": [
+      {
+        "numerator": "G127",
+        "denominator": "anchor_C15_W_127",
+        "conditional_probability": 0.0003443345675018914,
+        "delta_method_SE": 2.244630484591239e-06,
+        "delta_method_approx_95_interval": [
+          0.0003399351725934919,
+          0.00034873396241029094
+        ],
+        "inverse_conditional_probability": 2904.152223968937,
+        "scope": "Weighted nested-event ratio; covariance retained, approximate delta-method uncertainty"
+      },
+      {
+        "numerator": "G127_Mview0",
+        "denominator": "G127",
+        "conditional_probability": 0.002412155728335994,
+        "delta_method_SE": 0.00030433575614649593,
+        "delta_method_approx_95_interval": [
+          0.0018156686070810975,
+          0.0030086428495908904
+        ],
+        "inverse_conditional_probability": 414.5669320818859,
+        "scope": "Weighted nested-event ratio; covariance retained, approximate delta-method uncertainty"
+      }
+    ],
+    "full_score_component_scope": "C15W3(127) intersect (G3 natural127 or G3 natural129) intersect frozen full score tail. No completeness claim outside this intersection.",
+    "weight_formula": "M_F * product(H available edge counts) * product(completion available label counts) / (114! * 7!)",
+    "F_partial_matching_count_exact": "985178375935386285",
+    "precision_checks": {
+      "target_ESS": true,
+      "relative_standard_error": true,
+      "largest_draw_contribution": true,
+      "nonzero_worker_batches": true
+    },
+    "passes_predeclared_precision_checks": true,
+    "uncertainty": "Reported 95% intervals are approximate Monte Carlo intervals from iid importance-weight moments and a 16-worker Student t check. They are NOT exact binomial intervals or bounds on unenumerated hypothesis-selection bias. Waiting intervals quantify uncertainty in the expected waiting parameter 1/p, not realized waiting times.",
+    "independent_anchor_comparison": {
+      "rejection_phase": "pilot comparator, excluded from production estimate",
+      "rejection_n": 10000000,
+      "rejection_hits": 239,
+      "marked_factor_exact": "65678558395692419/176370311452605936906240",
+      "rejection_estimate": 8.900123454614765e-12,
+      "scaled_exact_CP95": [
+        7.807455326015576e-12,
+        1.010290517860571e-11
+      ],
+      "SIS_estimate_inside_rejection_CP95": true,
+      "standardized_difference": 0.8122190798158816
+    }
+  }
+}

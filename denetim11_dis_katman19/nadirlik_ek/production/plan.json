@@ -1,0 +1,35 @@
+{
+  "registered_utc": "2026-10-25T14:59:07.661612+00:00",
+  "purpose": "fixed-budget production for unchanged full primary score tail",
+  "population": 512,
+  "moves_per_level": 128,
+  "replicates_per_model": 8,
+  "resampling": "stratified; expected offspring N*w",
+  "initialization": "independent draws from the original null; no observed-state starts",
+  "schedule_file": "rare_event/pilot/schedule_soft.txt",
+  "refresh_per_mille": 10,
+  "master_seeds": {
+    "uniform": 202610251201,
+    "block6": 202610251202,
+    "inversion_exact": 202610251203
+  },
+  "estimate": "arithmetic mean of all eight replicate estimates, including zero results",
+  "uncertainty": "between-replicate Monte Carlo variation; no binomial intervals for dependent particles",
+  "reporting_gate": {
+    "minimum_nonzero_replicates": 6,
+    "maximum_empirical_relative_standard_error": 0.35,
+    "maximum_single_replicate_share": 0.35,
+    "description": "These are precision diagnostics, not a mathematical guarantee of mode coverage. Failed gates imply exploratory status. No successful-run-only averaging."
+  },
+  "source_hashes": {
+    "rare_event/src/smc_guided_stratified.cpp": "9c4b003380106c435776a5cb77dfc53e8ead95e79b41e35f978ea136215b513b",
+    "rare_event/src/smc_math_stratified.hpp": "c9b0adf84714456ddff2f5b654163c683a1fedfa35133800290be671d13b43f8",
+    "rare_event/src/soft_guide.hpp": "3fbe927f0e97af5d1152ae570313185dc78be8e6f4bf6662598bc69fd906da36",
+    "rare_event/src/kernels.hpp": "3a1778c180b36995c31c540ea057b8856bda037b2f074f977dd720ee58212807",
+    "rare_event/pilot/schedule_soft.txt": "a5f17a391a2f7c80edaf0e6d419a5c50760e66301f536ab63a6c7816719f7b41",
+    "protocol.json": "e956d7b71df9185c1fa23a3733d27f05762a7567a06ee534070279c0b9be9768",
+    "src/scorer.hpp": "ae07964b5e6a22a6f3bb032bb689863adc04cb96626a985c29928486a83d8929",
+    "src/features.hpp": "6a5ce5c62fee76df23f83fafefdac7326dcd87b37774829b235d879a54a67d3c"
+  },
+  "pilot_status": "Hard-score and soft-guide pilot results retained and excluded from production means."
+}

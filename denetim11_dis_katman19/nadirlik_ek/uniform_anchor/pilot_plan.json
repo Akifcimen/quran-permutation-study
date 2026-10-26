@@ -1,0 +1,56 @@
+{
+  "phase": "pilot, no production authorized yet",
+  "variant_anchor": 127,
+  "target": "Natural C15 and W3 at n+a,p19 under uniform114! labeled permutations; frozen fullscore remains unchanged",
+  "importance_weight": "M_F * product(Hcandidatecounts) * product(completionavailablecounts) / (114! * 7!)",
+  "M_F": 985178375935386285,
+  "proposal": "Exact integer uniformFmatching over20bags;7orderedHedges withfinalmod19constraint;Hall-aware fullsupport completion avoiding allF/H edges",
+  "checks": "Smalltoys exactlyenumerated allpermutations andproposaltraces;F-marked rejection comparator independent of H-SIS/completionweights",
+  "planned_runs": [
+    {
+      "name": "smoke",
+      "n": 10000,
+      "seed": 202610253001,
+      "method": "sis",
+      "scoremode": 1
+    },
+    {
+      "name": "sis_moments",
+      "n": 1000000,
+      "seed": 202610253002,
+      "method": "sis",
+      "scoremode": 1
+    },
+    {
+      "name": "independent_rejection",
+      "n": 10000000,
+      "seed": 202610253003,
+      "method": "rejection",
+      "scoremode": 0
+    },
+    {
+      "name": "fullscore_timing",
+      "n": 100000,
+      "seed": 202610253004,
+      "method": "sis",
+      "scoremode": 2
+    },
+    {
+      "name": "uppergate_timing",
+      "n": 100000,
+      "seed": 202610253005,
+      "method": "sis",
+      "scoremode": 3
+    }
+  ],
+  "threads": 8,
+  "no_production_until_fixed_plan_and_pilot_review": true,
+  "timestamp_utc": "2026-10-25T15:06:08.092327+00:00",
+  "hashes": {
+    "f_matchings.py": "48413e0f8593d279cd32208a2941e718745515c1ed44706fe484a2c0ef0accc8",
+    "F_conditional_sampler_127.bin": "251ad2f14850d6d9041efb54861177929911d0c2d23d69ae920bd884dc1b2901",
+    "uniform_sis.hpp": "3aac4c3ad533eda19c3192333fb9be89fd8415ebc35ac5a538c4370e747f54a3",
+    "pilot_uniform.cpp": "a567e412cd820e8879fa6ff9db4572445a516901c7ebb623871a8babf0b828b7",
+    "sis_toy_validation.json": "a74abaa12c21652e6a5880ea5ee4a167d7298d9d3c29f2da31e580d596a16167"
+  }
+}

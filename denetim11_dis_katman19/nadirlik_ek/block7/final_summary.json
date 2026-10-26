@@ -1,0 +1,195 @@
+{
+  "scope": "Block6 model; rigorous component estimate and rigorous full-tail bounds, not a precise full-tail point estimate",
+  "n": 100000000,
+  "primary_hits": 2480,
+  "B_exact": {
+    "numerator": "1042597649360650976219667547",
+    "denominator": "13014353041044480000000000000000000"
+  },
+  "B": 8.011136981396781e-08,
+  "p_component": 1.9867619713864016e-12,
+  "CP95": [
+    1.9093313674451053e-12,
+    2.06652684749066e-12
+  ],
+  "weighted_component": 1.992369767273379e-12,
+  "weighted_component_SE": 3.4572842624504636e-14,
+  "exact_union_mass": {
+    "numerator": "2006327828000828541633827353",
+    "denominator": "34704941442785280000000000000000000",
+    "probability": 5.781101320422827e-08
+  },
+  "thinning_acceptance_validation": {
+    "expected": 0.7216330633026903,
+    "accepted": 72164725,
+    "observed": 0.72164725,
+    "standardized_difference": 0.3165295540620929
+  },
+  "full_block6_primary_tail_CI95": [
+    1.9093313674451053e-12,
+    3.688872650206489e-06
+  ],
+  "full_block6_expected_waiting_CI95": [
+    271085.5306821242,
+    523743556016.73773
+  ],
+  "full_tail_interval_justification": "P_full>=P_component. Component CP95 lower endpoint is a one-sided97.5% lower bound; original0/1m one-sided97.5% upper is1-.025^(1/1m). Bonferroni failure<=.025+.025 gives joint coverage>=95%.",
+  "component_expected_waiting_point": 503331558788.68585,
+  "component_expected_waiting_CI95": [
+    483903705976.17883,
+    523743556016.73773
+  ],
+  "component_waiting_scope": "Waiting for this subset event only; NOT a point estimate of full-tail waiting",
+  "natural19_pattern": {
+    "estimate": 6.042101501022211e-15,
+    "CP95": [
+      5.101792249918651e-15,
+      7.10550321709677e-15
+    ],
+    "hits": 146,
+    "n": 100000000,
+    "event": "127 natural G3,C15,W3,M15 in view0"
+  },
+  "component_to_natural19_point_ratio": 328.8196947784274,
+  "full_tail_to_natural19_ratio_one_sided_lower95": 268.7116322530126,
+  "ratio_justification": "P_full/P_natural>=P_component/P_natural. Divide component one-sided97.5% lower by natural one-sided97.5% upper; Bonferroni gives>=95% lower-bound coverage. This is not a point estimate of the full-tail ratio.",
+  "per_policy": [
+    {
+      "policy": 0,
+      "name": "uniform",
+      "n": 100000000,
+      "thinned_hits": 2487,
+      "unthinned_hits": 3745,
+      "estimate": 1.992369767273379e-12,
+      "CP95": [
+        1.9148288881284694e-12,
+        2.0722448961823656e-12
+      ],
+      "weighted_estimate": 1.9975770063112874e-12,
+      "weighted_standard_error": 3.46215337757076e-14,
+      "weighted_minus_thinned_standardized_difference": 0.25984414025976416,
+      "complete_within_W7_union": false,
+      "scope": "Policy tail intersect W7 union and any G balance; completeness within union not asserted"
+    },
+    {
+      "policy": 1,
+      "name": "mixture",
+      "n": 100000000,
+      "thinned_hits": 2480,
+      "unthinned_hits": 3736,
+      "estimate": 1.9867619713864016e-12,
+      "CP95": [
+        1.9093313674451053e-12,
+        2.06652684749066e-12
+      ],
+      "weighted_estimate": 1.992369767273379e-12,
+      "weighted_standard_error": 3.4572842624504636e-14,
+      "weighted_minus_thinned_standardized_difference": 0.28011206724482635,
+      "complete_within_W7_union": true,
+      "scope": "Full frozen primary tail intersect W7 union"
+    },
+    {
+      "policy": 2,
+      "name": "literal",
+      "n": 100000000,
+      "thinned_hits": 2482,
+      "unthinned_hits": 3739,
+      "estimate": 1.9883641987826808e-12,
+      "CP95": [
+        1.910902071775038e-12,
+        2.0681605915440956e-12
+      ],
+      "weighted_estimate": 1.993971994669659e-12,
+      "weighted_standard_error": 3.4586761311434634e-14,
+      "weighted_minus_thinned_standardized_difference": 0.2800000000000151,
+      "complete_within_W7_union": false,
+      "scope": "Policy tail intersect W7 union and any G balance; completeness within union not asserted"
+    },
+    {
+      "policy": 3,
+      "name": "discussion",
+      "n": 100000000,
+      "thinned_hits": 2485,
+      "unthinned_hits": 3746,
+      "estimate": 1.9907675398771e-12,
+      "CP95": [
+        1.913258152077488e-12,
+        2.0706111838309706e-12
+      ],
+      "weighted_estimate": 1.9979775631603572e-12,
+      "weighted_standard_error": 3.462385060574482e-14,
+      "weighted_minus_thinned_standardized_difference": 0.35971234513985206,
+      "complete_within_W7_union": false,
+      "scope": "Policy tail intersect W7 union and any G balance; completeness within union not asserted"
+    },
+    {
+      "policy": 4,
+      "name": "anchored19",
+      "n": 100000000,
+      "thinned_hits": 0,
+      "unthinned_hits": 0,
+      "estimate": 0.0,
+      "CP95": [
+        0.0,
+        2.9552118069695907e-15
+      ],
+      "weighted_estimate": 0.0,
+      "weighted_standard_error": 0.0,
+      "weighted_minus_thinned_standardized_difference": null,
+      "complete_within_W7_union": false,
+      "scope": "Policy tail intersect W7 union and any G balance; completeness within union not asserted"
+    },
+    {
+      "policy": 5,
+      "name": "frequency",
+      "n": 100000000,
+      "thinned_hits": 7336,
+      "unthinned_hits": 10624,
+      "estimate": 5.876970089552678e-12,
+      "CP95": [
+        5.743250832321203e-12,
+        6.0130168246177734e-12
+      ],
+      "weighted_estimate": 5.89900071625152e-12,
+      "weighted_standard_error": 6.065604126183078e-14,
+      "weighted_minus_thinned_standardized_difference": 0.6810917023936669,
+      "complete_within_W7_union": false,
+      "scope": "Policy tail intersect W7 union and any G balance; completeness within union not asserted"
+    }
+  ],
+  "batches": [
+    {
+      "n": 50000000,
+      "seed": 202610251702,
+      "hits": 1213,
+      "estimate": 1.943501831686859e-12,
+      "weighted_estimate": 1.9875630850845416e-12,
+      "seconds": 118.177613589
+    },
+    {
+      "n": 50000000,
+      "seed": 202610251703,
+      "hits": 1267,
+      "estimate": 2.0300221110859443e-12,
+      "weighted_estimate": 1.9971764494622176e-12,
+      "seconds": 49.374811999
+    }
+  ],
+  "batch_agreement_standardized_difference": -1.0843595401600379,
+  "direct_feature_validations": 2000,
+  "rng_nonoverlap": {
+    "streams_checked_including_pilot": 24,
+    "maximum_actual_calls": 28219003,
+    "minimum_counter_gap": 2598370594992666,
+    "all_consumed_counter_intervals_disjoint": true
+  },
+  "pilot_excluded": true,
+  "all_fixed_proposals_retained": true,
+  "source_sha256": {
+    "production_plan.json": "c5334593f27b0551687d14b8105f01d73dfa9333675e9e7756f72b3210f91d47",
+    "production_batch0.json": "3799d95f38b6b284274f2122a4490175ed5a92da0d5988b5f66ab8b250593b49",
+    "production_batch1.json": "5c102a125b907eab0abf5338ea6f03cd2fcc5e734b5aa1870890838c6b2d5976",
+    "independent_counts.json": "8c3204ec2858dea92ee24d00fd551e688049896207cc7c184e634588b1e5b94a",
+    "independent_intersections.json": "c543382b8c0c8ae00f8b79f209380358176e395cabe404c05fb57feb762c7c31"
+  }
+}

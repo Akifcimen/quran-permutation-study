@@ -1,0 +1,8 @@
+{
+  "status": "exact_agreement",
+  "comparison_performed_after_independent_results_saved": true,
+  "numeric_or_metadata_comparisons": 192,
+  "scope": "All18policy/model observedscores,hits,n,plusonevalues,maximumcontrols,CPbounds,andall60diagnosticcounts;training/testmanifests.",
+  "independent_result_file": "review/results_validation.json",
+  "main_result_file": "results/summary.json"
+}

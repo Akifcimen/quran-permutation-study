@@ -1,0 +1,264 @@
+{
+  "status": "completed",
+  "cohorts": [
+    {
+      "model": "uniform",
+      "cohort": "iid",
+      "states": 128,
+      "hard_min": 0,
+      "hard_max": 0,
+      "original_extraction": {
+        "cpu_us": 189.9316406,
+        "wall_us": 189.9276514
+      },
+      "soft_prepare": {
+        "cpu_us": 377.9570312,
+        "wall_us": 378.0665967
+      },
+      "original_six_policy_scorer": {
+        "cpu_us": 59.0390625,
+        "wall_us": 59.05831934
+      },
+      "evaluate_lambda_0": {
+        "cpu_us": 99.75683594,
+        "wall_us": 99.77780176
+      },
+      "evaluate_lambda_1": {
+        "cpu_us": 40.36230469,
+        "wall_us": 40.42072363
+      },
+      "evaluate_lambda_2": {
+        "cpu_us": 46.4375,
+        "wall_us": 46.95358984
+      },
+      "evaluate_lambda_4": {
+        "cpu_us": 32.91113281,
+        "wall_us": 32.91467188
+      },
+      "evaluate_lambda_8": {
+        "cpu_us": 28.20117188,
+        "wall_us": 28.2054668
+      },
+      "evaluate_lambda_32": {
+        "cpu_us": 28.28613281,
+        "wall_us": 28.28794922
+      }
+    },
+    {
+      "model": "uniform",
+      "cohort": "guided_pilot_final",
+      "states": 128,
+      "hard_min": 25.35840834,
+      "hard_max": 26.99239918,
+      "original_extraction": {
+        "cpu_us": 147.5068359,
+        "wall_us": 147.5109336
+      },
+      "soft_prepare": {
+        "cpu_us": 335.3789062,
+        "wall_us": 335.3996162
+      },
+      "original_six_policy_scorer": {
+        "cpu_us": 41.1015625,
+        "wall_us": 41.1049082
+      },
+      "evaluate_lambda_0": {
+        "cpu_us": 48.49707031,
+        "wall_us": 48.50036523
+      },
+      "evaluate_lambda_1": {
+        "cpu_us": 43.97363281,
+        "wall_us": 43.97565527
+      },
+      "evaluate_lambda_2": {
+        "cpu_us": 38.67578125,
+        "wall_us": 38.67786816
+      },
+      "evaluate_lambda_4": {
+        "cpu_us": 35.82910156,
+        "wall_us": 35.83214844
+      },
+      "evaluate_lambda_8": {
+        "cpu_us": 26.98632812,
+        "wall_us": 26.98923145
+      },
+      "evaluate_lambda_32": {
+        "cpu_us": 27.52246094,
+        "wall_us": 27.55037891
+      }
+    },
+    {
+      "model": "block6",
+      "cohort": "iid",
+      "states": 128,
+      "hard_min": 0,
+      "hard_max": 1.2649569,
+      "original_extraction": {
+        "cpu_us": 156.4287109,
+        "wall_us": 156.4303047
+      },
+      "soft_prepare": {
+        "cpu_us": 277.8310547,
+        "wall_us": 277.8369619
+      },
+      "original_six_policy_scorer": {
+        "cpu_us": 34.67382812,
+        "wall_us": 34.67704297
+      },
+      "evaluate_lambda_0": {
+        "cpu_us": 49.51074219,
+        "wall_us": 49.53743262
+      },
+      "evaluate_lambda_1": {
+        "cpu_us": 46.04394531,
+        "wall_us": 46.04671191
+      },
+      "evaluate_lambda_2": {
+        "cpu_us": 40.5703125,
+        "wall_us": 40.57424023
+      },
+      "evaluate_lambda_4": {
+        "cpu_us": 36.41601562,
+        "wall_us": 36.4191748
+      },
+      "evaluate_lambda_8": {
+        "cpu_us": 32.94335938,
+        "wall_us": 32.95574219
+      },
+      "evaluate_lambda_32": {
+        "cpu_us": 23.99707031,
+        "wall_us": 24.00037012
+      }
+    },
+    {
+      "model": "block6",
+      "cohort": "guided_pilot_final",
+      "states": 128,
+      "hard_min": 20.41406404,
+      "hard_max": 20.51534737,
+      "original_extraction": {
+        "cpu_us": 158.1064453,
+        "wall_us": 158.2184238
+      },
+      "soft_prepare": {
+        "cpu_us": 268.1914062,
+        "wall_us": 268.5416572
+      },
+      "original_six_policy_scorer": {
+        "cpu_us": 43.70703125,
+        "wall_us": 43.71081445
+      },
+      "evaluate_lambda_0": {
+        "cpu_us": 42.18261719,
+        "wall_us": 42.18584375
+      },
+      "evaluate_lambda_1": {
+        "cpu_us": 46.91699219,
+        "wall_us": 46.9195293
+      },
+      "evaluate_lambda_2": {
+        "cpu_us": 41.69433594,
+        "wall_us": 41.69769043
+      },
+      "evaluate_lambda_4": {
+        "cpu_us": 28.59179688,
+        "wall_us": 28.59457813
+      },
+      "evaluate_lambda_8": {
+        "cpu_us": 23.73046875,
+        "wall_us": 23.7340625
+      },
+      "evaluate_lambda_32": {
+        "cpu_us": 20.86230469,
+        "wall_us": 20.86771582
+      }
+    },
+    {
+      "model": "inversion_exact",
+      "cohort": "iid",
+      "states": 128,
+      "hard_min": 0,
+      "hard_max": 0,
+      "original_extraction": {
+        "cpu_us": 163.4287109,
+        "wall_us": 163.4593535
+      },
+      "soft_prepare": {
+        "cpu_us": 319.6142578,
+        "wall_us": 319.8385313
+      },
+      "original_six_policy_scorer": {
+        "cpu_us": 33.02636719,
+        "wall_us": 33.02948633
+      },
+      "evaluate_lambda_0": {
+        "cpu_us": 40.54199219,
+        "wall_us": 40.54436035
+      },
+      "evaluate_lambda_1": {
+        "cpu_us": 35.890625,
+        "wall_us": 35.8936709
+      },
+      "evaluate_lambda_2": {
+        "cpu_us": 32.55761719,
+        "wall_us": 32.5607959
+      },
+      "evaluate_lambda_4": {
+        "cpu_us": 29.27832031,
+        "wall_us": 29.28139258
+      },
+      "evaluate_lambda_8": {
+        "cpu_us": 24.5859375,
+        "wall_us": 24.58889746
+      },
+      "evaluate_lambda_32": {
+        "cpu_us": 28.33203125,
+        "wall_us": 28.33643848
+      }
+    },
+    {
+      "model": "inversion_exact",
+      "cohort": "guided_pilot_final",
+      "states": 128,
+      "hard_min": 22.61080816,
+      "hard_max": 23.02262485,
+      "original_extraction": {
+        "cpu_us": 124.7197266,
+        "wall_us": 124.8202705
+      },
+      "soft_prepare": {
+        "cpu_us": 264.3154297,
+        "wall_us": 264.3381445
+      },
+      "original_six_policy_scorer": {
+        "cpu_us": 19.27148438,
+        "wall_us": 19.27294336
+      },
+      "evaluate_lambda_0": {
+        "cpu_us": 37.80957031,
+        "wall_us": 37.81207324
+      },
+      "evaluate_lambda_1": {
+        "cpu_us": 36.16699219,
+        "wall_us": 36.170125
+      },
+      "evaluate_lambda_2": {
+        "cpu_us": 69.44726562,
+        "wall_us": 69.53526074
+      },
+      "evaluate_lambda_4": {
+        "cpu_us": 26.99511719,
+        "wall_us": 27.11638672
+      },
+      "evaluate_lambda_8": {
+        "cpu_us": 19.06933594,
+        "wall_us": 19.07162598
+      },
+      "evaluate_lambda_32": {
+        "cpu_us": 17.83886719,
+        "wall_us": 17.84185352
+      }
+    }
+  ],
+  "checksum": 998205.519
+}

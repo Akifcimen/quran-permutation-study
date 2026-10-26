@@ -1,0 +1,17 @@
+{
+  "version": "rare-tail-extension-v1-planning",
+  "primary_estimand": "P_fixed_null(T_primary >= frozen observed score); existing training tables and scoring grammar unchanged",
+  "additional_estimands": [
+    "natural C and CW under block6 by exact counting",
+    "natural scalar/matrix full conjunction probability conditional on explicitly named anchors"
+  ],
+  "pilot_scope": "Algorithms and compute budgets may be chosen using pilots; pilot estimates are not production estimates. All retained pilot outcomes will be reported, including failures.",
+  "production_requirement": "New fixed independent seeds/budgets; retain zero/failed replicates; validate precision and support; no arbitrary extrapolation of score bits or normal-tail fits",
+  "score_event_is_not_identical_to_full_natural_conjunction": true,
+  "uniform_counterexample": "Natural C11 (no uniform q cell) can reach same frozen target score because C11,C15 training conjunctions both hit the pseudocount floor.",
+  "sources": [
+    "https://www.stats.ox.ac.uk/~doucet/delmoral_doucet_jasra_sequentialmontecarlosamplersJRSSB.pdf",
+    "https://arxiv.org/abs/1507.00919",
+    "https://arxiv.org/abs/1505.02674"
+  ]
+}

@@ -1,0 +1,1371 @@
+{
+  "created_utc": "2026-10-25T13:29:10.011476+00:00",
+  "reviewer": "number_discussion_audit subagent; model-assisted manual review, not an independent human panel",
+  "information_access": "Observed19 hypothesis known from task; no numerical simulation outcomes accessed.",
+  "source_file": "quran_simple-clean.txt",
+  "source_sha256": "228df2a717671aeb9d2ff573002bd28d6b3f973f4bc7153554e3a81663d67610",
+  "scope": "All47 eligible-prime literal occurrences in38 verse contexts inspected and exactly reconciled with the independently written parser; additional nonprime number-discussion candidates were reviewed across the full lexical scan. Other-nonprime examples are an audit list, not a claim that every conceivable semantic salience classification has been exhausted.",
+  "tiers": {
+    "core_number_discussion": "Explicit addition/subtraction/completion, debate/correction/knowledge of a number, count relation with a generalization, enumeration giving a count rationale, or explicit explanation of a stated count function. Status as a quoted/rejected claim does not erase literal mention.",
+    "relational_quantity": "Broader numerical correspondence, per-unit multiplication, quantity comparison, alternative legal quantities, symbolic count mapping, open bounds or measurement comparison; some edges involve interpretation.",
+    "symbolic_epistemic_context": "A number occurs in a sign, dream, epistemic challenge, oath or special gift; no explicit metacomment on that number itself.",
+    "literal_only": "A count is stated without the stronger relationships above."
+  },
+  "recommendation": "Primary metanumeric branch uses uniform weights across DISTINCT eligible prime values{3,5,7,19}. Borderline annotation changes above do not alter that set. Do not frequency-weight these manual tiers without a separate registered sensitivity analysis. Broad symbolic branch includes11 and thus equals the full literal prime set.",
+  "literal_prime_occurrence_counts": {
+    "3": 19,
+    "5": 2,
+    "7": 24,
+    "11": 1,
+    "19": 1
+  },
+  "strict_ordinary_cardinal_counts_note": "Counts for3 include two distributive forms at4:3 and35:1; excluding these gives17 for3 and leaves all distinct-value candidate sets unchanged.",
+  "literal_prime_uniform_weights": {
+    "3": 0.2,
+    "5": 0.2,
+    "7": 0.2,
+    "11": 0.2,
+    "19": 0.2
+  },
+  "core_number_discussion_prime_values": [
+    3,
+    5,
+    7,
+    19
+  ],
+  "core_number_discussion_uniform_weights": {
+    "3": 0.25,
+    "5": 0.25,
+    "7": 0.25,
+    "19": 0.25
+  },
+  "prime_context_review": [
+    {
+      "verse": "2:29",
+      "prime_values_with_multiplicity": [
+        7
+      ],
+      "tier": "literal_only",
+      "status": "asserted_descriptive",
+      "rationale": "Seven heavens are described; the numerical value is not itself discussed.",
+      "arabic": "هو الذي خلق لكم ما في الأرض جميعا ثم استوى إلى السماء فسواهن سبع سماوات وهو بكل شيء عليم",
+      "linked_context": []
+    },
+    {
+      "verse": "2:196",
+      "prime_values_with_multiplicity": [
+        3,
+        7
+      ],
+      "tier": "core_number_discussion",
+      "status": "prescriptive",
+      "rationale": "Three and seven are explicitly summed and the total ten is called complete.",
+      "arabic": "وأتموا الحج والعمرة لله فإن أحصرتم فما استيسر من الهدي ولا تحلقوا رءوسكم حتى يبلغ الهدي محله فمن كان منكم مريضا أو به أذى من رأسه ففدية من صيام أو صدقة أو نسك فإذا أمنتم فمن تمتع بالعمرة إلى الحج فما استيسر من الهدي فمن لم يجد فصيام ثلاثة أيام في الحج وسبعة إذا رجعتم تلك عشرة كاملة ذلك لمن لم يكن أهله حاضري المسجد الحرام واتقوا الله واعلموا أن الله شديد العقاب",
+      "linked_context": []
+    },
+    {
+      "verse": "2:228",
+      "prime_values_with_multiplicity": [
+        3
+      ],
+      "tier": "literal_only",
+      "status": "prescriptive",
+      "rationale": "A waiting period of three is prescribed; this does not explain or debate the numerical value.",
+      "arabic": "والمطلقات يتربصن بأنفسهن ثلاثة قروء ولا يحل لهن أن يكتمن ما خلق الله في أرحامهن إن كن يؤمن بالله واليوم الآخر وبعولتهن أحق بردهن في ذلك إن أرادوا إصلاحا ولهن مثل الذي عليهن بالمعروف وللرجال عليهن درجة والله عزيز حكيم",
+      "linked_context": []
+    },
+    {
+      "verse": "2:261",
+      "prime_values_with_multiplicity": [
+        7
+      ],
+      "tier": "relational_quantity",
+      "status": "illustrative",
+      "rationale": "Seven ears with one hundred grains each illustrate multiplication; computed700 is not a literal numeral.",
+      "arabic": "مثل الذين ينفقون أموالهم في سبيل الله كمثل حبة أنبتت سبع سنابل في كل سنبلة مائة حبة والله يضاعف لمن يشاء والله واسع عليم",
+      "linked_context": []
+    },
+    {
+      "verse": "3:41",
+      "prime_values_with_multiplicity": [
+        3
+      ],
+      "tier": "symbolic_epistemic_context",
+      "status": "sign",
+      "rationale": "Three days of inability to speak form a sign; why the count is three is not discussed.",
+      "arabic": "قال رب اجعل لي آية قال آيتك ألا تكلم الناس ثلاثة أيام إلا رمزا واذكر ربك كثيرا وسبح بالعشي والإبكار",
+      "linked_context": []
+    },
+    {
+      "verse": "4:3",
+      "prime_values_with_multiplicity": [
+        3
+      ],
+      "tier": "relational_quantity",
+      "status": "prescriptive",
+      "rationale": "Distributive two/three/four and conditional one are alternative legal quantities tied to justice.",
+      "arabic": "وإن خفتم ألا تقسطوا في اليتامى فانكحوا ما طاب لكم من النساء مثنى وثلاث ورباع فإن خفتم ألا تعدلوا فواحدة أو ما ملكت أيمانكم ذلك أدنى ألا تعولوا",
+      "linked_context": []
+    },
+    {
+      "verse": "4:171",
+      "prime_values_with_multiplicity": [
+        3
+      ],
+      "tier": "core_number_discussion",
+      "status": "reported_claim_rejected",
+      "rationale": "The numeric theological claim three is explicitly rejected and one is asserted.",
+      "arabic": "يا أهل الكتاب لا تغلوا في دينكم ولا تقولوا على الله إلا الحق إنما المسيح عيسى ابن مريم رسول الله وكلمته ألقاها إلى مريم وروح منه فآمنوا بالله ورسله ولا تقولوا ثلاثة انتهوا خيرا لكم إنما الله إله واحد سبحانه أن يكون له ولد له ما في السماوات وما في الأرض وكفى بالله وكيلا",
+      "linked_context": []
+    },
+    {
+      "verse": "5:73",
+      "prime_values_with_multiplicity": [
+        3
+      ],
+      "tier": "core_number_discussion",
+      "status": "reported_claim_rejected",
+      "rationale": "Third of three is explicitly rejected and one God asserted; ordinal third is separate from cardinal three.",
+      "arabic": "لقد كفر الذين قالوا إن الله ثالث ثلاثة وما من إله إلا إله واحد وإن لم ينتهوا عما يقولون ليمسن الذين كفروا منهم عذاب أليم",
+      "linked_context": []
+    },
+    {
+      "verse": "5:89",
+      "prime_values_with_multiplicity": [
+        3
+      ],
+      "tier": "relational_quantity",
+      "status": "prescriptive",
+      "rationale": "Feeding ten people and fasting three days are conditional legal alternatives, not equal units.",
+      "arabic": "لا يؤاخذكم الله باللغو في أيمانكم ولكن يؤاخذكم بما عقدتم الأيمان فكفارته إطعام عشرة مساكين من أوسط ما تطعمون أهليكم أو كسوتهم أو تحرير رقبة فمن لم يجد فصيام ثلاثة أيام ذلك كفارة أيمانكم إذا حلفتم واحفظوا أيمانكم كذلك يبين الله لكم آياته لعلكم تشكرون",
+      "linked_context": []
+    },
+    {
+      "verse": "9:118",
+      "prime_values_with_multiplicity": [
+        3
+      ],
+      "tier": "literal_only",
+      "status": "asserted_descriptive",
+      "rationale": "The three left behind are identified narratively; the number itself is not debated or explained.",
+      "arabic": "وعلى الثلاثة الذين خلفوا حتى إذا ضاقت عليهم الأرض بما رحبت وضاقت عليهم أنفسهم وظنوا أن لا ملجأ من الله إلا إليه ثم تاب عليهم ليتوبوا إن الله هو التواب الرحيم",
+      "linked_context": []
+    },
+    {
+      "verse": "11:65",
+      "prime_values_with_multiplicity": [
+        3
+      ],
+      "tier": "symbolic_epistemic_context",
+      "status": "reported_warning",
+      "rationale": "Three days are linked to a promised deadline; no explanation of why three.",
+      "arabic": "فعقروها فقال تمتعوا في داركم ثلاثة أيام ذلك وعد غير مكذوب",
+      "linked_context": []
+    },
+    {
+      "verse": "12:4",
+      "prime_values_with_multiplicity": [
+        11
+      ],
+      "tier": "symbolic_epistemic_context",
+      "status": "reported_dream",
+      "rationale": "Eleven stars occur in Joseph's dream, with later narrative fulfillment12:100; no explicit metacomment on the count11.",
+      "arabic": "إذ قال يوسف لأبيه يا أبت إني رأيت أحد عشر كوكبا والشمس والقمر رأيتهم لي ساجدين",
+      "linked_context": [
+        {
+          "verse": "12:100",
+          "arabic": "ورفع أبويه على العرش وخروا له سجدا وقال يا أبت هذا تأويل رؤياي من قبل قد جعلها ربي حقا وقد أحسن بي إذ أخرجني من السجن وجاء بكم من البدو من بعد أن نزغ الشيطان بيني وبين إخوتي إن ربي لطيف لما يشاء إنه هو العليم الحكيم"
+        }
+      ]
+    },
+    {
+      "verse": "12:43",
+      "prime_values_with_multiplicity": [
+        7,
+        7,
+        7
+      ],
+      "tier": "relational_quantity",
+      "status": "reported_dream",
+      "rationale": "Three explicit seven-valued groups in the dream are subsequently interpreted as periods of years.",
+      "arabic": "وقال الملك إني أرى سبع بقرات سمان يأكلهن سبع عجاف وسبع سنبلات خضر وأخر يابسات يا أيها الملأ أفتوني في رؤياي إن كنتم للرؤيا تعبرون",
+      "linked_context": [
+        {
+          "verse": "12:46",
+          "arabic": "يوسف أيها الصديق أفتنا في سبع بقرات سمان يأكلهن سبع عجاف وسبع سنبلات خضر وأخر يابسات لعلي أرجع إلى الناس لعلهم يعلمون"
+        },
+        {
+          "verse": "12:47",
+          "arabic": "قال تزرعون سبع سنين دأبا فما حصدتم فذروه في سنبله إلا قليلا مما تأكلون"
+        },
+        {
+          "verse": "12:48",
+          "arabic": "ثم يأتي من بعد ذلك سبع شداد يأكلن ما قدمتم لهن إلا قليلا مما تحصنون"
+        }
+      ]
+    },
+    {
+      "verse": "12:46",
+      "prime_values_with_multiplicity": [
+        7,
+        7,
+        7
+      ],
+      "tier": "relational_quantity",
+      "status": "reported_dream",
+      "rationale": "The three seven-valued dream groups are repeated in a request for interpretation.",
+      "arabic": "يوسف أيها الصديق أفتنا في سبع بقرات سمان يأكلهن سبع عجاف وسبع سنبلات خضر وأخر يابسات لعلي أرجع إلى الناس لعلهم يعلمون",
+      "linked_context": [
+        {
+          "verse": "12:47",
+          "arabic": "قال تزرعون سبع سنين دأبا فما حصدتم فذروه في سنبله إلا قليلا مما تأكلون"
+        },
+        {
+          "verse": "12:48",
+          "arabic": "ثم يأتي من بعد ذلك سبع شداد يأكلن ما قدمتم لهن إلا قليلا مما تحصنون"
+        }
+      ]
+    },
+    {
+      "verse": "12:47",
+      "prime_values_with_multiplicity": [
+        7
+      ],
+      "tier": "relational_quantity",
+      "status": "reported_interpretation",
+      "rationale": "Seven years interpret the seven-valued dream groups; symbolic mapping rather than why seven.",
+      "arabic": "قال تزرعون سبع سنين دأبا فما حصدتم فذروه في سنبله إلا قليلا مما تأكلون",
+      "linked_context": []
+    },
+    {
+      "verse": "12:48",
+      "prime_values_with_multiplicity": [
+        7
+      ],
+      "tier": "relational_quantity",
+      "status": "reported_interpretation",
+      "rationale": "Seven hard years continue the symbolic interpretation.",
+      "arabic": "ثم يأتي من بعد ذلك سبع شداد يأكلن ما قدمتم لهن إلا قليلا مما تحصنون",
+      "linked_context": []
+    },
+    {
+      "verse": "15:44",
+      "prime_values_with_multiplicity": [
+        7
+      ],
+      "tier": "relational_quantity",
+      "status": "asserted_descriptive",
+      "rationale": "Seven gates each have an assigned portion; no second literal quantity or count rationale.",
+      "arabic": "لها سبعة أبواب لكل باب منهم جزء مقسوم",
+      "linked_context": []
+    },
+    {
+      "verse": "15:87",
+      "prime_values_with_multiplicity": [
+        7
+      ],
+      "tier": "symbolic_epistemic_context",
+      "status": "asserted_gift",
+      "rationale": "Seven of the oft-repeated are singled out as a gift; referent interpretation is not needed to record literal7.",
+      "arabic": "ولقد آتيناك سبعا من المثاني والقرآن العظيم",
+      "linked_context": []
+    },
+    {
+      "verse": "17:44",
+      "prime_values_with_multiplicity": [
+        7
+      ],
+      "tier": "literal_only",
+      "status": "asserted_descriptive",
+      "rationale": "The seven heavens are described as glorifying God; no metacomment on the count.",
+      "arabic": "تسبح له السماوات السبع والأرض ومن فيهن وإن من شيء إلا يسبح بحمده ولكن لا تفقهون تسبيحهم إنه كان حليما غفورا",
+      "linked_context": []
+    },
+    {
+      "verse": "18:22",
+      "prime_values_with_multiplicity": [
+        3,
+        5,
+        7
+      ],
+      "tier": "core_number_discussion",
+      "status": "reported_claim_uncertain",
+      "rationale": "Three competing group counts are followed by an explicit statement about knowledge of their number; fourth/sixth/eighth are ordinals.",
+      "arabic": "سيقولون ثلاثة رابعهم كلبهم ويقولون خمسة سادسهم كلبهم رجما بالغيب ويقولون سبعة وثامنهم كلبهم قل ربي أعلم بعدتهم ما يعلمهم إلا قليل فلا تمار فيهم إلا مراء ظاهرا ولا تستفت فيهم منهم أحدا",
+      "linked_context": []
+    },
+    {
+      "verse": "19:10",
+      "prime_values_with_multiplicity": [
+        3
+      ],
+      "tier": "symbolic_epistemic_context",
+      "status": "sign",
+      "rationale": "Three nights of inability to speak form a sign; no count rationale.",
+      "arabic": "قال رب اجعل لي آية قال آيتك ألا تكلم الناس ثلاث ليال سويا",
+      "linked_context": []
+    },
+    {
+      "verse": "23:17",
+      "prime_values_with_multiplicity": [
+        7
+      ],
+      "tier": "literal_only",
+      "status": "asserted_descriptive",
+      "rationale": "Seven paths are described without explicit discussion of the numerical value.",
+      "arabic": "ولقد خلقنا فوقكم سبع طرائق وما كنا عن الخلق غافلين",
+      "linked_context": []
+    },
+    {
+      "verse": "23:86",
+      "prime_values_with_multiplicity": [
+        7
+      ],
+      "tier": "symbolic_epistemic_context",
+      "status": "rhetorical_question",
+      "rationale": "A question asks who is Lord of the seven heavens; the count seven is not itself debated or explained.",
+      "arabic": "قل من رب السماوات السبع ورب العرش العظيم",
+      "linked_context": []
+    },
+    {
+      "verse": "24:58",
+      "prime_values_with_multiplicity": [
+        3,
+        3
+      ],
+      "tier": "core_number_discussion",
+      "status": "prescriptive",
+      "rationale": "Three times are explicitly enumerated and the number is repeated with a privacy rationale.",
+      "arabic": "يا أيها الذين آمنوا ليستأذنكم الذين ملكت أيمانكم والذين لم يبلغوا الحلم منكم ثلاث مرات من قبل صلاة الفجر وحين تضعون ثيابكم من الظهيرة ومن بعد صلاة العشاء ثلاث عورات لكم ليس عليكم ولا عليهم جناح بعدهن طوافون عليكم بعضكم على بعض كذلك يبين الله لكم الآيات والله عليم حكيم",
+      "linked_context": []
+    },
+    {
+      "verse": "31:27",
+      "prime_values_with_multiplicity": [
+        7
+      ],
+      "tier": "relational_quantity",
+      "status": "hypothetical",
+      "rationale": "Seven additional seas illustrate the insufficiency of a greatly increased writing supply.",
+      "arabic": "ولو أنما في الأرض من شجرة أقلام والبحر يمده من بعده سبعة أبحر ما نفدت كلمات الله إن الله عزيز حكيم",
+      "linked_context": []
+    },
+    {
+      "verse": "35:1",
+      "prime_values_with_multiplicity": [
+        3
+      ],
+      "tier": "relational_quantity",
+      "status": "asserted_descriptive",
+      "rationale": "Distributive two/three/four wings and increasing creation concern alternative quantities, with no rationale specific to three.",
+      "arabic": "بسم الله الرحمن الرحيم الحمد لله فاطر السماوات والأرض جاعل الملائكة رسلا أولي أجنحة مثنى وثلاث ورباع يزيد في الخلق ما يشاء إن الله على كل شيء قدير",
+      "linked_context": []
+    },
+    {
+      "verse": "39:6",
+      "prime_values_with_multiplicity": [
+        3
+      ],
+      "tier": "literal_only",
+      "status": "asserted_descriptive",
+      "rationale": "Three darknesses are described; nearby eight pairs is a different quantity and does not confer number-discussion status on three.",
+      "arabic": "خلقكم من نفس واحدة ثم جعل منها زوجها وأنزل لكم من الأنعام ثمانية أزواج يخلقكم في بطون أمهاتكم خلقا من بعد خلق في ظلمات ثلاث ذلكم الله ربكم له الملك لا إله إلا هو فأنى تصرفون",
+      "linked_context": []
+    },
+    {
+      "verse": "41:12",
+      "prime_values_with_multiplicity": [
+        7
+      ],
+      "tier": "literal_only",
+      "status": "asserted_descriptive",
+      "rationale": "Seven heavens are described; arithmetic interpretations of nearby creation durations concern days, not the count of heavens.",
+      "arabic": "فقضاهن سبع سماوات في يومين وأوحى في كل سماء أمرها وزينا السماء الدنيا بمصابيح وحفظا ذلك تقدير العزيز العليم",
+      "linked_context": []
+    },
+    {
+      "verse": "56:7",
+      "prime_values_with_multiplicity": [
+        3
+      ],
+      "tier": "core_number_discussion",
+      "status": "asserted_classification",
+      "rationale": "Three classes are announced and explicitly enumerated in56:8-10; inclusion is sensitive to whether enumeration counts as number discussion.",
+      "arabic": "وكنتم أزواجا ثلاثة",
+      "linked_context": [
+        {
+          "verse": "56:8",
+          "arabic": "فأصحاب الميمنة ما أصحاب الميمنة"
+        },
+        {
+          "verse": "56:9",
+          "arabic": "وأصحاب المشأمة ما أصحاب المشأمة"
+        },
+        {
+          "verse": "56:10",
+          "arabic": "والسابقون السابقون"
+        }
+      ]
+    },
+    {
+      "verse": "58:7",
+      "prime_values_with_multiplicity": [
+        3,
+        5
+      ],
+      "tier": "core_number_discussion",
+      "status": "hypothetical_generalization",
+      "rationale": "Three/fourth and five/sixth are explicit numerical relations, followed by a generalization to fewer or more.",
+      "arabic": "ألم تر أن الله يعلم ما في السماوات وما في الأرض ما يكون من نجوى ثلاثة إلا هو رابعهم ولا خمسة إلا هو سادسهم ولا أدنى من ذلك ولا أكثر إلا هو معهم أين ما كانوا ثم ينبئهم بما عملوا يوم القيامة إن الله بكل شيء عليم",
+      "linked_context": []
+    },
+    {
+      "verse": "65:4",
+      "prime_values_with_multiplicity": [
+        3
+      ],
+      "tier": "literal_only",
+      "status": "prescriptive",
+      "rationale": "A waiting period of three months is prescribed; no explicit debate or arithmetic about its numerical value.",
+      "arabic": "واللائي يئسن من المحيض من نسائكم إن ارتبتم فعدتهن ثلاثة أشهر واللائي لم يحضن وأولات الأحمال أجلهن أن يضعن حملهن ومن يتق الله يجعل له من أمره يسرا",
+      "linked_context": []
+    },
+    {
+      "verse": "65:12",
+      "prime_values_with_multiplicity": [
+        7
+      ],
+      "tier": "relational_quantity",
+      "status": "asserted_descriptive",
+      "rationale": "Earth is described as like the seven heavens; interpreting the likeness as numerical is a declared borderline judgment.",
+      "arabic": "الله الذي خلق سبع سماوات ومن الأرض مثلهن يتنزل الأمر بينهن لتعلموا أن الله على كل شيء قدير وأن الله قد أحاط بكل شيء علما",
+      "linked_context": []
+    },
+    {
+      "verse": "67:3",
+      "prime_values_with_multiplicity": [
+        7
+      ],
+      "tier": "symbolic_epistemic_context",
+      "status": "asserted_descriptive",
+      "rationale": "Seven heavens accompany an invitation to inspect creation for flaws; this does not explain why the number is seven.",
+      "arabic": "الذي خلق سبع سماوات طباقا ما ترى في خلق الرحمن من تفاوت فارجع البصر هل ترى من فطور",
+      "linked_context": []
+    },
+    {
+      "verse": "69:7",
+      "prime_values_with_multiplicity": [
+        7
+      ],
+      "tier": "relational_quantity",
+      "status": "asserted_descriptive",
+      "rationale": "Seven nights and eight days describe one continuous duration; no derived total is a literal numeral.",
+      "arabic": "سخرها عليهم سبع ليال وثمانية أيام حسوما فترى القوم فيها صرعى كأنهم أعجاز نخل خاوية",
+      "linked_context": []
+    },
+    {
+      "verse": "71:15",
+      "prime_values_with_multiplicity": [
+        7
+      ],
+      "tier": "symbolic_epistemic_context",
+      "status": "asserted_descriptive",
+      "rationale": "A rhetorical invitation to consider seven heavens gives epistemic context but no count-specific explanation.",
+      "arabic": "ألم تروا كيف خلق الله سبع سماوات طباقا",
+      "linked_context": []
+    },
+    {
+      "verse": "74:30",
+      "prime_values_with_multiplicity": [
+        19
+      ],
+      "tier": "core_number_discussion",
+      "status": "asserted_descriptive",
+      "rationale": "The next verse explicitly discusses the function of their number in testing and certainty/faith; the referent is19, not adjacent verse indices.",
+      "arabic": "عليها تسعة عشر",
+      "linked_context": [
+        {
+          "verse": "74:31",
+          "arabic": "وما جعلنا أصحاب النار إلا ملائكة وما جعلنا عدتهم إلا فتنة للذين كفروا ليستيقن الذين أوتوا الكتاب ويزداد الذين آمنوا إيمانا ولا يرتاب الذين أوتوا الكتاب والمؤمنون وليقول الذين في قلوبهم مرض والكافرون ماذا أراد الله بهذا مثلا كذلك يضل الله من يشاء ويهدي من يشاء وما يعلم جنود ربك إلا هو وما هي إلا ذكرى للبشر"
+        }
+      ]
+    },
+    {
+      "verse": "77:30",
+      "prime_values_with_multiplicity": [
+        3
+      ],
+      "tier": "literal_only",
+      "status": "asserted_descriptive",
+      "rationale": "Three branches of a shade are described without metacomment on the count.",
+      "arabic": "انطلقوا إلى ظل ذي ثلاث شعب",
+      "linked_context": []
+    },
+    {
+      "verse": "78:12",
+      "prime_values_with_multiplicity": [
+        7
+      ],
+      "tier": "literal_only",
+      "status": "asserted_descriptive",
+      "rationale": "Seven strong structures/heavens are described without discussion of the numerical value.",
+      "arabic": "وبنينا فوقكم سبعا شدادا",
+      "linked_context": []
+    }
+  ],
+  "other_number_discussion_review": [
+    {
+      "verses": [
+        "2:60"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        12
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "relational_quantity",
+      "rationale": "Twelve springs and each group knowing its place: numerical correspondence; no explicit second count here.",
+      "arabic": [
+        {
+          "verse": "2:60",
+          "arabic": "وإذ استسقى موسى لقومه فقلنا اضرب بعصاك الحجر فانفجرت منه اثنتا عشرة عينا قد علم كل أناس مشربهم كلوا واشربوا من رزق الله ولا تعثوا في الأرض مفسدين"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "2:233"
+      ],
+      "literal_integer_values_with_multiplicity": [],
+      "grammatical_dual_values": [
+        2
+      ],
+      "fraction_values": [],
+      "tier": "relational_quantity",
+      "rationale": "Two complete years for completion of nursing; two is grammatical dual, not a standalone numeral word.",
+      "arabic": [
+        {
+          "verse": "2:233",
+          "arabic": "والوالدات يرضعن أولادهن حولين كاملين لمن أراد أن يتم الرضاعة وعلى المولود له رزقهن وكسوتهن بالمعروف لا تكلف نفس إلا وسعها لا تضار والدة بولدها ولا مولود له بولده وعلى الوارث مثل ذلك فإن أرادا فصالا عن تراض منهما وتشاور فلا جناح عليهما وإن أردتم أن تسترضعوا أولادكم فلا جناح عليكم إذا سلمتم ما آتيتم بالمعروف واتقوا الله واعلموا أن الله بما تعملون بصير"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "2:234"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        4,
+        10
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "relational_quantity",
+      "rationale": "Four months and ten days form a compound duration; do not compute an unstated total.",
+      "arabic": [
+        {
+          "verse": "2:234",
+          "arabic": "والذين يتوفون منكم ويذرون أزواجا يتربصن بأنفسهن أربعة أشهر وعشرا فإذا بلغن أجلهن فلا جناح عليكم فيما فعلن في أنفسهن بالمعروف والله بما تعملون خبير"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "2:259"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        100,
+        100
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "core_number_discussion",
+      "rationale": "A claimed short duration is explicitly corrected to100 years; day/part-day does not contain the numeral word one.",
+      "arabic": [
+        {
+          "verse": "2:259",
+          "arabic": "أو كالذي مر على قرية وهي خاوية على عروشها قال أنى يحيي هذه الله بعد موتها فأماته الله مائة عام ثم بعثه قال كم لبثت قال لبثت يوما أو بعض يوم قال بل لبثت مائة عام فانظر إلى طعامك وشرابك لم يتسنه وانظر إلى حمارك ولنجعلك آية للناس وانظر إلى العظام كيف ننشزها ثم نكسوها لحما فلما تبين له قال أعلم أن الله على كل شيء قدير"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "2:260"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        4
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "symbolic_epistemic_context",
+      "rationale": "Four birds form part of a demonstration reassuring Abraham; number4 is not itself explained.",
+      "arabic": [
+        {
+          "verse": "2:260",
+          "arabic": "وإذ قال إبراهيم رب أرني كيف تحيي الموتى قال أولم تؤمن قال بلى ولكن ليطمئن قلبي قال فخذ أربعة من الطير فصرهن إليك ثم اجعل على كل جبل منهن جزءا ثم ادعهن يأتينك سعيا واعلم أن الله عزيز حكيم"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "3:124",
+        "3:125",
+        "3:126"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        3000,
+        5000
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "core_number_discussion",
+      "rationale": "A numerical reinforcement is questioned for sufficiency, increased conditionally and linked to reassurance;3000 and5000 are not3 and5.",
+      "arabic": [
+        {
+          "verse": "3:124",
+          "arabic": "إذ تقول للمؤمنين ألن يكفيكم أن يمدكم ربكم بثلاثة آلاف من الملائكة منزلين"
+        },
+        {
+          "verse": "3:125",
+          "arabic": "بلى إن تصبروا وتتقوا ويأتوكم من فورهم هذا يمددكم ربكم بخمسة آلاف من الملائكة مسومين"
+        },
+        {
+          "verse": "3:126",
+          "arabic": "وما جعله الله إلا بشرى لكم ولتطمئن قلوبكم به وما النصر إلا من عند الله العزيز الحكيم"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "4:11",
+        "4:12",
+        "4:176"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        1,
+        2
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [
+        "1/2",
+        "1/3",
+        "2/3",
+        "1/4",
+        "1/6",
+        "1/8"
+      ],
+      "tier": "relational_quantity",
+      "rationale": "Inheritance quantities and conditional shares; fractions and ordinary integer mentions remain separate.",
+      "arabic": [
+        {
+          "verse": "4:11",
+          "arabic": "يوصيكم الله في أولادكم للذكر مثل حظ الأنثيين فإن كن نساء فوق اثنتين فلهن ثلثا ما ترك وإن كانت واحدة فلها النصف ولأبويه لكل واحد منهما السدس مما ترك إن كان له ولد فإن لم يكن له ولد وورثه أبواه فلأمه الثلث فإن كان له إخوة فلأمه السدس من بعد وصية يوصي بها أو دين آباؤكم وأبناؤكم لا تدرون أيهم أقرب لكم نفعا فريضة من الله إن الله كان عليما حكيما"
+        },
+        {
+          "verse": "4:12",
+          "arabic": "ولكم نصف ما ترك أزواجكم إن لم يكن لهن ولد فإن كان لهن ولد فلكم الربع مما تركن من بعد وصية يوصين بها أو دين ولهن الربع مما تركتم إن لم يكن لكم ولد فإن كان لكم ولد فلهن الثمن مما تركتم من بعد وصية توصون بها أو دين وإن كان رجل يورث كلالة أو امرأة وله أخ أو أخت فلكل واحد منهما السدس فإن كانوا أكثر من ذلك فهم شركاء في الثلث من بعد وصية يوصى بها أو دين غير مضار وصية من الله والله عليم حليم"
+        },
+        {
+          "verse": "4:176",
+          "arabic": "يستفتونك قل الله يفتيكم في الكلالة إن امرؤ هلك ليس له ولد وله أخت فلها نصف ما ترك وهو يرثها إن لم يكن لها ولد فإن كانتا اثنتين فلهما الثلثان مما ترك وإن كانوا إخوة رجالا ونساء فللذكر مثل حظ الأنثيين يبين الله لكم أن تضلوا والله بكل شيء عليم"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "6:143",
+        "6:144"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        8,
+        2,
+        2,
+        2,
+        2
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "relational_quantity",
+      "rationale": "Eight pairs are broken down into four explicit twos and discussed in a legal argument.",
+      "arabic": [
+        {
+          "verse": "6:143",
+          "arabic": "ثمانية أزواج من الضأن اثنين ومن المعز اثنين قل آلذكرين حرم أم الأنثيين أما اشتملت عليه أرحام الأنثيين نبئوني بعلم إن كنتم صادقين"
+        },
+        {
+          "verse": "6:144",
+          "arabic": "ومن الإبل اثنين ومن البقر اثنين قل آلذكرين حرم أم الأنثيين أما اشتملت عليه أرحام الأنثيين أم كنتم شهداء إذ وصاكم الله بهذا فمن أظلم ممن افترى على الله كذبا ليضل الناس بغير علم إن الله لا يهدي القوم الظالمين"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "6:160"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        10
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "relational_quantity",
+      "rationale": "Explicit tenfold reward versus equivalent recompense; no separately written one is required.",
+      "arabic": [
+        {
+          "verse": "6:160",
+          "arabic": "من جاء بالحسنة فله عشر أمثالها ومن جاء بالسيئة فلا يجزى إلا مثلها وهم لا يظلمون"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "7:142"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        30,
+        10,
+        40
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "core_number_discussion",
+      "rationale": "Thirty nights plus ten explicitly complete forty.",
+      "arabic": [
+        {
+          "verse": "7:142",
+          "arabic": "وواعدنا موسى ثلاثين ليلة وأتممناها بعشر فتم ميقات ربه أربعين ليلة وقال موسى لأخيه هارون اخلفني في قومي وأصلح ولا تتبع سبيل المفسدين"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "7:160"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        12,
+        12
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "relational_quantity",
+      "rationale": "Twelve communities and twelve springs form a direct count correspondence.",
+      "arabic": [
+        {
+          "verse": "7:160",
+          "arabic": "وقطعناهم اثنتي عشرة أسباطا أمما وأوحينا إلى موسى إذ استسقاه قومه أن اضرب بعصاك الحجر فانبجست منه اثنتا عشرة عينا قد علم كل أناس مشربهم وظللنا عليهم الغمام وأنزلنا عليهم المن والسلوى كلوا من طيبات ما رزقناكم وما ظلمونا ولكن كانوا أنفسهم يظلمون"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "8:9",
+        "8:10"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        1000
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "symbolic_epistemic_context",
+      "rationale": "One thousand angels are linked to reassurance in the following verse; count-specific rationale is not stated.",
+      "arabic": [
+        {
+          "verse": "8:9",
+          "arabic": "إذ تستغيثون ربكم فاستجاب لكم أني ممدكم بألف من الملائكة مردفين"
+        },
+        {
+          "verse": "8:10",
+          "arabic": "وما جعله الله إلا بشرى ولتطمئن به قلوبكم وما النصر إلا من عند الله إن الله عزيز حكيم"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "8:65",
+        "8:66"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        20,
+        200,
+        100,
+        1000,
+        100,
+        200,
+        1000,
+        2000
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "core_number_discussion",
+      "rationale": "Numerical force ratios are explicitly revised with stated weakness/relaxation as the rationale.",
+      "arabic": [
+        {
+          "verse": "8:65",
+          "arabic": "يا أيها النبي حرض المؤمنين على القتال إن يكن منكم عشرون صابرون يغلبوا مائتين وإن يكن منكم مائة يغلبوا ألفا من الذين كفروا بأنهم قوم لا يفقهون"
+        },
+        {
+          "verse": "8:66",
+          "arabic": "الآن خفف الله عنكم وعلم أن فيكم ضعفا فإن يكن منكم مائة صابرة يغلبوا مائتين وإن يكن منكم ألف يغلبوا ألفين بإذن الله والله مع الصابرين"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "9:36",
+        "9:37"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        12,
+        4
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "core_number_discussion",
+      "rationale": "Canonical total and sacred subset are stated; the next verse discusses manipulating that number.",
+      "arabic": [
+        {
+          "verse": "9:36",
+          "arabic": "إن عدة الشهور عند الله اثنا عشر شهرا في كتاب الله يوم خلق السماوات والأرض منها أربعة حرم ذلك الدين القيم فلا تظلموا فيهن أنفسكم وقاتلوا المشركين كافة كما يقاتلونكم كافة واعلموا أن الله مع المتقين"
+        },
+        {
+          "verse": "9:37",
+          "arabic": "إنما النسيء زيادة في الكفر يضل به الذين كفروا يحلونه عاما ويحرمونه عاما ليواطئوا عدة ما حرم الله فيحلوا ما حرم الله زين لهم سوء أعمالهم والله لا يهدي القوم الكافرين"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "9:80"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        70
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "relational_quantity",
+      "rationale": "Seventy repeated requests are expressly said to be insufficient; quantitative emphasis without a unique count rationale.",
+      "arabic": [
+        {
+          "verse": "9:80",
+          "arabic": "استغفر لهم أو لا تستغفر لهم إن تستغفر لهم سبعين مرة فلن يغفر الله لهم ذلك بأنهم كفروا بالله ورسوله والله لا يهدي القوم الفاسقين"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "11:13",
+        "11:14"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        10
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "symbolic_epistemic_context",
+      "rationale": "A challenge to produce ten chapters is connected to recognition of revelation; why ten is not explained.",
+      "arabic": [
+        {
+          "verse": "11:13",
+          "arabic": "أم يقولون افتراه قل فأتوا بعشر سور مثله مفتريات وادعوا من استطعتم من دون الله إن كنتم صادقين"
+        },
+        {
+          "verse": "11:14",
+          "arabic": "فإلم يستجيبوا لكم فاعلموا أنما أنزل بعلم الله وأن لا إله إلا هو فهل أنتم مسلمون"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "16:51"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        2,
+        1
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "core_number_discussion",
+      "rationale": "The numerical theological alternative two is explicitly prohibited and one affirmed.",
+      "arabic": [
+        {
+          "verse": "16:51",
+          "arabic": "وقال الله لا تتخذوا إلهين اثنين إنما هو إله واحد فإياي فارهبون"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "17:101"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        9
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "symbolic_epistemic_context",
+      "rationale": "Nine signs are mentioned as signs, but their numerical value is not itself discussed.",
+      "arabic": [
+        {
+          "verse": "17:101",
+          "arabic": "ولقد آتينا موسى تسع آيات بينات فاسأل بني إسرائيل إذ جاءهم فقال له فرعون إني لأظنك يا موسى مسحورا"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "18:25",
+        "18:26"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        300,
+        9
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "core_number_discussion",
+      "rationale": "An addition of nine to300 is explicit, followed by a statement about knowledge of their duration;309 is computed, not a literal expression.",
+      "arabic": [
+        {
+          "verse": "18:25",
+          "arabic": "ولبثوا في كهفهم ثلاث مائة سنين وازدادوا تسعا"
+        },
+        {
+          "verse": "18:26",
+          "arabic": "قل الله أعلم بما لبثوا له غيب السماوات والأرض أبصر به وأسمع ما لهم من دونه من ولي ولا يشرك في حكمه أحدا"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "20:103",
+        "20:104"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        10
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "core_number_discussion",
+      "rationale": "A reported ten-unit duration is contrasted with a day; the singular word day is not an independently written numeral one.",
+      "arabic": [
+        {
+          "verse": "20:103",
+          "arabic": "يتخافتون بينهم إن لبثتم إلا عشرا"
+        },
+        {
+          "verse": "20:104",
+          "arabic": "نحن أعلم بما يقولون إذ يقول أمثلهم طريقة إن لبثتم إلا يوما"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "22:47"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        1000
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "relational_quantity",
+      "rationale": "A day is compared to1000 years of human counting; explicit measurement comparison.",
+      "arabic": [
+        {
+          "verse": "22:47",
+          "arabic": "ويستعجلونك بالعذاب ولن يخلف الله وعده وإن يوما عند ربك كألف سنة مما تعدون"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "24:6",
+        "24:7",
+        "24:8",
+        "24:9"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        4,
+        4
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "core_number_discussion",
+      "rationale": "Four testimonies are followed by a specifically different fifth; fifth is ordinal and must not create a cardinal5 occurrence.",
+      "arabic": [
+        {
+          "verse": "24:6",
+          "arabic": "والذين يرمون أزواجهم ولم يكن لهم شهداء إلا أنفسهم فشهادة أحدهم أربع شهادات بالله إنه لمن الصادقين"
+        },
+        {
+          "verse": "24:7",
+          "arabic": "والخامسة أن لعنت الله عليه إن كان من الكاذبين"
+        },
+        {
+          "verse": "24:8",
+          "arabic": "ويدرأ عنها العذاب أن تشهد أربع شهادات بالله إنه لمن الكاذبين"
+        },
+        {
+          "verse": "24:9",
+          "arabic": "والخامسة أن غضب الله عليها إن كان من الصادقين"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "27:12"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        9
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "symbolic_epistemic_context",
+      "rationale": "Nine signs are a sign context, not explicit reflection on the numerical value.",
+      "arabic": [
+        {
+          "verse": "27:12",
+          "arabic": "وأدخل يدك في جيبك تخرج بيضاء من غير سوء في تسع آيات إلى فرعون وقومه إنهم كانوا قوما فاسقين"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "28:27"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        8,
+        10
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "core_number_discussion",
+      "rationale": "Eight years and voluntarily completing ten are explicit alternative totals.",
+      "arabic": [
+        {
+          "verse": "28:27",
+          "arabic": "قال إني أريد أن أنكحك إحدى ابنتي هاتين على أن تأجرني ثماني حجج فإن أتممت عشرا فمن عندك وما أريد أن أشق عليك ستجدني إن شاء الله من الصالحين"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "29:14"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        1000,
+        50
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "core_number_discussion",
+      "rationale": "Explicit subtraction of50 from1000;950 is derived and should not become a literal numeral.",
+      "arabic": [
+        {
+          "verse": "29:14",
+          "arabic": "ولقد أرسلنا نوحا إلى قومه فلبث فيهم ألف سنة إلا خمسين عاما فأخذهم الطوفان وهم ظالمون"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "32:5"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        1000
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "relational_quantity",
+      "rationale": "A day is measured as1000 counted years.",
+      "arabic": [
+        {
+          "verse": "32:5",
+          "arabic": "يدبر الأمر من السماء إلى الأرض ثم يعرج إليه في يوم كان مقداره ألف سنة مما تعدون"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "36:14"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        2
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "core_number_discussion",
+      "rationale": "Two messengers are reinforced by a third; third is ordinal, not a separate cardinal3 occurrence.",
+      "arabic": [
+        {
+          "verse": "36:14",
+          "arabic": "إذ أرسلنا إليهم اثنين فكذبوهما فعززنا بثالث فقالوا إنا إليكم مرسلون"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "37:147"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        100000
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "relational_quantity",
+      "rationale": "A population is described as100000 or more; this is an explicit open bound but inclusion as metacomment is debatable.",
+      "arabic": [
+        {
+          "verse": "37:147",
+          "arabic": "وأرسلناه إلى مائة ألف أو يزيدون"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "38:23",
+        "38:24"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        99,
+        1
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "relational_quantity",
+      "rationale": "Ninety-nine versus one ewe motivates the dispute; do not parse the compound99 as9 and90.",
+      "arabic": [
+        {
+          "verse": "38:23",
+          "arabic": "إن هذا أخي له تسع وتسعون نعجة ولي نعجة واحدة فقال أكفلنيها وعزني في الخطاب"
+        },
+        {
+          "verse": "38:24",
+          "arabic": "قال لقد ظلمك بسؤال نعجتك إلى نعاجه وإن كثيرا من الخلطاء ليبغي بعضهم على بعض إلا الذين آمنوا وعملوا الصالحات وقليل ما هم وظن داوود أنما فتناه فاستغفر ربه وخر راكعا وأناب"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "41:9",
+        "41:10",
+        "41:12"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        4
+      ],
+      "grammatical_dual_values": [
+        2,
+        2
+      ],
+      "fraction_values": [],
+      "tier": "relational_quantity",
+      "rationale": "Creation-duration statements include a four-day total and two-day dual forms; alternative reconciliations are interpretive and must not confer status on the unrelated cardinal7.",
+      "arabic": [
+        {
+          "verse": "41:9",
+          "arabic": "قل أئنكم لتكفرون بالذي خلق الأرض في يومين وتجعلون له أندادا ذلك رب العالمين"
+        },
+        {
+          "verse": "41:10",
+          "arabic": "وجعل فيها رواسي من فوقها وبارك فيها وقدر فيها أقواتها في أربعة أيام سواء للسائلين"
+        },
+        {
+          "verse": "41:12",
+          "arabic": "فقضاهن سبع سماوات في يومين وأوحى في كل سماء أمرها وزينا السماء الدنيا بمصابيح وحفظا ذلك تقدير العزيز العليم"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "46:15"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        30,
+        40
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "literal_only",
+      "rationale": "Pregnancy/weaning duration and maturity age are two different quantities; no cross-verse subtraction should be silently added.",
+      "arabic": [
+        {
+          "verse": "46:15",
+          "arabic": "ووصينا الإنسان بوالديه إحسانا حملته أمه كرها ووضعته كرها وحمله وفصاله ثلاثون شهرا حتى إذا بلغ أشده وبلغ أربعين سنة قال رب أوزعني أن أشكر نعمتك التي أنعمت علي وعلى والدي وأن أعمل صالحا ترضاه وأصلح لي في ذريتي إني تبت إليك وإني من المسلمين"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "58:4"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        60
+      ],
+      "grammatical_dual_values": [
+        2
+      ],
+      "fraction_values": [],
+      "tier": "relational_quantity",
+      "rationale": "Two months and feeding60 people are conditional expiation alternatives linked to belief; the dual2 is not a standalone numeral word.",
+      "arabic": [
+        {
+          "verse": "58:4",
+          "arabic": "فمن لم يجد فصيام شهرين متتابعين من قبل أن يتماسا فمن لم يستطع فإطعام ستين مسكينا ذلك لتؤمنوا بالله ورسوله وتلك حدود الله وللكافرين عذاب أليم"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "69:32"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        70
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "literal_only",
+      "rationale": "A70-cubit length is specified; measurement alone is not metacomment.",
+      "arabic": [
+        {
+          "verse": "69:32",
+          "arabic": "ثم في سلسلة ذرعها سبعون ذراعا فاسلكوه"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "70:4"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        50000
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "relational_quantity",
+      "rationale": "A day is given the measure50000 years; this is one composed numeral, not50 and1000 as separate occurrences.",
+      "arabic": [
+        {
+          "verse": "70:4",
+          "arabic": "تعرج الملائكة والروح إليه في يوم كان مقداره خمسين ألف سنة"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "73:2",
+        "73:3",
+        "73:4"
+      ],
+      "literal_integer_values_with_multiplicity": [],
+      "grammatical_dual_values": [],
+      "fraction_values": [
+        "1/2"
+      ],
+      "tier": "core_number_discussion",
+      "rationale": "Half a night may be decreased or increased; a fraction is not cardinal2.",
+      "arabic": [
+        {
+          "verse": "73:2",
+          "arabic": "قم الليل إلا قليلا"
+        },
+        {
+          "verse": "73:3",
+          "arabic": "نصفه أو انقص منه قليلا"
+        },
+        {
+          "verse": "73:4",
+          "arabic": "أو زد عليه ورتل القرآن ترتيلا"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "73:20"
+      ],
+      "literal_integer_values_with_multiplicity": [],
+      "grammatical_dual_values": [],
+      "fraction_values": [
+        "2/3",
+        "1/2",
+        "1/3"
+      ],
+      "tier": "core_number_discussion",
+      "rationale": "Fractions of the night are compared and ability to keep count is explicitly discussed.",
+      "arabic": [
+        {
+          "verse": "73:20",
+          "arabic": "إن ربك يعلم أنك تقوم أدنى من ثلثي الليل ونصفه وثلثه وطائفة من الذين معك والله يقدر الليل والنهار علم أن لن تحصوه فتاب عليكم فاقرءوا ما تيسر من القرآن علم أن سيكون منكم مرضى وآخرون يضربون في الأرض يبتغون من فضل الله وآخرون يقاتلون في سبيل الله فاقرءوا ما تيسر منه وأقيموا الصلاة وآتوا الزكاة وأقرضوا الله قرضا حسنا وما تقدموا لأنفسكم من خير تجدوه عند الله هو خيرا وأعظم أجرا واستغفروا الله إن الله غفور رحيم"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "89:2"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        10
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "symbolic_epistemic_context",
+      "rationale": "Ten nights are an oath object; no arithmetic or explanation of the numerical value.",
+      "arabic": [
+        {
+          "verse": "89:2",
+          "arabic": "وليال عشر"
+        }
+      ]
+    },
+    {
+      "verses": [
+        "97:3"
+      ],
+      "literal_integer_values_with_multiplicity": [
+        1000
+      ],
+      "grammatical_dual_values": [],
+      "fraction_values": [],
+      "tier": "relational_quantity",
+      "rationale": "A night is declared better than1000 months; comparative value, not an independently written numeral one.",
+      "arabic": [
+        {
+          "verse": "97:3",
+          "arabic": "ليلة القدر خير من ألف شهر"
+        }
+      ]
+    }
+  ],
+  "official_spot_checks": [
+    {
+      "verse": "58:7",
+      "url": "https://quran.com/en/al-mujadila/7",
+      "web_reference": "turn13view0"
+    },
+    {
+      "verse": "2:261",
+      "url": "https://quran.com/en/al-baqarah/261",
+      "web_reference": "turn13view1"
+    },
+    {
+      "verse": "24:58",
+      "url": "https://quran.com/en/an-nur/58",
+      "web_reference": "turn13view2"
+    },
+    {
+      "verse": "4:171",
+      "url": "https://quran.com/en/an-nisa/171",
+      "web_reference": "turn13view3"
+    },
+    {
+      "verse": "18:22",
+      "url": "https://kuran.diyanet.gov.tr/tefsir/Kehf-suresi/2162/22-ayet-tefsiri",
+      "web_reference": "turn8search8;turn9search0 (in ancestor audit)"
+    },
+    {
+      "verse": "2:196",
+      "url": "https://kuran.diyanet.gov.tr/tefsir/bakara-suresi/203/196-ayet-tefsiri",
+      "web_reference": "turn8search0 (in ancestor audit)"
+    }
+  ],
+  "reconciliation_note": "Initial independent simple-form scan found44, omitting definite-article forms9:118 (3),17:44 (7),23:86 (7). Comparing to the main parser identified these omissions; their Arabic contexts were added. Distinct-value and number-discussion candidate sets were unchanged.",
+  "updated_utc": "2026-10-25T13:29:50.322759+00:00"
+}

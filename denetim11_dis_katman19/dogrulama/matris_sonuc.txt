@@ -1,0 +1,5 @@
+129 raw P [3303, 2933, 3252, 3303] raw R [590, 854, 5965, 5382] P mod19 [16, 7, 3, 16] R mod19 [1, 18, 18, 5] ord P,R,PR+RP = 30 18 6 (PR-RP)^2 = [3, 0, 0, 3]
+127 raw P [3303, 2931, 3252, 3303] raw R [590, 854, 5965, 5380] P mod19 [16, 5, 3, 16] R mod19 [1, 18, 18, 3] ord P,R,PR+RP = 360 360 360 (PR-RP)^2 = [1, 0, 0, 1]
+identity violations over 19^3 triples: 0
+s = 2 : pairs with ord P = ord R = 360: 6  full architecture: [(1, 16)]
+s = 4 : pairs with ord P = ord R = 360: 8  full architecture: []

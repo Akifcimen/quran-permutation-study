@@ -1,0 +1,24 @@
+{
+  "purpose": "Fixed-budget independent estimate conditional on exact natural Cpattern-centre-and-W event under block6; partitioned by actual Cmask",
+  "frozen_score_and_models_unchanged": true,
+  "n": 100000000,
+  "seed": 202610250801,
+  "threads": 8,
+  "fixed_before_production_results": true,
+  "timestamp_utc": "2026-10-25T14:44:35.931987+00:00",
+  "production_file": "block6_C10W_production.json",
+  "scope": "Natural-event probabilities and intersections of frozen score tails with natural Cpattern-centre, W, and Geither; strict lower-bound contributions, not complete tail probabilities",
+  "pilot": {
+    "n": 10000,
+    "seed": 202610250751
+  },
+  "ratio": "G127+C15+W+M0 divided by G127+Cpatterncentre+W+M0 from the SAME production sample; conditional-binomial interval among denominator hits",
+  "input_hashes": {
+    "sample_cw10.cpp": "db67357273bac7a3d8c70007958ee806a322b3022f2774d3c22db30fa789eca7",
+    "cw10_sampler.hpp": "2da96f07fbd0b431864dcb984840573a983992888734e6212e3d69f1b0823331",
+    "block6_C10W_sampler.bin": "767aed11afe5c63729f320936bb8ed147466b00d6197b1bc68567576ea4fe378",
+    "block6_pattern_centre.py": "d7b59da47a01920d49d308e9263e33b959f9279888ff4a7a9e24cb7d961706f2",
+    "block6_core.py": "482c14385b2b9b2b0a1b662e85e1197be691857648720f9ed6c51ab4bf4a6f6f",
+    "block6_cw.py": "af5b6c66ea032688ed2a038fc15004b0f2438a77d6c077e6769fa2adae898d2a"
+  }
+}

@@ -1,0 +1,1195 @@
+{
+  "reviewed_utc": "2026-10-25T15:08:13.899005+00:00",
+  "scope": "guided_pilot_reviewer_validation",
+  "plan_file": "rare_event/pilot/guided_plan.json",
+  "plan_sha256": "466bc468b813ee2b3f967c9d5f3eddc96576a71d666522669351d194b2d464db",
+  "source_review": {
+    "registered_hashes_all_match": true,
+    "registered_hashes_checked": [
+      {
+        "path": "rare_event/src/smc_guided.cpp",
+        "expected": "e26b2f28c16e9dbaf8ddc89ea80946f78e9ecd45174814af596bdce90ff070e8",
+        "actual": "e26b2f28c16e9dbaf8ddc89ea80946f78e9ecd45174814af596bdce90ff070e8",
+        "matches": true
+      },
+      {
+        "path": "rare_event/src/soft_guide_pilot_baseline.hpp",
+        "expected": "c0b78adf3925909301845fc81928dc9f3e5155b22a0c71f32c4ffecb018ca0a9",
+        "actual": "c0b78adf3925909301845fc81928dc9f3e5155b22a0c71f32c4ffecb018ca0a9",
+        "matches": true
+      }
+    ],
+    "current_additional_dependency_hashes": {
+      "data/counts.txt": "0777e72c82177411059ac4bd665a44e0c27ba40ccc91d54469b08c021e00b96d",
+      "src/common.hpp": "4f83236ef3e435b714bb01937ea483a3fb80236657e03c28325a7acf213659d1",
+      "src/sampler.hpp": "c987ddbe3af2cb30757be1f1574b8543d81794f07de0a7da40b3933dc9129a9b",
+      "src/matrix.hpp": "03d9fba5028b7af889a12d657a13241286521ff2021ee685cf19cdcac7818f18",
+      "src/hist.hpp": "585557d4cd5fa57c66da61cce367a971c8ae04ed388d32164f6da7e5ed864199",
+      "results/train_uniform.bin": "8881edb916c58d15869de4b6eed778f484b23aeb3554a939d816dcab353a225a",
+      "results/train_block6.bin": "b9c43dd64a5b68b9b298035255fe7a5b8f4e7a4a9015f94ff8868a396d93f49c",
+      "results/train_inversion_exact.bin": "912658303c400ebf9072ba5f499200e0d1e69c550fedb04d1cafa8f55b7f0a48"
+    },
+    "additional_hash_scope": "Recorded at audit time; these additional hashes were not declared in the production plan and are not represented as prelaunch attestations."
+  },
+  "reporting_gate": {
+    "minimum_nonzero_replicates": 6,
+    "maximum_empirical_relative_standard_error": 0.35,
+    "maximum_single_replicate_share": 0.35,
+    "description": "These are precision diagnostics, not a mathematical guarantee of mode coverage. Failed gates imply exploratory status. No successful-run-only averaging."
+  },
+  "models": {
+    "uniform": {
+      "status": "complete_verified",
+      "completed_replicates": 2,
+      "planned_replicates": 2,
+      "published_aggregate_verified": true,
+      "pending": [],
+      "replicates": [
+        {
+          "replicate": 0,
+          "seed": 571429122824594241,
+          "status": "passed",
+          "states_checked": 256,
+          "scores_compared_bit_exactly": 1536,
+          "null_support_verified": true,
+          "target_hits": 256,
+          "estimate": 5.686824232269233e-12,
+          "policy_estimates": [
+            5.686824232269233e-12,
+            5.686824232269233e-12,
+            5.686824232269233e-12,
+            5.686824232269233e-12,
+            0,
+            5.686824232269233e-12
+          ],
+          "natural_event_estimates": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "natural_estimate_source": "Reconstructed from original-score verification and final inverse-gamma weights; compared with reported values where present.",
+          "natural_flag_counts": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "largest_selected_inverse_gamma_logweight_by_policy": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            null,
+            0.0
+          ],
+          "largest_selected_inverse_gamma_logweight_by_natural_event": [
+            null,
+            null,
+            null,
+            null
+          ],
+          "final_founders": 2,
+          "largest_founder_fraction": 0.6875,
+          "final_distinct_permutations": 256,
+          "final_distinct_primary_programs": 9,
+          "minimum_ESS_before_resampling": 8.10683423051044,
+          "maximum_single_particle_weight_before_resampling": 0.3403309723300777,
+          "inversion129_range": [
+            2703,
+            3716
+          ],
+          "inversion127_range": [
+            2704,
+            3717
+          ],
+          "log_z": -25.892869155015006,
+          "seconds": 138.227096912,
+          "replicate_json_sha256": "b4975d7f945b7d8deaa9baecd9b4982ae486986ae07aa311c3665d301880745d",
+          "state_binary_sha256": "ce5459e95aea63840bc1a90098446dada968b3a4c70a74ace805d1e056d9ce71",
+          "state_review_file": "rare_event/review/pilot_uniform_rep0_state_review.json"
+        },
+        {
+          "replicate": 1,
+          "seed": 15800924394004741322,
+          "status": "passed",
+          "states_checked": 256,
+          "scores_compared_bit_exactly": 1536,
+          "null_support_verified": true,
+          "target_hits": 256,
+          "estimate": 3.531418395510623e-16,
+          "policy_estimates": [
+            3.531418395510623e-16,
+            3.531418395510623e-16,
+            3.531418395510623e-16,
+            3.531418395510623e-16,
+            0,
+            3.531418395510623e-16
+          ],
+          "natural_event_estimates": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "natural_estimate_source": "Reconstructed from original-score verification and final inverse-gamma weights; compared with reported values where present.",
+          "natural_flag_counts": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "largest_selected_inverse_gamma_logweight_by_policy": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            null,
+            0.0
+          ],
+          "largest_selected_inverse_gamma_logweight_by_natural_event": [
+            null,
+            null,
+            null,
+            null
+          ],
+          "final_founders": 1,
+          "largest_founder_fraction": 1,
+          "final_distinct_permutations": 256,
+          "final_distinct_primary_programs": 8,
+          "minimum_ESS_before_resampling": 6.728124948229933,
+          "maximum_single_particle_weight_before_resampling": 0.3833300914664429,
+          "inversion129_range": [
+            2629,
+            3710
+          ],
+          "inversion127_range": [
+            2628,
+            3709
+          ],
+          "log_z": -35.57966188590487,
+          "seconds": 137.724400702,
+          "replicate_json_sha256": "657dd8d73f27b011e21d427e18977a32c3c595c8087fc711b5c305f45962bd01",
+          "state_binary_sha256": "e577ef8336cdd7a1125e009ca6550b445e10163424d0a4cd3102d37ca5a68b02",
+          "state_review_file": "rare_event/review/pilot_uniform_rep1_state_review.json"
+        }
+      ],
+      "policies": {
+        "uniform_29": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 2,
+          "arithmetic_mean_including_zeros": 2.843588687054392e-12,
+          "between_replicate_standard_error": 2.843235545214841e-12,
+          "empirical_relative_standard_error": 0.9998758112095611,
+          "maximum_single_replicate_share": 0.9999379056047806,
+          "replicate_estimates": [
+            5.686824232269233e-12,
+            3.531418395510623e-16
+          ],
+          "reciprocal_of_mean": 351668300184.3973,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "primary_mixture": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 2,
+          "arithmetic_mean_including_zeros": 2.843588687054392e-12,
+          "between_replicate_standard_error": 2.843235545214841e-12,
+          "empirical_relative_standard_error": 0.9998758112095611,
+          "maximum_single_replicate_share": 0.9999379056047806,
+          "replicate_estimates": [
+            5.686824232269233e-12,
+            3.531418395510623e-16
+          ],
+          "reciprocal_of_mean": 351668300184.3973,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "literal_integer_values": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 2,
+          "arithmetic_mean_including_zeros": 2.843588687054392e-12,
+          "between_replicate_standard_error": 2.843235545214841e-12,
+          "empirical_relative_standard_error": 0.9998758112095611,
+          "maximum_single_replicate_share": 0.9999379056047806,
+          "replicate_estimates": [
+            5.686824232269233e-12,
+            3.531418395510623e-16
+          ],
+          "reciprocal_of_mean": 351668300184.3973,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "number_discussion_values": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 2,
+          "arithmetic_mean_including_zeros": 2.843588687054392e-12,
+          "between_replicate_standard_error": 2.843235545214841e-12,
+          "empirical_relative_standard_error": 0.9998758112095611,
+          "maximum_single_replicate_share": 0.9999379056047806,
+          "replicate_estimates": [
+            5.686824232269233e-12,
+            3.531418395510623e-16
+          ],
+          "reciprocal_of_mean": 351668300184.3973,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "conditional_19": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 0,
+          "arithmetic_mean_including_zeros": 0.0,
+          "between_replicate_standard_error": 0.0,
+          "empirical_relative_standard_error": null,
+          "maximum_single_replicate_share": null,
+          "replicate_estimates": [
+            0,
+            0
+          ],
+          "reciprocal_of_mean": null,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "literal_frequency": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 2,
+          "arithmetic_mean_including_zeros": 2.843588687054392e-12,
+          "between_replicate_standard_error": 2.843235545214841e-12,
+          "empirical_relative_standard_error": 0.9998758112095611,
+          "maximum_single_replicate_share": 0.9999379056047806,
+          "replicate_estimates": [
+            5.686824232269233e-12,
+            3.531418395510623e-16
+          ],
+          "reciprocal_of_mean": 351668300184.3973,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        }
+      },
+      "natural_events": {
+        "129_scalar_G_C15_W": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 0,
+          "arithmetic_mean_including_zeros": 0.0,
+          "between_replicate_standard_error": 0.0,
+          "empirical_relative_standard_error": null,
+          "maximum_single_replicate_share": null,
+          "replicate_estimates": [
+            0.0,
+            0.0
+          ],
+          "reciprocal_of_mean": null,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "129_scalar_plus_M_view0": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 0,
+          "arithmetic_mean_including_zeros": 0.0,
+          "between_replicate_standard_error": 0.0,
+          "empirical_relative_standard_error": null,
+          "maximum_single_replicate_share": null,
+          "replicate_estimates": [
+            0.0,
+            0.0
+          ],
+          "reciprocal_of_mean": null,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "127_scalar_G_C15_W": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 0,
+          "arithmetic_mean_including_zeros": 0.0,
+          "between_replicate_standard_error": 0.0,
+          "empirical_relative_standard_error": null,
+          "maximum_single_replicate_share": null,
+          "replicate_estimates": [
+            0.0,
+            0.0
+          ],
+          "reciprocal_of_mean": null,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "127_scalar_plus_M_view0": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 0,
+          "arithmetic_mean_including_zeros": 0.0,
+          "between_replicate_standard_error": 0.0,
+          "empirical_relative_standard_error": null,
+          "maximum_single_replicate_share": null,
+          "replicate_estimates": [
+            0.0,
+            0.0
+          ],
+          "reciprocal_of_mean": null,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        }
+      },
+      "secondary_policy_caution": "The primary-score guide need not cover secondary-event regions well. Each policy receives its own replicate diagnostics; inverse-gamma validity does not ensure small variance."
+    },
+    "block6": {
+      "status": "complete_verified",
+      "completed_replicates": 2,
+      "planned_replicates": 2,
+      "published_aggregate_verified": true,
+      "pending": [],
+      "replicates": [
+        {
+          "replicate": 0,
+          "seed": 15398781423798031625,
+          "status": "passed",
+          "states_checked": 256,
+          "scores_compared_bit_exactly": 1536,
+          "null_support_verified": true,
+          "target_hits": 0,
+          "estimate": 0,
+          "policy_estimates": [
+            4.956429043449713e-17,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "natural_event_estimates": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "natural_estimate_source": "Reconstructed from original-score verification and final inverse-gamma weights; compared with reported values where present.",
+          "natural_flag_counts": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "largest_selected_inverse_gamma_logweight_by_policy": [
+            72.96382051798048,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "largest_selected_inverse_gamma_logweight_by_natural_event": [
+            null,
+            null,
+            null,
+            null
+          ],
+          "final_founders": 1,
+          "largest_founder_fraction": 1,
+          "final_distinct_permutations": 256,
+          "final_distinct_primary_programs": 2,
+          "minimum_ESS_before_resampling": 25.049283276236658,
+          "maximum_single_particle_weight_before_resampling": 0.10818193965830988,
+          "inversion129_range": [
+            1005,
+            1038
+          ],
+          "inversion127_range": [
+            1006,
+            1039
+          ],
+          "log_z": -108.07571627247776,
+          "seconds": 135.315231022,
+          "replicate_json_sha256": "6bd6fdd5fcd88de307ea4577d5c2537c9d7b4d256b4246761740865ee75d84c3",
+          "state_binary_sha256": "22d34fde3159d97e23301c6fb0c0a70b96212210e1f2997d334c232826b2e9ca",
+          "state_review_file": "rare_event/review/pilot_block6_rep0_state_review.json"
+        },
+        {
+          "replicate": 1,
+          "seed": 12228924805503824629,
+          "status": "passed",
+          "states_checked": 256,
+          "scores_compared_bit_exactly": 1536,
+          "null_support_verified": true,
+          "target_hits": 256,
+          "estimate": 2.083747968735777e-12,
+          "policy_estimates": [
+            2.083747968735777e-12,
+            2.083747968735777e-12,
+            2.083747968735777e-12,
+            2.083747968735777e-12,
+            0,
+            2.083747968735777e-12
+          ],
+          "natural_event_estimates": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "natural_estimate_source": "Reconstructed from original-score verification and final inverse-gamma weights; compared with reported values where present.",
+          "natural_flag_counts": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "largest_selected_inverse_gamma_logweight_by_policy": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            null,
+            0.0
+          ],
+          "largest_selected_inverse_gamma_logweight_by_natural_event": [
+            null,
+            null,
+            null,
+            null
+          ],
+          "final_founders": 1,
+          "largest_founder_fraction": 1,
+          "final_distinct_permutations": 256,
+          "final_distinct_primary_programs": 10,
+          "minimum_ESS_before_resampling": 26.999574460581247,
+          "maximum_single_particle_weight_before_resampling": 0.0983583191160254,
+          "inversion129_range": [
+            984,
+            1027
+          ],
+          "inversion127_range": [
+            985,
+            1028
+          ],
+          "log_z": -26.89685293565802,
+          "seconds": 134.148619718,
+          "replicate_json_sha256": "4498cc239a61098b734f5ce654bb34b47d22f4fa870e5ab15dc9ad066b2bf606",
+          "state_binary_sha256": "760dc281c22e6432f991a8b9a939de6f876383656a1baa7648f9d2fb2da25303",
+          "state_review_file": "rare_event/review/pilot_block6_rep1_state_review.json"
+        }
+      ],
+      "policies": {
+        "uniform_29": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 2,
+          "arithmetic_mean_including_zeros": 1.0418987665131056e-12,
+          "between_replicate_standard_error": 1.0418492022226713e-12,
+          "empirical_relative_standard_error": 0.9999524288807824,
+          "maximum_single_replicate_share": 0.9999762144403912,
+          "replicate_estimates": [
+            4.956429043449713e-17,
+            2.083747968735777e-12
+          ],
+          "reciprocal_of_mean": 959786144431.9326,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "primary_mixture": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 1,
+          "arithmetic_mean_including_zeros": 1.0418739843678884e-12,
+          "between_replicate_standard_error": 1.0418739843678884e-12,
+          "empirical_relative_standard_error": 1.0,
+          "maximum_single_replicate_share": 1.0,
+          "replicate_estimates": [
+            0,
+            2.083747968735777e-12
+          ],
+          "reciprocal_of_mean": 959808974025.4973,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "literal_integer_values": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 1,
+          "arithmetic_mean_including_zeros": 1.0418739843678884e-12,
+          "between_replicate_standard_error": 1.0418739843678884e-12,
+          "empirical_relative_standard_error": 1.0,
+          "maximum_single_replicate_share": 1.0,
+          "replicate_estimates": [
+            0,
+            2.083747968735777e-12
+          ],
+          "reciprocal_of_mean": 959808974025.4973,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "number_discussion_values": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 1,
+          "arithmetic_mean_including_zeros": 1.0418739843678884e-12,
+          "between_replicate_standard_error": 1.0418739843678884e-12,
+          "empirical_relative_standard_error": 1.0,
+          "maximum_single_replicate_share": 1.0,
+          "replicate_estimates": [
+            0,
+            2.083747968735777e-12
+          ],
+          "reciprocal_of_mean": 959808974025.4973,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "conditional_19": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 0,
+          "arithmetic_mean_including_zeros": 0.0,
+          "between_replicate_standard_error": 0.0,
+          "empirical_relative_standard_error": null,
+          "maximum_single_replicate_share": null,
+          "replicate_estimates": [
+            0,
+            0
+          ],
+          "reciprocal_of_mean": null,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "literal_frequency": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 1,
+          "arithmetic_mean_including_zeros": 1.0418739843678884e-12,
+          "between_replicate_standard_error": 1.0418739843678884e-12,
+          "empirical_relative_standard_error": 1.0,
+          "maximum_single_replicate_share": 1.0,
+          "replicate_estimates": [
+            0,
+            2.083747968735777e-12
+          ],
+          "reciprocal_of_mean": 959808974025.4973,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        }
+      },
+      "natural_events": {
+        "129_scalar_G_C15_W": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 0,
+          "arithmetic_mean_including_zeros": 0.0,
+          "between_replicate_standard_error": 0.0,
+          "empirical_relative_standard_error": null,
+          "maximum_single_replicate_share": null,
+          "replicate_estimates": [
+            0.0,
+            0.0
+          ],
+          "reciprocal_of_mean": null,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "129_scalar_plus_M_view0": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 0,
+          "arithmetic_mean_including_zeros": 0.0,
+          "between_replicate_standard_error": 0.0,
+          "empirical_relative_standard_error": null,
+          "maximum_single_replicate_share": null,
+          "replicate_estimates": [
+            0.0,
+            0.0
+          ],
+          "reciprocal_of_mean": null,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "127_scalar_G_C15_W": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 0,
+          "arithmetic_mean_including_zeros": 0.0,
+          "between_replicate_standard_error": 0.0,
+          "empirical_relative_standard_error": null,
+          "maximum_single_replicate_share": null,
+          "replicate_estimates": [
+            0.0,
+            0.0
+          ],
+          "reciprocal_of_mean": null,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "127_scalar_plus_M_view0": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 0,
+          "arithmetic_mean_including_zeros": 0.0,
+          "between_replicate_standard_error": 0.0,
+          "empirical_relative_standard_error": null,
+          "maximum_single_replicate_share": null,
+          "replicate_estimates": [
+            0.0,
+            0.0
+          ],
+          "reciprocal_of_mean": null,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        }
+      },
+      "secondary_policy_caution": "The primary-score guide need not cover secondary-event regions well. Each policy receives its own replicate diagnostics; inverse-gamma validity does not ensure small variance."
+    },
+    "inversion_exact": {
+      "status": "complete_verified",
+      "completed_replicates": 2,
+      "planned_replicates": 2,
+      "published_aggregate_verified": true,
+      "pending": [],
+      "replicates": [
+        {
+          "replicate": 0,
+          "seed": 5170247355523520964,
+          "status": "passed",
+          "states_checked": 256,
+          "scores_compared_bit_exactly": 1536,
+          "null_support_verified": true,
+          "target_hits": 0,
+          "estimate": 0,
+          "policy_estimates": [
+            8.901918088462698e-21,
+            0,
+            0,
+            0,
+            0,
+            3.7243483331602305e-17
+          ],
+          "natural_event_estimates": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "natural_estimate_source": "Reconstructed from original-score verification and final inverse-gamma weights; compared with reported values where present.",
+          "natural_flag_counts": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "largest_selected_inverse_gamma_logweight_by_policy": [
+            5.779925241678598,
+            null,
+            null,
+            null,
+            null,
+            18.958059317895618
+          ],
+          "largest_selected_inverse_gamma_logweight_by_natural_event": [
+            null,
+            null,
+            null,
+            null
+          ],
+          "final_founders": 1,
+          "largest_founder_fraction": 1,
+          "final_distinct_permutations": 117,
+          "final_distinct_primary_programs": 3,
+          "minimum_ESS_before_resampling": 5.616775654458369,
+          "maximum_single_particle_weight_before_resampling": 0.4199269337934297,
+          "inversion129_range": [
+            993,
+            993
+          ],
+          "inversion127_range": [
+            994,
+            994
+          ],
+          "log_z": -51.936157469725956,
+          "seconds": 58.249362619,
+          "replicate_json_sha256": "089da3242149b7aa04ed26da76d120303d13a1abcb9a7a8b8b064c54f66d1228",
+          "state_binary_sha256": "4097c3a269d9cef73ea2b34c15559fac9dd904606010844ba0d429f65df7ea11",
+          "state_review_file": "rare_event/review/pilot_inversion_exact_rep0_state_review.json"
+        },
+        {
+          "replicate": 1,
+          "seed": 11678506057853035847,
+          "status": "passed",
+          "states_checked": 256,
+          "scores_compared_bit_exactly": 1536,
+          "null_support_verified": true,
+          "target_hits": 256,
+          "estimate": 3.368921562406158e-14,
+          "policy_estimates": [
+            3.368921562406158e-14,
+            3.368921562406158e-14,
+            3.368921562406158e-14,
+            3.368921562406158e-14,
+            0,
+            3.368921562406158e-14
+          ],
+          "natural_event_estimates": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "natural_estimate_source": "Reconstructed from original-score verification and final inverse-gamma weights; compared with reported values where present.",
+          "natural_flag_counts": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "largest_selected_inverse_gamma_logweight_by_policy": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            null,
+            0.0
+          ],
+          "largest_selected_inverse_gamma_logweight_by_natural_event": [
+            null,
+            null,
+            null,
+            null
+          ],
+          "final_founders": 1,
+          "largest_founder_fraction": 1,
+          "final_distinct_permutations": 175,
+          "final_distinct_primary_programs": 2,
+          "minimum_ESS_before_resampling": 19.332514009726133,
+          "maximum_single_particle_weight_before_resampling": 0.14708942693893295,
+          "inversion129_range": [
+            993,
+            993
+          ],
+          "inversion127_range": [
+            994,
+            994
+          ],
+          "log_z": -31.021598619922308,
+          "seconds": 59.23917191,
+          "replicate_json_sha256": "6aa4046a3311ff48c4f940c9c2021bfd6f41f5e8e21303070f86a37d89ac64aa",
+          "state_binary_sha256": "3cd25def8f600394b1ff9ad680b11d23567a01beacca9b756a6f828ca19a710d",
+          "state_review_file": "rare_event/review/pilot_inversion_exact_rep1_state_review.json"
+        }
+      ],
+      "policies": {
+        "uniform_29": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 2,
+          "arithmetic_mean_including_zeros": 1.6844612262989833e-14,
+          "between_replicate_standard_error": 1.6844603361071745e-14,
+          "empirical_relative_standard_error": 0.9999994715272783,
+          "maximum_single_replicate_share": 0.9999997357636391,
+          "replicate_estimates": [
+            8.901918088462698e-21,
+            3.368921562406158e-14
+          ],
+          "reciprocal_of_mean": 59366163161686.516,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "primary_mixture": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 1,
+          "arithmetic_mean_including_zeros": 1.684460781203079e-14,
+          "between_replicate_standard_error": 1.684460781203079e-14,
+          "empirical_relative_standard_error": 1.0,
+          "maximum_single_replicate_share": 1.0,
+          "replicate_estimates": [
+            0,
+            3.368921562406158e-14
+          ],
+          "reciprocal_of_mean": 59366178848389.57,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "literal_integer_values": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 1,
+          "arithmetic_mean_including_zeros": 1.684460781203079e-14,
+          "between_replicate_standard_error": 1.684460781203079e-14,
+          "empirical_relative_standard_error": 1.0,
+          "maximum_single_replicate_share": 1.0,
+          "replicate_estimates": [
+            0,
+            3.368921562406158e-14
+          ],
+          "reciprocal_of_mean": 59366178848389.57,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "number_discussion_values": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 1,
+          "arithmetic_mean_including_zeros": 1.684460781203079e-14,
+          "between_replicate_standard_error": 1.684460781203079e-14,
+          "empirical_relative_standard_error": 1.0,
+          "maximum_single_replicate_share": 1.0,
+          "replicate_estimates": [
+            0,
+            3.368921562406158e-14
+          ],
+          "reciprocal_of_mean": 59366178848389.57,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "conditional_19": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 0,
+          "arithmetic_mean_including_zeros": 0.0,
+          "between_replicate_standard_error": 0.0,
+          "empirical_relative_standard_error": null,
+          "maximum_single_replicate_share": null,
+          "replicate_estimates": [
+            0,
+            0
+          ],
+          "reciprocal_of_mean": null,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "literal_frequency": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 2,
+          "arithmetic_mean_including_zeros": 1.686322955369659e-14,
+          "between_replicate_standard_error": 1.6825986070364988e-14,
+          "empirical_relative_standard_error": 0.9977914382762205,
+          "maximum_single_replicate_share": 0.9988957191381101,
+          "replicate_estimates": [
+            3.7243483331602305e-17,
+            3.368921562406158e-14
+          ],
+          "reciprocal_of_mean": 59300621913243.77,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        }
+      },
+      "natural_events": {
+        "129_scalar_G_C15_W": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 0,
+          "arithmetic_mean_including_zeros": 0.0,
+          "between_replicate_standard_error": 0.0,
+          "empirical_relative_standard_error": null,
+          "maximum_single_replicate_share": null,
+          "replicate_estimates": [
+            0.0,
+            0.0
+          ],
+          "reciprocal_of_mean": null,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "129_scalar_plus_M_view0": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 0,
+          "arithmetic_mean_including_zeros": 0.0,
+          "between_replicate_standard_error": 0.0,
+          "empirical_relative_standard_error": null,
+          "maximum_single_replicate_share": null,
+          "replicate_estimates": [
+            0.0,
+            0.0
+          ],
+          "reciprocal_of_mean": null,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "127_scalar_G_C15_W": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 0,
+          "arithmetic_mean_including_zeros": 0.0,
+          "between_replicate_standard_error": 0.0,
+          "empirical_relative_standard_error": null,
+          "maximum_single_replicate_share": null,
+          "replicate_estimates": [
+            0.0,
+            0.0
+          ],
+          "reciprocal_of_mean": null,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        },
+        "127_scalar_plus_M_view0": {
+          "replicates": 2,
+          "planned_replicates": 2,
+          "nonzero_replicates": 0,
+          "arithmetic_mean_including_zeros": 0.0,
+          "between_replicate_standard_error": 0.0,
+          "empirical_relative_standard_error": null,
+          "maximum_single_replicate_share": null,
+          "replicate_estimates": [
+            0.0,
+            0.0
+          ],
+          "reciprocal_of_mean": null,
+          "gate_checks": {
+            "all_planned_replicates_complete": true,
+            "minimum_nonzero_replicates": false,
+            "relative_standard_error": false,
+            "largest_replicate_share": false
+          },
+          "registered_production_gate_eligible": false,
+          "passes_precision_gate": false,
+          "status": "exploratory",
+          "uncertainty_scope": "Between-replicate empirical variation; no binomial particle interval and no guarantee of rare-mode coverage."
+        }
+      },
+      "secondary_policy_caution": "The primary-score guide need not cover secondary-event regions well. Each policy receives its own replicate diagnostics; inverse-gamma validity does not ensure small variance."
+    }
+  },
+  "review_implementation_hashes": {
+    "production_review.py": "880fdd60310fe49a932969c1112569d199ad3a8e79306c3e77da13bbc0ea5266",
+    "review_saved_states.cpp": "8a5b39a07a2cac58ed2afec9c5c1407e95ce31046d66d492cb061a82775126af",
+    "review_seed_streams.py": "d2b32e02ad9f06184148c57a63041f63b9214d1808f601d6eb677faa315c1e83"
+  },
+  "status": "passed_all_completed_outputs",
+  "no_binomial_particle_intervals": true
+}

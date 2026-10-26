@@ -1,0 +1,32 @@
+{
+  "event": "Natural C=15 AND W=3, alpha=beta=1, prime19, block6",
+  "is_full_score_tail_probability": false,
+  "count": "8056614675646853691542453340177169593139200000",
+  "space": "1946782493550362124155303577601966080000000000000000000",
+  "reduced_numerator": "6052295999638228458971",
+  "reduced_denominator": "1462463376025190400000000000000",
+  "probability": 4.1384256856316515e-09,
+  "W_given_C_probability": 0.004678434174618825,
+  "W_given_C_numerator": "6052295999638228458971",
+  "W_given_C_denominator": "1293658470706459852800000",
+  "target_counts": [
+    "4163795135722869038942281591664249948602368000",
+    "3892819539923984652600171748512919644536832000"
+  ],
+  "cache_before_export": {
+    "hits": 236359,
+    "misses": 68139,
+    "maxsize": null,
+    "currsize": 68139
+  },
+  "positive_C_nodes": 500,
+  "local_group_edges": 2513,
+  "both_variants_identical_C_and_W": true,
+  "cache_after_export": {
+    "hits": 346509,
+    "misses": 76152,
+    "maxsize": null,
+    "currsize": 76152
+  },
+  "seconds": 0.35037611199913954
+}

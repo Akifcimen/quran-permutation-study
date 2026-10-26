@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "replicate_summary_examples": 5,
+  "inverse_gamma_examples": 3,
+  "invalid_state_cases_rejected": {
+    "duplicate_identity": "Saved-state review failed: Repeated identity in saved permutation",
+    "out_of_block": "Saved-state review failed: Saved state leaves original six-item block",
+    "changed_saved_score": "Saved-state review failed: Saved score differs bit for bit from original scorer",
+    "truncated_record": "Saved-state review failed: Truncated saved state record"
+  },
+  "scope": "Deterministic aggregation and error detection; empirical pilot-state validation is recorded separately."
+}

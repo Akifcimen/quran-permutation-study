@@ -1,0 +1,22 @@
+{
+  "purpose": "Independent fixed-budget estimate conditional on an exactly counted natural C-and-W event under block6",
+  "frozen_score_and_models_unchanged": true,
+  "n": 100000000,
+  "seed": 202610250701,
+  "threads": 8,
+  "fixed_before_production_results": true,
+  "timestamp_utc": "2026-10-25T14:37:38.824879+00:00",
+  "production_file": "block6_CW_production.json",
+  "scope": "Natural event probabilities and intersections of frozen score tails with natural CW and Geither; not complete full-score tail probabilities",
+  "pilot_used_for_budget_and_implementation_checks": {
+    "n": 100000,
+    "seed": 202610250601
+  },
+  "input_hashes": {
+    "sample_cw.cpp": "6314c25666f454532638939a07e062db8e952ac72a899362343b01162a395a19",
+    "cw_sampler.hpp": "bbdfacead4f60efff631dcfd42f2f333395ce32266fe77badf69ac9689907355",
+    "block6_CW_sampler.bin": "984b7a6d03e5d31cbb81a0abb1ae94360d8cf4659a3f659f4e537a5625516d98",
+    "block6_cw.py": "af5b6c66ea032688ed2a038fc15004b0f2438a77d6c077e6769fa2adae898d2a",
+    "block6_core.py": "482c14385b2b9b2b0a1b662e85e1197be691857648720f9ed6c51ab4bf4a6f6f"
+  }
+}

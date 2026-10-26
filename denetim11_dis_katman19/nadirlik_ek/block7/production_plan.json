@@ -1,0 +1,36 @@
+{
+  "phase": "production",
+  "frozen_utc": "2026-10-25T15:07:59.384531+00:00",
+  "total_proposals": 100000000,
+  "batches": [
+    {
+      "n": 50000000,
+      "seed": 202610251702,
+      "threads": 8,
+      "output": "production_batch0.json"
+    },
+    {
+      "n": 50000000,
+      "seed": 202610251703,
+      "threads": 8,
+      "output": "production_batch1.json"
+    }
+  ],
+  "proposal": "Exact size-weighted mixture of six W0(p7) anchors; independent1/K thinning; rejected proposals remain zeros",
+  "event": "Frozen primary mixture-score exceedance intersect union of W7 anchors, all two variants and complete grammar retained",
+  "estimate": "sum(anchor exact probabilities) * total thinned event hits / total proposal count",
+  "interval": "Exact two-sided95% Clopper-Pearson for thinned event indicator, multiplied by exact sum(anchor probabilities)",
+  "weighted_secondary": "mean(sum_b/K * primary_event), calculated on all proposals",
+  "G_screen": "Any balance bit over all three parity types and both count variants; proved necessary for block6 primary exceedance",
+  "secondary_policies": "Tail intersect any G balance only, unless a separate necessity proof is supplied",
+  "pilot_excluded": true,
+  "stopping": "Exactly both batches; no outcome-dependent extension or early stopping",
+  "precision_planning": "Pilot29 hits per1m projects2900 successes and approximately1.9% relative standard error; this is not a promised achieved precision",
+  "files_sha256": {
+    "sampler.hpp": "fcba4754772513286646a560487579521371afa24dc1739425e0a27459dc2959",
+    "sample.cpp": "669f8f609014cfa6f5480c02638c1655bfcbd1efa96654e46fab030a1b2270b4",
+    "anchor_counts_cpp.json": "8d9b25c97cf2a956f4de0d8e1e8275f96a8f1314c317bc1d78f6ad1485c109dc",
+    "independent_counts.json": "8c3204ec2858dea92ee24d00fd551e688049896207cc7c184e634588b1e5b94a",
+    "independent_intersections.json": "c543382b8c0c8ae00f8b79f209380358176e395cabe404c05fb57feb762c7c31"
+  }
+}

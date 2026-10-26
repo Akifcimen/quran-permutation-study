@@ -1,0 +1,89 @@
+{
+  "condition": "G3 and natural C centre (sumF(n+a)=4*19^2), prime19",
+  "method": "Independent direct matrix multiplication and exact multiplicative orders across all361 residuepairs and8views, eachvariant",
+  "all_passing_pairs": {
+    "129": [
+      {
+        "E_N_mod19": 8,
+        "F_N_mod19": 9,
+        "views": [
+          1
+        ],
+        "P_mod19": [
+          8,
+          15,
+          11,
+          8
+        ],
+        "R_mod19": [
+          9,
+          10,
+          10,
+          13
+        ]
+      },
+      {
+        "E_N_mod19": 10,
+        "F_N_mod19": 11,
+        "views": [
+          1
+        ],
+        "P_mod19": [
+          10,
+          13,
+          9,
+          10
+        ],
+        "R_mod19": [
+          11,
+          8,
+          8,
+          15
+        ]
+      }
+    ],
+    "127": [
+      {
+        "E_N_mod19": 16,
+        "F_N_mod19": 1,
+        "views": [
+          0,
+          3
+        ],
+        "P_mod19": [
+          16,
+          5,
+          3,
+          16
+        ],
+        "R_mod19": [
+          1,
+          18,
+          18,
+          3
+        ]
+      },
+      {
+        "E_N_mod19": 18,
+        "F_N_mod19": 3,
+        "views": [
+          5,
+          6
+        ],
+        "P_mod19": [
+          18,
+          3,
+          1,
+          18
+        ],
+        "R_mod19": [
+          3,
+          16,
+          16,
+          5
+        ]
+      }
+    ]
+  },
+  "reference_sha256": "3e6f1d016614aaa2a93cdf198a72ba393f45db562bf8e4de1de22333328ec87f"
+}

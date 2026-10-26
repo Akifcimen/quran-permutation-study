@@ -1,0 +1,13 @@
+{
+  "phase": "pilot",
+  "n": 1000000,
+  "seed": 202610251701,
+  "threads": 8,
+  "sampler": "exact count-proportional six-anchor mixture with independent1/K thinning",
+  "fixed_proposal_budget": true,
+  "primary_estimator": "B*thinned_primary_hits/n, B=sum_j P0(B_j)",
+  "secondary_estimator": "mean(B/K*primary_hit)",
+  "event": "frozen primary score tail intersect union of six W0(p7) anchors",
+  "full_G_balance_screen": "all three parity types and both variants; necessary for primary block6 exceedance by certified score upper bound",
+  "production": "budget and independent seed will be frozen after this pilot; no pilot observations pooled into production"
+}

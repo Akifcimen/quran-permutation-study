@@ -1,0 +1,21 @@
+{
+  "README.md": "d118e47210838a71a84ace0d1df56436af2db75bce0f942ab3f1126356e3a03e",
+  "SOURCE_NOTICE.txt": "b5eadb3c0c9a8c9a0cb055b78139c797cd81dda53ac3c6fbfb97c0b786a9d15d",
+  "build_semantic_outputs.py": "6f7bebf2367698428d4cb0aba9cccfe6d789d40c47b69b5a3c6938e1d6a2d6d5",
+  "eligible_prime_inventory.csv": "91508712be05d7850e521b04f0e69e1a238578ffe7635a3041982701508510a1",
+  "eligible_prime_inventory.json": "75495862c5ee1084f920194ab5e405f2808284ff06933e74a253830bf69fd533",
+  "inventory.csv": "001ba8c6f4bd70dd9a0f3251cfe52dc4631a3c1ac8dfd9e4d3d5c72e59874231",
+  "inventory.json": "9bed81a4b1917a311d163e35822b8dce893e54092f81b0b717abc15756e89724",
+  "lexical_candidates.tsv": "03110e48df522c1972a66dbecc5efc2d2d616762d9f8dd87124044e661806d2f",
+  "literal_integer_inventory.csv": "33eba45cc6f0865ce154f06b9d843433fba6606820dc3523ef49dbfc76ac4b1b",
+  "literal_integer_inventory.json": "c91bce28310c1c659f98b4ba42f72b8e9ade0483254d4d407877682188d25709",
+  "numeral_summary.json": "0ff36747b9bd3ec346fcc307d4cff0ba40a7f42b29e1d097f64ff18b7be711b7",
+  "parser.py": "6a6ddef4308766002c7a38181bc6e05f13f67862b02a777ba0c79e7f0eaa4984",
+  "quran_simple-clean.txt": "228df2a717671aeb9d2ff573002bd28d6b3f973f4bc7153554e3a81663d67610",
+  "quran_uthmani.txt": "bf4f57b968d03f4131c070b1e285da9be0e0a108a21c910e872801ca273312c8",
+  "salience_audit.json": "18f3bb06f5c4a833b91a26f873a959ad119dcd0bdd469e37b33de274f43fc4c5",
+  "semantic_weights.csv": "c6df2ccbc64ba3072a9d4aac8d4ef985a7b0046124050b3eac3eeaf55c430cce",
+  "semantic_weights.json": "5ed788541b5d816a655dcce38864bf92e3cce3ed41664af70329aa9566cfab43",
+  "source_metadata.json": "533a9b10e0761e3ff7ec7a4e753ba0b3fb8f976dfc224dd3ee1fa49ea0df2fe5",
+  "validation_record.json": "610872eb7f97470637494654555270bc49ed17f625279aa6e118383f9610bf4e"
+}

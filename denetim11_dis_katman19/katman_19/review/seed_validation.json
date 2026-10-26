@@ -1,0 +1,144 @@
+{
+  "status": "pass",
+  "scope": "Worker seeds, work counts, and tiny-run metadata only; no feature frequencies or study scores inspected.",
+  "source_sha256": "81cfc2ac3f40cd6d2859317832de2bd7671416320908737038a2a26c8b093cc2",
+  "distinct_planned_worker_seeds": 48,
+  "first_outputs_checked_without_overlap": 49152,
+  "minimum_circular_splitmix_counter_gap": 27188455771641243,
+  "old_shifted_stream_defect_reproduced": true,
+  "correctness_runs": [
+    {
+      "case": {
+        "phase": "bench",
+        "model": "uniform",
+        "n": 1,
+        "limit": null,
+        "dynamic": "TRUE"
+      },
+      "metadata": {
+        "phase": "bench",
+        "model": "uniform",
+        "n": 1,
+        "seed": 765432100,
+        "threads": 8,
+        "requested_threads": 8,
+        "worker_seeds": [
+          16398783276900282199,
+          3974244778718317574,
+          14797129812505975168,
+          16199221045194147992,
+          12066695158510610988,
+          3214447236231958814,
+          1891139053805679225,
+          8678786489916710444
+        ],
+        "processed": 1,
+        "proposals": 1,
+        "seconds": 0.167174
+      }
+    },
+    {
+      "case": {
+        "phase": "bench",
+        "model": "uniform",
+        "n": 17,
+        "limit": null,
+        "dynamic": "FALSE"
+      },
+      "metadata": {
+        "phase": "bench",
+        "model": "uniform",
+        "n": 17,
+        "seed": 765432101,
+        "threads": 8,
+        "requested_threads": 8,
+        "worker_seeds": [
+          2394551848497558197,
+          2191362079514409060,
+          7484731350280295436,
+          1620787509905762394,
+          8686301990947408706,
+          96063399326292973,
+          2570928114605799129,
+          15323040229706592500
+        ],
+        "processed": 17,
+        "proposals": 17,
+        "seconds": 0.105603
+      }
+    },
+    {
+      "case": {
+        "phase": "bench",
+        "model": "block6",
+        "n": 3,
+        "limit": 2,
+        "dynamic": "TRUE"
+      },
+      "metadata": {
+        "phase": "bench",
+        "model": "block6",
+        "n": 3,
+        "seed": 765432102,
+        "threads": 2,
+        "requested_threads": 8,
+        "worker_seeds": [
+          1859532785302989335,
+          13649451868631445269
+        ],
+        "processed": 3,
+        "proposals": 3,
+        "seconds": 0.0781719
+      }
+    },
+    {
+      "case": {
+        "phase": "train",
+        "model": "uniform",
+        "n": 5,
+        "limit": 2,
+        "dynamic": "FALSE"
+      },
+      "metadata": {
+        "phase": "train",
+        "model": "uniform",
+        "n": 5,
+        "seed": 765432103,
+        "threads": 2,
+        "requested_threads": 8,
+        "worker_seeds": [
+          14328613245638944072,
+          8754555460137263434
+        ],
+        "processed": 5,
+        "proposals": 5,
+        "seconds": 0.0885941
+      }
+    },
+    {
+      "case": {
+        "phase": "bench",
+        "model": "inversion_exact",
+        "n": 3,
+        "limit": 2,
+        "dynamic": "FALSE"
+      },
+      "metadata": {
+        "phase": "bench",
+        "model": "inversion_exact",
+        "n": 3,
+        "seed": 765432104,
+        "threads": 2,
+        "requested_threads": 8,
+        "worker_seeds": [
+          12859123891941916667,
+          8258135758925550284
+        ],
+        "processed": 3,
+        "proposals": 1608,
+        "seconds": 0.0953531
+      }
+    }
+  ],
+  "note": "Mixing removes the deterministic adjacent-stream reuse defect. This is not a proof of mathematical independence of a finite PRNG."
+}

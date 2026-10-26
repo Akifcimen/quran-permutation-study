@@ -1,0 +1,64 @@
+{
+  "registered_hashes_all_match": true,
+  "registered_hashes_checked": [
+    {
+      "path": "rare_event/src/smc_guided_stratified.cpp",
+      "expected": "9c4b003380106c435776a5cb77dfc53e8ead95e79b41e35f978ea136215b513b",
+      "actual": "9c4b003380106c435776a5cb77dfc53e8ead95e79b41e35f978ea136215b513b",
+      "matches": true
+    },
+    {
+      "path": "rare_event/src/smc_math_stratified.hpp",
+      "expected": "c9b0adf84714456ddff2f5b654163c683a1fedfa35133800290be671d13b43f8",
+      "actual": "c9b0adf84714456ddff2f5b654163c683a1fedfa35133800290be671d13b43f8",
+      "matches": true
+    },
+    {
+      "path": "rare_event/src/soft_guide.hpp",
+      "expected": "3fbe927f0e97af5d1152ae570313185dc78be8e6f4bf6662598bc69fd906da36",
+      "actual": "3fbe927f0e97af5d1152ae570313185dc78be8e6f4bf6662598bc69fd906da36",
+      "matches": true
+    },
+    {
+      "path": "rare_event/src/kernels.hpp",
+      "expected": "3a1778c180b36995c31c540ea057b8856bda037b2f074f977dd720ee58212807",
+      "actual": "3a1778c180b36995c31c540ea057b8856bda037b2f074f977dd720ee58212807",
+      "matches": true
+    },
+    {
+      "path": "rare_event/pilot/schedule_soft.txt",
+      "expected": "a5f17a391a2f7c80edaf0e6d419a5c50760e66301f536ab63a6c7816719f7b41",
+      "actual": "a5f17a391a2f7c80edaf0e6d419a5c50760e66301f536ab63a6c7816719f7b41",
+      "matches": true
+    },
+    {
+      "path": "protocol.json",
+      "expected": "e956d7b71df9185c1fa23a3733d27f05762a7567a06ee534070279c0b9be9768",
+      "actual": "e956d7b71df9185c1fa23a3733d27f05762a7567a06ee534070279c0b9be9768",
+      "matches": true
+    },
+    {
+      "path": "src/scorer.hpp",
+      "expected": "ae07964b5e6a22a6f3bb032bb689863adc04cb96626a985c29928486a83d8929",
+      "actual": "ae07964b5e6a22a6f3bb032bb689863adc04cb96626a985c29928486a83d8929",
+      "matches": true
+    },
+    {
+      "path": "src/features.hpp",
+      "expected": "6a5ce5c62fee76df23f83fafefdac7326dcd87b37774829b235d879a54a67d3c",
+      "actual": "6a5ce5c62fee76df23f83fafefdac7326dcd87b37774829b235d879a54a67d3c",
+      "matches": true
+    }
+  ],
+  "current_additional_dependency_hashes": {
+    "data/counts.txt": "0777e72c82177411059ac4bd665a44e0c27ba40ccc91d54469b08c021e00b96d",
+    "src/common.hpp": "4f83236ef3e435b714bb01937ea483a3fb80236657e03c28325a7acf213659d1",
+    "src/sampler.hpp": "c987ddbe3af2cb30757be1f1574b8543d81794f07de0a7da40b3933dc9129a9b",
+    "src/matrix.hpp": "03d9fba5028b7af889a12d657a13241286521ff2021ee685cf19cdcac7818f18",
+    "src/hist.hpp": "585557d4cd5fa57c66da61cce367a971c8ae04ed388d32164f6da7e5ed864199",
+    "results/train_uniform.bin": "8881edb916c58d15869de4b6eed778f484b23aeb3554a939d816dcab353a225a",
+    "results/train_block6.bin": "b9c43dd64a5b68b9b298035255fe7a5b8f4e7a4a9015f94ff8868a396d93f49c",
+    "results/train_inversion_exact.bin": "912658303c400ebf9072ba5f499200e0d1e69c550fedb04d1cafa8f55b7f0a48"
+  },
+  "additional_hash_scope": "Recorded at audit time; these additional hashes were not declared in the production plan and are not represented as prelaunch attestations."
+}

@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "direct_extractor_checks": 1000,
+  "exact_thinning_acceptance": 0.7216330633026903,
+  "observed_thinning_accepted": 721570,
+  "n": 1000000,
+  "acceptance_standardized_difference": -0.14070504672430512,
+  "note": "Pilot excluded from production estimate"
+}
