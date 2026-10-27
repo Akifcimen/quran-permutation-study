@@ -1,0 +1,2 @@
+yeniden puanlanan kitap 14; düzeltme Δk_alt +2, Δk_nokta -3, Δk_üst -5
+k_alt 16, k_nokta 22, k_üst 18165 → p_nokta = 2.3e-07; aralık [1.7e-07, 0.000182] (N = 1e+08)

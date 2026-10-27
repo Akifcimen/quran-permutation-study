@@ -1,0 +1,14 @@
+# Nihai Kur'an eşikleri (tekdüze, 127). Geçici eşikteki aile-içi arama (1,+1,19), k=12: referans 2/304101 (çözülmemiş; geçici nokta 16.8923 bit)
+# adanmış kestirimle (sonuc/adanmis/U127_kuran_F_1_1_19_K12.txt: 40 isabet / 2e7 öneri, P = 2.01431e-06) 18.9213 bit → fark +2.0290; bütün değişkelere eklendi (en iyi mercek her değişkede (1,+1,19))
+SQ 0 31.203070678
+SQ 1 29.855147375
+SQ 2 33.430606403
+SQ 3 31.934581843
+SQ 4 31.203070678
+SQ 5 29.855147375
+SQ 6 33.430606403
+SQ 7 31.934581843
+CQ 0 11
+CQ 1 11
+CQ 2 11
+CQ 3 11

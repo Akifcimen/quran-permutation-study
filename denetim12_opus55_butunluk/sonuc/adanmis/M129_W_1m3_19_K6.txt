@@ -1,0 +1,3 @@
+adanmis_s kodeks 129 sifir M bicim (1,-3) p 19 K {6} grup W: kitap 1000000000, bağlamda 164755957
+  maske 58: isabet 70 / 164755957, P^ = 4.24871e-07
+  K=6 maske 58: isabet 70 / 164755957, P^ = 4.24871e-07

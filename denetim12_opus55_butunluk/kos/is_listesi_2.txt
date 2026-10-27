@@ -1,0 +1,43 @@
+# is_listesi_2.txt — 127 (ikincil) Kur'an eşiklerinin adanmış kestirimi (ONKAYIT §3.4: Kur'an'ın aramaları önce; yalnız referans
+# tablosunda c < 10 ise kullanılır; maske F = 2039 @ (1,+1,19), k = 12; tohum 26x43600000 + 1, ek/EK_..._adanmis_tohumlari.md) + is_listesi_1.txt.
+U127_kuran_F	[ -s sonuc/adanmis/U127_kuran_F_1_1_19_K12.txt ] || { ./src/adanmis_u 127 0 19 12 20000000 26143600001 F 2039 > sonuc/adanmis/U127_kuran_F_1_1_19_K12.tmp && mv sonuc/adanmis/U127_kuran_F_1_1_19_K12.tmp sonuc/adanmis/U127_kuran_F_1_1_19_K12.txt; }
+M127_kuran_F	[ -s sonuc/adanmis/M127_kuran_F_1_1_19_K12.txt ] || { ./src/adanmis_s 127 M 0 19 12 200000000 26243600001 F 2039 > sonuc/adanmis/M127_kuran_F_1_1_19_K12.tmp && mv sonuc/adanmis/M127_kuran_F_1_1_19_K12.tmp sonuc/adanmis/M127_kuran_F_1_1_19_K12.txt; }
+L127_kuran_F	[ -s sonuc/adanmis/L127_kuran_F_1_1_19_K12.txt ] || { ./src/adanmis_s 127 L 0 19 12 200000000 26343600001 F 2039 > sonuc/adanmis/L127_kuran_F_1_1_19_K12.tmp && mv sonuc/adanmis/L127_kuran_F_1_1_19_K12.tmp sonuc/adanmis/L127_kuran_F_1_1_19_K12.txt; }
+L129_W_2p1_17_K17	[ -s sonuc/adanmis/L129_W_2p1_17_K17.txt ] || { ./src/adanmis_s 129 L 6 17 17 2000000000 26342600003 W 57 > sonuc/adanmis/L129_W_2p1_17_K17.tmp && mv sonuc/adanmis/L129_W_2p1_17_K17.tmp sonuc/adanmis/L129_W_2p1_17_K17.txt; }
+L129_F_1p1_11_K11	[ -s sonuc/adanmis/L129_F_1p1_11_K11.txt ] || { ./src/adanmis_s 129 L 0 11 11 1000000000 26342600006 F 42 > sonuc/adanmis/L129_F_1p1_11_K11.tmp && mv sonuc/adanmis/L129_F_1p1_11_K11.tmp sonuc/adanmis/L129_F_1p1_11_K11.txt; }
+L129_F_1p1_29_K7	[ -s sonuc/adanmis/L129_F_1p1_29_K7.txt ] || { ./src/adanmis_s 129 L 0 29 7 800000000 26342600002 F 154 > sonuc/adanmis/L129_F_1p1_29_K7.tmp && mv sonuc/adanmis/L129_F_1p1_29_K7.tmp sonuc/adanmis/L129_F_1p1_29_K7.txt; }
+L129_F_1m1_13_K13	[ -s sonuc/adanmis/L129_F_1m1_13_K13.txt ] || { ./src/adanmis_s 129 L 1 13 13 800000000 26342600004 F 1890 > sonuc/adanmis/L129_F_1m1_13_K13.tmp && mv sonuc/adanmis/L129_F_1m1_13_K13.tmp sonuc/adanmis/L129_F_1m1_13_K13.txt; }
+L129_W_1m1_19_K5	[ -s sonuc/adanmis/L129_W_1m1_19_K5.txt ] || { ./src/adanmis_s 129 L 1 19 5 800000000 26342600011 W 13 > sonuc/adanmis/L129_W_1m1_19_K5.tmp && mv sonuc/adanmis/L129_W_1m1_19_K5.tmp sonuc/adanmis/L129_W_1m1_19_K5.txt; }
+L129_F_1p3_17_K17	[ -s sonuc/adanmis/L129_F_1p3_17_K17.txt ] || { ./src/adanmis_s 129 L 4 17 17 600000000 26342600010 F 144 > sonuc/adanmis/L129_F_1p3_17_K17.tmp && mv sonuc/adanmis/L129_F_1p3_17_K17.tmp sonuc/adanmis/L129_F_1p3_17_K17.txt; }
+L129_F_1m1_7_K7	[ -s sonuc/adanmis/L129_F_1m1_7_K7.txt ] || { ./src/adanmis_s 129 L 1 7 7 500000000 26342600005 F 90 > sonuc/adanmis/L129_F_1m1_7_K7.tmp && mv sonuc/adanmis/L129_F_1m1_7_K7.tmp sonuc/adanmis/L129_F_1m1_7_K7.txt; }
+L129_W_1p3_19_K6	[ -s sonuc/adanmis/L129_W_1p3_19_K6.txt ] || { ./src/adanmis_s 129 L 4 19 6 500000000 26342600007 W 20 > sonuc/adanmis/L129_W_1p3_19_K6.tmp && mv sonuc/adanmis/L129_W_1p3_19_K6.tmp sonuc/adanmis/L129_W_1p3_19_K6.txt; }
+L129_F_2m3_11_K11	[ -s sonuc/adanmis/L129_F_2m3_11_K11.txt ] || { ./src/adanmis_s 129 L 9 11 11 500000000 26342600009 F 824 > sonuc/adanmis/L129_F_2m3_11_K11.tmp && mv sonuc/adanmis/L129_F_2m3_11_K11.tmp sonuc/adanmis/L129_F_2m3_11_K11.txt; }
+L129_F_3m1_13_K13	[ -s sonuc/adanmis/L129_F_3m1_13_K13.txt ] || { ./src/adanmis_s 129 L 11 13 13 400000000 26342600001 F 58 > sonuc/adanmis/L129_F_3m1_13_K13.tmp && mv sonuc/adanmis/L129_F_3m1_13_K13.tmp sonuc/adanmis/L129_F_3m1_13_K13.txt; }
+L129_F_3m1_11_K11	[ -s sonuc/adanmis/L129_F_3m1_11_K11.txt ] || { ./src/adanmis_s 129 L 11 11 11 400000000 26342600008 F 808 > sonuc/adanmis/L129_F_3m1_11_K11.tmp && mv sonuc/adanmis/L129_F_3m1_11_K11.tmp sonuc/adanmis/L129_F_3m1_11_K11.txt; }
+U129_F_2p1_17_K17	[ -s sonuc/adanmis/U129_F_2p1_17_K17.txt ] || { ./src/adanmis_u 129 6 17 17 20000000 26142600006 F 1548 > sonuc/adanmis/U129_F_2p1_17_K17.tmp && mv sonuc/adanmis/U129_F_2p1_17_K17.tmp sonuc/adanmis/U129_F_2p1_17_K17.txt; }
+menu_U129_005	mkdir -p tab/D_U129 && [ -f tab/D_U129/b005.say ] || { rm -f tab/D_U129/b005.*; ./src/menu 129 U 26232600005 1000000 tab/D_U129/b005; }
+menu_U129_006	mkdir -p tab/D_U129 && [ -f tab/D_U129/b006.say ] || { rm -f tab/D_U129/b006.*; ./src/menu 129 U 26232600006 1000000 tab/D_U129/b006; }
+menu_U129_007	mkdir -p tab/D_U129 && [ -f tab/D_U129/b007.say ] || { rm -f tab/D_U129/b007.*; ./src/menu 129 U 26232600007 1000000 tab/D_U129/b007; }
+menu_U129_008	mkdir -p tab/D_U129 && [ -f tab/D_U129/b008.say ] || { rm -f tab/D_U129/b008.*; ./src/menu 129 U 26232600008 1000000 tab/D_U129/b008; }
+menu_U129_009	mkdir -p tab/D_U129 && [ -f tab/D_U129/b009.say ] || { rm -f tab/D_U129/b009.*; ./src/menu 129 U 26232600009 1000000 tab/D_U129/b009; }
+menu_U129_010	mkdir -p tab/D_U129 && [ -f tab/D_U129/b010.say ] || { rm -f tab/D_U129/b010.*; ./src/menu 129 U 26232600010 1000000 tab/D_U129/b010; }
+menu_M129_001	mkdir -p tab/D_M129 && [ -f tab/D_M129/b001.say ] || { rm -f tab/D_M129/b001.*; ./src/menu 129 M 26332600001 1000000 tab/D_M129/b001; }
+menu_M129_002	mkdir -p tab/D_M129 && [ -f tab/D_M129/b002.say ] || { rm -f tab/D_M129/b002.*; ./src/menu 129 M 26332600002 1000000 tab/D_M129/b002; }
+menu_M129_003	mkdir -p tab/D_M129 && [ -f tab/D_M129/b003.say ] || { rm -f tab/D_M129/b003.*; ./src/menu 129 M 26332600003 1000000 tab/D_M129/b003; }
+menu_M129_004	mkdir -p tab/D_M129 && [ -f tab/D_M129/b004.say ] || { rm -f tab/D_M129/b004.*; ./src/menu 129 M 26332600004 1000000 tab/D_M129/b004; }
+menu_M129_005	mkdir -p tab/D_M129 && [ -f tab/D_M129/b005.say ] || { rm -f tab/D_M129/b005.*; ./src/menu 129 M 26332600005 1000000 tab/D_M129/b005; }
+menu_M129_006	mkdir -p tab/D_M129 && [ -f tab/D_M129/b006.say ] || { rm -f tab/D_M129/b006.*; ./src/menu 129 M 26332600006 1000000 tab/D_M129/b006; }
+menu_M129_007	mkdir -p tab/D_M129 && [ -f tab/D_M129/b007.say ] || { rm -f tab/D_M129/b007.*; ./src/menu 129 M 26332600007 1000000 tab/D_M129/b007; }
+menu_M129_008	mkdir -p tab/D_M129 && [ -f tab/D_M129/b008.say ] || { rm -f tab/D_M129/b008.*; ./src/menu 129 M 26332600008 1000000 tab/D_M129/b008; }
+menu_M129_009	mkdir -p tab/D_M129 && [ -f tab/D_M129/b009.say ] || { rm -f tab/D_M129/b009.*; ./src/menu 129 M 26332600009 1000000 tab/D_M129/b009; }
+menu_M129_010	mkdir -p tab/D_M129 && [ -f tab/D_M129/b010.say ] || { rm -f tab/D_M129/b010.*; ./src/menu 129 M 26332600010 1000000 tab/D_M129/b010; }
+menu_L129_001	mkdir -p tab/D_L129 && [ -f tab/D_L129/b001.say ] || { rm -f tab/D_L129/b001.*; ./src/menu 129 L 26432600001 1000000 tab/D_L129/b001; }
+menu_L129_002	mkdir -p tab/D_L129 && [ -f tab/D_L129/b002.say ] || { rm -f tab/D_L129/b002.*; ./src/menu 129 L 26432600002 1000000 tab/D_L129/b002; }
+menu_L129_003	mkdir -p tab/D_L129 && [ -f tab/D_L129/b003.say ] || { rm -f tab/D_L129/b003.*; ./src/menu 129 L 26432600003 1000000 tab/D_L129/b003; }
+menu_L129_004	mkdir -p tab/D_L129 && [ -f tab/D_L129/b004.say ] || { rm -f tab/D_L129/b004.*; ./src/menu 129 L 26432600004 1000000 tab/D_L129/b004; }
+menu_L129_005	mkdir -p tab/D_L129 && [ -f tab/D_L129/b005.say ] || { rm -f tab/D_L129/b005.*; ./src/menu 129 L 26432600005 1000000 tab/D_L129/b005; }
+menu_L129_006	mkdir -p tab/D_L129 && [ -f tab/D_L129/b006.say ] || { rm -f tab/D_L129/b006.*; ./src/menu 129 L 26432600006 1000000 tab/D_L129/b006; }
+menu_L129_007	mkdir -p tab/D_L129 && [ -f tab/D_L129/b007.say ] || { rm -f tab/D_L129/b007.*; ./src/menu 129 L 26432600007 1000000 tab/D_L129/b007; }
+menu_L129_008	mkdir -p tab/D_L129 && [ -f tab/D_L129/b008.say ] || { rm -f tab/D_L129/b008.*; ./src/menu 129 L 26432600008 1000000 tab/D_L129/b008; }
+menu_L129_009	mkdir -p tab/D_L129 && [ -f tab/D_L129/b009.say ] || { rm -f tab/D_L129/b009.*; ./src/menu 129 L 26432600009 1000000 tab/D_L129/b009; }
+menu_L129_010	mkdir -p tab/D_L129 && [ -f tab/D_L129/b010.say ] || { rm -f tab/D_L129/b010.*; ./src/menu 129 L 26432600010 1000000 tab/D_L129/b010; }

@@ -1,0 +1,3 @@
+adanmis_s kodeks 129 sifir L bicim (1,+1) p 11 K {11} grup F: kitap 1000000000, bağlamda 121528966
+  maske 42: isabet 49 / 121528966, P^ = 4.03196e-07
+  K=11 maske 42: isabet 49 / 121528966, P^ = 4.03196e-07

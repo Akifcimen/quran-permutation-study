@@ -1,0 +1,3 @@
+adanmis_s kodeks 129 sifir L bicim (1,+3) p 17 K {17} grup F: kitap 600000000, bağlamda 136927
+  maske 144: isabet 19 / 136927, P^ = 0.00013876
+  K=17 maske 144: isabet 19 / 136927, P^ = 0.00013876

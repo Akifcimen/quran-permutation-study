@@ -1,0 +1,5 @@
+M127: Kur'an C = 11, S0 = 11; sınıf-kısıtlı bilgi 26.2695, sayım 11, S0 11
+  S0 (bütün mercekler; R+T, N = 4e+07): dağılım (≥ 9): 12: 1, 11: 3, 10: 109, 9: 1895
+  S0 ≥ 11: k = 4 → p = 1.25e-07
+  keşif (sınıf-kısıtlı): bilgi ≥ S_Q: 0 / 1e+07 (T) → 1e-07; sayım ≥ 11: 15 / 4e+07 → 4e-07; S0 ≥ 11: 4 → 1.25e-07
+  sınıf-kısıtlı bilgi en yüksek 5: 24.71 (b001.aday 3269287, mercek 183); 23.15 (b002.aday 1064854, mercek 34); 22.62 (b002.aday 1080972, mercek 5); 21.88 (b002.aday 3231130, mercek 296); 21.69 (b002.aday 4335982, mercek 123)

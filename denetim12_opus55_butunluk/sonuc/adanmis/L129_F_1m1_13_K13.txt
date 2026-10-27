@@ -1,0 +1,3 @@
+adanmis_s kodeks 129 sifir L bicim (1,-1) p 13 K {13} grup F: kitap 800000000, bağlamda 33974935
+  maske 1890: isabet 35 / 33974935, P^ = 1.03017e-06
+  K=13 maske 1890: isabet 35 / 33974935, P^ = 1.03017e-06

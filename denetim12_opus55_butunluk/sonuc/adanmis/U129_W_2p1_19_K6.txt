@@ -1,0 +1,3 @@
+adanmis_s kodeks 129 sifir U bicim (2,+1) p 19 K {6} grup W: kitap 2000000000, bağlamda 329286274
+  maske 29: isabet 5 / 329286274, P^ = 1.51844e-08
+  K=6 maske 29: isabet 5 / 329286274, P^ = 1.51844e-08

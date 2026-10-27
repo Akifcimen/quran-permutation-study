@@ -1,0 +1,3 @@
+adanmis_s kodeks 127 sifir L bicim (1,+1) p 19 K {12} grup F: kitap 200000000, bağlamda 2609021
+  maske 2039: isabet 39 / 2609021, P^ = 1.49481e-05
+  K=12 maske 2039: isabet 39 / 2609021, P^ = 1.49481e-05

@@ -1,0 +1,3 @@
+adanmis_s kodeks 129 sifir M bicim (1,+1) p 17 K {17} grup W: kitap 1000000000, bağlamda 323103
+  maske 4: isabet 40 / 323103, P^ = 0.0001238
+  K=17 maske 4: isabet 40 / 323103, P^ = 0.0001238

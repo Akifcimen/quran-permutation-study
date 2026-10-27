@@ -1,0 +1,4 @@
+ONKAYIT.md donduruldu (salt okunur): 2026-10-26T17:13:24Z
+SHA-256(ONKAYIT.md) = d213dc89332884f3973b4b2e5b33afaa2070748b95dda0d344f553eeefcfd513
+SHA-256(sonuc/onkayit_kod_sha256.txt) = 550862f39f6400d8b4f234a53e5284b3a102e5838709d5bf7d33d0fd16f6c38e
+Bu ana kadar hiçbir rastgele kitabın bütünlük puanı hesaplanıp görülmedi; Kur'an'ın bilgi puanı hesaplanmadı.

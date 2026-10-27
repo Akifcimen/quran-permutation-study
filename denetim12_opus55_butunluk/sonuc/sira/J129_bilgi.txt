@@ -1,0 +1,57 @@
+J129: sınama N = 10,000,000; aday (tekil) 10,654
+  v0: nihai S_Q 25.982: k_alt 1, k_nokta 4, k_üst 7473 → p_nokta 5e-07, aralık [2e-07, 0.000747]  | geçici eşikle adaylardan (1,4,7473) ✓
+  v1: nihai S_Q 24.634: k_alt 4, k_nokta 11, k_üst 7496 → p_nokta 1.2e-06, aralık [5e-07, 0.00075]  | geçici eşikle adaylardan (4,11,7496) ✓
+  v2: nihai S_Q 28.209: k_alt 1, k_nokta 3, k_üst 7459 → p_nokta 4e-07, aralık [2e-07, 0.000746]  | geçici eşikle adaylardan (1,3,7459) ✓
+  v3: nihai S_Q 26.713: k_alt 1, k_nokta 2, k_üst 7466 → p_nokta 3e-07, aralık [2e-07, 0.000747]  | geçici eşikle adaylardan (1,2,7466) ✓
+  v4: nihai S_Q 25.982: k_alt 0, k_nokta 0, k_üst 3028 → p_nokta 1e-07, aralık [1e-07, 0.000303]; k_nokta = 0 → tek yanlı %95 üst sınır 3e-07  | geçici eşikle adaylardan (0,0,3028) ✓
+  v5: nihai S_Q 24.634: k_alt 0, k_nokta 1, k_üst 3029 → p_nokta 2e-07, aralık [1e-07, 0.000303]  | geçici eşikle adaylardan (0,1,3029) ✓
+  v6: nihai S_Q 28.209: k_alt 0, k_nokta 0, k_üst 3026 → p_nokta 1e-07, aralık [1e-07, 0.000303]; k_nokta = 0 → tek yanlı %95 üst sınır 3e-07  | geçici eşikle adaylardan (0,0,3026) ✓
+  v7: nihai S_Q 26.713: k_alt 0, k_nokta 0, k_üst 3028 → p_nokta 1e-07, aralık [1e-07, 0.000303]; k_nokta = 0 → tek yanlı %95 üst sınır 3e-07  | geçici eşikle adaylardan (0,0,3028) ✓
+  nokta puanı ≥ S_Q olanlar (v0): 4
+    nokta 27.36 [25.70, 32.23]  b002.say sıra 2001317 (zincir 37)
+    nokta 27.08 [27.08, 27.08]  b002.say sıra 3364190 (zincir 30)
+    nokta 26.59 [25.45, 28.69]  b001.say sıra 3197075 (zincir 19)
+    nokta 26.40 [23.82, ∞]  b002.say sıra 341512 (zincir 8)
+  belirsiz (v0): 7472; S_alt en büyük 40:
+    S_alt 25.81  S_nokta 25.81  b001.say sıra 132176
+    S_alt 25.70  S_nokta 27.36  b002.say sıra 2001317
+    S_alt 25.45  S_nokta 26.59  b001.say sıra 3197075
+    S_alt 25.31  S_nokta 25.31  b002.say sıra 777551
+    S_alt 24.55  S_nokta 25.48  b002.say sıra 195730
+    S_alt 23.82  S_nokta 26.40  b002.say sıra 341512
+    S_alt 23.79  S_nokta 25.12  b002.say sıra 144853
+    S_alt 23.66  S_nokta 23.66  b002.say sıra 1617295
+    S_alt 23.36  S_nokta 24.69  b001.say sıra 4924048
+    S_alt 23.30  S_nokta 25.88  b002.say sıra 4732605
+    S_alt 22.83  S_nokta 24.16  b001.say sıra 4686165
+    S_alt 22.82  S_nokta 22.82  b002.say sıra 1141747
+    S_alt 22.78  S_nokta 25.36  b002.say sıra 952334
+    S_alt 22.51  S_nokta 25.09  b001.say sıra 559686
+    S_alt 22.41  S_nokta 24.99  b002.say sıra 4867711
+    S_alt 22.33  S_nokta 24.91  b001.say sıra 4123678
+    S_alt 22.29  S_nokta 24.88  b002.say sıra 957080
+    S_alt 22.17  S_nokta 22.17  b002.say sıra 217910
+    S_alt 22.02  S_nokta 24.61  b001.say sıra 354595
+    S_alt 21.99  S_nokta 23.65  b001.say sıra 2501421
+    S_alt 21.94  S_nokta 23.60  b001.say sıra 1225915
+    S_alt 21.82  S_nokta 23.48  b002.say sıra 2282471
+    S_alt 21.70  S_nokta 24.28  b002.say sıra 3128011
+    S_alt 21.67  S_nokta 23.33  b002.say sıra 4834522
+    S_alt 21.63  S_nokta 21.63  b002.say sıra 1140748
+    S_alt 21.55  S_nokta 24.14  b001.say sıra 3142678
+    S_alt 21.39  S_nokta 23.97  b002.say sıra 1467443
+    S_alt 21.17  S_nokta 21.17  b001.say sıra 1080247
+    S_alt 21.10  S_nokta 22.76  b002.say sıra 2025437
+    S_alt 21.03  S_nokta 23.61  b002.say sıra 353886
+    S_alt 21.02  S_nokta 23.60  b002.say sıra 3251639
+    S_alt 20.97  S_nokta 20.97  b002.say sıra 911741
+    S_alt 20.96  S_nokta 22.62  b002.say sıra 928288
+    S_alt 20.86  S_nokta 20.86  b001.say sıra 646942
+    S_alt 20.76  S_nokta 22.42  b001.say sıra 976149
+    S_alt 20.74  S_nokta 23.33  b001.say sıra 1709972
+    S_alt 20.73  S_nokta 22.39  b001.say sıra 4185276
+    S_alt 20.66  S_nokta 23.24  b001.say sıra 2309375
+    S_alt 20.64  S_nokta 23.22  b001.say sıra 1853007
+    S_alt 20.57  S_nokta 23.15  b002.say sıra 2780910
+  belirsizlerin S_alt medyanı 7.82, S_nokta en büyük 27.36
+  belirsizlerde Δ = S_Q − S_alt (bit; eşiği geçmek için çözülmemiş aramanın %95 üst sınırından 2^Δ kat nadir olması gerekir): en küçük 0.17, %10 12.34, medyan 18.16, %90 22.81; Δ ≤ 1: 4, Δ ≤ 3: 10

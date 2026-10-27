@@ -1,0 +1,54 @@
+L127: sınama N = 10,000,000; aday (tekil) 8,961
+  v0: nihai S_Q 27.830: k_alt 0, k_nokta 1, k_üst 5230 → p_nokta 2e-07, aralık [1e-07, 0.000523]  | geçici eşikle adaylardan (0,1,5230) ✓
+  v1: nihai S_Q 26.482: k_alt 2, k_nokta 2, k_üst 5236 → p_nokta 3e-07, aralık [3e-07, 0.000524]  | geçici eşikle adaylardan (2,5,5238) ✓
+  v2: nihai S_Q 30.058: k_alt 0, k_nokta 1, k_üst 5228 → p_nokta 2e-07, aralık [1e-07, 0.000523]  | geçici eşikle adaylardan (0,1,5228) ✓
+  v3: nihai S_Q 28.562: k_alt 0, k_nokta 0, k_üst 5225 → p_nokta 1e-07, aralık [1e-07, 0.000523]; k_nokta = 0 → tek yanlı %95 üst sınır 3e-07  | geçici eşikle adaylardan (0,0,5225) ✓
+  v4: nihai S_Q 27.830: k_alt 0, k_nokta 0, k_üst 2144 → p_nokta 1e-07, aralık [1e-07, 0.000214]; k_nokta = 0 → tek yanlı %95 üst sınır 3e-07  | geçici eşikle adaylardan (0,0,2144) ✓
+  v5: nihai S_Q 26.482: k_alt 0, k_nokta 0, k_üst 2144 → p_nokta 1e-07, aralık [1e-07, 0.000214]; k_nokta = 0 → tek yanlı %95 üst sınır 3e-07  | geçici eşikle adaylardan (0,0,2145) ✓
+  v6: nihai S_Q 30.058: k_alt 0, k_nokta 0, k_üst 2144 → p_nokta 1e-07, aralık [1e-07, 0.000214]; k_nokta = 0 → tek yanlı %95 üst sınır 3e-07  | geçici eşikle adaylardan (0,0,2144) ✓
+  v7: nihai S_Q 28.562: k_alt 0, k_nokta 0, k_üst 2144 → p_nokta 1e-07, aralık [1e-07, 0.000214]; k_nokta = 0 → tek yanlı %95 üst sınır 3e-07  | geçici eşikle adaylardan (0,0,2144) ✓
+  nokta puanı ≥ S_Q olanlar (v0): 1
+    nokta 28.35 [26.69, 33.22]  b001.say sıra 2606015 (zincir 63)
+  belirsiz (v0): 5230; S_alt en büyük 40:
+    S_alt 26.69  S_nokta 28.35  b001.say sıra 2606015
+    S_alt 25.78  S_nokta 26.92  b001.say sıra 3047703
+    S_alt 25.17  S_nokta 26.32  b002.say sıra 4541034
+    S_alt 24.24  S_nokta 25.57  b001.say sıra 1513578
+    S_alt 23.94  S_nokta 26.53  b002.say sıra 312366
+    S_alt 23.16  S_nokta 25.75  b001.say sıra 3290275
+    S_alt 23.05  S_nokta 25.63  b002.say sıra 3593519
+    S_alt 22.87  S_nokta 24.54  b002.say sıra 3255972
+    S_alt 22.53  S_nokta 25.11  b002.say sıra 4883636
+    S_alt 22.46  S_nokta 24.12  b001.say sıra 1110961
+    S_alt 22.45  S_nokta 25.04  b002.say sıra 4475624
+    S_alt 22.41  S_nokta 22.41  b001.say sıra 1866247
+    S_alt 22.00  S_nokta 23.66  b001.say sıra 1698178
+    S_alt 21.90  S_nokta 23.56  b002.say sıra 4296209
+    S_alt 21.56  S_nokta 21.56  b001.say sıra 3994056
+    S_alt 21.39  S_nokta 23.98  b001.say sıra 4872598
+    S_alt 21.11  S_nokta 21.11  b001.say sıra 1411817
+    S_alt 21.00  S_nokta 23.58  b002.say sıra 2808158
+    S_alt 20.87  S_nokta 23.45  b002.say sıra 3534837
+    S_alt 20.69  S_nokta 23.27  b001.say sıra 3451143
+    S_alt 20.67  S_nokta 23.25  b002.say sıra 3640800
+    S_alt 20.58  S_nokta 23.16  b001.say sıra 2506092
+    S_alt 20.56  S_nokta 23.57  b001.say sıra 1285040
+    S_alt 20.45  S_nokta 20.45  b001.say sıra 1180994
+    S_alt 20.43  S_nokta 23.01  b002.say sıra 2818828
+    S_alt 20.42  S_nokta 20.42  b001.say sıra 904972
+    S_alt 20.39  S_nokta 22.98  b001.say sıra 4701000
+    S_alt 20.38  S_nokta 22.97  b002.say sıra 678106
+    S_alt 20.12  S_nokta 22.71  b002.say sıra 3210963
+    S_alt 19.94  S_nokta 22.52  b002.say sıra 1557526
+    S_alt 19.92  S_nokta 22.50  b002.say sıra 1196731
+    S_alt 19.76  S_nokta 22.34  b002.say sıra 739015
+    S_alt 19.66  S_nokta 19.66  b002.say sıra 910404
+    S_alt 19.64  S_nokta 22.22  b001.say sıra 2723931
+    S_alt 19.61  S_nokta 22.19  b001.say sıra 3657679
+    S_alt 19.57  S_nokta 20.60  b001.say sıra 1119703
+    S_alt 19.57  S_nokta 21.30  b001.say sıra 2800687
+    S_alt 19.50  S_nokta 19.50  b001.say sıra 4342049
+    S_alt 19.50  S_nokta 22.08  b002.say sıra 1681499
+    S_alt 19.46  S_nokta 22.05  b002.say sıra 2772201
+  belirsizlerin S_alt medyanı 8.08, S_nokta en büyük 28.35
+  belirsizlerde Δ = S_Q − S_alt (bit; eşiği geçmek için çözülmemiş aramanın %95 üst sınırından 2^Δ kat nadir olması gerekir): en küçük 1.14, %10 13.81, medyan 19.75, %90 24.61; Δ ≤ 1: 0, Δ ≤ 3: 3

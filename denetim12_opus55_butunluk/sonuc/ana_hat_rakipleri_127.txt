@@ -1,0 +1,18 @@
+## tablo U127
+J10 sahte katı 8/8 (denetim5)	sayım G/GE/Gc/G0 = 10/10/10/10 (mercek (1,+1,19), maske 0x6de5c, kF=12, hücre-min 3)	S0 = 10 (1,+1,19)	bilgi v0 21.154 [20.006, sonlu] (1,+1,19) çözülmüş=0; v4(G) 21.154
+J10 robot rakibi #1 (denetim5)	sayım G/GE/Gc/G0 = 3/3/4/4 (mercek (3,-1,11), maske 0xb0004, kF=10, hücre-min 1)	S0 = 3 (3,-1,11)	bilgi v0 2.605 [2.605, sonlu] (3,-1,11) çözülmüş=1; v4(G) 1.200
+J10 robot rakibi #2 (denetim5)	sayım G/GE/Gc/G0 = 4/6/6/7 (mercek (1,+1,19), maske 0x80c05, kF=12, hücre-min 2)	S0 = 3 (1,+1,17)	bilgi v0 10.242 [10.242, sonlu] (3,+1,29) çözülmüş=1; v4(G) 5.750
+J10 robot rakibi #3 (denetim5)	sayım G/GE/Gc/G0 = 3/4/4/6 (mercek (1,+1,17), maske 0x2c040, kF=10, hücre-min 2)	S0 = 3 (1,+1,17)	bilgi v0 13.462 [13.462, sonlu] (1,+1,19) çözülmüş=1; v4(G) 4.429
+J10 robot rakibi #4 (denetim5)	sayım G/GE/Gc/G0 = 2/3/3/6 (mercek (1,+1,19), maske 0x84040, kF=5, hücre-min 1)	S0 = 2 (1,+1,37)	bilgi v0 2.730 [2.730, sonlu] (2,-1,43) çözülmüş=1; v4(G) 0.522
+## tablo M127
+J10 sahte katı 8/8 (denetim5)	sayım G/GE/Gc/G0 = 10/10/10/10 (mercek (1,+1,19), maske 0x6de5c, kF=12, hücre-min 3)	S0 = 10 (1,+1,19)	bilgi v0 18.469 [18.469, sonlu] (1,+1,19) çözülmüş=1; v4(G) 18.469
+J10 robot rakibi #1 (denetim5)	sayım G/GE/Gc/G0 = 3/3/4/4 (mercek (3,-1,11), maske 0xb0004, kF=10, hücre-min 1)	S0 = 3 (3,-1,11)	bilgi v0 3.040 [3.040, sonlu] (1,+1,19) çözülmüş=1; v4(G) 1.232
+J10 robot rakibi #2 (denetim5)	sayım G/GE/Gc/G0 = 4/6/6/7 (mercek (1,+1,19), maske 0x80c05, kF=12, hücre-min 2)	S0 = 3 (1,+1,17)	bilgi v0 10.924 [10.924, sonlu] (1,-1,19) çözülmüş=1; v4(G) 5.372
+J10 robot rakibi #3 (denetim5)	sayım G/GE/Gc/G0 = 3/4/4/6 (mercek (1,+1,17), maske 0x2c040, kF=10, hücre-min 2)	S0 = 3 (1,+1,17)	bilgi v0 9.674 [9.674, sonlu] (1,+1,19) çözülmüş=1; v4(G) 4.497
+J10 robot rakibi #4 (denetim5)	sayım G/GE/Gc/G0 = 2/3/3/6 (mercek (1,+1,19), maske 0x84040, kF=5, hücre-min 1)	S0 = 2 (1,+1,37)	bilgi v0 2.569 [2.569, sonlu] (2,-1,43) çözülmüş=1; v4(G) 0.414
+## tablo L127
+J10 sahte katı 8/8 (denetim5)	sayım G/GE/Gc/G0 = 10/10/10/10 (mercek (1,+1,19), maske 0x6de5c, kF=12, hücre-min 3)	S0 = 10 (1,+1,19)	bilgi v0 19.450 [19.450, sonlu] (1,+1,19) çözülmüş=1; v4(G) 19.450
+J10 robot rakibi #1 (denetim5)	sayım G/GE/Gc/G0 = 3/3/4/4 (mercek (3,-1,11), maske 0xb0004, kF=10, hücre-min 1)	S0 = 3 (3,-1,11)	bilgi v0 3.121 [3.121, sonlu] (1,+1,19) çözülmüş=1; v4(G) 1.283
+J10 robot rakibi #2 (denetim5)	sayım G/GE/Gc/G0 = 4/6/6/7 (mercek (1,+1,19), maske 0x80c05, kF=12, hücre-min 2)	S0 = 3 (1,+1,17)	bilgi v0 10.649 [10.649, sonlu] (1,-1,19) çözülmüş=1; v4(G) 5.511
+J10 robot rakibi #3 (denetim5)	sayım G/GE/Gc/G0 = 3/4/4/6 (mercek (1,+1,17), maske 0x2c040, kF=10, hücre-min 2)	S0 = 3 (1,+1,17)	bilgi v0 9.249 [9.249, sonlu] (1,+1,19) çözülmüş=1; v4(G) 4.702
+J10 robot rakibi #4 (denetim5)	sayım G/GE/Gc/G0 = 2/3/3/6 (mercek (1,+1,19), maske 0x84040, kF=5, hücre-min 1)	S0 = 2 (1,+1,37)	bilgi v0 2.646 [2.646, sonlu] (2,-1,43) çözülmüş=1; v4(G) 0.535

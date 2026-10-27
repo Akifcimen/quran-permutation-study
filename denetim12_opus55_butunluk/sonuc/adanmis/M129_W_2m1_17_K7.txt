@@ -1,0 +1,3 @@
+adanmis_s kodeks 129 sifir M bicim (2,-1) p 17 K {7} grup W: kitap 2000000000, bağlamda 307524127
+  maske 29: isabet 122 / 307524127, P^ = 3.96717e-07
+  K=7 maske 29: isabet 122 / 307524127, P^ = 3.96717e-07

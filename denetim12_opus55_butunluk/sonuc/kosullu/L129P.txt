@@ -1,0 +1,27 @@
+kosul P kodeks 129 havuz N 126963
+Kuran: maske@(1,1,19) 0x2dfdf kapi 1 | sayim(sabit mercek) 6 | sayim(serbest mercek) 6 | bilgi nokta 11.2825 bit (alt 11.2825, ust 11.2825, cozulmus 1)
+sira bilgi (Kuran noktasina gore): k_alt 433 k_nokta 433 k_ust 433 -> p_nokta 0.00341829 [0.00341829, 0.00341829] | sayim sabit: k 204 p 0.00161463 | sayim serbest: k 4470 p 0.0352147
+kalan yuklem sikliklari (havuz): B1=1 B2=1 R0c=0.33349 R1c=1 K1=0.21283 K2=0.3045 W1=0.661 QU=0.12071 QkH=0 Qa=0.053086 Qn=0.051968 QH=0.053173
+hist sayim sabit: 16185 45696 35771 17241 9607 2259 198 5 1 0 0 0 0 0 0 0 0 0 0 0 0
+hist sayim serbest: 0 0 0 448 77622 44423 3537 607 229 69 24 3 1 0 0 0 0 0 0 0 0
+en yuksek 20 (bilgi): sira | bilgi | sayim sabit | maske | zincir/sira
+  70089 19.7931 8 0xedfdf 1995
+  88116 18.5707 7 0xe9fdf 2010
+  2606 17.9534 6 0xedcdf 897
+  111383 16.8622 5 0xe9ecf 2262
+  11862 15.9691 5 0xe5ecf 2589
+  84504 15.9691 5 0xe5ecf 738
+  102974 15.8006 5 0xe1ddf 663
+  81780 15.7931 7 0x6dfdf 2361
+  84919 15.5201 7 0xadfdf 1322
+  22259 15.5201 7 0xadfdf 2922
+  113977 15.3336 7 0xcdfdf 2671
+  12784 14.9534 4 0xe1cdf 698
+  28192 14.9534 4 0xe1cdf 1679
+  119332 14.8545 6 0xa9fdf 1579
+  124504 14.8545 6 0xa9fdf 892
+  63265 14.8006 6 0x6dddf 1411
+  74129 14.8006 6 0x6dddf 2685
+  33286 14.8006 6 0x6dddf 600
+  8230 14.8006 6 0x6dddf 1327
+  70069 14.8006 6 0x6dddf 2815

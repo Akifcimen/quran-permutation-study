@@ -1,0 +1,2 @@
+adanmis_s kodeks 129 sifir M bicim (1,+3) grup B: kitap 2000000000
+  maske 2: isabet 34 / 2000000000, P^ = 1.7e-08

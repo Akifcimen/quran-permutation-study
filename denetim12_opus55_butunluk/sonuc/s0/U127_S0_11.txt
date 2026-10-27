@@ -1,0 +1,2 @@
+| kaynak | sayım C | S0 | mercek | kF | kH | \|U\| | hücre sayıları | hücre toplamları | Σq | katsayılar | sağlanan (kapılı) |
+|---|---|---|---|---|---|---|---|---|---|---|---|

@@ -1,0 +1,3 @@
+adanmis_s kodeks 129 sifir L bicim (1,+1) p 29 K {7} grup F: kitap 800000000, bağlamda 59124460
+  maske 154: isabet 35 / 59124460, P^ = 5.91972e-07
+  K=7 maske 154: isabet 35 / 59124460, P^ = 5.91972e-07

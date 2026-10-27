@@ -1,0 +1,3 @@
+adanmis_s kodeks 129 sifir M bicim (1,-1) p 11 K {11} grup F: kitap 2000000000, bağlamda 243248913
+  maske 204: isabet 43 / 243248913, P^ = 1.76774e-07
+  K=11 maske 204: isabet 43 / 243248913, P^ = 1.76774e-07

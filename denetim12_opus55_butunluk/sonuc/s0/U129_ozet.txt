@@ -1,0 +1,5 @@
+U129: Kur'an C = 11, S0 = 11; sınıf-kısıtlı bilgi 31.0574, sayım 11, S0 11
+  S0 (bütün mercekler; R+T, N = 2e+08): dağılım (≥ 9): 11: 5, 10: 144, 9: 3358
+  S0 ≥ 11: k = 5 → p = 3e-08
+  keşif (sınıf-kısıtlı): bilgi ≥ S_Q: 1 / 1e+08 (T) → 2e-08; sayım ≥ 11: 89 / 2e+08 → 4.5e-07; S0 ≥ 11: 5 → 3e-08
+  sınıf-kısıtlı bilgi en yüksek 5: 34.99 (b015.aday 3611874, mercek 324); 29.67 (b018.aday 2901379, mercek 35); 27.73 (b017.aday 1745502, mercek 34); 26.19 (b016.aday 2378751, mercek 208); 26.14 (b017.aday 2311499, mercek 34)

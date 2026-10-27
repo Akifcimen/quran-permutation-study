@@ -1,0 +1,7 @@
+Kur'an (129): {'tum': (11, ('t2', 'n2'), (1, 1, 19)), 't2siz': (9, ('n2', 'a2'), (1, 1, 19)), 'bir': (11, ('t2', 'n2'), (1, 1, 19))}
+== U129: aday 13750; tum ≥ 11: 8, t2siz ≥ 9: 1634, bir ≥ 11: 4
+   yeniden puanlanan 37 kitap (tum ≥ 11 hepsi + örneklem): uyuşmazlık 0
+== M129: aday 27114; tum ≥ 11: 4, t2siz ≥ 9: 2661, bir ≥ 11: 3
+   yeniden puanlanan 34 kitap (tum ≥ 11 hepsi + örneklem): uyuşmazlık 0
+== L129: aday 27951; tum ≥ 11: 9, t2siz ≥ 9: 2680, bir ≥ 11: 3
+   yeniden puanlanan 39 kitap (tum ≥ 11 hepsi + örneklem): uyuşmazlık 0

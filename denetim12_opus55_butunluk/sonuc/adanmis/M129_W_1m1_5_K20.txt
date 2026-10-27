@@ -1,0 +1,3 @@
+adanmis_s kodeks 129 sifir M bicim (1,-1) p 5 K {20} grup W: kitap 2000000000, bağlamda 153153213
+  maske 20: isabet 52 / 153153213, P^ = 3.39529e-07
+  K=20 maske 20: isabet 52 / 153153213, P^ = 3.39529e-07

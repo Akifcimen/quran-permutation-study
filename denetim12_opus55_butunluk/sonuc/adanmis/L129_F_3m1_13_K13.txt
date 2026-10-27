@@ -1,0 +1,3 @@
+adanmis_s kodeks 129 sifir L bicim (3,-1) p 13 K {13} grup F: kitap 400000000, bağlamda 17775780
+  maske 58: isabet 21 / 17775780, P^ = 1.18138e-06
+  K=13 maske 58: isabet 21 / 17775780, P^ = 1.18138e-06

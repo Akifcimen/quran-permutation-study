@@ -1,0 +1,3 @@
+adanmis_s kodeks 129 sifir M bicim (2,+1) p 13 K {13} grup F: kitap 1000000000, bağlamda 44601466
+  maske 1714: isabet 67 / 44601466, P^ = 1.50219e-06
+  K=13 maske 1714: isabet 67 / 44601466, P^ = 1.50219e-06

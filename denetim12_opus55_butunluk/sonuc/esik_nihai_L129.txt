@@ -1,0 +1,13 @@
+SQ 0 27.267745003
+SQ 1 25.919821699
+SQ 2 29.495280727
+SQ 3 27.999256167
+SQ 4 27.267745003
+SQ 5 25.919821699
+SQ 6 29.495280727
+SQ 7 27.999256167
+CQ 0 11
+CQ 1 11
+CQ 2 11
+CQ 3 11
+# Mallows: Kur'an'ın bütün aramaları referansta çözülmüş; nihai = geçici

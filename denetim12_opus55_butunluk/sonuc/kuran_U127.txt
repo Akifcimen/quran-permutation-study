@@ -1,0 +1,22 @@
+Kur'an (127), referans N = 30000000
+  değişke 0 (kapı yok, önsel 0): nokta 29.174 bit  [alt 27.842, üst sonlu]  mercek (1,+1,19) çözülmüş=0
+  değişke 1 (kapı yok, önsel 1): nokta 27.826 bit  [alt 26.494, üst sonlu]  mercek (1,+1,19) çözülmüş=0
+  değişke 2 (kapı yok, önsel 2): nokta 31.402 bit  [alt 30.069, üst sonlu]  mercek (1,+1,19) çözülmüş=0
+  değişke 3 (kapı yok, önsel 3): nokta 29.906 bit  [alt 28.573, üst sonlu]  mercek (1,+1,19) çözülmüş=0
+  değişke 4 (kapı G, önsel 0): nokta 29.174 bit  [alt 27.842, üst sonlu]  mercek (1,+1,19) çözülmüş=0
+  değişke 5 (kapı G, önsel 1): nokta 27.826 bit  [alt 26.494, üst sonlu]  mercek (1,+1,19) çözülmüş=0
+  değişke 6 (kapı G, önsel 2): nokta 31.402 bit  [alt 30.069, üst sonlu]  mercek (1,+1,19) çözülmüş=0
+  değişke 7 (kapı G, önsel 3): nokta 29.906 bit  [alt 28.573, üst sonlu]  mercek (1,+1,19) çözülmüş=0
+  sayım puanı (kapı G): 11, mercek (1,+1,19)
+  sayım puanı (kapı GE): 11, mercek (1,+1,19)
+  sayım puanı (kapı Gc): 11, mercek (1,+1,19)
+  sayım puanı (kapı G0): 11, mercek (1,+1,19)
+  birincil değişkede en iyi 8 mercek (bileşenler, bit):
+   (1,+1,19) puan 29.174  kF=12 bağlam n=304101 bedel 7.317 | B=11.632 boy=0.000 F=[15.560,…] (ÇÖZÜLMEDİ) W=7.967  maske=0x2dfdf
+   (1,-1,19) puan 20.282  kF=7 bağlam n=4229933 bedel 7.317 | B=11.632 boy=0.000 F=0.000 W=15.968  maske=0xac003
+   (1,-1,59) puan 11.497  kF=3 bağlam n=5367964 bedel 7.317 | B=11.632 boy=0.000 F=6.911 W=0.272  maske=0x048c3
+   (1,+1,17) puan 9.834  kF=9 bağlam n=2815814 bedel 7.317 | B=11.632 boy=0.000 F=5.190 W=0.330  maske=0x04203
+   (1,-1,7) puan 9.789  kF=14 bağlam n=2800625 bedel 7.317 | B=11.632 boy=0.000 F=2.666 W=2.809  maske=0x20013
+   (1,+1,59) puan 9.494  kF=2 bağlam n=8192413 bedel 7.317 | B=11.632 boy=0.000 F=3.284 W=1.896  maske=0x84033
+   (1,-1,23) puan 9.121  kF=8 bağlam n=1926669 bedel 7.317 | B=11.632 boy=0.000 F=4.623 W=0.184  maske=0x04057
+   (1,+1,3) puan 9.068  kF=32 bağlam n=1199792 bedel 7.317 | B=11.632 boy=0.000 F=3.172 W=1.582  maske=0x21803

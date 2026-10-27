@@ -1,0 +1,22 @@
+Kur'an (129), referans N = 100000000
+  değişke 0 (kapı yok, önsel 0): nokta 30.962 bit  [alt 29.630, üst sonlu]  mercek (1,+1,19) çözülmüş=0
+  değişke 1 (kapı yok, önsel 1): nokta 29.614 bit  [alt 28.282, üst sonlu]  mercek (1,+1,19) çözülmüş=0
+  değişke 2 (kapı yok, önsel 2): nokta 33.190 bit  [alt 31.857, üst sonlu]  mercek (1,+1,19) çözülmüş=0
+  değişke 3 (kapı yok, önsel 3): nokta 31.694 bit  [alt 30.361, üst sonlu]  mercek (1,+1,19) çözülmüş=0
+  değişke 4 (kapı G, önsel 0): nokta 30.962 bit  [alt 29.630, üst sonlu]  mercek (1,+1,19) çözülmüş=0
+  değişke 5 (kapı G, önsel 1): nokta 29.614 bit  [alt 28.282, üst sonlu]  mercek (1,+1,19) çözülmüş=0
+  değişke 6 (kapı G, önsel 2): nokta 33.190 bit  [alt 31.857, üst sonlu]  mercek (1,+1,19) çözülmüş=0
+  değişke 7 (kapı G, önsel 3): nokta 31.694 bit  [alt 30.361, üst sonlu]  mercek (1,+1,19) çözülmüş=0
+  sayım puanı (kapı G): 11, mercek (1,+1,19)
+  sayım puanı (kapı GE): 11, mercek (1,+1,19)
+  sayım puanı (kapı Gc): 11, mercek (1,+1,19)
+  sayım puanı (kapı G0): 11, mercek (1,+1,19)
+  birincil değişkede en iyi 8 mercek (bileşenler, bit):
+   (1,+1,19) puan 30.962  kF=12 bağlam n=1014579 bedel 7.317 | B=11.626 boy=0.000 F=[17.298,…] (ÇÖZÜLMEDİ) W=8.023  maske=0x2dfdf
+   (1,-1,19) puan 20.512  kF=7 bağlam n=14108920 bedel 7.317 | B=11.626 boy=0.000 F=0.000 W=16.203  maske=0xac003
+   (1,+1,17) puan 13.911  kF=8 bağlam n=12760817 bedel 7.317 | B=11.626 boy=0.000 F=9.314 W=0.289  maske=0x04a03
+   (1,-1,17) puan 11.911  kF=4 bağlam n=9633332 bedel 7.317 | B=11.626 boy=0.000 F=3.372 W=4.231  maske=0x84057
+   (1,-1,7) puan 9.778  kF=14 bağlam n=9348116 bedel 7.317 | B=11.626 boy=0.000 F=2.662 W=2.807  maske=0x20013
+   (1,-1,23) puan 9.110  kF=8 bağlam n=6418840 bedel 7.317 | B=11.626 boy=0.000 F=4.618 W=0.184  maske=0x04057
+   (1,-1,13) puan 8.802  kF=7 bağlam n=12523545 bedel 7.317 | B=11.626 boy=0.000 F=0.000 W=4.493  maske=0x24003
+   (1,-1,11) puan 8.670  kF=8 bağlam n=10741150 bedel 7.317 | B=11.626 boy=0.000 F=2.335 W=2.026  maske=0x04013

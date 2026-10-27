@@ -1,0 +1,2 @@
+adanmis_u kodeks 129 bicim (2,-1) p 19 K 19 grup W: oneri 10000000, ESS 9951062, tau_deneme 1823609578
+  maske 57: isabet 627, P^ = 6.34023e-05 (yaklaşık SE 2.5e-06; ESS tabanlı)

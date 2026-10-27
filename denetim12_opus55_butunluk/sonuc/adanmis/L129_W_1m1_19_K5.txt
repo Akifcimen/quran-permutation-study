@@ -1,0 +1,3 @@
+adanmis_s kodeks 129 sifir L bicim (1,-1) p 19 K {5} grup W: kitap 800000000, bağlamda 135089822
+  maske 13: isabet 43 / 135089822, P^ = 3.18307e-07
+  K=5 maske 13: isabet 43 / 135089822, P^ = 3.18307e-07

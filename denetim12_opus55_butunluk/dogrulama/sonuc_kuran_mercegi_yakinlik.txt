@@ -1,0 +1,56 @@
+== U129: aday 44201 kitap; mercek (1,+1,19)
+   12 üye, 3/3/3/3: 80
+   + K1 ∧ Qc (satırlar 18/20, 19/19; merkez 19): 0
+   + K2 (bant): 0
+   + W1 ∧ |U| = 19: 0
+   + Qa: 0
+   + B1 (57/57): 0
+   + B2 (terazi): 0
+   (12 üye 3/3/3/3 ∧ Qc, K1 olsun olmasın: 9)
+   Kur'an'ın 15 yükleminden kaç tanesi (bu mercekte): 10:5, 11:7
+     11/15 ('R', 'b016', 3172602) kF=12 hücre=[3, 3, 3, 3] toplam=[22, 16, 19, 19] Σq=76 kH=7 |U|=19 eksik: ['B2', 'K1', 'K2', 'Qa']
+     11/15 ('T', 'b002', 695255) kF=12 hücre=[3, 3, 3, 3] toplam=[20, 18, 17, 21] Σq=76 kH=7 |U|=19 eksik: ['B2', 'R1e', 'K1', 'K2']
+     11/15 ('T', 'b002', 1217373) kF=12 hücre=[4, 2, 3, 3] toplam=[24, 14, 19, 19] Σq=76 kH=3 |U|=15 eksik: ['B2', 'R0c', 'K1', 'QU']
+     11/15 ('T', 'b005', 1712760) kF=12 hücre=[3, 3, 3, 3] toplam=[22, 16, 19, 19] Σq=76 kH=2 |U|=14 eksik: ['B1', 'B2', 'K1', 'QU']
+== M129: aday 78774 kitap; mercek (1,+1,19)
+   12 üye, 3/3/3/3: 824
+   + K1 ∧ Qc (satırlar 18/20, 19/19; merkez 19): 9
+   + K2 (bant): 8
+   + W1 ∧ |U| = 19: 2
+   + Qa: 0
+   + B1 (57/57): 0
+   + B2 (terazi): 0
+   (12 üye 3/3/3/3 ∧ Qc, K1 olsun olmasın: 35)
+   Kur'an'ın 15 yükleminden kaç tanesi (bu mercekte): 10:28, 11:15, 12:6, 13:2
+     13/15 ('R', 'b017', 1648552) kF=12 hücre=[3, 3, 3, 3] toplam=[20, 18, 19, 19] Σq=76 kH=3 |U|=15 eksik: ['B1', 'QU']
+     13/15 ('T', 'b008', 3677272) kF=12 hücre=[3, 3, 3, 3] toplam=[18, 20, 19, 19] Σq=76 kH=8 |U|=20 eksik: ['QU', 'Qa']
+     12/15 ('R', 'b006', 1106819) kF=12 hücre=[2, 4, 3, 3] toplam=[14, 24, 19, 19] Σq=76 kH=7 |U|=19 eksik: ['B2', 'R0c', 'K1']
+     12/15 ('R', 'b018', 3841121) kF=12 hücre=[3, 3, 3, 3] toplam=[18, 20, 19, 19] Σq=76 kH=2 |U|=14 eksik: ['B2', 'QU', 'Qa']
+== L129: aday 90200 kitap; mercek (1,+1,19)
+   12 üye, 3/3/3/3: 1159
+   + K1 ∧ Qc (satırlar 18/20, 19/19; merkez 19): 2
+   + K2 (bant): 2
+   + W1 ∧ |U| = 19: 2
+   + Qa: 0
+   + B1 (57/57): 0
+   + B2 (terazi): 0
+   (12 üye 3/3/3/3 ∧ Qc, K1 olsun olmasın: 23)
+   Kur'an'ın 15 yükleminden kaç tanesi (bu mercekte): 10:28, 11:10, 13:2
+     13/15 ('T', 'b004', 4452815) kF=12 hücre=[3, 3, 3, 3] toplam=[20, 18, 19, 19] Σq=76 kH=7 |U|=19 eksik: ['B2', 'Qa']
+     13/15 ('T', 'b007', 913292) kF=12 hücre=[3, 3, 3, 3] toplam=[18, 20, 19, 19] Σq=76 kH=7 |U|=19 eksik: ['B2', 'Qa']
+     11/15 ('R', 'b002', 2678966) kF=12 hücre=[3, 3, 3, 3] toplam=[16, 22, 17, 21] Σq=76 kH=7 |U|=19 eksik: ['B2', 'R1e', 'K1', 'Qa']
+     11/15 ('R', 'b010', 3170685) kF=12 hücre=[3, 3, 3, 3] toplam=[16, 22, 19, 19] Σq=76 kH=7 |U|=19 eksik: ['B1', 'B2', 'K1', 'Qa']
+== J129: aday 16995 kitap; mercek (1,+1,19)
+   12 üye, 3/3/3/3: 142
+   + K1 ∧ Qc (satırlar 18/20, 19/19; merkez 19): 1
+   + K2 (bant): 1
+   + W1 ∧ |U| = 19: 0
+   + Qa: 0
+   + B1 (57/57): 0
+   + B2 (terazi): 0
+   (12 üye 3/3/3/3 ∧ Qc, K1 olsun olmasın: 6)
+   Kur'an'ın 15 yükleminden kaç tanesi (bu mercekte): 10:8, 11:2, 12:1
+     12/15 ('R', 'b001', 2018946) kF=12 hücre=[3, 3, 3, 3] toplam=[20, 18, 19, 19] Σq=76 kH=4 |U|=16 eksik: ['B2', 'QU', 'Qa']
+     11/15 ('R', 'b003', 1643220) kF=12 hücre=[2, 4, 3, 3] toplam=[14, 24, 19, 19] Σq=76 kH=6 |U|=18 eksik: ['B2', 'R0c', 'K1', 'QU']
+     11/15 ('T', 'b001', 4060581) kF=12 hücre=[4, 2, 3, 3] toplam=[26, 12, 19, 19] Σq=76 kH=7 |U|=19 eksik: ['B2', 'R0c', 'K1', 'Qa']
+     10/15 ('R', 'b001', 1612264) kF=12 hücre=[3, 3, 3, 3] toplam=[16, 22, 21, 17] Σq=76 kH=5 |U|=17 eksik: ['B2', 'R1e', 'K1', 'QU', 'Qa']

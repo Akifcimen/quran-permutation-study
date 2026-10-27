@@ -1,0 +1,7 @@
+adanmis_s kodeks 129 sifir U bicim (1,+1) p 19 K {6} grup W: kitap 2000000000, bağlamda 611516756
+  maske 37: isabet 74 / 611516756, P^ = 1.21011e-07
+  maske 13: isabet 73 / 611516756, P^ = 1.19375e-07
+  K=6 maske 37: isabet 45 / 329255260, P^ = 1.36672e-07
+  K=6 maske 13: isabet 38 / 329255260, P^ = 1.15412e-07
+  K=7 maske 37: isabet 29 / 282261496, P^ = 1.02742e-07
+  K=7 maske 13: isabet 35 / 282261496, P^ = 1.23998e-07

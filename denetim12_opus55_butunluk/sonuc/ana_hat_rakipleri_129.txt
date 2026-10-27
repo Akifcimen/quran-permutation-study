@@ -1,0 +1,12 @@
+## tablo U129
+7'de rakip — tekdüze (dış çalışma; değişke 129)	sayım G/GE/Gc/G0 = 3/6/6/6 (mercek (2,+1,11), maske 0x36048, kF=11, hücre-min 2)	S0 = 3 (2,+1,11)	bilgi v0 13.268 [13.268, sonlu] (2,+1,11) çözülmüş=1; v4(G) 6.499
+7'de rakip — 6-blok (dış çalışma; değişke 129)	sayım G/GE/Gc/G0 = 4/4/4/7 (mercek (1,-2,7), maske 0xac000, kF=5, hücre-min 0)	S0 = 4 (1,-2,7)	bilgi v0 9.208 [9.169, inf] (3,+1,7) çözülmüş=0; v4(G) 8.013
+7'de rakip — terslik dilimi (dış çalışma; değişke 129)	sayım G/GE/Gc/G0 = 4/6/6/10 (mercek (1,+1,7), maske 0x44003, kF=20, hücre-min 2)	S0 = 4 (1,+1,7)	bilgi v0 22.421 [17.255, inf] (1,-3,7) çözülmüş=0; v4(G) 12.295
+## tablo M129
+7'de rakip — tekdüze (dış çalışma; değişke 129)	sayım G/GE/Gc/G0 = 3/6/6/6 (mercek (2,+1,11), maske 0x36048, kF=11, hücre-min 2)	S0 = 3 (2,+1,11)	bilgi v0 13.323 [13.323, inf] (2,+1,11) çözülmüş=1; v4(G) 8.124
+7'de rakip — 6-blok (dış çalışma; değişke 129)	sayım G/GE/Gc/G0 = 4/4/4/7 (mercek (1,-2,7), maske 0xac000, kF=5, hücre-min 0)	S0 = 4 (1,-2,7)	bilgi v0 9.320 [6.737, inf] (3,+1,7) çözülmüş=0; v4(G) 8.149
+7'de rakip — terslik dilimi (dış çalışma; değişke 129)	sayım G/GE/Gc/G0 = 4/6/6/10 (mercek (1,+1,7), maske 0x44003, kF=20, hücre-min 2)	S0 = 4 (1,+1,7)	bilgi v0 22.603 [17.437, inf] (1,-3,7) çözülmüş=0; v4(G) 11.764
+## tablo L129
+7'de rakip — tekdüze (dış çalışma; değişke 129)	sayım G/GE/Gc/G0 = 3/6/6/6 (mercek (2,+1,11), maske 0x36048, kF=11, hücre-min 2)	S0 = 3 (2,+1,11)	bilgi v0 13.642 [13.642, inf] (2,+1,11) çözülmüş=1; v4(G) 8.045
+7'de rakip — 6-blok (dış çalışma; değişke 129)	sayım G/GE/Gc/G0 = 4/4/4/7 (mercek (1,-2,7), maske 0xac000, kF=5, hücre-min 0)	S0 = 4 (1,-2,7)	bilgi v0 9.353 [6.770, inf] (3,+1,7) çözülmüş=0; v4(G) 8.147
+7'de rakip — terslik dilimi (dış çalışma; değişke 129)	sayım G/GE/Gc/G0 = 4/6/6/10 (mercek (1,+1,7), maske 0x44003, kF=20, hücre-min 2)	S0 = 4 (1,+1,7)	bilgi v0 20.858 [16.685, inf] (1,-3,7) çözülmüş=0; v4(G) 11.777

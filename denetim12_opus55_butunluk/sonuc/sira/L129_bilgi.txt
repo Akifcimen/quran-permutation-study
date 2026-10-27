@@ -1,0 +1,97 @@
+L129: sınama N = 100,000,000; aday (tekil) 53,480
+  v0: nihai S_Q 27.268: k_alt 34, k_nokta 44, k_üst 16152 → p_nokta 4.5e-07, aralık [3.5e-07, 0.000162]  | geçici eşikle adaylardan (34,44,16152) ✓
+  v1: nihai S_Q 25.920: k_alt 54, k_nokta 73, k_üst 16240 → p_nokta 7.4e-07, aralık [5.5e-07, 0.000162]  | geçici eşikle adaylardan (54,73,16240) ✓
+  v2: nihai S_Q 29.495: k_alt 20, k_nokta 23, k_üst 16103 → p_nokta 2.4e-07, aralık [2.1e-07, 0.000161]  | geçici eşikle adaylardan (20,23,16103) ✓
+  v3: nihai S_Q 27.999: k_alt 30, k_nokta 37, k_üst 16122 → p_nokta 3.8e-07, aralık [3.1e-07, 0.000161]  | geçici eşikle adaylardan (30,37,16122) ✓
+  v4: nihai S_Q 27.268: k_alt 2, k_nokta 3, k_üst 7339 → p_nokta 4e-08, aralık [3e-08, 7.34e-05]  | geçici eşikle adaylardan (2,3,7339) ✓
+  v5: nihai S_Q 25.920: k_alt 4, k_nokta 5, k_üst 7346 → p_nokta 6e-08, aralık [5e-08, 7.35e-05]  | geçici eşikle adaylardan (4,5,7346) ✓
+  v6: nihai S_Q 29.495: k_alt 1, k_nokta 1, k_üst 7333 → p_nokta 2e-08, aralık [2e-08, 7.33e-05]  | geçici eşikle adaylardan (1,1,7333) ✓
+  v7: nihai S_Q 27.999: k_alt 2, k_nokta 3, k_üst 7334 → p_nokta 4e-08, aralık [3e-08, 7.33e-05]  | geçici eşikle adaylardan (2,3,7334) ✓
+  nokta puanı ≥ S_Q olanlar (v0): 44
+    nokta 31.78 [30.63, 33.88]  b016.say sıra 634075 (zincir 27)
+    nokta 31.59 [31.59, 31.59]  b012.say sıra 3917974 (zincir 22)
+    nokta 31.08 [29.93, 33.18]  b018.say sıra 4369245 (zincir 29)
+    nokta 30.94 [28.36, ∞]  b001.say sıra 2024622 (zincir 46)
+    nokta 30.90 [29.24, 35.77]  b002.say sıra 2559785 (zincir 41)
+    nokta 30.80 [30.22, ∞]  b014.say sıra 2521816 (zincir 24)
+    nokta 30.79 [29.98, 31.99]  b009.say sıra 3730848 (zincir 32)
+    nokta 30.71 [29.56, 32.81]  b013.say sıra 1291988 (zincir 20)
+    nokta 29.98 [29.98, 29.98]  b019.say sıra 877263 (zincir 15)
+    nokta 29.42 [26.84, ∞]  b009.say sıra 4425513 (zincir 41)
+    nokta 29.17 [29.17, 29.17]  b018.say sıra 75834 (zincir 58)
+    nokta 29.13 [29.13, 29.13]  b016.say sıra 4233564 (zincir 28)
+    nokta 28.90 [28.90, 28.9]  b017.say sıra 3865788 (zincir 60)
+    nokta 28.52 [28.52, 28.52]  b020.say sıra 3359342 (zincir 46)
+    nokta 28.51 [27.78, 29.52]  b007.say sıra 285090 (zincir 34)
+    nokta 28.47 [28.47, 28.47]  b005.say sıra 1148539 (zincir 59)
+    nokta 28.41 [27.55, 29.73]  b009.say sıra 265666 (zincir 2)
+    nokta 28.17 [25.59, ∞]  b012.say sıra 2452286 (zincir 62)
+    nokta 28.15 [27.12, 29.87]  b002.say sıra 1106647 (zincir 23)
+    nokta 28.09 [28.09, 28.09]  b009.say sıra 50009 (zincir 25)
+    nokta 28.02 [28.02, 28.02]  b008.say sıra 3861960 (zincir 8)
+    nokta 27.93 [27.16, 29.02]  b002.say sıra 4901976 (zincir 24)
+    nokta 27.89 [25.31, ∞]  b018.say sıra 4970180 (zincir 4)
+    nokta 27.85 [26.82, 29.57]  b017.say sıra 1446297 (zincir 25)
+    nokta 27.73 [27.73, 27.73]  b006.say sıra 3351474 (zincir 50)
+    nokta 27.73 [27.73, 27.73]  b013.say sıra 142585 (zincir 57)
+    nokta 27.73 [27.73, 27.73]  b016.say sıra 2197964 (zincir 12)
+    nokta 27.64 [27.64, 27.64]  b007.say sıra 1032782 (zincir 14)
+    nokta 27.59 [27.59, 27.59]  b012.say sıra 3109202 (zincir 18)
+    nokta 27.58 [27.58, 27.58]  b010.say sıra 1544277 (zincir 21)
+    nokta 27.57 [26.71, 28.89]  b005.say sıra 4275857 (zincir 17)
+    nokta 27.57 [27.57, 27.57]  b003.say sıra 2870628 (zincir 36)
+    nokta 27.57 [27.57, 27.57]  b014.say sıra 1287942 (zincir 6)
+    nokta 27.55 [27.55, 27.55]  b005.say sıra 3778177 (zincir 1)
+    nokta 27.55 [27.55, 27.55]  b016.say sıra 2558007 (zincir 55)
+    nokta 27.54 [24.95, ∞]  b007.say sıra 3494582 (zincir 54)
+    nokta 27.51 [27.51, 27.51]  b018.say sıra 3569453 (zincir 45)
+    nokta 27.47 [27.47, 27.47]  b014.say sıra 2570838 (zincir 22)
+    nokta 27.45 [27.45, 27.45]  b012.say sıra 4483381 (zincir 53)
+    nokta 27.37 [27.37, 27.37]  b014.say sıra 3409599 (zincir 63)
+    nokta 27.35 [27.35, 27.35]  b002.say sıra 4374654 (zincir 62)
+    nokta 27.34 [25.68, 32.21]  b005.say sıra 793155 (zincir 3)
+    nokta 27.33 [27.33, 27.33]  b006.say sıra 2178082 (zincir 34)
+    nokta 27.32 [25.66, 32.19]  b006.say sıra 364162 (zincir 2)
+  belirsiz (v0): 16118; S_alt en büyük 40:
+    S_alt 27.16  S_nokta 27.93  b002.say sıra 4901976
+    S_alt 27.12  S_nokta 28.15  b002.say sıra 1106647
+    S_alt 26.84  S_nokta 29.42  b009.say sıra 4425513
+    S_alt 26.82  S_nokta 27.85  b017.say sıra 1446297
+    S_alt 26.71  S_nokta 27.57  b005.say sıra 4275857
+    S_alt 25.97  S_nokta 27.12  b005.say sıra 3952558
+    S_alt 25.97  S_nokta 26.78  b012.say sıra 4080581
+    S_alt 25.97  S_nokta 26.69  b020.say sıra 942065
+    S_alt 25.96  S_nokta 26.83  b019.say sıra 1756562
+    S_alt 25.87  S_nokta 26.81  b014.say sıra 63204
+    S_alt 25.82  S_nokta 26.84  b015.say sıra 2715991
+    S_alt 25.68  S_nokta 27.34  b005.say sıra 793155
+    S_alt 25.66  S_nokta 27.32  b006.say sıra 364162
+    S_alt 25.59  S_nokta 28.17  b012.say sıra 2452286
+    S_alt 25.54  S_nokta 26.47  b017.say sıra 983875
+    S_alt 25.53  S_nokta 26.30  b011.say sıra 173366
+    S_alt 25.31  S_nokta 27.89  b018.say sıra 4970180
+    S_alt 25.30  S_nokta 26.33  b017.say sıra 3228844
+    S_alt 25.18  S_nokta 26.32  b007.say sıra 1596201
+    S_alt 25.16  S_nokta 26.30  b007.say sıra 253474
+    S_alt 25.14  S_nokta 26.47  b019.say sıra 1455730
+    S_alt 24.95  S_nokta 27.54  b007.say sıra 3494582
+    S_alt 24.93  S_nokta 26.59  b002.say sıra 4269533
+    S_alt 24.71  S_nokta 26.04  b003.say sıra 1792238
+    S_alt 24.68  S_nokta 25.83  b003.say sıra 3837421
+    S_alt 24.62  S_nokta 27.20  b016.say sıra 802403
+    S_alt 24.53  S_nokta 27.11  b009.say sıra 2774364
+    S_alt 24.53  S_nokta 27.11  b004.say sıra 901953
+    S_alt 24.52  S_nokta 25.28  b010.say sıra 1452062
+    S_alt 24.34  S_nokta 25.68  b005.say sıra 3943400
+    S_alt 24.31  S_nokta 25.46  b008.say sıra 2492679
+    S_alt 24.22  S_nokta 25.88  b010.say sıra 2020253
+    S_alt 24.15  S_nokta 26.73  b009.say sıra 305223
+    S_alt 24.13  S_nokta 26.28  b018.say sıra 4775785
+    S_alt 24.03  S_nokta 26.61  b002.say sıra 3082648
+    S_alt 23.90  S_nokta 26.48  b010.say sıra 4928423
+    S_alt 23.82  S_nokta 25.16  b005.say sıra 3729332
+    S_alt 23.78  S_nokta 25.44  b011.say sıra 581026
+    S_alt 23.73  S_nokta 26.31  b002.say sıra 3300186
+    S_alt 23.66  S_nokta 26.24  b006.say sıra 791059
+  belirsizlerin S_alt medyanı 8.56, S_nokta en büyük 29.42
+  belirsizlerde Δ = S_Q − S_alt (bit; eşiği geçmek için çözülmemiş aramanın %95 üst sınırından 2^Δ kat nadir olması gerekir): en küçük 0.11, %10 11.76, medyan 18.71, %90 24.01; Δ ≤ 1: 5, Δ ≤ 3: 31

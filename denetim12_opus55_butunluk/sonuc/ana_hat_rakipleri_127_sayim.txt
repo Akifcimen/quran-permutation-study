@@ -1,0 +1,5 @@
+J10 sahte katı 8/8 (denetim5)	sayım G/GE/Gc/G0 = 10/10/10/10 (mercek (1,+1,19), maske 0x6de5c, kF=12, hücre-min 3)	S0 = 10 (1,+1,19)
+J10 robot rakibi #1 (denetim5)	sayım G/GE/Gc/G0 = 3/3/4/4 (mercek (3,-1,11), maske 0xb0004, kF=10, hücre-min 1)	S0 = 3 (3,-1,11)
+J10 robot rakibi #2 (denetim5)	sayım G/GE/Gc/G0 = 4/6/6/7 (mercek (1,+1,19), maske 0x80c05, kF=12, hücre-min 2)	S0 = 3 (1,+1,17)
+J10 robot rakibi #3 (denetim5)	sayım G/GE/Gc/G0 = 3/4/4/6 (mercek (1,+1,17), maske 0x2c040, kF=10, hücre-min 2)	S0 = 3 (1,+1,17)
+J10 robot rakibi #4 (denetim5)	sayım G/GE/Gc/G0 = 2/3/3/6 (mercek (1,+1,19), maske 0x84040, kF=5, hücre-min 1)	S0 = 2 (1,+1,37)

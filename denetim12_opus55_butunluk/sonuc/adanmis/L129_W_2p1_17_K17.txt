@@ -1,0 +1,3 @@
+adanmis_s kodeks 129 sifir L bicim (2,+1) p 17 K {17} grup W: kitap 2000000000, bağlamda 410070
+  maske 57: isabet 42 / 410070, P^ = 0.000102422
+  K=17 maske 57: isabet 42 / 410070, P^ = 0.000102422

@@ -1,0 +1,3 @@
+adanmis_s kodeks 129 sifir M bicim (1,-3) p 13 K {9} grup F: kitap 1000000000, bağlamda 136570761
+  maske 632: isabet 51 / 136570761, P^ = 3.73433e-07
+  K=9 maske 632: isabet 51 / 136570761, P^ = 3.73433e-07

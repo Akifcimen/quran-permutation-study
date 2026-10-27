@@ -1,0 +1,14 @@
+### U127: referans bölüt 6 (N = 30,000,000), sınama bölüt 2 (N = 10,000,000); süre 0.58 çekirdek-saat
+- sayım (kapı G): k = 23 (referans 18, sınama 5) / N = 40,000,000 → p = 6e-07  [k/N %95: 3.6e-07–8.6e-07]
+- sayım (kapı GE): k = 36 (referans 29, sınama 7) / N = 40,000,000 → p = 9.25e-07  [k/N %95: 6.3e-07–1.2e-06]
+- sayım (kapı Gc): k = 38 (referans 31, sınama 7) / N = 40,000,000 → p = 9.75e-07  [k/N %95: 6.7e-07–1.3e-06]
+- sayım (kapı G0): k = 5425 (referans 4009, sınama 1416) / N = 40,000,000 → p = 0.000136  [k/N %95: 0.00013–0.00014]
+- bilgi değişke 0 (kapı yok, önsel P0): geçici S_Q = 29.174 bit; k_alt 1, k_nokta 2, k_üst 5305 / N_T = 10,000,000 → p_nokta = 3e-07 [2e-07, 0.000531]
+- bilgi değişke 1 (kapı yok, önsel P1): geçici S_Q = 27.826 bit; k_alt 1, k_nokta 3, k_üst 5307 / N_T = 10,000,000 → p_nokta = 4e-07 [2e-07, 0.000531]
+- bilgi değişke 2 (kapı yok, önsel P2): geçici S_Q = 31.402 bit; k_alt 1, k_nokta 1, k_üst 5304 / N_T = 10,000,000 → p_nokta = 2e-07 [2e-07, 0.00053]
+- bilgi değişke 3 (kapı yok, önsel P3): geçici S_Q = 29.906 bit; k_alt 1, k_nokta 2, k_üst 5304 / N_T = 10,000,000 → p_nokta = 3e-07 [2e-07, 0.00053]
+- bilgi değişke 4 (kapı G, önsel P0): geçici S_Q = 29.174 bit; k_alt 0, k_nokta 0, k_üst 2252 / N_T = 10,000,000 → p_nokta = 1e-07 [1e-07, 0.000225]
+- bilgi değişke 5 (kapı G, önsel P1): geçici S_Q = 27.826 bit; k_alt 0, k_nokta 0, k_üst 2252 / N_T = 10,000,000 → p_nokta = 1e-07 [1e-07, 0.000225]
+- bilgi değişke 6 (kapı G, önsel P2): geçici S_Q = 31.402 bit; k_alt 0, k_nokta 0, k_üst 2252 / N_T = 10,000,000 → p_nokta = 1e-07 [1e-07, 0.000225]
+- bilgi değişke 7 (kapı G, önsel P3): geçici S_Q = 29.906 bit; k_alt 0, k_nokta 0, k_üst 2252 / N_T = 10,000,000 → p_nokta = 1e-07 [1e-07, 0.000225]
+

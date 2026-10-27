@@ -1,0 +1,2 @@
+M129 bilgi (v0, nokta ≥ S_Q; sınama): isabet 25, farklı zincir 25, zincir başına en çok 1; ≥ 2 isabetli zincir 0
+M129 sayım (kapı G, C ≥ 11; referans + sınama): isabet 59, farklı zincir 57, zincir başına en çok 2; ≥ 2 isabetli zincir 2

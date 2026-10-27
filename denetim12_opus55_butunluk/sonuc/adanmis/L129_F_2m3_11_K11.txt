@@ -1,0 +1,3 @@
+adanmis_s kodeks 129 sifir L bicim (2,-3) p 11 K {11} grup F: kitap 500000000, bağlamda 61573632
+  maske 824: isabet 25 / 61573632, P^ = 4.06018e-07
+  K=11 maske 824: isabet 25 / 61573632, P^ = 4.06018e-07

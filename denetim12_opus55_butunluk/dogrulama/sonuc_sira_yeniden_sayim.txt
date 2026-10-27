@@ -1,0 +1,79 @@
+== U129: S_Q 31.057354, C_Q 11; aday kitap R 13609, T 30592; yinelenen kayıt 806
+  bilgi (düzeltme öncesi) k_alt/k_nokta/k_üst = 1 / 3 / 16596
+  bilgi (adanmış düzeltmeyle, 10 kitap) k_alt/k_nokta/k_üst = 2 / 3 / 16592
+  sayım: C[G] ≥ 11: 89 kitap (R 46, T 43)
+  C ≥ C_Q kitaplarında 4 kapının hepsinde uyuşmazlık: 0; benim S0 ≥ 11: 5
+   S0 11 ('R', 'b007', 2934440) (1,-1,29) kF=8 kH=5 |U|=13 hücre=[2, 2, 2, 2] toplam=[2, 2, 2, 2] Σq=8 q=-1..3 Qc=False B2=False B1=True K1=False Qa=True
+   S0 11 ('R', 'b008', 4620830) (1,+1,37) kF=8 kH=7 |U|=15 hücre=[2, 2, 2, 2] toplam=[6, 6, 6, 6] Σq=24 q=2..4 Qc=False B2=True B1=True K1=False Qa=True
+   S0 11 ('R', 'b018', 4509314) (3,+1,37) kF=8 kH=3 |U|=11 hücre=[2, 2, 2, 2] toplam=[16, 16, 16, 16] Σq=64 q=6..10 Qc=False B2=False B1=True K1=False Qa=True
+   S0 11 ('T', 'b001', 935067) (1,-1,19) kF=12 kH=7 |U|=19 hücre=[3, 3, 3, 3] toplam=[4, 4, 5, 3] Σq=16 q=-2..4 Qc=False B2=False B1=True K1=True Qa=False
+   S0 11 ('T', 'b019', 2864606) (1,-1,19) kF=12 kH=7 |U|=19 hücre=[3, 3, 3, 3] toplam=[4, 4, 3, 3] Σq=14 q=-2..4 Qc=False B2=False B1=True K1=True Qa=True
+  rastgele 200 aday (C < C_Q): 4 kapıda uyuşmazlık 0
+== M129: S_Q 27.408141889, C_Q 11; aday kitap R 29820, T 48954; yinelenen kayıt 958
+  bilgi (düzeltme öncesi) k_alt/k_nokta/k_üst = 14 / 25 / 18170
+  bilgi (adanmış düzeltmeyle, 14 kitap) k_alt/k_nokta/k_üst = 16 / 22 / 18165
+  sayım: C[G] ≥ 11: 59 kitap (R 25, T 34)
+  C ≥ C_Q kitaplarında 4 kapının hepsinde uyuşmazlık: 0; benim S0 ≥ 11: 17
+   S0 11 ('R', 'b005', 1266556) (1,+1,31) kF=8 kH=4 |U|=12 hücre=[2, 2, 2, 2] toplam=[6, 6, 6, 6] Σq=24 q=2..4 Qc=False B2=False B1=True K1=False Qa=True
+   S0 11 ('R', 'b007', 2863075) (3,+1,37) kF=8 kH=4 |U|=12 hücre=[2, 2, 2, 2] toplam=[10, 10, 10, 10] Σq=40 q=3..7 Qc=False B2=False B1=True K1=False Qa=True
+   S0 11 ('R', 'b008', 2796125) (1,+1,19) kF=12 kH=7 |U|=19 hücre=[3, 3, 3, 3] toplam=[18, 18, 19, 17] Σq=72 q=5..7 Qc=False B2=False B1=False K1=True Qa=True
+   S0 11 ('R', 'b008', 4717921) (1,+1,29) kF=12 kH=8 |U|=20 hücre=[3, 3, 3, 3] toplam=[12, 14, 13, 13] Σq=52 q=3..7 Qc=False B2=False B1=True K1=True Qa=True
+   S0 11 ('R', 'b010', 4554487) (1,+1,29) kF=8 kH=2 |U|=10 hücre=[2, 2, 2, 2] toplam=[8, 8, 8, 8] Σq=32 q=3..5 Qc=False B2=False B1=True K1=False Qa=True
+   S0 12 ('R', 'b012', 339435) (1,+1,29) kF=8 kH=6 |U|=14 hücre=[2, 2, 2, 2] toplam=[8, 8, 8, 8] Σq=32 q=3..5 Qc=False B2=True B1=True K1=False Qa=True
+   S0 11 ('R', 'b012', 339499) (1,+1,29) kF=8 kH=6 |U|=14 hücre=[2, 2, 2, 2] toplam=[8, 8, 8, 8] Σq=32 q=3..5 Qc=False B2=False B1=True K1=False Qa=True
+   S0 11 ('R', 'b015', 2533802) (1,+1,43) kF=8 kH=4 |U|=12 hücre=[2, 2, 2, 2] toplam=[6, 6, 6, 6] Σq=24 q=2..4 Qc=False B2=False B1=True K1=False Qa=True
+   S0 11 ('R', 'b016', 2227319) (1,+1,19) kF=12 kH=7 |U|=19 hücre=[3, 3, 3, 3] toplam=[14, 16, 15, 15] Σq=60 q=4..6 Qc=False B2=False B1=True K1=True Qa=True
+   S0 11 ('R', 'b016', 4440052) (1,+1,19) kF=12 kH=7 |U|=19 hücre=[3, 3, 3, 3] toplam=[16, 16, 15, 17] Σq=64 q=3..8 Qc=False B2=False B1=True K1=True Qa=False
+   S0 11 ('T', 'b003', 4183813) (1,+1,19) kF=12 kH=8 |U|=20 hücre=[3, 3, 3, 3] toplam=[16, 14, 15, 15] Σq=60 q=4..6 Qc=False B2=False B1=True K1=True Qa=True
+   S0 11 ('T', 'b004', 263376) (1,+1,19) kF=12 kH=7 |U|=19 hücre=[3, 3, 3, 3] toplam=[16, 18, 17, 17] Σq=68 q=4..7 Qc=False B2=False B1=False K1=True Qa=True
+   S0 11 ('T', 'b006', 1629574) (1,+1,19) kF=12 kH=7 |U|=19 hücre=[3, 3, 3, 3] toplam=[14, 16, 15, 15] Σq=60 q=3..7 Qc=False B2=False B1=True K1=True Qa=True
+   S0 11 ('T', 'b009', 4660371) (1,+1,19) kF=12 kH=7 |U|=19 hücre=[3, 3, 3, 3] toplam=[20, 20, 21, 19] Σq=80 q=4..10 Qc=False B2=False B1=True K1=True Qa=False
+   S0 11 ('T', 'b012', 4129199) (1,+1,19) kF=12 kH=7 |U|=19 hücre=[3, 3, 3, 3] toplam=[16, 16, 19, 13] Σq=64 q=3..7 Qc=False B2=False B1=True K1=False Qa=True
+   S0 11 ('T', 'b017', 1496275) (1,+1,31) kF=8 kH=5 |U|=13 hücre=[2, 2, 2, 2] toplam=[6, 6, 6, 6] Σq=24 q=2..4 Qc=False B2=False B1=True K1=False Qa=True
+   S0 11 ('T', 'b020', 3586045) (1,+1,19) kF=12 kH=6 |U|=18 hücre=[3, 3, 3, 3] toplam=[16, 16, 17, 17] Σq=66 q=4..7 Qc=False B2=False B1=True K1=True Qa=True
+  rastgele 100 aday (C < C_Q): 4 kapıda uyuşmazlık 0
+== L129: S_Q 27.267745003, C_Q 11; aday kitap R 36720, T 53480; yinelenen kayıt 974
+  bilgi (düzeltme öncesi) k_alt/k_nokta/k_üst = 34 / 44 / 16152
+  bilgi (adanmış düzeltmeyle, 14 kitap) k_alt/k_nokta/k_üst = 37 / 46 / 16150
+  sayım: C[G] ≥ 11: 51 kitap (R 26, T 25)
+  C ≥ C_Q kitaplarında 4 kapının hepsinde uyuşmazlık: 0; benim S0 ≥ 11: 11
+   S0 11 ('R', 'b001', 4870817) (1,+1,29) kF=8 kH=4 |U|=12 hücre=[2, 2, 2, 2] toplam=[6, 6, 8, 8] Σq=28 q=2..5 Qc=False B2=True B1=True K1=False Qa=True
+   S0 11 ('R', 'b003', 4878483) (1,+1,37) kF=8 kH=3 |U|=11 hücre=[2, 2, 2, 2] toplam=[6, 6, 6, 6] Σq=24 q=2..4 Qc=False B2=False B1=True K1=False Qa=True
+   S0 11 ('R', 'b003', 4910515) (1,+1,19) kF=12 kH=7 |U|=19 hücre=[3, 3, 3, 3] toplam=[16, 16, 15, 17] Σq=64 q=4..7 Qc=False B2=False B1=False K1=True Qa=True
+   S0 11 ('R', 'b007', 2187059) (1,+1,31) kF=8 kH=6 |U|=14 hücre=[2, 2, 2, 2] toplam=[8, 8, 8, 8] Σq=32 q=3..5 Qc=False B2=True B1=True K1=False Qa=True
+   S0 11 ('R', 'b016', 1887747) (1,+1,29) kF=8 kH=4 |U|=12 hücre=[2, 2, 2, 2] toplam=[8, 8, 8, 8] Σq=32 q=3..5 Qc=False B2=True B1=True K1=False Qa=True
+   S0 11 ('T', 'b002', 4715831) (1,+1,19) kF=12 kH=7 |U|=19 hücre=[3, 3, 3, 3] toplam=[16, 18, 17, 17] Σq=68 q=4..8 Qc=False B2=False B1=True K1=True Qa=True
+   S0 11 ('T', 'b007', 2318862) (1,+1,29) kF=8 kH=5 |U|=13 hücre=[2, 2, 2, 2] toplam=[8, 8, 8, 8] Σq=32 q=3..5 Qc=False B2=True B1=True K1=False Qa=False
+   S0 11 ('T', 'b009', 1225369) (1,+1,19) kF=12 kH=7 |U|=19 hücre=[3, 3, 3, 3] toplam=[14, 16, 15, 15] Σq=60 q=4..6 Qc=False B2=False B1=True K1=True Qa=False
+   S0 11 ('T', 'b011', 860416) (1,+1,19) kF=12 kH=7 |U|=19 hücre=[3, 3, 3, 3] toplam=[16, 18, 17, 17] Σq=68 q=4..7 Qc=False B2=False B1=False K1=True Qa=True
+   S0 11 ('T', 'b019', 3651187) (1,+1,29) kF=8 kH=5 |U|=13 hücre=[2, 2, 2, 2] toplam=[8, 8, 8, 8] Σq=32 q=3..5 Qc=False B2=True B1=True K1=False Qa=True
+   S0 11 ('T', 'b019', 3905034) (1,+1,19) kF=12 kH=7 |U|=19 hücre=[3, 3, 3, 3] toplam=[18, 18, 17, 17] Σq=70 q=5..7 Qc=False B2=False B1=True K1=True Qa=False
+  rastgele 200 aday (C < C_Q): 4 kapıda uyuşmazlık 0
+== J129: S_Q 25.981661171, C_Q 11; aday kitap R 6341, T 10654; yinelenen kayıt 172
+  bilgi (düzeltme öncesi) k_alt/k_nokta/k_üst = 1 / 4 / 7473
+  sayım: C[G] ≥ 11: 11 kitap (R 7, T 4)
+  C ≥ C_Q kitaplarında 4 kapının hepsinde uyuşmazlık: 0; benim S0 ≥ 11: 2
+   S0 11 ('R', 'b003', 766557) (1,+1,37) kF=8 kH=4 |U|=12 hücre=[2, 2, 2, 2] toplam=[6, 6, 6, 6] Σq=24 q=2..4 Qc=False B2=False B1=True K1=False Qa=True
+   S0 11 ('R', 'b003', 2560933) (1,+1,19) kF=12 kH=10 |U|=22 hücre=[3, 3, 3, 3] toplam=[16, 16, 17, 15] Σq=64 q=3..7 Qc=False B2=False B1=True K1=True Qa=True
+  rastgele 200 aday (C < C_Q): 4 kapıda uyuşmazlık 0
+== U127: S_Q 31.203070678, C_Q 11; aday kitap R 3977, T 6652; yinelenen kayıt 206
+  bilgi (düzeltme öncesi) k_alt/k_nokta/k_üst = 0 / 0 / 5301
+  sayım: C[G] ≥ 11: 23 kitap (R 18, T 5)
+  C ≥ C_Q kitaplarında 4 kapının hepsinde uyuşmazlık: 0; benim S0 ≥ 11: 0
+  rastgele 200 aday (C < C_Q): 4 kapıda uyuşmazlık 0
+== M127: S_Q 26.269504711, C_Q 11; aday kitap R 9000, T 9219; yinelenen kayıt 236
+  bilgi (düzeltme öncesi) k_alt/k_nokta/k_üst = 4 / 8 / 6021
+  sayım: C[G] ≥ 11: 15 kitap (R 11, T 4)
+  C ≥ C_Q kitaplarında 4 kapının hepsinde uyuşmazlık: 0; benim S0 ≥ 11: 4
+   S0 11 ('R', 'b001', 1261388) (1,+1,19) kF=12 kH=7 |U|=19 hücre=[3, 3, 3, 3] toplam=[16, 18, 17, 17] Σq=68 q=4..7 Qc=False B2=False B1=True K1=True Qa=True
+   S0 12 ('R', 'b002', 4666215) (1,+1,19) kF=12 kH=7 |U|=19 hücre=[3, 3, 3, 3] toplam=[16, 18, 17, 17] Σq=68 q=4..8 Qc=False B2=False B1=True K1=True Qa=True
+   S0 11 ('R', 'b005', 174048) (1,+1,19) kF=12 kH=7 |U|=19 hücre=[3, 3, 3, 3] toplam=[18, 18, 19, 17] Σq=72 q=5..7 Qc=False B2=False B1=True K1=True Qa=False
+   S0 11 ('R', 'b006', 2962510) (1,+1,29) kF=8 kH=3 |U|=11 hücre=[2, 2, 2, 2] toplam=[8, 8, 8, 8] Σq=32 q=2..6 Qc=False B2=False B1=True K1=False Qa=True
+  rastgele 200 aday (C < C_Q): 4 kapıda uyuşmazlık 0
+== L127: S_Q 27.830061823, C_Q 11; aday kitap R 10919, T 8961; yinelenen kayıt 217
+  bilgi (düzeltme öncesi) k_alt/k_nokta/k_üst = 0 / 1 / 5230
+  sayım: C[G] ≥ 11: 7 kitap (R 5, T 2)
+  C ≥ C_Q kitaplarında 4 kapının hepsinde uyuşmazlık: 0; benim S0 ≥ 11: 2
+   S0 11 ('R', 'b003', 483432) (1,+1,19) kF=12 kH=8 |U|=19 hücre=[3, 3, 3, 3] toplam=[16, 16, 17, 15] Σq=64 q=4..7 Qc=False B2=False B1=True K1=True Qa=True
+   S0 11 ('T', 'b001', 875498) (3,+1,29) kF=8 kH=6 |U|=14 hücre=[2, 2, 2, 2] toplam=[14, 14, 14, 14] Σq=56 q=5..9 Qc=False B2=False B1=True K1=False Qa=True
+  rastgele 200 aday (C < C_Q): 4 kapıda uyuşmazlık 0

@@ -1,0 +1,2 @@
+adanmis_u kodeks 129 bicim (2,+1) p 17 K 17 grup F: oneri 20000000, ESS 19848462, tau_deneme 0
+  maske 1548: isabet 581, P^ = 2.92213e-05 (yaklaşık SE 1.2e-06; ESS tabanlı)

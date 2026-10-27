@@ -1,0 +1,14 @@
+# Nihai Kur'an eşikleri (Mallows, 127). Geçici eşikteki aile-içi arama (1,+1,19), k=12: referans 7/390136 (çözülmemiş; geçici nokta 15.6667 bit)
+# adanmış kestirimle (sonuc/adanmis/L127_kuran_F_1_1_19_K12.txt: 39 isabet / 2,61e6 bağlam (2e8 kitap), P = 1.49481e-05) 16.0297 bit → fark +0.3629; bütün değişkelere eklendi (en iyi mercek her değişkede (1,+1,19))
+SQ 0 27.830061823
+SQ 1 26.482138520
+SQ 2 30.057597548
+SQ 3 28.561572987
+SQ 4 27.830061823
+SQ 5 26.482138520
+SQ 6 30.057597548
+SQ 7 28.561572987
+CQ 0 11
+CQ 1 11
+CQ 2 11
+CQ 3 11

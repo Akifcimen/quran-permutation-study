@@ -1,0 +1,3 @@
+adanmis_s kodeks 129 sifir U bicim (1,+3) grup B: kitap 2000000000
+  maske 2: isabet 114 / 2000000000, P^ = 5.7e-08
+  maske 3: isabet 0 / 2000000000, P^ = 0

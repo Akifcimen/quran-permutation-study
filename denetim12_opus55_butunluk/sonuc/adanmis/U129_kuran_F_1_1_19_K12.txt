@@ -1,0 +1,12 @@
+adanmis_u kodeks 129 bicim (1,+1) p 19 K 12 grup F: oneri 20000000, ESS 19937446, tau_deneme 0
+  maske 2039: isabet 46, P^ = 2.30712e-06 (yaklaşık SE 3.4e-07; ESS tabanlı)
+  maske 1: isabet 4515829, P^ = 0.225767 (yaklaşık SE 9.4e-05; ESS tabanlı)
+  maske 2: isabet 359702, P^ = 0.0179951 (yaklaşık SE 3e-05; ESS tabanlı)
+  maske 4: isabet 3359387, P^ = 0.167942 (yaklaşık SE 8.4e-05; ESS tabanlı)
+  maske 16: isabet 3359913, P^ = 0.167959 (yaklaşık SE 8.4e-05; ESS tabanlı)
+  maske 32: isabet 514873, P^ = 0.0257444 (yaklaşık SE 3.5e-05; ESS tabanlı)
+  maske 64: isabet 27717, P^ = 0.00138672 (yaklaşık SE 8.3e-06; ESS tabanlı)
+  maske 128: isabet 1203851, P^ = 0.060434 (yaklaşık SE 5.3e-05; ESS tabanlı)
+  maske 256: isabet 554683, P^ = 0.027655 (yaklaşık SE 3.7e-05; ESS tabanlı)
+  maske 512: isabet 1045025, P^ = 0.0522516 (yaklaşık SE 5e-05; ESS tabanlı)
+  maske 1024: isabet 64739, P^ = 0.0032356 (yaklaşık SE 1.3e-05; ESS tabanlı)
