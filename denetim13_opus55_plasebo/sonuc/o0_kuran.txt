@@ -1,0 +1,2 @@
+Kur'an (129): maske uyuşmazlığı 0 / 406 mercek; kF/kH/hücre uyuşmazlığı 0
+(1,+1,19) el dili profili: B1 B2 F1 F2 R0c R1c R1e K1 K2 Qc QS Qh W1 QU Qa  → 15 yüklem; kF=12 kH=7 en küçük hücre=3

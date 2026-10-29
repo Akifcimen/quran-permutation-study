@@ -1,0 +1,6 @@
+Kur'an (1,+1,19), k_F 12. den. 12 / yeni 12
+  B (B1∧B2) 12. den. 46833 / 100000000 (11.060 bit) — yeni 46672 / 100000000 (11.065 bit); koşullu binom p = 0.6008
+  F (11 bit)  12. den. 24 / 1202540 (15.613 bit) — yeni 42 / 1203170 (14.806 bit); koşullu binom p = 0.0356
+  W (6 bit)   12. den. 4529 / 1202540 (8.053 bit) — yeni 4621 / 1203170 (8.024 bit); koşullu binom p = 0.3522
+  el dili bilgi puanı (en iyi mercek L=6): yeni 26.578 bit; 12. den. 27.408 bit; fark -0.830 (arama bileşenleri toplamı farkı -0.830, σ ≈ 0.371)
+  ÇAPA: TUTTU (bütün aramalar p ≥ 0,001 ile tutarlı)

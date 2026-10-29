@@ -1,0 +1,2 @@
+hedef 201; 24'ü aşan (hedef, mercek, grup) 0; aşımlı hedef 201'den 0; seçilmiş mercekte aşım 0
+grup başına en çok sağlanan: B 4 Z 2 F 14 W 15 H 6

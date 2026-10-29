@@ -1,0 +1,111 @@
+L*: 109 yüklem; L* dışı (imkânsız): ['Bt', 'FHp', 'FKp']; Kraft toplamı 1.000000000000
+  B1     kitap     a E bölmesi (t-paritesi)                 eşit sayı                    4.585 bit
+  B2     kitap     a E bölmesi (t-paritesi)                 eşit toplam (12. den. B2)    4.585 bit
+  Ba     kitap     a E bölmesi (t-paritesi)                 eşit Σa                      4.585 bit
+  BMn    kitap     b E yarılarının n-toplamları             p | ikisi                    4.000 bit
+  BMt    kitap     b E yarılarının t-toplamları             p | ikisi                    5.000 bit
+  BMt2   kitap     b E yarılarının t-toplamları             p² | ikisi                   5.000 bit
+  F1     aile      a F satırları (t-paritesi yarıları)      eşit sayı                    6.585 bit
+  F2     aile      a F satırları (t-paritesi yarıları)      eşit toplam                  6.585 bit
+  FC1    aile      a F sütunları (n-paritesi yarıları)      eşit sayı                    6.585 bit
+  FC2    aile      a F sütunları (n-paritesi yarıları)      eşit toplam                  6.585 bit
+  FD1    aile      a F köşegenleri (00∪11 / 01∪10)          eşit sayı                    6.585 bit
+  FD2    aile      a F köşegenleri (00∪11 / 01∪10)          eşit toplam                  6.585 bit
+  HH1    aile      a H satırları (t-paritesi yarıları)      eşit sayı                    6.585 bit
+  HH2    aile      a H satırları (t-paritesi yarıları)      eşit toplam                  6.585 bit
+  QkF    aile      b k_F                                    = p                          8.392 bit
+  Zk2p   aile      b k_F                                    = 2p                         8.392 bit
+  Zkd    aile      b k_F                                    p |                          8.392 bit
+  Zkd2   aile      b k_F                                    p² |                         8.392 bit
+  FSp    aile      b Σq                                     = p                          8.392 bit
+  FS2p   aile      b Σq                                     = 2p                         8.392 bit
+  QS     aile      b Σq                                     p |                          8.392 bit
+  FSd2   aile      b Σq                                     p² |                         8.392 bit
+  FH2p   aile      b F yarı toplamları                      her biri = 2p                8.392 bit
+  FHm    aile      b F yarı toplamları                      merkez = p                   8.392 bit
+  Qh     aile      b F yarı toplamları                      p | her biri                 8.392 bit
+  FHd2   aile      b F yarı toplamları                      p² | her biri                8.392 bit
+  FCp    aile      b F sütun toplamları                     her biri = p                 8.714 bit
+  FC2p   aile      b F sütun toplamları                     her biri = 2p                8.714 bit
+  FCm    aile      b F sütun toplamları                     merkez = p                   8.714 bit
+  FCd    aile      b F sütun toplamları                     p | her biri                 8.714 bit
+  FCd2   aile      b F sütun toplamları                     p² | her biri                8.714 bit
+  FHSp   aile      b F yarı boyları                         her biri = p                 8.714 bit
+  FHS2p  aile      b F yarı boyları                         her biri = 2p                8.714 bit
+  FHSm   aile      b F yarı boyları                         merkez = p                   8.714 bit
+  FHSd   aile      b F yarı boyları                         p | her biri                 8.714 bit
+  FHSd2  aile      b F yarı boyları                         p² | her biri                8.714 bit
+  FAp    aile      b Σ_F a                                  = p                          8.392 bit
+  FA2p   aile      b Σ_F a                                  = 2p                         8.392 bit
+  FAd    aile      b Σ_F a                                  p |                          8.392 bit
+  FAd2   aile      b Σ_F a                                  p² |                         8.392 bit
+  FNp    aile      b Σ_F n                                  = p                          8.392 bit
+  FN2p   aile      b Σ_F n                                  = 2p                         8.392 bit
+  FNd    aile      b Σ_F n                                  p |                          8.392 bit
+  FNd2   aile      b Σ_F n                                  p² |                         8.392 bit
+  FRK    aile      d F satır toplamları                     ardışık (fark 1)             5.585 bit
+  FCK    aile      d F sütun toplamları                     ardışık (fark 1)             5.585 bit
+  K2     aile      d F katsayıları                          kesintisiz bant              5.585 bit
+  HK2    aile      d H katsayıları                          kesintisiz bant              5.585 bit
+  R0c    hücre     a F satır-0 hücreleri                    eşit sayı                    6.585 bit
+  R0e    hücre     a F satır-0 hücreleri                    eşit toplam                  6.585 bit
+  R1c    hücre     a F satır-1 hücreleri                    eşit sayı                    6.585 bit
+  R1e    hücre     a F satır-1 hücreleri                    eşit toplam                  6.585 bit
+  HR0c   hücre     a H satır-0 hücreleri                    eşit sayı                    6.585 bit
+  HR0e   hücre     a H satır-0 hücreleri                    eşit toplam                  6.585 bit
+  HR1c   hücre     a H satır-1 hücreleri                    eşit sayı                    6.585 bit
+  HR1e   hücre     a H satır-1 hücreleri                    eşit toplam                  6.585 bit
+  FK2p   hücre     b F hücre toplamları                     her biri = 2p                6.585 bit
+  Qc     hücre     b F hücre toplamları                     merkez = p                   6.585 bit
+  FKd    hücre     b F hücre toplamları                     p | her biri                 6.585 bit
+  FKd2   hücre     b F hücre toplamları                     p² | her biri                6.585 bit
+  FKSp   hücre     b F hücre boyları                        her biri = p                 6.907 bit
+  FKS2p  hücre     b F hücre boyları                        her biri = 2p                6.907 bit
+  FKSm   hücre     b F hücre boyları                        merkez = p                   6.907 bit
+  FKSd   hücre     b F hücre boyları                        p | her biri                 6.907 bit
+  FKSd2  hücre     b F hücre boyları                        p² | her biri                6.907 bit
+  K1     hücre     d F hücre toplamları                     farklı değerler ardışık      6.170 bit
+  FAP    hücre     d F hücre toplamları                     aritmetik dizi (fark ≥ 1)    6.170 bit
+  FKS    hücre     d F hücre boyları                        farklı değerler ardışık      5.170 bit
+  FSC    hücre     d F hücre katsayıları                    sabit hücre (≥ 2 eşit q)     5.170 bit
+  QU     birleşim  b |U|                                    = p                          8.170 bit
+  WU2p   birleşim  b |U|                                    = 2p                         8.170 bit
+  WUd    birleşim  b |U|                                    p |                          8.170 bit
+  WUd2   birleşim  b |U|                                    p² |                         8.170 bit
+  QkH    birleşim  b k_H                                    = p                          8.170 bit
+  WH2p   birleşim  b k_H                                    = 2p                         8.170 bit
+  WHd    birleşim  b k_H                                    p |                          8.170 bit
+  WHd2   birleşim  b k_H                                    p² |                         8.170 bit
+  WIp    birleşim  b |F ∩ H|                                = p                          8.170 bit
+  WI2p   birleşim  b |F ∩ H|                                = 2p                         8.170 bit
+  WId    birleşim  b |F ∩ H|                                p |                          8.170 bit
+  WId2   birleşim  b |F ∩ H|                                p² |                         8.170 bit
+  WUAp   birleşim  b Σ_U a                                  = p                          8.170 bit
+  WUA2p  birleşim  b Σ_U a                                  = 2p                         8.170 bit
+  Qa     birleşim  b Σ_U a                                  p |                          8.170 bit
+  WUAd2  birleşim  b Σ_U a                                  p² |                         8.170 bit
+  WUNp   birleşim  b Σ_U n                                  = p                          8.170 bit
+  WUN2p  birleşim  b Σ_U n                                  = 2p                         8.170 bit
+  Qn     birleşim  b Σ_U n                                  p |                          8.170 bit
+  WUNd2  birleşim  b Σ_U n                                  p² |                         8.170 bit
+  WUTp   birleşim  b Σ_U t                                  = p                          8.170 bit
+  WUT2p  birleşim  b Σ_U t                                  = 2p                         8.170 bit
+  WUTd   birleşim  b Σ_U t                                  p |                          8.170 bit
+  WUTd2  birleşim  b Σ_U t                                  p² |                         8.170 bit
+  WHAp   birleşim  b Σ_H a                                  = p                          8.170 bit
+  WHA2p  birleşim  b Σ_H a                                  = 2p                         8.170 bit
+  WHAd   birleşim  b Σ_H a                                  p |                          8.170 bit
+  WHAd2  birleşim  b Σ_H a                                  p² |                         8.170 bit
+  WHNp   birleşim  b Σ_H n                                  = p                          8.170 bit
+  WHN2p  birleşim  b Σ_H n                                  = 2p                         8.170 bit
+  WHNd   birleşim  b Σ_H n                                  p |                          8.170 bit
+  WHNd2  birleşim  b Σ_H n                                  p² |                         8.170 bit
+  WHRp   birleşim  b Σ_H u/p                                = p                          8.170 bit
+  WHR2p  birleşim  b Σ_H u/p                                = 2p                         8.170 bit
+  QH     birleşim  b Σ_H u/p                                p |                          8.170 bit
+  WHRd2  birleşim  b Σ_H u/p                                p² |                         8.170 bit
+  W1     birleşim  c F ∩ H                                  = ∅                          5.000 bit
+  WI1    birleşim  c F ∩ H                                  = 1 eleman                   5.000 bit
+  WEq    birleşim  c (k_F, k_H)                             k_F = k_H                    5.000 bit
+  WSum   birleşim  c (k_F, k_H)                             k_F + k_H = p                5.000 bit
+el dili (20): Σc(π) = 138.046 bit; c(Λ_el) = 81.361 bit

@@ -1,0 +1,7 @@
+Kur'an (129) @ (1,+1,19): kF=12 kH=7 en küçük hücre=3 kapı G=1
+  B: B1 B2
+  Z:
+  F: F1 F2 R0c R1c R1e K1 K2 Qc QS Qh FC1 FD1 FH2p FSC
+  W: W1 QU Qa WSum WUd
+  H:
+  L* yüklemlerinden sağlanan: 21 / 109

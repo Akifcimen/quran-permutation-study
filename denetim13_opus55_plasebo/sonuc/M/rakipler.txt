@@ -1,0 +1,66 @@
+== Q: eşik 15.9468 bit; eşiği aşan/eşleyen 33; 2 bit yakın aday 149
+   zincir kümelenmesi: farklı (bölüt, zincir) 32, en çok aynı (bölüt, zincir) 2
+   20.4113 bit  bölüt 294 sıra 85133  (1,+1,13) kF=9 kH=9 sınıf 0  Λ'dan sağlanan: B2 Qc
+   18.1819 bit  bölüt 5 sıra 173221  (1,+1,5) kF=18 kH=19 sınıf 0  Λ'dan sağlanan: B2 K1
+   17.6025 bit  bölüt 129 sıra 57806  (1,+1,5) kF=20 kH=26 sınıf 0  Λ'dan sağlanan: B2 K1
+   17.4086 bit  bölüt 129 sıra 146111  (1,-1,5) kF=25 kH=21 sınıf 0  Λ'dan sağlanan: B2 K1
+   17.1703 bit  bölüt 77 sıra 220475  (1,-1,5) kF=23 kH=24 sınıf 0  Λ'dan sağlanan: B2 K1
+   17.1406 bit  bölüt 146 sıra 126971  (1,-1,5) kF=24 kH=26 sınıf 0  Λ'dan sağlanan: B2 K1
+   17.0958 bit  bölüt 332 sıra 11756  (1,+1,7) kF=21 kH=15 sınıf 0  Λ'dan sağlanan: B2 K1
+   17.0734 bit  bölüt 55 sıra 10565  (1,+1,7) kF=18 kH=19 sınıf 0  Λ'dan sağlanan: B2 K1
+   17.0734 bit  bölüt 358 sıra 109072  (1,+1,7) kF=18 kH=14 sınıf 0  Λ'dan sağlanan: B2 K1
+   17.0734 bit  bölüt 399 sıra 221678  (1,+1,7) kF=18 kH=17 sınıf 0  Λ'dan sağlanan: B2 K1
+   17.0592 bit  bölüt 310 sıra 78989  (1,-1,5) kF=22 kH=23 sınıf 0  Λ'dan sağlanan: B2 K1
+   16.7604 bit  bölüt 167 sıra 154754  (1,+1,19) kF=9 kH=3 sınıf 0  Λ'dan sağlanan: B2 Qc
+   16.7602 bit  bölüt 16 sıra 215938  (1,-1,5) kF=24 kH=19 sınıf 0  Λ'dan sağlanan: K1 Qc
+   16.7602 bit  bölüt 297 sıra 127952  (1,-1,5) kF=24 kH=21 sınıf 0  Λ'dan sağlanan: K1 Qc
+   16.7602 bit  bölüt 303 sıra 46530  (1,-1,5) kF=24 kH=22 sınıf 0  Λ'dan sağlanan: K1 Qc
+   16.7602 bit  bölüt 387 sıra 40658  (1,-1,5) kF=24 kH=22 sınıf 0  Λ'dan sağlanan: K1 Qc
+   16.7249 bit  bölüt 256 sıra 143241  (1,-1,5) kF=21 kH=21 sınıf 0  Λ'dan sağlanan: K1 Qc
+   16.7249 bit  bölüt 333 sıra 66965  (1,-1,5) kF=21 kH=27 sınıf 0  Λ'dan sağlanan: K1 Qc
+   16.7004 bit  bölüt 123 sıra 176115  (1,+1,13) kF=8 kH=11 sınıf 0  Λ'dan sağlanan: B2 K1
+   16.6193 bit  bölüt 157 sıra 185920  (1,-1,5) kF=25 kH=19 sınıf 0  Λ'dan sağlanan: K1 Qc
+== QP2: eşik 18.1744 bit; eşiği aşan/eşleyen 24; 2 bit yakın aday 97
+   zincir kümelenmesi: farklı (bölüt, zincir) 24, en çok aynı (bölüt, zincir) 1
+   20.4094 bit  bölüt 5 sıra 173221  (1,+1,5) kF=18 kH=19 sınıf 0  Λ'dan sağlanan: B2 K1
+   19.8301 bit  bölüt 129 sıra 57806  (1,+1,5) kF=20 kH=26 sınıf 0  Λ'dan sağlanan: B2 K1
+   19.6361 bit  bölüt 129 sıra 146111  (1,-1,5) kF=25 kH=21 sınıf 0  Λ'dan sağlanan: B2 K1
+   19.3978 bit  bölüt 77 sıra 220475  (1,-1,5) kF=23 kH=24 sınıf 0  Λ'dan sağlanan: B2 K1
+   19.3681 bit  bölüt 146 sıra 126971  (1,-1,5) kF=24 kH=26 sınıf 0  Λ'dan sağlanan: B2 K1
+   19.3234 bit  bölüt 332 sıra 11756  (1,+1,7) kF=21 kH=15 sınıf 0  Λ'dan sağlanan: B2 K1
+   19.3009 bit  bölüt 55 sıra 10565  (1,+1,7) kF=18 kH=19 sınıf 0  Λ'dan sağlanan: B2 K1
+   19.3009 bit  bölüt 358 sıra 109072  (1,+1,7) kF=18 kH=14 sınıf 0  Λ'dan sağlanan: B2 K1
+   19.3009 bit  bölüt 399 sıra 221678  (1,+1,7) kF=18 kH=17 sınıf 0  Λ'dan sağlanan: B2 K1
+   19.2867 bit  bölüt 310 sıra 78989  (1,-1,5) kF=22 kH=23 sınıf 0  Λ'dan sağlanan: B2 K1
+   18.9879 bit  bölüt 167 sıra 154754  (1,+1,19) kF=9 kH=3 sınıf 0  Λ'dan sağlanan: B2 Qc
+   18.9878 bit  bölüt 16 sıra 215938  (1,-1,5) kF=24 kH=19 sınıf 0  Λ'dan sağlanan: K1 Qc
+   18.9878 bit  bölüt 297 sıra 127952  (1,-1,5) kF=24 kH=21 sınıf 0  Λ'dan sağlanan: K1 Qc
+   18.9878 bit  bölüt 303 sıra 46530  (1,-1,5) kF=24 kH=22 sınıf 0  Λ'dan sağlanan: K1 Qc
+   18.9878 bit  bölüt 387 sıra 40658  (1,-1,5) kF=24 kH=22 sınıf 0  Λ'dan sağlanan: K1 Qc
+   18.9525 bit  bölüt 256 sıra 143241  (1,-1,5) kF=21 kH=21 sınıf 0  Λ'dan sağlanan: K1 Qc
+   18.9525 bit  bölüt 333 sıra 66965  (1,-1,5) kF=21 kH=27 sınıf 0  Λ'dan sağlanan: K1 Qc
+   18.8469 bit  bölüt 157 sıra 185920  (1,-1,5) kF=25 kH=19 sınıf 0  Λ'dan sağlanan: K1 Qc
+   18.8263 bit  bölüt 294 sıra 85133  (1,+1,13) kF=9 kH=9 sınıf 0  Λ'dan sağlanan: B2 Qc
+   18.8169 bit  bölüt 117 sıra 132755  (1,+1,7) kF=19 kH=17 sınıf 0  Λ'dan sağlanan: B2 K1
+== EL: eşik 26.5783 bit; eşiği aşan/eşleyen 63; 2 bit yakın aday 248
+   zincir kümelenmesi: farklı (bölüt, zincir) 63, en çok aynı (bölüt, zincir) 1
+   32.7045 bit  bölüt 314 sıra 140762  (1,-1,13) kF=13 kH=13 sınıf 0  Λ'dan sağlanan: B2 QkF R0e R1e Qc QS QkH QH
+   32.6233 bit  bölüt 54 sıra 36462  (1,-1,11) kF=11 kH=5 sınıf 0  Λ'dan sağlanan: B1 QkF R0e R1c R1e K1 K2 W1 Qa QH
+   32.1085 bit  bölüt 33 sıra 185429  (1,-1,7) kF=7 kH=7 sınıf 0  Λ'dan sağlanan: QkF R0c K2 QS W1 QkH Qn
+   30.8977 bit  bölüt 159 sıra 131179  (2,+1,13) kF=13 kH=13 sınıf 0  Λ'dan sağlanan: QkF R0c R0e K1 K2 W1 QkH Qa Qn
+   30.8248 bit  bölüt 171 sıra 142106  (1,-1,13) kF=7 kH=13 sınıf 0  Λ'dan sağlanan: B1 F2 R1c R1e K2 QS Qh QkH Qa Qn QH
+   30.7532 bit  bölüt 211 sıra 5725  (2,+3,13) kF=13 kH=1 sınıf 0  Λ'dan sağlanan: QkF R0e R1c R1e QU Qa Qn QH
+   30.3319 bit  bölüt 287 sıra 109533  (1,-1,13) kF=11 kH=13 sınıf 0  Λ'dan sağlanan: B2 F2 R1c K2 Qc QS Qh QkH Qa
+   30.1928 bit  bölüt 304 sıra 220153  (1,-3,13) kF=9 kH=13 sınıf 0  Λ'dan sağlanan: B1 F2 R1c R1e K1 QS Qh QkH Qa QH
+   30.0301 bit  bölüt 14 sıra 121725  (1,+1,13) kF=13 kH=9 sınıf 0  Λ'dan sağlanan: B1 B2 QkF F2 R0e R1c K1 Qn QH
+   29.9937 bit  bölüt 386 sıra 171059  (1,-1,11) kF=9 kH=11 sınıf 0  Λ'dan sağlanan: B1 F2 R1c R1e K1 K2 QkH Qa Qn
+   29.4131 bit  bölüt 162 sıra 217088  (1,-1,7) kF=6 kH=7 sınıf 0  Λ'dan sağlanan: B1 B2 R0c R0e K2 W1 QkH
+   29.3729 bit  bölüt 112 sıra 206888  (1,+1,7) kF=14 kH=7 sınıf 0  Λ'dan sağlanan: F2 R0c R0e R1e W1 QkH Qa Qn QH
+   29.1125 bit  bölüt 228 sıra 108166  (1,+1,11) kF=13 kH=11 sınıf 0  Λ'dan sağlanan: B1 B2 R0c R0e K2 W1 QkH Qa Qn QH
+   29.0726 bit  bölüt 43 sıra 96163  (1,+1,11) kF=11 kH=0 sınıf 0  Λ'dan sağlanan: B1 B2 QkF R1c R1e QU Qa Qn
+   28.8818 bit  bölüt 250 sıra 18282  (1,+1,11) kF=11 kH=11 sınıf 0  Λ'dan sağlanan: B2 QkF R1c K2 QS Qh W1 QkH QH
+   28.8028 bit  bölüt 332 sıra 11756  (1,+1,7) kF=21 kH=15 sınıf 0  Λ'dan sağlanan: B2 F2 R0e R1c K1 QS Qh Qa Qn
+   28.7731 bit  bölüt 374 sıra 4522  (1,+3,17) kF=4 kH=17 sınıf 0  Λ'dan sağlanan: B1 F1 F2 R0c R1c R1e K1 K2 Qc QS Qh W1 QkH Qn
+   28.3455 bit  bölüt 387 sıra 145261  (1,+1,11) kF=11 kH=11 sınıf 0  Λ'dan sağlanan: QkF R0e R1c R1e K2 QS Qh W1 QkH Qn
+   28.3245 bit  bölüt 249 sıra 20116  (1,-1,11) kF=13 kH=11 sınıf 0  Λ'dan sağlanan: B1 B2 F2 R0e R1e QS Qh QkH QH
+   28.2560 bit  bölüt 167 sıra 125462  (1,-1,7) kF=7 kH=7 sınıf 0  Λ'dan sağlanan: QkF R0c K1 QS W1 QkH QH

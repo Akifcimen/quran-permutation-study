@@ -1,0 +1,7 @@
+sıfır L, K = 100; el dili
+Kur'an: eşik 28.094 bit, sınıf 1, k = 14, k^c = 0 / N = 1e+08 → p = 1.500e-07, p^c = 1.000e-08 [0.00e+00; 3.69e-08]
+el dilinde sınıfta plasebo: 1 / 100
+plasebo el dili p: en küçük 1.344e-02, medyan 4.698e-01, p = 1 olan 0
+  sınıfta x019: eşik 5.201, k = 346792, k^c = 1626 / 1e+06 → p = 3.468e-01, p^c = 1.627e-03 [1.55e-03; 1.71e-03]
+betimsel: R^c_el = 0 → (1 + R^c)/(K + 1) = 0.0099
+betimsel: el dilinde Kur'an'ın p'sine ulaşan plasebo 0 / 100

@@ -1,0 +1,55 @@
+[2026-10-28T22:33:51Z] referans M başladı
+[2026-10-28T23:13:01Z] referans M 1111: sifir M tur 1 bolut 1-20 bolut_N 5000000 bicim 0x1111 N 100000000 sure_s 2305.9 girdi_FW 1589362 kapasite 4194304
+[2026-10-28T23:13:01Z] referans M 2222: sifir M tur 1 bolut 1-20 bolut_N 5000000 bicim 0x2222 N 100000000 sure_s 2349.7 girdi_FW 1930667 kapasite 4194304
+[2026-10-28T23:13:01Z] referans M 0444: sifir M tur 1 bolut 1-20 bolut_N 5000000 bicim 0x444 N 100000000 sure_s 1743.3 girdi_FW 1071538 kapasite 4194304
+[2026-10-28T23:13:01Z] referans M 0888: sifir M tur 1 bolut 1-20 bolut_N 5000000 bicim 0x888 N 100000000 sure_s 1763.7 girdi_FW 1292884 kapasite 4194304
+[2026-10-28T23:13:01Z] referans M bitti
+[2026-10-28T23:13:43Z] dil M başladı
+[2026-10-28T23:13:44Z] dil M:      203 satır donduruldu, SHA-256 a55236f9a1fc0d70…
+[2026-10-28T23:13:46Z] dil M bitti
+[2026-10-28T23:14:34Z] kontrol M düzey 1 k1: 203 dil, bölüt 1–4 başladı
+[2026-10-28T23:16:08Z] kontrol M düzey 1 k1: bitti rc=0
+[2026-10-28T23:16:36Z] kontrol M düzey 2: 2 plasebo derinleşiyor: x028 x183
+[2026-10-28T23:16:36Z] kontrol M düzey 2 k2: 5 dil, bölüt 5–40 başladı
+[2026-10-28T23:19:53Z] kontrol M düzey 2 k2: bitti rc=0
+[2026-10-28T23:20:06Z] kontrol M düzey 3: 0 plasebo derinleşiyor: 
+[2026-10-28T23:20:06Z] kontrol M düzey 3 k3: 3 dil, bölüt 41–400 başladı
+[2026-10-28T23:52:51Z] kontrol M düzey 3 k3: bitti rc=0
+[2026-10-28T23:55:45Z] referans U başladı
+[2026-10-29T00:35:00Z] referans U 1111: sifir U tur 1 bolut 1-20 bolut_N 5000000 bicim 0x1111 N 100000000 sure_s 2337.4 girdi_FW 1663936 kapasite 4194304
+[2026-10-29T00:35:00Z] referans U 2222: sifir U tur 1 bolut 1-20 bolut_N 5000000 bicim 0x2222 N 100000000 sure_s 2355.3 girdi_FW 2136185 kapasite 4194304
+[2026-10-29T00:35:00Z] referans U 0444: sifir U tur 1 bolut 1-20 bolut_N 5000000 bicim 0x444 N 100000000 sure_s 1773.9 girdi_FW 1152809 kapasite 4194304
+[2026-10-29T00:35:00Z] referans U 0888: sifir U tur 1 bolut 1-20 bolut_N 5000000 bicim 0x888 N 100000000 sure_s 1793.9 girdi_FW 1399197 kapasite 4194304
+[2026-10-29T00:35:00Z] referans U bitti
+[2026-10-29T00:35:01Z] Ö0 bilgi çapası U: rc=0
+[2026-10-29T00:35:01Z] dil U başladı
+[2026-10-29T00:35:01Z] dil U:      103 satır donduruldu, SHA-256 61c827596407aa22…
+[2026-10-29T00:35:03Z] dil U bitti
+[2026-10-29T00:35:03Z] kontrol U düzey 1 k1: 103 dil, bölüt 1–4 başladı
+[2026-10-29T00:35:59Z] kontrol U düzey 1 k1: bitti rc=0
+[2026-10-29T00:35:59Z] kontrol U düzey 2: 3 plasebo derinleşiyor: x068 x088 x098
+[2026-10-29T00:35:59Z] kontrol U düzey 2 k2: 6 dil, bölüt 5–40 başladı
+[2026-10-29T00:39:19Z] kontrol U düzey 2 k2: bitti rc=0
+[2026-10-29T00:39:19Z] kontrol U düzey 3: 2 plasebo derinleşiyor: x068 x088
+[2026-10-29T00:39:19Z] kontrol U düzey 3 k3: 5 dil, bölüt 41–400 başladı
+[2026-10-29T01:11:51Z] kontrol U düzey 3 k3: bitti rc=0
+[2026-10-29T01:12:50Z] akış U bitti
+[2026-10-29T01:15:36Z] Mallows kararı: kayıtlı 9,51 + kayıtsız ≤2 + kestirim ~5–6 ≤ 40 ç-saat → koşuyor
+[2026-10-29T01:15:40Z] referans L başladı
+[2026-10-29T01:57:43Z] referans L 1111: sifir L tur 1 bolut 1-20 bolut_N 5000000 bicim 0x1111 N 100000000 sure_s 2484.8 girdi_FW 1636561 kapasite 4194304
+[2026-10-29T01:57:43Z] referans L 2222: sifir L tur 1 bolut 1-20 bolut_N 5000000 bicim 0x2222 N 100000000 sure_s 2523.3 girdi_FW 1952252 kapasite 4194304
+[2026-10-29T01:57:43Z] referans L 0444: sifir L tur 1 bolut 1-20 bolut_N 5000000 bicim 0x444 N 100000000 sure_s 1904.3 girdi_FW 1099510 kapasite 4194304
+[2026-10-29T01:57:43Z] referans L 0888: sifir L tur 1 bolut 1-20 bolut_N 5000000 bicim 0x888 N 100000000 sure_s 1924.4 girdi_FW 1319846 kapasite 4194304
+[2026-10-29T01:57:43Z] referans L bitti
+[2026-10-29T01:57:43Z] dil L başladı
+[2026-10-29T01:57:44Z] dil L:      103 satır donduruldu, SHA-256 ec36dd60dbb8f785…
+[2026-10-29T01:57:45Z] dil L bitti
+[2026-10-29T01:57:45Z] kontrol L düzey 1 k1: 103 dil, bölüt 1–4 başladı
+[2026-10-29T01:58:41Z] kontrol L düzey 1 k1: bitti rc=0
+[2026-10-29T01:58:41Z] kontrol L düzey 2: 1 plasebo derinleşiyor: x046
+[2026-10-29T01:58:41Z] kontrol L düzey 2 k2: 4 dil, bölüt 5–40 başladı
+[2026-10-29T02:01:58Z] kontrol L düzey 2 k2: bitti rc=0
+[2026-10-29T02:01:58Z] kontrol L düzey 3: 0 plasebo derinleşiyor: 
+[2026-10-29T02:01:58Z] kontrol L düzey 3 k3: 3 dil, bölüt 41–400 başladı
+[2026-10-29T02:34:16Z] kontrol L düzey 3 k3: bitti rc=0
+[2026-10-29T02:35:17Z] akış L bitti

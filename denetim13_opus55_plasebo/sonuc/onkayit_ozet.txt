@@ -1,0 +1,4 @@
+ONKAYIT.md donduruldu (salt okunur): 2026-10-28T22:33:04Z
+SHA-256(ONKAYIT.md) = 3837c9d819f63b027e89b5e21f413c94766c440cea20d981b068fba269771a5a
+SHA-256(sonuc/onkayit_kod_sha256.txt) = 97ad94d2ab6bfa71840a57f7ec9ae83ed2b417f349f1d08f3f28ad61589f5e17
+Bu ana kadar hiçbir hedef (Kur'an dahil) çekilmedi ya da kütüphaneyle değerlendirilmedi; hiçbir D sonucu ve kontrol puanı hesaplanmadı.

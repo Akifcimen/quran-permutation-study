@@ -1,0 +1,11 @@
+# kos/yeniden_sina.sh — kos/derle.sh ile geçici bir dizinde yeniden derlenmiş ikililerin çıktıları, oturumun sonuç dosyalarıyla (2026-10-29T02:39:41Z; toplam ~72 s, tek süreç)
+o0_kuran: AYNI
+hedef U: AYNI
+hedef L: AYNI
+hedef M: AYNI
+D U (P0): AYNI
+D U (P2): AYNI
+hedef_ayrinti U: AYNI
+kontrol U bölüt 1: AYNI
+referans (tür 6, 10⁵ kitap): AYNI
+o0_bilgi U: AYNI

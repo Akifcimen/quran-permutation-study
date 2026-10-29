@@ -1,0 +1,202 @@
+Q hedef 0 esik 15.946827 mercek (1,+1,19) Ldil 6 sinif 0 cozulmus 1 kF 12 kH 7 mc 3 | B:123118/100000000 F:97/1203170 | dil: B2 K1 Qc | L*@mercek: B1 B2 F1 F2 R0c R1c R1e K1 K2 Qc QS Qh FC1 FD1 FH2p FSC W1 QU Qa WSum WUd | el: 26.578254 (1,+1,19) sinif 1
+x001 hedef 1 esik -0.038196 mercek (1,-2,3) Ldil 87 sinif 0 cozulmus 1 kF 36 kH 31 mc 0 | F:23738/7374570 | dil: FRK | L*@mercek: Zkd Zkd2 FRK FCK Qn WUd | el: 7.730283 (1,-3,29) sinif 0
+x002 hedef 2 esik 2.151185 mercek (2,+3,113) Ldil 260 sinif 0 cozulmus 1 kF 1 kH 3 mc 0 | W:6561/37187056 | dil: WHA2p | L*@mercek: W1 WUTd WHA2p WHAd WHNp WHNd HR1c | el: 5.232843 (1,+2,13) sinif 0
+x003 hedef 3 esik -0.581292 mercek (1,+2,5) Ldil 59 sinif 0 cozulmus 1 kF 24 kH 17 mc 0 | F:41303/8806145 | dil: FRK | L*@mercek: QS FRK FCK | el: 8.037447 (2,-1,7) sinif 0
+x004 hedef 4 esik 0.978477 mercek (2,+1,5) Ldil 175 sinif 0 cozulmus 1 kF 22 kH 23 mc 4 | F:14778/9288753 | dil: FKd | L*@mercek: QS Qh FCd FAd FNd FKd HR1c | el: 3.420725 (1,+1,17) sinif 0
+x005 hedef 5 esik 4.074041 mercek (2,-1,19) Ldil 209 sinif 0 cozulmus 1 kF 4 kH 2 mc 1 | W:2531/13598517 | dil: WHN2p | L*@mercek: F1 R0c R1c FC1 FD1 W1 WUTd WHAd WHN2p WHNd | el: 6.354789 (1,+1,19) sinif 0
+x006 hedef 6 esik -0.495789 mercek (1,+2,5) Ldil 59 sinif 0 cozulmus 1 kF 28 kH 22 mc 0 | F:19158/4334046 | dil: FRK | L*@mercek: FRK FCK HH1 | el: 1.114654 (2,+1,43) sinif 0
+x007 hedef 7 esik -0.801063 mercek (1,-1,5) Ldil 30 sinif 0 cozulmus 1 kF 19 kH 22 mc 4 | F:69912/6399830 | dil: FRK | L*@mercek: BMn R0c FRK HR1c | el: 2.779381 (1,+1,13) sinif 0
+x008 hedef 8 esik 5.452267 mercek (1,+1,19) Ldil 6 sinif 0 cozulmus 1 kF 6 kH 7 mc 0 | B:5258567/100000000 W:44750/16433016 | dil: BMn WUNd2 | L*@mercek: BMn R0c QS FS2p FHm FCm W1 Qn WUNd2 HR1c | el: 3.985878 (1,-1,19) sinif 0
+x009 hedef 9 esik 7.613299 mercek (1,-2,61) Ldil 103 sinif 0 cozulmus 1 kF 3 kH 2 mc 0 | B:1640755/100000000 W:14727/15093156 | dil: BMt WHNp | L*@mercek: BMt K2 FRK FCK FSC W1 WUTd WHAd WHNp WHNd HH1 HK2 | el: 3.799631 (1,-1,19) sinif 0
+x010 hedef 10 esik 0.736522 mercek (2,+1,3) Ldil 174 sinif 0 cozulmus 1 kF 35 kH 32 mc 7 | F:12596/6694815 | dil: R1e | L*@mercek: R1c R1e FAd FNd Qa Qn QH WUd WUTd WHAd WHNd | el: 5.773288 (2,+1,3) sinif 0
+x011 hedef 11 esik 2.105875 mercek (1,+1,23) Ldil 7 sinif 0 cozulmus 1 kF 5 kH 6 mc 1 | F:26030/17871722 | dil: FAP | L*@mercek: R1c K1 K2 FD2 FAP FKS W1 HR1c | el: 4.496889 (1,-1,19) sinif 0
+x012 hedef 12 esik -0.256690 mercek (1,+1,5) Ldil 1 sinif 0 cozulmus 1 kF 26 kH 26 mc 5 | F:49279/6578866 | dil: FRK | L*@mercek: F1 FAd FNd FNd2 FRK FKS Qa Qn WEq WUTd WUTd2 WHAd WHAd2 WHNd | el: 5.085763 (1,-1,79) sinif 0
+x013 hedef 13 esik 8.198635 mercek (1,-1,19) Ldil 35 sinif 0 cozulmus 1 kF 6 kH 6 mc 1 | F:129440/16514100 W:44962/16514100 | dil: K1 WUNd2 | L*@mercek: F1 K1 K2 FD1 FRK FCK FKS FSC W1 Qn WEq WUNd2 HK2 | el: 8.131542 (1,-1,19) sinif 0
+x014 hedef 14 esik -1.410558 mercek (1,+1,13) Ldil 4 sinif 0 cozulmus 1 kF 10 kH 3 mc 2 | W:201740/12104104 | dil: WSum | L*@mercek: R0c FSC W1 QU Qa WSum WUd | el: 5.081662 (1,+1,13) sinif 0
+x015 hedef 15 esik 2.758426 mercek (2,-1,17) Ldil 208 sinif 0 cozulmus 1 kF 9 kH 7 mc 1 | F:4633/10000507 | dil: FHd2 | L*@mercek: F2 QS Qh FSd2 FHd2 W1 | el: 5.936195 (1,-1,29) sinif 0
+x016 hedef 16 esik 0.509794 mercek (1,+2,5) Ldil 59 sinif 0 cozulmus 1 kF 28 kH 21 mc 0 | F:9542/4334046 | dil: F2 | L*@mercek: F1 F2 FC1 FC2 Qn | el: 3.353389 (1,+2,5) sinif 0
+x017 hedef 17 esik 2.227489 mercek (2,-1,113) Ldil 231 sinif 0 cozulmus 1 kF 0 kH 2 mc 0 | W:31597/47203880 | dil: WUTd2 | L*@mercek: Qa Qn WUA2p WUNp WUTd WUTd2 WHA2p WHAd WHNp WHNd HR0c HR0e | el: 2.660639 (3,+1,29) sinif 0
+x018 hedef 18 esik 9.137367 mercek (1,+1,7) Ldil 2 sinif 0 cozulmus 1 kF 17 kH 15 mc 3 | B:123118/100000000 H:94088/10404897 | dil: B2 HH2 | L*@mercek: B2 R1c FKS Qn HH2 | el: 11.944774 (1,-1,7) sinif 0
+x019 hedef 19 esik -1.304599 mercek (2,-1,59) Ldil 218 sinif 0 cozulmus 1 kF 1 kH 3 mc 0 | W:239302/30903930 | dil: WI1 | L*@mercek: FAp FAd FNp FNd WI1 HR1c HR1e HK2 | el: 4.040116 (3,-1,13) sinif 0
+x020 hedef 20 esik 1.352119 mercek (1,-1,3) Ldil 29 sinif 0 cozulmus 1 kF 37 kH 33 mc 7 | F:19139/7793064 | dil: FD2 | L*@mercek: BMn FD2 FAd FNd FNd2 WHd | el: 2.313154 (1,-2,89) sinif 0
+x021 hedef 21 esik 5.215856 mercek (2,-3,11) Ldil 264 sinif 0 cozulmus 0 kF 20 kH 10 mc 4 | F:3/165976 | dil: R1e Qc | L*@mercek: F1 R1c R1e Qc QS FKS | el: 8.023211 (2,-3,11) sinif 0
+x022 hedef 22 esik 1.583994 mercek (1,+1,31) Ldil 9 sinif 0 cozulmus 1 kF 5 kH 1 mc 0 | W:28699/13723256 | dil: WHNp | L*@mercek: R0c R0e K2 WI1 WUTd WHAd WHNp WHNd | el: 4.886470 (1,-1,7) sinif 0
+x023 hedef 23 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 37 kH 45 mc 7 | | dil: | L*@mercek: R0c QS Qh FCd FKd WHd WHd2 WId WUTd WHAd WHNd WHNd2 | el: 4.602912 (1,+1,11) sinif 0
+x024 hedef 24 esik -1.139378 mercek (2,-1,5) Ldil 204 sinif 0 cozulmus 1 kF 24 kH 13 mc 3 | F:60811/8806145 | dil: FCK | L*@mercek: FAd FNd FCK Qa Qn WUTd WHAd WHNd | el: 3.002769 (1,+1,13) sinif 0
+x025 hedef 25 esik 1.758689 mercek (2,+3,101) Ldil 256 sinif 0 cozulmus 1 kF 0 kH 5 mc 0 | W:6527/28182678 | dil: WUA2p | L*@mercek: Qa Qn QH WUA2p WUTd WHA2p WHAd WHNd WHRd2 HR1c | el: 6.140241 (1,+2,29) sinif 0
+x026 hedef 26 esik 3.042021 mercek (1,-1,23) Ldil 36 sinif 0 cozulmus 1 kF 4 kH 9 mc 0 | W:14275/18753231 | dil: WHNd2 | L*@mercek: W1 WUTd WHAd WHNd WHNd2 HR0e HR1c HR1e HK2 | el: 4.458026 (2,-3,31) sinif 0
+x027 hedef 27 esik 2.949915 mercek (1,+1,7) Ldil 2 sinif 0 cozulmus 1 kF 22 kH 22 mc 4 | W:2726/3359691 | dil: WI1 WEq | L*@mercek: WI1 WEq | el: 5.443663 (1,-2,13) sinif 0
+x028 hedef 28 esik 9.049317 mercek (3,+1,5) Ldil 291 sinif 0 cozulmus 1 kF 24 kH 16 mc 5 | F:13928/8806145 W:16472/8806145 | dil: FHd2 WI1 | L*@mercek: R1c QS Qh FSd2 FHd2 FAd FAd2 FNd FNd2 WI1 | el: 4.832024 (1,-3,37) sinif 0
+x029 hedef 29 esik -2.210002 mercek (1,-2,7) Ldil 89 sinif 0 cozulmus 1 kF 25 kH 7 mc 0 | W:11810/814261 | dil: W1 | L*@mercek: W1 QkH WHd | el: 3.121507 (2,-1,13) sinif 0
+x030 hedef 30 esik -1.342632 mercek (1,-1,59) Ldil 44 sinif 0 cozulmus 1 kF 2 kH 3 mc 0 | W:425992/26791055 | dil: WI1 | L*@mercek: B1 R0c R0e QS FC1 FC2 FD1 FD2 FSd2 FCd FCd2 WI1 | el: 6.198290 (1,-2,31) sinif 0
+x031 hedef 31 esik 2.082472 mercek (1,-1,19) Ldil 35 sinif 0 cozulmus 1 kF 6 kH 9 mc 0 | W:24446/16514100 | dil: WUTp | L*@mercek: QS FD1 FSd2 FSC W1 WUTp WUTd WHAd WHNd HR0c HR0e HK2 | el: 5.864680 (2,+1,31) sinif 0
+x032 hedef 32 esik -0.549833 mercek (1,+2,5) Ldil 59 sinif 0 cozulmus 1 kF 26 kH 25 mc 0 | F:31249/6809428 | dil: FRK | L*@mercek: FRK FCK Qa WUd WHd WHd2 | el: 4.672434 (2,+1,43) sinif 0
+x033 hedef 33 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 35 kH 35 mc 7 | | dil: | L*@mercek: FAd FNd WEq HR1c | el: 7.217434 (2,+1,11) sinif 0
+x034 hedef 34 esik 1.959361 mercek (1,+1,5) Ldil 1 sinif 0 cozulmus 1 kF 25 kH 19 mc 4 | F:12500/7753487 | dil: FHd2 | L*@mercek: Zkd Zkd2 QS Qh FSd2 FHd2 FHSd WIp WId | el: 3.109877 (1,-1,17) sinif 0
+x035 hedef 35 esik 0.213673 mercek (1,-1,3) Ldil 29 sinif 0 cozulmus 1 kF 43 kH 39 mc 10 | F:25973/4804020 | dil: FCK | L*@mercek: FCK FKS Qn WHd WId | el: 6.953518 (1,-1,17) sinif 0
+x036 hedef 36 esik 0.257841 mercek (1,-3,13) Ldil 149 sinif 0 cozulmus 1 kF 12 kH 1 mc 2 | W:8734/6662724 | dil: WSum | L*@mercek: FC1 FKS W1 QU Qa WSum WUd | el: 4.237996 (2,-1,3) sinif 0
+x037 hedef 37 esik 1.020941 mercek (1,-1,3) Ldil 29 sinif 0 cozulmus 1 kF 31 kH 42 mc 6 | F:9376/3034674 | dil: Qc | L*@mercek: Qc QS FAd FNd Qa Qn QH WHd WId WUTd WHAd WHNd | el: 6.621736 (1,+1,11) sinif 0
+x038 hedef 38 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 37 kH 27 mc 9 | | dil: | L*@mercek: BMn R0c FAd FNd FKS QH WHd WHd2 WId WId2 WHRd2 | el: 3.314673 (3,+1,3) sinif 0
+x039 hedef 39 esik 0.246333 mercek (1,+1,5) Ldil 1 sinif 0 cozulmus 1 kF 25 kH 20 mc 3 | H:40497/7661912 | dil: HH2 | L*@mercek: BMn Zkd Zkd2 R0c WHd HH1 HH2 | el: 3.765153 (2,-1,29) sinif 0
+x040 hedef 40 esik -0.646845 mercek (1,-1,7) Ldil 31 sinif 0 cozulmus 1 kF 14 kH 20 mc 2 | F:92520/9424894 | dil: FD2 | L*@mercek: Zk2p Zkd R0c FD2 FHSm WUTd WHAd WHNd | el: 5.796894 (3,-1,13) sinif 0
+x041 hedef 41 esik 8.226939 mercek (1,-3,19) Ldil 151 sinif 0 cozulmus 1 kF 5 kH 14 mc 1 | F:46024/16093726 W:29441/16093726 | dil: FCd WSum | L*@mercek: R1c QS FC2 FCd FKS W1 QU WSum WUd | el: 6.994599 (1,-3,19) sinif 0
+x042 hedef 42 esik 0.925748 mercek (2,-1,83) Ldil 224 sinif 0 cozulmus 1 kF 1 kH 2 mc 0 | W:58276/35314929 | dil: WUA2p | L*@mercek: W1 Qa WUA2p | el: 7.335350 (1,+1,13) sinif 0
+x043 hedef 43 esik 2.332324 mercek (2,+1,23) Ldil 181 sinif 0 cozulmus 1 kF 4 kH 2 mc 0 | W:11194/17983553 | dil: WHAp | L*@mercek: FC1 FCK W1 WUTd WUTd2 WHAp WHAd WHNd HH1 HK2 | el: 1.612578 (3,-1,13) sinif 0
+x044 hedef 44 esik 5.982459 mercek (3,+1,7) Ldil 292 sinif 0 cozulmus 1 kF 15 kH 12 mc 3 | F:60313/10343599 H:24559/5776573 | dil: FRK HH2 | L*@mercek: B1 FRK FKS W1 Qa HH1 HH2 HR0c | el: 8.971090 (3,-1,7) sinif 0
+x045 hedef 45 esik -1.483588 mercek (2,+1,7) Ldil 176 sinif 0 cozulmus 1 kF 13 kH 15 mc 3 | F:67920/7747896 | dil: FCK | L*@mercek: R0c FCK FKS W1 WUd | el: 9.340676 (1,-1,29) sinif 0
+x046 hedef 46 esik 7.561776 mercek (2,+1,71) Ldil 192 sinif 0 cozulmus 1 kF 3 kH 3 mc 0 | F:146793/14579125 W:24024/14579125 | dil: FC2 WHNp | L*@mercek: R1c K2 FC2 W1 WEq WUTd WHAd WHNp WHNd | el: 7.093977 (1,+1,31) sinif 0
+x047 hedef 47 esik 0.386698 mercek (1,-1,3) Ldil 29 sinif 0 cozulmus 1 kF 38 kH 38 mc 6 | F:37844/7891606 | dil: FRK | L*@mercek: F1 FAd FAd2 FNd FRK Qa Qn QH WEq WUd WUd2 WUAd2 WUNd2 WUTd WUTd2 WHAd WHAd2 WHNd WHNd2 WHRd2 HR0c | el: 5.057819 (2,-1,29) sinif 0
+x048 hedef 48 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 44 kH 35 mc 5 | | dil: | L*@mercek: QS FCd Qn HR0c | el: 0.542812 (1,+3,7) sinif 0
+x049 hedef 49 esik 0.397885 mercek (2,-3,19) Ldil 267 sinif 0 cozulmus 1 kF 5 kH 5 mc 1 | F:9662/16244005 | dil: FAP | L*@mercek: R1c FC2 FAP FKS W1 WEq HR1c | el: 4.154217 (1,+1,53) sinif 0
+x050 hedef 50 esik -2.794036 mercek (1,+1,23) Ldil 7 sinif 0 cozulmus 1 kF 5 kH 5 mc 0 | B:4348384/100000000 | dil: BMn | L*@mercek: BMn K2 FSC W1 WEq | el: 6.153903 (1,-1,11) sinif 0
+x051 hedef 51 esik 1.668285 mercek (1,-1,113) Ldil 57 sinif 0 cozulmus 1 kF 0 kH 2 mc 0 | W:88386/44807221 | dil: WUTd2 | L*@mercek: B1 Qa Qn WUAp WUNp WUTd WUTd2 WHAp WHAd WHNp WHNd HR1c HR1e | el: 6.609383 (3,-1,61) sinif 0
+x052 hedef 52 esik 1.823047 mercek (1,-1,23) Ldil 36 sinif 0 cozulmus 1 kF 6 kH 6 mc 0 | W:24838/14017462 | dil: WUTp | L*@mercek: R1c W1 WEq WUTp WUTd WHAd WHNd HH1 | el: 2.490058 (1,+1,13) sinif 0
+x053 hedef 53 esik 1.496330 mercek (1,+1,53) Ldil 14 sinif 0 cozulmus 1 kF 3 kH 1 mc 0 | W:44385/19972722 | dil: WUA2p | L*@mercek: FSC W1 Qa WUA2p | el: 5.606805 (3,-1,61) sinif 0
+x054 hedef 54 esik 1.969205 mercek (1,+1,5) Ldil 1 sinif 0 cozulmus 1 kF 25 kH 25 mc 6 | F:12415/7753487 | dil: FCd2 | L*@mercek: Zkd Zkd2 R1c QS FSd2 FCd FCd2 FKS WEq WHd WHd2 WUTd WUTd2 WHAd WHNd | el: 4.071998 (1,-1,7) sinif 0
+x055 hedef 55 esik -1.353727 mercek (1,-1,53) Ldil 43 sinif 0 cozulmus 1 kF 2 kH 2 mc 0 | W:431076/26903094 | dil: WI1 | L*@mercek: R0c R0e QS FC1 FC2 FD1 FD2 FSd2 FCd FCd2 WI1 WEq | el: 3.295830 (1,-1,107) sinif 0
+x056 hedef 56 esik 4.171756 mercek (1,+1,31) Ldil 9 sinif 0 cozulmus 1 kF 6 kH 4 mc 0 | F:2793/8028886 | dil: QS | L*@mercek: F1 K2 QS FSp FRK FSC W1 HH1 HR1c HR1e | el: 6.202923 (1,+1,31) sinif 0
+x057 hedef 57 esik 6.439758 mercek (2,+1,17) Ldil 179 sinif 0 cozulmus 1 kF 5 kH 5 mc 1 | F:153640/14546798 W:49737/14546798 | dil: F2 WHNd2 | L*@mercek: F2 R1c FKS FSC W1 WEq WUTd WUTd2 WHAd WHNd WHNd2 | el: 5.653141 (1,-1,13) sinif 0
+x058 hedef 58 esik 2.569463 mercek (1,+1,97) Ldil 23 sinif 0 cozulmus 1 kF 5 kH 2 mc 0 | W:2565/2428475 | dil: WHNp | L*@mercek: FSC W1 QH WUTd WHAp WHAd WHNp WHNd WHRd2 HR0c HR0e | el: 3.913115 (3,+1,17) sinif 0
+x059 hedef 59 esik 1.408638 mercek (1,+1,89) Ldil 22 sinif 0 cozulmus 1 kF 1 kH 1 mc 0 | W:80210/33964978 | dil: WUNp | L*@mercek: W1 Qn WEq WUNp | el: 2.282347 (1,-3,19) sinif 0
+x060 hedef 60 esik 2.539844 mercek (1,-1,11) Ldil 32 sinif 0 cozulmus 1 kF 14 kH 12 mc 2 | W:5996/5561497 | dil: WUTp | L*@mercek: WUTp WUTd WHAd WHNd HR0e | el: 1.222386 (3,-1,11) sinif 0
+x061 hedef 61 esik -3.068226 mercek (1,+1,19) Ldil 6 sinif 0 cozulmus 1 kF 5 kH 5 mc 1 | B:5258567/100000000 | dil: BMn | L*@mercek: BMn R0c FKS FSC W1 WEq | el: 1.978483 (2,-1,11) sinif 0
+x062 hedef 62 esik 3.161361 mercek (1,+1,83) Ldil 21 sinif 0 cozulmus 1 kF 2 kH 3 mc 0 | W:15653/22336881 | dil: WI1 | L*@mercek: F1 K2 FD1 FRK QH WI1 WHRd2 HH2 HR1c HK2 | el: 5.359070 (1,+3,13) sinif 0
+x063 hedef 63 esik 5.683657 mercek (1,-1,5) Ldil 30 sinif 0 cozulmus 1 kF 22 kH 24 mc 3 | F:1122/9198243 | dil: FH2p | L*@mercek: F2 Qc QS Qh FH2p FCd FKd WIp WId | el: 5.687520 (1,-1,5) sinif 0
+x064 hedef 64 esik 1.407483 mercek (1,+2,7) Ldil 60 sinif 0 cozulmus 1 kF 24 kH 14 mc 0 | W:1692/1431811 | dil: WHR2p | L*@mercek: Qa QH WUd WH2p WHd WHR2p | el: 3.861459 (1,+1,7) sinif 0
+x065 hedef 65 esik 0.586897 mercek (1,+1,47) Ldil 13 sinif 0 cozulmus 1 kF 3 kH 5 mc 0 | F:88578/21220727 | dil: F2 | L*@mercek: F2 FC2 W1 Qn | el: 6.250669 (1,+1,47) sinif 0
+x066 hedef 66 esik 1.874520 mercek (1,+1,83) Ldil 21 sinif 0 cozulmus 1 kF 4 kH 1 mc 0 | W:4524/2645880 | dil: WUAp | L*@mercek: FSC W1 Qa WUAp | el: 5.261398 (1,-1,23) sinif 0
+x067 hedef 67 esik 6.182258 mercek (3,-1,13) Ldil 323 sinif 0 cozulmus 1 kF 10 kH 7 mc 1 | F:259/11999571 | dil: FKd | L*@mercek: F2 R0c QS Qh FCd FAd FNd FKd W1 | el: 5.052979 (1,-1,13) sinif 0
+x068 hedef 68 esik 2.796309 mercek (1,+1,7) Ldil 2 sinif 0 cozulmus 1 kF 20 kH 14 mc 4 | F:5675/6287812 | dil: FKS FSC | L*@mercek: F1 R1c FKS FSC Qa WH2p WHd | el: 4.157953 (1,+1,89) sinif 0
+x069 hedef 69 esik 1.313228 mercek (1,+2,83) Ldil 79 sinif 0 cozulmus 1 kF 3 kH 3 mc 0 | W:13592/10774449 | dil: WHA2p | L*@mercek: K2 FSC W1 WEq WUTd WHA2p WHAd WHN2p WHNd | el: 1.081089 (1,-1,29) sinif 0
+x070 hedef 70 esik -0.477019 mercek (1,+1,5) Ldil 1 sinif 0 cozulmus 1 kF 22 kH 15 mc 2 | F:81321/9318938 | dil: FRK | L*@mercek: B1 F1 FRK Qa WHd | el: 2.929921 (1,-1,29) sinif 0
+x071 hedef 71 esik 5.714939 mercek (1,+1,5) Ldil 1 sinif 0 cozulmus 1 kF 19 kH 20 mc 2 | F:812/6802753 | dil: F2 FSC | L*@mercek: F2 R1c QS Qh FSd2 FHd2 FAd FAd2 FNd FNd2 FSC WHd | el: 6.015269 (2,-1,3) sinif 0
+x072 hedef 72 esik 1.975772 mercek (2,-1,23) Ldil 210 sinif 0 cozulmus 1 kF 2 kH 0 mc 0 | W:6520/8180972 | dil: WUT2p | L*@mercek: R0c FC1 FD1 WUT2p WUTd | el: 3.316174 (1,-1,43) sinif 0
+x073 hedef 73 esik 6.544239 mercek (3,-1,5) Ldil 320 sinif 0 cozulmus 1 kF 22 kH 29 mc 4 | F:156/9288753 | dil: F2 FKd | L*@mercek: BMn F2 QS Qh FSd2 FHd2 FCd FKd WUd WUTd WUTd2 WHAd WHNd | el: 1.934246 (1,-1,17) sinif 0
+x074 hedef 74 esik 9.323550 mercek (1,+1,23) Ldil 7 sinif 0 cozulmus 1 kF 4 kH 6 mc 0 | B:4348384/100000000 F:3789/16837640 | dil: BMn FAd2 | L*@mercek: BMn F1 R0c FAd FAd2 FNd W1 QH WHRd2 | el: 3.908483 (1,-1,83) sinif 0
+x075 hedef 75 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 42 kH 40 mc 7 | | dil: | L*@mercek: BMn Zkd QS FD1 FCd FAd FAd2 FNd FNd2 Qa Qn QH WId WUTd WUTd2 WHAd WHAd2 WHNd WHNd2 | el: 2.434886 (2,-1,3) sinif 0
+x076 hedef 76 esik 0.367235 mercek (1,+2,3) Ldil 58 sinif 0 cozulmus 1 kF 38 kH 41 mc 0 | F:19179/7891606 | dil: FRK | L*@mercek: F1 FC1 FAd FAd2 FNd FRK FCK | el: 5.470932 (2,-1,37) sinif 0
+x077 hedef 77 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 27 kH 37 mc 1 | | dil: | L*@mercek: Zkd Zkd2 R0c QS FHSd FHSd2 QH WId WId2 WUTd WUTd2 WHAd WHAd2 WHNd WHNd2 | el: 4.582002 (3,-1,11) sinif 0
+x078 hedef 78 esik 5.940589 mercek (2,-1,7) Ldil 205 sinif 0 cozulmus 1 kF 15 kH 18 mc 1 | F:526/10305566 | dil: K1 | L*@mercek: K1 FRK WUTd WHAd WHAd2 WHNd | el: 7.530041 (3,-1,17) sinif 0
+x079 hedef 79 esik -0.860614 mercek (1,+1,7) Ldil 2 sinif 0 cozulmus 1 kF 13 kH 8 mc 3 | F:86201/7571855 | dil: FRK | L*@mercek: R0c FRK FKS W1 WUd HR0e | el: 0.450944 (2,+1,13) sinif 0
+x080 hedef 80 esik 6.753170 mercek (2,+1,5) Ldil 175 sinif 0 cozulmus 1 kF 16 kH 22 mc 1 | F:21933/2757481 H:33777/9244937 | dil: R0e HH2 | L*@mercek: R0c R0e Qn WUd WUNd2 HH2 HR1c | el: 4.050418 (2,-1,5) sinif 0
+x081 hedef 81 esik -1.421716 mercek (1,+1,53) Ldil 14 sinif 0 cozulmus 1 kF 2 kH 4 mc 0 | W:456096/27154246 | dil: WI1 | L*@mercek: FSC WI1 | el: 2.917491 (1,+3,11) sinif 0
+x082 hedef 82 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 35 kH 29 mc 5 | | dil: | L*@mercek: B1 QS Qh FCd FKd Qa WId WId2 WUAd2 HR1c | el: 7.500185 (1,+3,13) sinif 0
+x083 hedef 83 esik -0.693008 mercek (1,-1,5) Ldil 30 sinif 0 cozulmus 1 kF 22 kH 21 mc 3 | F:93231/9198243 | dil: FRK | L*@mercek: FRK Qa | el: 2.823980 (2,-1,13) sinif 0
+x084 hedef 84 esik -0.658562 mercek (1,-1,5) Ldil 30 sinif 0 cozulmus 1 kF 23 kH 24 mc 1 | F:91726/9268432 | dil: FRK | L*@mercek: FRK Qn QH WUNd2 | el: 2.424410 (3,+1,11) sinif 0
+x085 hedef 85 esik -1.081306 mercek (3,+1,5) Ldil 291 sinif 0 cozulmus 1 kF 30 kH 32 mc 5 | F:7585/2287024 | dil: FRK | L*@mercek: Zkd F1 FHSd FRK Qn WUd WUd2 | el: 1.630448 (2,-1,41) sinif 0
+x086 hedef 86 esik -0.730661 mercek (1,+1,11) Ldil 3 sinif 0 cozulmus 1 kF 13 kH 8 mc 2 | F:83958/8069969 | dil: FD2 | L*@mercek: FD2 FKS WI1 HH1 HR0c | el: 3.960240 (1,+1,13) sinif 0
+x087 hedef 87 esik 5.324380 mercek (2,-1,41) Ldil 214 sinif 0 cozulmus 1 kF 3 kH 10 mc 0 | W:1778/22725864 | dil: QH | L*@mercek: FRK W1 QH WHRp | el: 13.109080 (1,+1,13) sinif 0
+x088 hedef 88 esik 1.310390 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 43 kH 39 mc 9 | F:12095/4784464 | dil: R1e | L*@mercek: B1 BMn R1c R1e QS Qh FCd FKd WHd WId WUTd WHAd WHNd | el: 7.862494 (1,+1,3) sinif 0
+x089 hedef 89 esik -0.352392 mercek (1,+1,5) Ldil 1 sinif 0 cozulmus 1 kF 22 kH 20 mc 4 | F:74591/9318938 | dil: FCK | L*@mercek: F1 FC1 FAd FNd FCK QH WHd WIp WId HH1 | el: 2.209083 (2,-3,37) sinif 0
+x090 hedef 90 esik -0.348429 mercek (1,-1,53) Ldil 43 sinif 0 cozulmus 1 kF 1 kH 3 mc 0 | W:183976/23048054 | dil: WI1 | L*@mercek: QS FSd2 FAp FAd FNp FNd WI1 | el: 2.423644 (1,-1,17) sinif 0
+x091 hedef 91 esik 0.837100 mercek (2,-1,13) Ldil 207 sinif 0 cozulmus 1 kF 13 kH 8 mc 2 | F:7274/4145301 | dil: FAP | L*@mercek: QkF Zkd R1c FC2 FAP FKS WI1 | el: 2.254397 (1,+1,13) sinif 0
+x092 hedef 92 esik 1.385873 mercek (1,+2,5) Ldil 59 sinif 0 cozulmus 1 kF 25 kH 17 mc 0 | W:9523/7938779 | dil: WI1 | L*@mercek: Zkd Zkd2 Qa QH WI1 | el: 3.704793 (1,-3,13) sinif 0
+x093 hedef 93 esik 1.736962 mercek (2,-1,13) Ldil 207 sinif 0 cozulmus 1 kF 7 kH 5 mc 0 | F:12070/12834402 | dil: FH2p | L*@mercek: F2 QS Qh FH2p W1 | el: 5.502333 (3,+1,11) sinif 0
+x094 hedef 94 esik 1.200714 mercek (1,-1,3) Ldil 29 sinif 0 cozulmus 1 kF 42 kH 34 mc 8 | F:15554/5702348 | dil: Qc | L*@mercek: B1 Zkd Qc QS FD1 Qa QH WUd WUd2 WHRd2 | el: 9.596428 (1,+2,13) sinif 0
+x095 hedef 95 esik 4.778483 mercek (1,+1,7) Ldil 2 sinif 0 cozulmus 1 kF 15 kH 23 mc 1 | F:2338/10234628 | dil: R1e K2 | L*@mercek: R1c R1e K2 Qa WUd WUAd2 | el: 7.585416 (1,+1,7) sinif 0
+x096 hedef 96 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 34 kH 39 mc 5 | | dil: | L*@mercek: B1 F1 QS WHd WId WUTd WHAd WHNd | el: 4.463940 (1,+1,7) sinif 0
+x097 hedef 97 esik 2.234969 mercek (1,+1,19) Ldil 6 sinif 0 cozulmus 1 kF 10 kH 5 mc 1 | F:6004/4508106 | dil: Qc | L*@mercek: Qc QS FC1 FKS W1 Qa | el: 7.084759 (1,+1,19) sinif 0
+x098 hedef 98 esik 0.768007 mercek (3,+1,3) Ldil 290 sinif 0 cozulmus 1 kF 39 kH 39 mc 8 | H:92042/100000000 | dil: HR1e | L*@mercek: B1 QS Qh FSd2 WUTd2 HR1e | el: 5.104139 (3,-1,3) sinif 0
+x099 hedef 99 esik 0.878852 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 35 kH 44 mc 8 | F:22831/6696476 | dil: FRK | L*@mercek: BMn QS FCd FRK FKS QH WUTd WHAd WHNd HH1 | el: 5.762174 (1,-1,11) sinif 0
+x100 hedef 100 esik 2.140234 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 50 kH 38 mc 11 | F:726/510472 | dil: F2 | L*@mercek: F2 R0c FAd FAd2 FNd | el: 8.565516 (3,+1,13) sinif 0
+x101 hedef 101 esik 1.361318 mercek (1,-2,29) Ldil 95 sinif 0 cozulmus 1 kF 3 kH 2 mc 0 | F:24552/20122188 | dil: FAp | L*@mercek: FAp FAd FNd FSC W1 | el: 5.667308 (1,-1,11) sinif 0
+x102 hedef 102 esik 9.865164 mercek (2,+1,103) Ldil 199 sinif 0 cozulmus 1 kF 3 kH 0 mc 0 | F:17445/7797530 W:11715/7797530 | dil: FA2p WUNp | L*@mercek: F2 R1c R1e K2 FA2p FAd FNp FNd Qa Qn WUA2p WUNp WUTd | el: 7.133353 (1,+1,29) sinif 0
+x103 hedef 103 esik 3.116057 mercek (1,-1,101) Ldil 53 sinif 0 cozulmus 1 kF 1 kH 3 mc 0 | W:24711/34172572 | dil: WUT2p | L*@mercek: W1 WUT2p WUTd WHAp WHAd WHN2p WHNd | el: 2.391696 (3,-1,17) sinif 0
+x104 hedef 104 esik 2.876276 mercek (1,+2,29) Ldil 66 sinif 0 cozulmus 1 kF 2 kH 1 mc 0 | W:6233/14599340 | dil: WHNp | L*@mercek: F1 K2 FC1 FRK FCK WI1 WUTd WHAp WHAd WHNp WHNd | el: 4.250543 (1,+1,13) sinif 0
+x105 hedef 105 esik 2.505709 mercek (1,-1,83) Ldil 50 sinif 0 cozulmus 1 kF 2 kH 3 mc 0 | W:28967/26239645 | dil: WHN2p | L*@mercek: F1 K2 FD1 FRK W1 WUTd WUTd2 WHAp WHAd WHN2p WHNd | el: 0.783950 (1,+2,11) sinif 0
+x106 hedef 106 esik 0.960402 mercek (1,-1,107) Ldil 55 sinif 0 cozulmus 1 kF 2 kH 3 mc 0 | W:67077/20818247 | dil: WUAp | L*@mercek: F1 K2 FC1 FRK FCK W1 Qa WUAp | el: 2.828640 (2,+1,19) sinif 0
+x107 hedef 107 esik 1.888499 mercek (1,-1,101) Ldil 53 sinif 0 cozulmus 1 kF 2 kH 3 mc 0 | W:43170/25493983 | dil: WHN2p | L*@mercek: R1c R1e FC1 FC2 FD1 FD2 W1 WUTd WHAp WHAd WHN2p WHNd | el: 1.606065 (2,-1,11) sinif 0
+x108 hedef 108 esik 1.015973 mercek (1,+3,3) Ldil 116 sinif 0 cozulmus 1 kF 38 kH 38 mc 8 | F:77507/100000000 | dil: FD2 | L*@mercek: FD2 FKS | el: 5.189347 (2,-3,11) sinif 0
+x109 hedef 109 esik 7.227876 mercek (3,+2,37) Ldil 358 sinif 0 cozulmus 1 kF 2 kH 5 mc 0 | W:11527/22275797 H:105091/10401759 | dil: WHRp HK2 | L*@mercek: F1 K2 FC1 FRK FCK W1 QH WHRp HK2 | el: 3.412620 (1,-3,5) sinif 0
+x110 hedef 110 esik 1.099418 mercek (1,-1,3) Ldil 29 sinif 0 cozulmus 1 kF 33 kH 37 mc 7 | F:14315/4892265 | dil: FC2 | L*@mercek: BMn Zkd QS Qh FC2 FCd FKS WUTd WHAd WHNd WHNd2 | el: 0.646653 (1,+3,37) sinif 0
+x111 hedef 111 esik 3.360638 mercek (1,+2,11) Ldil 61 sinif 0 cozulmus 1 kF 11 kH 22 mc 0 | W:3680/12058451 | dil: WH2p | L*@mercek: QkF Zkd Qa WI1 WH2p WHd | el: 5.046958 (1,-3,23) sinif 0
+x112 hedef 112 esik 1.291396 mercek (2,-1,11) Ldil 206 sinif 0 cozulmus 1 kF 8 kH 11 mc 1 | F:13522/10557971 | dil: FAP | L*@mercek: R1c FD2 FAP QkH WI1 WHd | el: 3.619433 (2,+1,13) sinif 0
+x113 hedef 113 esik -0.812290 mercek (1,-1,5) Ldil 30 sinif 0 cozulmus 1 kF 22 kH 27 mc 3 | F:101267/9198243 | dil: FCK | L*@mercek: QS FSp FCK WUTd WUTd2 WHAd WHNd | el: 3.820216 (2,+1,17) sinif 0
+x114 hedef 114 esik 0.783352 mercek (2,-1,3) Ldil 203 sinif 0 cozulmus 1 kF 37 kH 39 mc 6 | F:14136/7761214 | dil: FC2 | L*@mercek: BMn FC2 FAd FNd Qa Qn QH WUd WUd2 WHd WUAd2 WUTd WHAd WHNd | el: 14.707860 (1,+3,23) sinif 0
+x115 hedef 115 esik -1.229993 mercek (1,-3,3) Ldil 145 sinif 0 cozulmus 1 kF 38 kH 38 mc 7 | F:367658/100000000 | dil: FCK | L*@mercek: B1 F1 FCK HH1 | el: 5.652640 (3,-1,13) sinif 0
+x116 hedef 116 esik 1.608519 mercek (1,+3,109) Ldil 143 sinif 0 cozulmus 1 kF 1 kH 3 mc 0 | W:19140/37237050 | dil: WHA2p | L*@mercek: W1 WUTd WHA2p WHAd WHNp WHNd HR0c HR0e HK2 | el: 7.986900 (2,+3,29) sinif 0
+x117 hedef 117 esik 7.611938 mercek (1,+1,43) Ldil 12 sinif 0 cozulmus 1 kF 1 kH 5 mc 0 | F:63555/20538712 W:212723/20538712 | dil: FN2p WI1 | L*@mercek: FAp FAd FN2p FNd WI1 HH2 HR1c HR1e | el: 4.035874 (1,-1,7) sinif 0
+x118 hedef 118 esik 1.922123 mercek (1,-2,41) Ldil 98 sinif 0 cozulmus 1 kF 1 kH 1 mc 0 | W:12749/15412870 | dil: WUNp | L*@mercek: W1 Qn WEq WUNp | el: 3.393360 (1,+1,13) sinif 0
+x119 hedef 119 esik 1.379405 mercek (1,+2,3) Ldil 58 sinif 0 cozulmus 1 kF 40 kH 39 mc 0 | F:8750/7261745 | dil: F2 | L*@mercek: F2 FC2 Qa WHd WUAd2 | el: 5.351771 (2,-1,13) sinif 0
+x120 hedef 120 esik 23.418610 mercek (3,+1,67) Ldil 307 sinif 0 cozulmus 1 kF 3 kH 0 mc 0 | B:14849310/100000000 F:1005/16106514 W:243/16106514 | dil: B1 FAp FRK WUAp WUN2p | L*@mercek: B1 R0c R0e K2 FAp FAd FN2p FNd FRK Qa Qn WUAp WUN2p WUTd | el: 9.259282 (1,-1,7) sinif 0
+x121 hedef 121 esik -1.628787 mercek (1,+2,11) Ldil 61 sinif 0 cozulmus 1 kF 11 kH 19 mc 0 | F:116900/12058451 | dil: FSC | L*@mercek: QkF Zkd FSC | el: 4.575248 (1,+3,13) sinif 0
+x122 hedef 122 esik 0.428625 mercek (1,+2,11) Ldil 61 sinif 0 cozulmus 1 kF 12 kH 12 mc 0 | F:23412/10052128 | dil: K2 | L*@mercek: K2 WEq | el: 2.322011 (2,+1,13) sinif 0
+x123 hedef 123 esik 0.112762 mercek (1,-1,3) Ldil 29 sinif 0 cozulmus 1 kF 35 kH 32 mc 6 | F:38818/6694815 | dil: FCK | L*@mercek: BMn FAd FAd2 FNd FCK QH WUd | el: 5.902000 (3,-1,7) sinif 0
+x124 hedef 124 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 36 kH 37 mc 6 | | dil: | L*@mercek: BMn Zkd Zkd2 R0c FAd FNd FNd2 WId | el: 0.409574 (3,-1,17) sinif 0
+x125 hedef 125 esik 2.013685 mercek (1,+1,11) Ldil 3 sinif 0 cozulmus 1 kF 7 kH 7 mc 1 | F:12617/8126366 | dil: FAP | L*@mercek: R1c FC2 FAP FKS WI1 WEq HR0c | el: 2.758872 (1,-1,13) sinif 0
+x126 hedef 126 esik 1.654388 mercek (2,+1,31) Ldil 183 sinif 0 cozulmus 1 kF 1 kH 4 mc 0 | W:9233/9271586 | dil: WUTd2 | L*@mercek: W1 WUTd WUTd2 WHAd WHNd HH1 HR0c | el: 4.081949 (1,+1,7) sinif 0
+x127 hedef 127 esik 0.221852 mercek (1,-1,3) Ldil 29 sinif 0 cozulmus 1 kF 47 kH 26 mc 11 | F:8877/1651243 | dil: FCK | L*@mercek: QS FCK FKS Qn QH WId WHRd2 | el: 1.886142 (1,-2,7) sinif 0
+x128 hedef 128 esik 1.102311 mercek (1,-1,107) Ldil 55 sinif 0 cozulmus 1 kF 1 kH 1 mc 0 | W:108429/37130835 | dil: WUNp | L*@mercek: W1 Qn WEq WUNp | el: 12.454681 (2,+1,43) sinif 0
+x129 hedef 129 esik 0.118283 mercek (2,+1,3) Ldil 174 sinif 0 cozulmus 1 kF 27 kH 34 mc 5 | F:1964/680047 | dil: FRK | L*@mercek: Zkd Zkd2 FAd FAd2 FNd FRK QH | el: 2.073178 (1,-3,71) sinif 0
+x130 hedef 130 esik -0.495789 mercek (1,+2,5) Ldil 59 sinif 0 cozulmus 1 kF 28 kH 22 mc 0 | F:19158/4334046 | dil: FRK | L*@mercek: FRK FCK WUTd WHAd WHAd2 WHNd | el: 8.164723 (1,-1,11) sinif 0
+x131 hedef 131 esik 1.483627 mercek (2,-1,17) Ldil 208 sinif 0 cozulmus 1 kF 5 kH 8 mc 0 | F:14872/13267111 | dil: FHd2 | L*@mercek: F2 R1c QS Qh FSd2 FHd2 W1 HH1 HR0c HR1c | el: 2.944368 (1,+3,19) sinif 0
+x132 hedef 132 esik 4.069039 mercek (1,+3,11) Ldil 119 sinif 0 cozulmus 1 kF 12 kH 11 mc 1 | F:978/10472792 | dil: FCd2 | L*@mercek: B1 R0c R1c QS FC1 FC2 FD1 FSd2 FCd FCd2 QkH Qn QH WHd | el: 10.967125 (1,+3,11) sinif 0
+x133 hedef 133 esik -0.038488 mercek (2,+1,3) Ldil 174 sinif 0 cozulmus 1 kF 41 kH 32 mc 4 | F:21117/6558991 | dil: R0e | L*@mercek: R0e FAd FAd2 FNd WId | el: 7.965206 (1,-3,13) sinif 0
+x134 hedef 134 esik -0.997514 mercek (1,+1,7) Ldil 2 sinif 0 cozulmus 1 kF 16 kH 18 mc 3 | F:132902/10617212 | dil: FCK | L*@mercek: FD1 FCK FKS | el: 8.770110 (1,-1,11) sinif 0
+x135 hedef 135 esik 1.310803 mercek (1,-3,11) Ldil 148 sinif 0 cozulmus 1 kF 8 kH 11 mc 2 | F:6789/10745277 | dil: FAP | L*@mercek: F1 R0c R1c FC1 FC2 FD1 FAP FSC W1 QkH WHd HR0c | el: 6.322572 (3,+1,7) sinif 0
+x136 hedef 136 esik 1.165034 mercek (1,-1,3) Ldil 29 sinif 0 cozulmus 1 kF 37 kH 39 mc 5 | F:21789/7793064 | dil: FC2 | L*@mercek: QS FC2 FCd Qa WUd WUd2 WHd WUAd2 | el: 9.072680 (1,+1,7) sinif 0
+x137 hedef 137 esik 2.380296 mercek (1,-1,43) Ldil 41 sinif 0 cozulmus 1 kF 3 kH 1 mc 0 | W:26644/22125879 | dil: WUA2p | L*@mercek: K2 FRK W1 Qa WUA2p | el: 1.876003 (1,+3,7) sinif 0
+x138 hedef 138 esik 2.329551 mercek (1,+1,107) Ldil 26 sinif 0 cozulmus 1 kF 1 kH 3 mc 0 | W:35316/28313735 | dil: WUAp | L*@mercek: W1 Qa WUAp HR1c HR1e HK2 | el: 8.260833 (1,+1,13) sinif 0
+x139 hedef 139 esik 9.538447 mercek (1,-3,97) Ldil 168 sinif 0 cozulmus 1 kF 4 kH 0 mc 0 | F:5728/2773220 W:2830/2773220 | dil: FAp WUAp | L*@mercek: QS FSd2 FAp FAd FNd Qa Qn WUAp WUTd WUTd2 | el: 6.927908 (1,+1,13) sinif 0
+x140 hedef 140 esik -0.765711 mercek (1,+2,19) Ldil 64 sinif 0 cozulmus 1 kF 6 kH 13 mc 0 | W:87887/16489723 | dil: WSum | L*@mercek: K2 FSC WI1 WSum | el: 2.906935 (2,-1,7) sinif 0
+x141 hedef 141 esik 1.188079 mercek (1,-2,41) Ldil 98 sinif 0 cozulmus 1 kF 2 kH 1 mc 0 | W:31818/23126549 | dil: WUA2p | L*@mercek: F1 K2 FC1 FRK FCK W1 Qa WUA2p | el: 3.169121 (2,-1,7) sinif 0
+x142 hedef 142 esik -0.406536 mercek (1,+1,53) Ldil 14 sinif 0 cozulmus 1 kF 1 kH 4 mc 0 | W:201969/24303329 | dil: WI1 | L*@mercek: FAp FAd FNp FNd WI1 | el: 4.864461 (1,+3,23) sinif 0
+x143 hedef 143 esik 1.572394 mercek (2,+1,13) Ldil 178 sinif 0 cozulmus 1 kF 7 kH 5 mc 0 | H:7152/6785096 | dil: HK2 | L*@mercek: FSC W1 HK2 | el: 6.488386 (1,+1,13) sinif 0
+x144 hedef 144 esik 0.889987 mercek (1,+1,53) Ldil 14 sinif 0 cozulmus 1 kF 2 kH 2 mc 0 | F:91868/27154246 | dil: R1e | L*@mercek: R1c R1e FC1 FC2 FD1 FD2 W1 QH WEq WHRd2 | el: 11.317558 (3,+1,31) sinif 0
+x145 hedef 145 esik -0.286209 mercek (1,+1,47) Ldil 13 sinif 0 cozulmus 1 kF 5 kH 7 mc 0 | F:45246/5918116 | dil: FRK | L*@mercek: K2 FRK FSC W1 | el: 5.091758 (1,+3,13) sinif 0
+x146 hedef 146 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 44 kH 41 mc 8 | | dil: | L*@mercek: BMn Qa QH WUd WHRd2 | el: 3.260036 (2,-1,11) sinif 0
+x147 hedef 147 esik -0.698133 mercek (1,+1,5) Ldil 1 sinif 0 cozulmus 1 kF 26 kH 30 mc 5 | F:66919/6578866 | dil: R0e | L*@mercek: B1 F1 R0e FAd FNd FNd2 FKS Qa Qn WHd WUNd2 WUTd WHAd WHNd WHNd2 | el: 9.427408 (1,+1,5) sinif 0
+x148 hedef 148 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 37 kH 39 mc 7 | | dil: | L*@mercek: BMn QS Qh FCd FAd FNd FKd QH WUd WUd2 WHd | el: 1.878165 (1,-1,23) sinif 0
+x149 hedef 149 esik 2.077284 mercek (1,+1,71) Ldil 18 sinif 0 cozulmus 1 kF 3 kH 2 mc 0 | W:14771/9942491 | dil: WHNp | L*@mercek: FCK FSC W1 QH WUTd WHAp WHAd WHNp WHNd WHRd2 HR0c HR0e | el: 4.555314 (1,-2,19) sinif 0
+x150 hedef 150 esik 1.937263 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 41 kH 35 mc 10 | F:10717/6546488 | dil: FD2 | L*@mercek: R1c FD2 FKS QH WUd WUd2 WUTd WHAd WHAd2 WHNd WHNd2 | el: 3.441906 (1,+1,13) sinif 0
+x151 hedef 151 esik 2.450696 mercek (2,-1,79) Ldil 223 sinif 0 cozulmus 1 kF 0 kH 3 mc 0 | W:15300/26681796 | dil: WUT2p | L*@mercek: Qa Qn WUA2p WUN2p WUT2p WUTd WHA2p WHAd WHN2p WHNd | el: 8.443786 (2,-1,11) sinif 0
+x152 hedef 152 esik 13.575510 mercek (3,+2,37) Ldil 358 sinif 0 cozulmus 1 kF 4 kH 3 mc 0 | F:5462/17217022 W:3484/17217022 | dil: FAp WUA2p | L*@mercek: FAp FAd FNd W1 Qa Qn WUA2p WUTd WHAp WHAd WHNd | el: 6.499884 (1,+1,71) sinif 0
+x153 hedef 153 esik -0.008719 mercek (1,+3,5) Ldil 117 sinif 0 cozulmus 1 kF 25 kH 31 mc 4 | F:12366/7841975 | dil: FKd | L*@mercek: Zkd Zkd2 QS Qh FCd FKd WUTd WHAd WHNd WHNd2 HR1c | el: 2.593255 (3,+1,17) sinif 0
+x154 hedef 154 esik -0.692898 mercek (3,-1,5) Ldil 320 sinif 0 cozulmus 1 kF 23 kH 20 mc 2 | F:23452/9255873 | dil: FSC | L*@mercek: FSC WHd HH1 HR0c | el: 3.125741 (1,-3,7) sinif 0
+x155 hedef 155 esik -1.110352 mercek (2,+1,59) Ldil 189 sinif 0 cozulmus 1 kF 1 kH 1 mc 0 | W:186453/27549318 | dil: WI1 | L*@mercek: FAp FAd FNp FNd Qa Qn WI1 WEq WUAp WUNp WUTd WHAp WHAd WHNp WHNd | el: 2.553126 (2,+1,11) sinif 0
+x156 hedef 156 esik 0.104179 mercek (2,+1,5) Ldil 175 sinif 0 cozulmus 1 kF 18 kH 20 mc 3 | F:15485/5309613 | dil: FC2 | L*@mercek: FC1 FC2 FKS Qa WUd WHd | el: 5.853878 (2,-1,37) sinif 0
+x157 hedef 157 esik 3.824537 mercek (1,+1,97) Ldil 23 sinif 0 cozulmus 1 kF 2 kH 3 mc 0 | W:12042/27211949 | dil: WHA2p | L*@mercek: B1 FSC W1 WUTd WHA2p WHAd WHNp WHNd HK2 | el: 4.575526 (1,+3,11) sinif 0
+x158 hedef 158 esik 0.880699 mercek (1,+2,31) Ldil 67 sinif 0 cozulmus 1 kF 4 kH 1 mc 0 | W:33627/19751297 | dil: WHN2p | L*@mercek: F1 FC1 QH WI1 WUTd WHAp WHAd WHN2p WHNd WHRd2 | el: 5.300530 (1,+1,17) sinif 0
+x159 hedef 159 esik 9.479614 mercek (3,+2,17) Ldil 353 sinif 0 cozulmus 1 kF 12 kH 1 mc 0 | F:8948/1948971 W:466/1948971 | dil: FRK WHAp | L*@mercek: FRK FCK WI1 WUTd WHAp WHAd WHNd | el: 4.457098 (1,+1,7) sinif 0
+x160 hedef 160 esik 5.508374 mercek (1,+1,17) Ldil 5 sinif 0 cozulmus 1 kF 10 kH 2 mc 1 | W:923/6701134 | dil: WHN2p | L*@mercek: F1 FRK FKS FSC W1 WUTd WHAd WHN2p WHNd | el: 3.186469 (1,-3,13) sinif 0
+x161 hedef 161 esik -1.279452 mercek (2,-1,5) Ldil 204 sinif 0 cozulmus 1 kF 19 kH 22 mc 2 | F:49730/6535153 | dil: FCK | L*@mercek: BMn R0c FCK Qa WUd | el: 4.102051 (1,+1,11) sinif 0
+x162 hedef 162 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 34 kH 30 mc 7 | | dil: | L*@mercek: F1 FKS QH WHd WId WId2 WUTd WHAd WHAd2 WHNd WHNd2 WHRd2 | el: 2.532640 (2,-1,19) sinif 0
+x163 hedef 163 esik 0.718391 mercek (1,+1,5) Ldil 1 sinif 0 cozulmus 1 kF 17 kH 25 mc 2 | F:15487/4064295 | dil: F2 | L*@mercek: F2 FAd FNd WUd WHd WHd2 | el: 0.718391 (1,+1,5) sinif 0
+x164 hedef 164 esik 4.495250 mercek (3,-1,31) Ldil 328 sinif 0 cozulmus 1 kF 3 kH 1 mc 0 | W:1489/21424969 | dil: WUAp | L*@mercek: W1 Qa WUAp | el: 5.277931 (2,-3,29) sinif 0
+x165 hedef 165 esik 1.047191 mercek (1,-2,83) Ldil 108 sinif 0 cozulmus 1 kF 1 kH 2 mc 0 | W:51922/34227726 | dil: WUA2p | L*@mercek: W1 Qa WUA2p HH1 HK2 | el: 6.684563 (3,+1,11) sinif 0
+x166 hedef 166 esik 3.670283 mercek (1,-3,7) Ldil 147 sinif 0 cozulmus 1 kF 21 kH 19 mc 2 | F:564/4581050 | dil: FAP | L*@mercek: Zkd QS FD2 FHSd FAP QH | el: 7.490688 (1,+1,13) sinif 0
+x167 hedef 167 esik -1.467296 mercek (1,-1,37) Ldil 39 sinif 0 cozulmus 1 kF 1 kH 4 mc 0 | W:280018/16152749 | dil: WI1 | L*@mercek: FAp FAd FNd WI1 HK2 | el: 1.971229 (2,-1,47) sinif 0
+x168 hedef 168 esik -0.348429 mercek (1,-1,53) Ldil 43 sinif 0 cozulmus 1 kF 1 kH 2 mc 0 | W:183976/23048054 | dil: WI1 | L*@mercek: QS FSd2 FAp FAd FNp FNd WI1 HR0c HR0e | el: 2.029867 (2,-1,7) sinif 0
+x169 hedef 169 esik 0.224447 mercek (1,-1,11) Ldil 32 sinif 0 cozulmus 1 kF 8 kH 3 mc 1 | W:58995/10993632 | dil: WSum | L*@mercek: B1 BMt F1 R1c FKS WI1 WSum | el: 4.861882 (2,+1,19) sinif 0
+x170 hedef 170 esik 3.606403 mercek (1,+2,61) Ldil 74 sinif 0 cozulmus 1 kF 3 kH 1 mc 0 | W:4882/18968108 | dil: WUNp | L*@mercek: W1 Qn WUNp | el: 4.325438 (1,-3,19) sinif 0
+x171 hedef 171 esik 0.211497 mercek (1,-1,5) Ldil 30 sinif 0 cozulmus 1 kF 24 kH 15 mc 4 | F:47933/8852421 | dil: Qc | L*@mercek: F1 R1c Qc QS Qa WHd WUAd2 | el: 7.948813 (2,-1,11) sinif 0
+x172 hedef 172 esik 0.903261 mercek (1,+1,5) Ldil 1 sinif 0 cozulmus 1 kF 27 kH 23 mc 5 | F:17842/5322465 | dil: F2 | L*@mercek: B1 F2 Qn WUNd2 | el: 6.662975 (1,+1,13) sinif 0
+x173 hedef 173 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 44 kH 44 mc 9 | | dil: | L*@mercek: BMn QS WEq WUTd WUTd2 WHAd WHAd2 WHNd | el: 2.878432 (2,-1,13) sinif 0
+x174 hedef 174 esik -0.266779 mercek (2,-1,29) Ldil 211 sinif 0 cozulmus 1 kF 5 kH 3 mc 1 | F:59180/15691231 | dil: FAP | L*@mercek: R1c K1 FD2 FAP FKS W1 HK2 | el: 1.201396 (1,-1,3) sinif 0
+x175 hedef 175 esik 2.408377 mercek (3,+1,97) Ldil 313 sinif 0 cozulmus 1 kF 0 kH 3 mc 0 | W:9969/33764961 | dil: WUA2p | L*@mercek: Qa Qn WUA2p WUNp WUTd WHA2p WHAd WHNp WHNd HR0c | el: 4.335150 (1,-1,7) sinif 0
+x176 hedef 176 esik 1.569581 mercek (1,+1,23) Ldil 7 sinif 0 cozulmus 1 kF 7 kH 4 mc 0 | W:24596/11644372 | dil: WUNd2 | L*@mercek: K2 W1 Qn WUNd2 HH1 HR0c HR1c | el: 5.201766 (2,-3,23) sinif 0
+x177 hedef 177 esik 0.768007 mercek (3,+1,3) Ldil 290 sinif 0 cozulmus 1 kF 39 kH 39 mc 8 | H:92042/100000000 | dil: HR1e | L*@mercek: B1 R1c QH HR1c HR1e | el: 9.325690 (3,-1,37) sinif 0
+x178 hedef 178 esik 3.082229 mercek (1,+1,31) Ldil 9 sinif 0 cozulmus 1 kF 1 kH 1 mc 0 | W:7310/9874644 | dil: WUN2p | L*@mercek: FA2p FAd FN2p FNd Qa Qn QH WI1 WEq WUA2p WUN2p WUTd WHA2p WHAd WHN2p WHNd WHRd2 | el: 7.498135 (1,+3,19) sinif 0
+x179 hedef 179 esik 2.923335 mercek (3,+1,17) Ldil 295 sinif 0 cozulmus 1 kF 10 kH 1 mc 1 | W:1304/6311168 | dil: WHAp | L*@mercek: WI1 WUTd WHAp WHAd WHNd | el: 4.119289 (1,+3,17) sinif 0
+x180 hedef 180 esik 1.851845 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 36 kH 37 mc 7 | F:12809/7374570 | dil: F2 | L*@mercek: BMn Zkd Zkd2 F1 F2 FHSd FHSd2 Qa WId HR0c | el: 3.671082 (1,+1,3) sinif 0
+x181 hedef 181 esik 4.593803 mercek (1,-1,89) Ldil 51 sinif 0 cozulmus 1 kF 5 kH 1 mc 0 | W:399/1536760 | dil: WUN2p | L*@mercek: FSC W1 Qn WUN2p | el: 4.456465 (2,+1,7) sinif 0
+x182 hedef 182 esik -1.793113 mercek (1,+2,17) Ldil 63 sinif 0 cozulmus 1 kF 4 kH 13 mc 0 | W:104537/9622318 | dil: WSum | L*@mercek: W1 QU WSum WUd | el: 2.077993 (1,-3,17) sinif 0
+x183 hedef 183 esik 13.291113 mercek (1,+2,19) Ldil 64 sinif 0 cozulmus 1 kF 6 kH 13 mc 0 | W:354/16489723 H:7772/533503 | dil: WSum WHRd2 HH2 | L*@mercek: FSC Qn QH WI1 WSum WHRd2 HH2 | el: 6.793992 (1,+1,107) sinif 0
+x184 hedef 184 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 33 kH 34 mc 6 | | dil: | L*@mercek: BMn Zkd QS Qa QH WUd | el: 4.882670 (1,-1,7) sinif 0
+x185 hedef 185 esik -3.068226 mercek (1,+1,19) Ldil 6 sinif 0 cozulmus 1 kF 3 kH 5 mc 0 | B:5258567/100000000 | dil: BMn | L*@mercek: BMn K2 FSC W1 | el: 4.316656 (2,+3,31) sinif 0
+x186 hedef 186 esik 1.692580 mercek (3,+2,11) Ldil 351 sinif 0 cozulmus 1 kF 12 kH 12 mc 0 | F:2528/10426654 | dil: K2 | L*@mercek: K2 WI1 WEq WUTd WHAd WHNd HH1 | el: 4.158347 (2,+1,5) sinif 0
+x187 hedef 187 esik -0.230565 mercek (1,-3,3) Ldil 145 sinif 0 cozulmus 1 kF 38 kH 38 mc 6 | F:183902/100000000 | dil: FC2 | L*@mercek: QS FC2 FSd2 FCd FCd2 FAd Qa QH WUTd2 WHAd | el: 5.675353 (2,-1,23) sinif 0
+x188 hedef 188 esik -1.628182 mercek (1,-1,7) Ldil 31 sinif 0 cozulmus 1 kF 13 kH 10 mc 1 | F:153132/7901236 | dil: FRK | L*@mercek: FRK Qn WI1 | el: 7.816665 (1,-3,13) sinif 0
+x189 hedef 189 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 49 kH 48 mc 8 | | dil: | L*@mercek: WHd WUTd WHAd WHNd HR1c | el: 2.206573 (1,+1,13) sinif 0
+x190 hedef 190 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 38 kH 35 mc 5 | | dil: | L*@mercek: BMn QH WId WUTd WHAd WHNd WHRd2 | el: 0.940367 (1,-1,31) sinif 0
+x191 hedef 191 esik 1.324672 mercek (1,-2,31) Ldil 96 sinif 0 cozulmus 1 kF 6 kH 0 mc 0 | W:10382/8295410 | dil: WUTp | L*@mercek: WUTp WUTd | el: 3.658839 (1,+1,13) sinif 0
+x192 hedef 192 esik -1.956162 mercek (1,-1,53) Ldil 43 sinif 0 cozulmus 1 kF 3 kH 4 mc 0 | W:501764/20625139 | dil: WI1 | L*@mercek: B1 R0e QS FC2 FD2 FSd2 FCd FCd2 Qn WI1 HH1 HH2 HK2 | el: 8.852158 (1,+1,53) sinif 0
+x193 hedef 193 esik 1.986122 mercek (1,-1,5) Ldil 30 sinif 0 cozulmus 1 kF 25 kH 29 mc 4 | F:12706/8028820 | dil: FKd | L*@mercek: Zkd Zkd2 QS Qh FCd FAd FNd FKd QH | el: 8.005943 (3,-1,11) sinif 0
+x194 hedef 194 esik 1.710473 mercek (1,-2,89) Ldil 109 sinif 0 cozulmus 1 kF 1 kH 3 mc 0 | W:33312/34777230 | dil: WHN2p | L*@mercek: W1 WUTd WHAp WHAd WHN2p WHNd HH2 HK2 | el: 2.850245 (2,-1,7) sinif 0
+x195 hedef 195 esik 4.579267 mercek (3,-1,11) Ldil 322 sinif 0 cozulmus 1 kF 14 kH 15 mc 3 | F:363/5536356 | dil: K1 | L*@mercek: F2 R1c R1e K1 | el: 9.176202 (3,-1,11) sinif 0
+x196 hedef 196 esik 3.875610 mercek (2,-1,5) Ldil 204 sinif 0 cozulmus 1 kF 17 kH 33 mc 3 | F:817/3825496 | dil: FAP | L*@mercek: FC2 FAd FNd FAP HR0c | el: 6.183931 (1,-2,19) sinif 0
+x197 hedef 197 esik 8.428869 mercek (1,-1,13) Ldil 33 sinif 0 cozulmus 1 kF 9 kH 11 mc 1 | W:16892/13626669 H:141387/9633944 | dil: WUTp HH2 | L*@mercek: R1c WI1 WUTp WUTd WHAd WHNd HH2 | el: 1.701200 (1,-1,11) sinif 0
+x198 hedef 198 esik 1.309295 mercek (2,+1,23) Ldil 181 sinif 0 cozulmus 1 kF 5 kH 5 mc 0 | B:4349863/100000000 F:523300/17995094 | dil: BMn FRK | L*@mercek: BMn R0c FRK W1 WEq | el: 3.061764 (2,+1,11) sinif 0
+x199 hedef 199 esik 10.556074 mercek (3,-2,53) Ldil 391 sinif 0 cozulmus 1 kF 5 kH 0 mc 0 | F:6420/4224493 W:1447/4224493 | dil: FA2p WUA2p | L*@mercek: FA2p FAd FNd Qa Qn WUA2p WUTd | el: 5.463994 (2,-1,7) sinif 0
+x200 hedef 200 esik 0.686589 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 40 kH 39 mc 9 | F:28157/7228211 | dil: FCK | L*@mercek: B1 FC1 FAd FNd FNd2 FCK FKS WHd | el: 8.752340 (1,-1,29) sinif 0
+QP2 hedef 0 esik 18.174362 mercek (1,+1,19) Ldil 6 sinif 0 cozulmus 1 kF 12 kH 7 mc 3 | B:123118/100000000 F:97/1203170 | dil: B2 K1 Qc | L*@mercek: B1 B2 F1 F2 R0c R1c R1e K1 K2 Qc QS Qh FC1 FD1 FH2p FSC W1 QU Qa WSum WUd | el: 26.578254 (1,+1,19) sinif 1

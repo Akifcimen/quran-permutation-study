@@ -1,0 +1,7 @@
+o_L.bin: 300 kitap × 406 mercek — grup maskesi uyuşmazlığı B 0, Z 0, F 0, W 0, H 0; kF/kH/hücre 0
+o_M1.bin: 300 kitap × 406 mercek — grup maskesi uyuşmazlığı B 0, Z 0, F 0, W 0, H 0; kF/kH/hücre 0
+o_M2.bin: 300 kitap × 406 mercek — grup maskesi uyuşmazlığı B 0, Z 0, F 0, W 0, H 0; kF/kH/hücre 0
+o_U.bin: 300 kitap × 406 mercek — grup maskesi uyuşmazlığı B 0, Z 0, F 0, W 0, H 0; kF/kH/hücre 0
+r_L.bin: 400 kitap × 406 mercek — grup maskesi uyuşmazlığı B 0, Z 0, F 0, W 0, H 0; kF/kH/hücre 0
+r_M.bin: 400 kitap × 406 mercek — grup maskesi uyuşmazlığı B 0, Z 0, F 0, W 0, H 0; kF/kH/hücre 0
+r_U.bin: 400 kitap × 406 mercek — grup maskesi uyuşmazlığı B 0, Z 0, F 0, W 0, H 0; kF/kH/hücre 0

@@ -1,0 +1,1 @@
+QP2 hedef 0 mercek (1,+1,19) amac 1.054577 bilgi 25.291659 dil_bedeli 19.147205 mercek_bedeli 5.089877 |Λ| 3 grup_bilgi B 9.7981 Z 0.0000 F 15.4936 W 0.0000 H 0.0000 : B2 K1 Qc

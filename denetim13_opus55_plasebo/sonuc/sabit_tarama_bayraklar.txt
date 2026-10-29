@@ -1,0 +1,4 @@
+taranan dosya: 6
+(1) analitik listede olmayan hep-doğru çiftler: 0 []
+(2) analitik listede olup sabit olmayan çiftler: 0 []
+(3) dışlanmamış hiçbir mercekte hiç doğru görülmeyen yüklemler: ['Bt', 'FHp', 'FKp']

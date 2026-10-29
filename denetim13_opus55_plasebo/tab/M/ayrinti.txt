@@ -1,0 +1,202 @@
+Q hedef 0 mercek (1,+1,19) amac -3.200379 bilgi 23.264239 dil_bedeli 19.147205 mercek_bedeli 7.317413 |Λ| 3 grup_bilgi B 9.6657 Z 0.0000 F 13.5985 W 0.0000 H 0.0000 : B2 K1 Qc
+x001 hedef 1 mercek (1,-2,3) amac -10.015476 bilgi 8.279217 dil_bedeli 9.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.2792 W 0.0000 H 0.0000 : FRK
+x002 hedef 2 mercek (2,+3,113) amac -10.411058 bilgi 12.468597 dil_bedeli 12.562242 mercek_bedeli 10.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 12.4686 H 0.0000 : WHA2p
+x003 hedef 3 mercek (1,+2,5) amac -10.558572 bilgi 7.736120 dil_bedeli 9.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 7.7361 W 0.0000 H 0.0000 : FRK
+x004 hedef 4 mercek (2,+1,5) amac -9.998802 bilgi 9.295890 dil_bedeli 10.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.2959 W 0.0000 H 0.0000 : FKd
+x005 hedef 5 mercek (2,-1,19) amac -8.488201 bilgi 12.391454 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 12.3915 H 0.0000 : WHN2p
+x006 hedef 6 mercek (1,+2,5) amac -10.473069 bilgi 7.821624 dil_bedeli 9.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 7.8216 W 0.0000 H 0.0000 : FRK
+x007 hedef 7 mercek (1,-1,5) amac -10.778343 bilgi 6.516350 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 6.5163 W 0.0000 H 0.0000 : FRK
+x008 hedef 8 mercek (1,+1,19) amac -10.109975 bilgi 12.769680 dil_bedeli 15.562242 mercek_bedeli 7.317413 |Λ| 2 grup_bilgi B 4.2492 Z 0.0000 F 0.0000 W 8.5205 H 0.0000 : BMn WUNd2
+x009 hedef 9 mercek (1,-2,61) amac -8.948943 bilgi 15.930712 dil_bedeli 16.562242 mercek_bedeli 8.317413 |Λ| 2 grup_bilgi B 5.9295 Z 0.0000 F 0.0000 W 10.0012 H 0.0000 : BMt WHNp
+x010 hedef 10 mercek (2,+1,3) amac -10.240758 bilgi 9.053935 dil_bedeli 10.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.0539 W 0.0000 H 0.0000 : R1e
+x011 hedef 11 mercek (1,+1,23) amac -8.456367 bilgi 9.423288 dil_bedeli 10.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.4233 W 0.0000 H 0.0000 : FAP
+x012 hedef 12 mercek (1,+1,5) amac -10.233970 bilgi 7.060722 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 7.0607 W 0.0000 H 0.0000 : FRK
+x013 hedef 13 mercek (1,-1,19) amac -9.533533 bilgi 15.516047 dil_bedeli 17.732167 mercek_bedeli 7.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 6.9953 W 8.5208 H 0.0000 : K1 WUNd2
+x014 hedef 14 mercek (1,+1,13) amac -10.802875 bilgi 5.906855 dil_bedeli 9.392317 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 5.9069 H 0.0000 : WSum
+x015 hedef 15 mercek (2,-1,17) amac -10.026209 bilgi 11.075839 dil_bedeli 12.784635 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 11.0758 W 0.0000 H 0.0000 : FHd2
+x016 hedef 16 mercek (1,+2,5) amac -10.467485 bilgi 8.827207 dil_bedeli 10.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.8272 W 0.0000 H 0.0000 : F2
+x017 hedef 17 mercek (2,-1,113) amac -10.334753 bilgi 10.544902 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.5449 H 0.0000 : WUTd2
+x018 hedef 18 mercek (1,+1,7) amac -5.424876 bilgi 16.454779 dil_bedeli 14.562242 mercek_bedeli 7.317413 |Λ| 2 grup_bilgi B 9.6657 Z 0.0000 F 0.0000 W 0.0000 H 6.7890 : B2 HH2
+x019 hedef 19 mercek (2,-1,59) amac -10.696916 bilgi 7.012814 dil_bedeli 9.392317 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 7.0128 H 0.0000 : WI1
+x020 hedef 20 mercek (1,-1,3) amac -9.625161 bilgi 8.669531 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.6695 W 0.0000 H 0.0000 : FD2
+x021 hedef 21 mercek (2,-3,11) amac -11.346386 bilgi 15.533269 dil_bedeli 16.562242 mercek_bedeli 10.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 15.5333 W 0.0000 H 0.0000 : R1e Qc
+x022 hedef 22 mercek (1,+1,31) amac -10.978248 bilgi 8.901407 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 8.9014 H 0.0000 : WHNp
+x023 hedef 23 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :
+x024 hedef 24 mercek (2,-1,5) amac -11.116658 bilgi 7.178034 dil_bedeli 9.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 7.1780 W 0.0000 H 0.0000 : FCK
+x025 hedef 25 mercek (2,+3,101) amac -10.803554 bilgi 12.076101 dil_bedeli 12.562242 mercek_bedeli 10.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 12.0761 H 0.0000 : WUA2p
+x026 hedef 26 mercek (1,-1,23) amac -9.520222 bilgi 10.359433 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.3594 H 0.0000 : WHNd2
+x027 hedef 27 mercek (1,+1,7) amac -10.442403 bilgi 10.267327 dil_bedeli 13.392317 mercek_bedeli 7.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.2673 H 0.0000 : WI1 WEq
+x028 hedef 28 mercek (3,+1,5) amac -7.735318 bilgi 18.366730 dil_bedeli 16.784635 mercek_bedeli 9.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 9.3044 W 9.0624 H 0.0000 : FHd2 WI1
+x029 hedef 29 mercek (1,-2,7) amac -11.602320 bilgi 6.107410 dil_bedeli 9.392317 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 6.1074 H 0.0000 : W1
+x030 hedef 30 mercek (1,-1,59) amac -10.734949 bilgi 5.974781 dil_bedeli 9.392317 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 5.9748 H 0.0000 : WI1
+x031 hedef 31 mercek (1,-1,19) amac -10.479771 bilgi 9.399884 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.3999 H 0.0000 : WUTp
+x032 hedef 32 mercek (1,+2,5) amac -10.527113 bilgi 7.767580 dil_bedeli 9.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 7.7676 W 0.0000 H 0.0000 : FRK
+x033 hedef 33 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :
+x034 hedef 34 mercek (1,+1,5) amac -10.825274 bilgi 9.276773 dil_bedeli 12.784635 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.2768 W 0.0000 H 0.0000 : FHd2
+x035 hedef 35 mercek (1,-1,3) amac -9.763607 bilgi 7.531086 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 7.5311 W 0.0000 H 0.0000 : FCK
+x036 hedef 36 mercek (1,-3,13) amac -9.134476 bilgi 9.575254 dil_bedeli 9.392317 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.5753 H 0.0000 : WSum
+x037 hedef 37 mercek (1,-1,3) amac -9.956339 bilgi 8.338353 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.3384 W 0.0000 H 0.0000 : Qc
+x038 hedef 38 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :
+x039 hedef 39 mercek (1,+1,5) amac -10.730947 bilgi 7.563746 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 7.5637 : HH2
+x040 hedef 40 mercek (1,-1,7) amac -11.624125 bilgi 6.670567 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 6.6706 W 0.0000 H 0.0000 : FD2
+x041 hedef 41 mercek (1,-3,19) amac -8.879623 bilgi 17.544352 dil_bedeli 17.106563 mercek_bedeli 9.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 8.4499 W 9.0945 H 0.0000 : FCd WSum
+x042 hedef 42 mercek (2,-1,83) amac -11.636494 bilgi 9.243161 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.2432 H 0.0000 : WUA2p
+x043 hedef 43 mercek (2,+1,23) amac -10.229918 bilgi 10.649737 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.6497 H 0.0000 : WHAp
+x044 hedef 44 mercek (3,+1,7) amac -9.579783 bilgi 15.299872 dil_bedeli 15.562242 mercek_bedeli 9.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 7.4221 W 0.0000 H 7.8778 : FRK HH2
+x045 hedef 45 mercek (2,+1,7) amac -11.460868 bilgi 6.833824 dil_bedeli 9.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 6.8338 W 0.0000 H 0.0000 : FCK
+x046 hedef 46 mercek (2,+1,71) amac -10.585428 bilgi 15.879189 dil_bedeli 18.147205 mercek_bedeli 8.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 6.6340 W 9.2452 H 0.0000 : FC2 WHNp
+x047 hedef 47 mercek (1,-1,3) amac -9.590582 bilgi 7.704111 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 7.7041 W 0.0000 H 0.0000 : FRK
+x048 hedef 48 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :
+x049 hedef 49 mercek (2,-3,19) amac -10.164357 bilgi 10.715298 dil_bedeli 10.562242 mercek_bedeli 10.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 10.7153 W 0.0000 H 0.0000 : FAP
+x050 hedef 50 mercek (1,+1,23) amac -11.186353 bilgi 4.523377 dil_bedeli 8.392317 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 4.5234 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 : BMn
+x051 hedef 51 mercek (1,-1,113) amac -10.893957 bilgi 8.985698 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 8.9857 H 0.0000 : WUTd2
+x052 hedef 52 mercek (1,-1,23) amac -10.739195 bilgi 9.140460 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.1405 H 0.0000 : WUTp
+x053 hedef 53 mercek (1,+1,53) amac -11.065912 bilgi 8.813743 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 8.8137 H 0.0000 : WUA2p
+x054 hedef 54 mercek (1,+1,5) amac -11.137358 bilgi 9.286617 dil_bedeli 13.106563 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.2866 W 0.0000 H 0.0000 : FCd2
+x055 hedef 55 mercek (1,-1,53) amac -10.746044 bilgi 5.963686 dil_bedeli 9.392317 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 5.9637 H 0.0000 : WI1
+x056 hedef 56 mercek (1,+1,31) amac -8.612879 bilgi 11.489169 dil_bedeli 12.784635 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 11.4892 W 0.0000 H 0.0000 : QS
+x057 hedef 57 mercek (2,+1,17) amac -11.707447 bilgi 14.757170 dil_bedeli 18.147205 mercek_bedeli 8.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 6.5650 W 8.1922 H 0.0000 : F2 WHNd2
+x058 hedef 58 mercek (1,+1,97) amac -9.992779 bilgi 9.886876 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.8869 H 0.0000 : WHNp
+x059 hedef 59 mercek (1,+1,89) amac -11.153605 bilgi 8.726050 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 8.7261 H 0.0000 : WUNp
+x060 hedef 60 mercek (1,-1,11) amac -10.022398 bilgi 9.857257 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.8573 H 0.0000 : WUTp
+x061 hedef 61 mercek (1,+1,19) amac -11.460544 bilgi 4.249186 dil_bedeli 8.392317 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 4.2492 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 : BMn
+x062 hedef 62 mercek (1,+1,83) amac -6.230957 bilgi 10.478773 dil_bedeli 9.392317 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.4788 H 0.0000 : WI1
+x063 hedef 63 mercek (1,-1,5) amac -7.100978 bilgi 13.001070 dil_bedeli 12.784635 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 13.0011 W 0.0000 H 0.0000 : FH2p
+x064 hedef 64 mercek (1,+2,7) amac -11.154759 bilgi 9.724896 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.7249 H 0.0000 : WHR2p
+x065 hedef 65 mercek (1,+1,47) amac -10.390383 bilgi 7.904310 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 7.9043 W 0.0000 H 0.0000 : F2
+x066 hedef 66 mercek (1,+1,83) amac -10.687722 bilgi 9.191933 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.1919 H 0.0000 : WUAp
+x067 hedef 67 mercek (3,-1,13) amac -4.795021 bilgi 15.499671 dil_bedeli 10.977280 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 15.4997 W 0.0000 H 0.0000 : FKd
+x068 hedef 68 mercek (1,+1,7) amac -10.935858 bilgi 10.113722 dil_bedeli 13.732167 mercek_bedeli 7.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 10.1137 W 0.0000 H 0.0000 : FKS FSC
+x069 hedef 69 mercek (1,+2,83) amac -11.249014 bilgi 9.630641 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.6306 H 0.0000 : WHA2p
+x070 hedef 70 mercek (1,+1,5) amac -10.454299 bilgi 6.840394 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 6.8404 W 0.0000 H 0.0000 : FRK
+x071 hedef 71 mercek (1,+1,5) amac -9.432266 bilgi 13.032351 dil_bedeli 15.147205 mercek_bedeli 7.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 13.0324 W 0.0000 H 0.0000 : F2 FSC
+x072 hedef 72 mercek (2,-1,23) amac -10.586470 bilgi 10.293185 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.2932 H 0.0000 : WUT2p
+x073 hedef 73 mercek (3,-1,5) amac -10.018004 bilgi 15.861651 dil_bedeli 16.562242 mercek_bedeli 9.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 15.8617 W 0.0000 H 0.0000 : F2 FKd
+x074 hedef 74 mercek (1,+1,23) amac -6.461085 bilgi 16.640962 dil_bedeli 15.784635 mercek_bedeli 7.317413 |Λ| 2 grup_bilgi B 4.5234 Z 0.0000 F 12.1176 W 0.0000 H 0.0000 : BMn FAd2
+x075 hedef 75 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :
+x076 hedef 76 mercek (1,+2,3) amac -9.610045 bilgi 8.684648 dil_bedeli 9.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.6846 W 0.0000 H 0.0000 : FRK
+x077 hedef 77 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :
+x078 hedef 78 mercek (2,-1,7) amac -4.621654 bilgi 14.258001 dil_bedeli 10.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 14.2580 W 0.0000 H 0.0000 : K1
+x079 hedef 79 mercek (1,+1,7) amac -10.837894 bilgi 6.456798 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 6.4568 W 0.0000 H 0.0000 : FRK
+x080 hedef 80 mercek (2,+1,5) amac -9.809073 bilgi 15.070582 dil_bedeli 16.562242 mercek_bedeli 8.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 6.9741 W 0.0000 H 8.0965 : R0e HH2
+x081 hedef 81 mercek (1,+1,53) amac -10.814034 bilgi 5.895696 dil_bedeli 9.392317 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 5.8957 H 0.0000 : WI1
+x082 hedef 82 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :
+x083 hedef 83 mercek (1,-1,5) amac -10.670288 bilgi 6.624405 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 6.6244 W 0.0000 H 0.0000 : FRK
+x084 hedef 84 mercek (1,-1,5) amac -10.635842 bilgi 6.658851 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 6.6589 W 0.0000 H 0.0000 : FRK
+x085 hedef 85 mercek (3,+1,5) amac -11.058586 bilgi 8.236107 dil_bedeli 9.977280 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.2361 W 0.0000 H 0.0000 : FRK
+x086 hedef 86 mercek (1,+1,11) amac -11.707941 bilgi 6.586752 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 6.5868 W 0.0000 H 0.0000 : FD2
+x087 hedef 87 mercek (2,-1,41) amac -7.237863 bilgi 13.641792 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 13.6418 H 0.0000 : QH
+x088 hedef 88 mercek (1,+1,3) amac -9.666890 bilgi 8.627803 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.6278 W 0.0000 H 0.0000 : R1e
+x089 hedef 89 mercek (1,+1,5) amac -10.329672 bilgi 6.965020 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 6.9650 W 0.0000 H 0.0000 : FCK
+x090 hedef 90 mercek (1,-1,53) amac -9.740746 bilgi 6.968984 dil_bedeli 9.392317 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 6.9690 H 0.0000 : WI1
+x091 hedef 91 mercek (2,-1,13) amac -9.725143 bilgi 9.154512 dil_bedeli 10.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.1545 W 0.0000 H 0.0000 : FAP
+x092 hedef 92 mercek (1,+2,5) amac -8.006445 bilgi 9.703285 dil_bedeli 9.392317 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.7033 H 0.0000 : WI1
+x093 hedef 93 mercek (2,-1,13) amac -11.047673 bilgi 10.054375 dil_bedeli 12.784635 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 10.0544 W 0.0000 H 0.0000 : FH2p
+x094 hedef 94 mercek (1,-1,3) amac -9.776566 bilgi 8.518127 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.5181 W 0.0000 H 0.0000 : Qc
+x095 hedef 95 mercek (1,+1,7) amac -10.783759 bilgi 12.095896 dil_bedeli 15.562242 mercek_bedeli 7.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 12.0959 W 0.0000 H 0.0000 : R1e K2
+x096 hedef 96 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :
+x097 hedef 97 mercek (1,+1,19) amac -8.742311 bilgi 9.552382 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.5524 W 0.0000 H 0.0000 : Qc
+x098 hedef 98 mercek (3,+1,3) amac -10.209272 bilgi 10.085420 dil_bedeli 10.977280 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 10.0854 : HR1e
+x099 hedef 99 mercek (1,+1,3) amac -9.098428 bilgi 8.196264 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.1963 W 0.0000 H 0.0000 : FRK
+x100 hedef 100 mercek (1,+1,3) amac -8.837046 bilgi 9.457647 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.4576 W 0.0000 H 0.0000 : F2
+x101 hedef 101 mercek (1,-2,29) amac -11.423317 bilgi 9.678731 dil_bedeli 12.784635 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.6787 W 0.0000 H 0.0000 : FAp
+x102 hedef 102 mercek (2,+1,103) amac -10.089396 bilgi 18.182576 dil_bedeli 19.954560 mercek_bedeli 8.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 8.8041 W 9.3785 H 0.0000 : FA2p WUNp
+x103 hedef 103 mercek (1,-1,101) amac -9.446185 bilgi 10.433470 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.4335 H 0.0000 : WUT2p
+x104 hedef 104 mercek (1,+2,29) amac -9.685966 bilgi 11.193689 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 11.1937 H 0.0000 : WHNp
+x105 hedef 105 mercek (1,-1,83) amac -10.056533 bilgi 9.823122 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.8231 H 0.0000 : WHN2p
+x106 hedef 106 mercek (1,-1,107) amac -11.601840 bilgi 8.277815 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 8.2778 H 0.0000 : WUAp
+x107 hedef 107 mercek (1,-1,101) amac -10.673743 bilgi 9.205912 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.2059 H 0.0000 : WHN2p
+x108 hedef 108 mercek (1,+3,3) amac -9.961307 bilgi 10.333386 dil_bedeli 10.977280 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 10.3334 W 0.0000 H 0.0000 : FD2
+x109 hedef 109 mercek (3,+2,37) amac -9.919329 bilgi 17.545289 dil_bedeli 17.147205 mercek_bedeli 10.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.9162 H 6.6290 : WHRp HK2
+x110 hedef 110 mercek (1,-1,3) amac -9.877861 bilgi 8.416831 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.4168 W 0.0000 H 0.0000 : FC2
+x111 hedef 111 mercek (1,+2,11) amac -9.201604 bilgi 11.678051 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 11.6781 H 0.0000 : WH2p
+x112 hedef 112 mercek (2,-1,11) amac -9.270847 bilgi 9.608808 dil_bedeli 10.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.6088 W 0.0000 H 0.0000 : FAP
+x113 hedef 113 mercek (1,-1,5) amac -10.789570 bilgi 6.505122 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 6.5051 W 0.0000 H 0.0000 : FCK
+x114 hedef 114 mercek (2,-1,3) amac -10.193928 bilgi 9.100765 dil_bedeli 10.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.1008 W 0.0000 H 0.0000 : FC2
+x115 hedef 115 mercek (1,-3,3) amac -11.207273 bilgi 8.087420 dil_bedeli 9.977280 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.0874 W 0.0000 H 0.0000 : FCK
+x116 hedef 116 mercek (1,+3,109) amac -10.953723 bilgi 10.925932 dil_bedeli 12.562242 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.9259 H 0.0000 : WHA2p
+x117 hedef 117 mercek (1,+1,43) amac -9.172697 bilgi 14.929350 dil_bedeli 16.784635 mercek_bedeli 7.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 8.3361 W 6.5932 H 0.0000 : FN2p WI1
+x118 hedef 118 mercek (1,-2,41) amac -10.640119 bilgi 10.239536 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.2395 H 0.0000 : WUNp
+x119 hedef 119 mercek (1,+2,3) amac -9.597875 bilgi 9.696818 dil_bedeli 10.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.6968 W 0.0000 H 0.0000 : F2
+x120 hedef 120 mercek (3,+1,67) amac -8.968910 bilgi 32.736022 dil_bedeli 32.387519 mercek_bedeli 9.317413 |Λ| 5 grup_bilgi B 2.7515 Z 0.0000 F 13.9682 W 16.0163 H 0.0000 : B1 FAp FRK WUAp WUN2p
+x121 hedef 121 mercek (1,+2,11) amac -11.191029 bilgi 6.688626 dil_bedeli 9.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 6.6886 W 0.0000 H 0.0000 : FSC
+x122 hedef 122 mercek (1,+2,11) amac -9.548655 bilgi 8.746037 dil_bedeli 9.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.7460 W 0.0000 H 0.0000 : K2
+x123 hedef 123 mercek (1,-1,3) amac -9.864518 bilgi 7.430175 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 7.4302 W 0.0000 H 0.0000 : FCK
+x124 hedef 124 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :
+x125 hedef 125 mercek (1,+1,11) amac -8.548557 bilgi 9.331098 dil_bedeli 10.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.3311 W 0.0000 H 0.0000 : FAP
+x126 hedef 126 mercek (2,+1,31) amac -10.907854 bilgi 9.971801 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.9718 H 0.0000 : WUTd2
+x127 hedef 127 mercek (1,-1,3) amac -9.755428 bilgi 7.539265 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 7.5393 W 0.0000 H 0.0000 : FCK
+x128 hedef 128 mercek (1,-1,107) amac -11.459932 bilgi 8.419723 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 8.4197 H 0.0000 : WUNp
+x129 hedef 129 mercek (2,+1,3) amac -9.858997 bilgi 8.435696 dil_bedeli 9.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.4357 W 0.0000 H 0.0000 : FRK
+x130 hedef 130 mercek (1,+2,5) amac -10.473069 bilgi 7.821624 dil_bedeli 9.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 7.8216 W 0.0000 H 0.0000 : FRK
+x131 hedef 131 mercek (2,-1,17) amac -11.301008 bilgi 9.801040 dil_bedeli 12.784635 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.8010 W 0.0000 H 0.0000 : FHd2
+x132 hedef 132 mercek (1,+3,11) amac -9.037523 bilgi 13.386452 dil_bedeli 13.106563 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 13.3865 W 0.0000 H 0.0000 : FCd2
+x133 hedef 133 mercek (2,+1,3) amac -11.015767 bilgi 8.278925 dil_bedeli 10.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.2789 W 0.0000 H 0.0000 : R0e
+x134 hedef 134 mercek (1,+1,7) amac -10.974794 bilgi 6.319898 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 6.3199 W 0.0000 H 0.0000 : FCK
+x135 hedef 135 mercek (1,-3,11) amac -9.251439 bilgi 10.628216 dil_bedeli 10.562242 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 10.6282 W 0.0000 H 0.0000 : FAP
+x136 hedef 136 mercek (1,-1,3) amac -9.812246 bilgi 8.482447 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.4824 W 0.0000 H 0.0000 : FC2
+x137 hedef 137 mercek (1,-1,43) amac -10.181947 bilgi 9.697708 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.6977 H 0.0000 : WUA2p
+x138 hedef 138 mercek (1,+1,107) amac -10.232691 bilgi 9.646964 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.6470 H 0.0000 : WUAp
+x139 hedef 139 mercek (1,-3,97) amac -10.416113 bilgi 18.855859 dil_bedeli 19.954560 mercek_bedeli 9.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 8.9193 W 9.9365 H 0.0000 : FAp WUAp
+x140 hedef 140 mercek (1,+2,19) amac -10.158028 bilgi 7.551702 dil_bedeli 9.392317 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 7.5517 H 0.0000 : WSum
+x141 hedef 141 mercek (1,-2,41) amac -11.374164 bilgi 9.505491 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.5055 H 0.0000 : WUA2p
+x142 hedef 142 mercek (1,+1,53) amac -9.798854 bilgi 6.910876 dil_bedeli 9.392317 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 6.9109 H 0.0000 : WI1
+x143 hedef 143 mercek (2,+1,13) amac -8.404886 bilgi 9.889807 dil_bedeli 9.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 9.8898 : HK2
+x144 hedef 144 mercek (1,+1,53) amac -10.087293 bilgi 8.207400 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.2074 W 0.0000 H 0.0000 : R1e
+x145 hedef 145 mercek (1,+1,47) amac -10.263489 bilgi 7.031204 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 7.0312 W 0.0000 H 0.0000 : FRK
+x146 hedef 146 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :
+x147 hedef 147 mercek (1,+1,5) amac -11.675413 bilgi 6.619279 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 6.6193 W 0.0000 H 0.0000 : R0e
+x148 hedef 148 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :
+x149 hedef 149 mercek (1,+1,71) amac -10.484959 bilgi 9.394696 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.3947 H 0.0000 : WHNp
+x150 hedef 150 mercek (1,+1,3) amac -9.040016 bilgi 9.254676 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.2547 W 0.0000 H 0.0000 : FD2
+x151 hedef 151 mercek (2,-1,79) amac -10.111547 bilgi 10.768108 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.7681 H 0.0000 : WUT2p
+x152 hedef 152 mercek (3,+2,37) amac -6.379050 bilgi 23.892922 dil_bedeli 19.954560 mercek_bedeli 10.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 11.6221 W 12.2708 H 0.0000 : FAp WUA2p
+x153 hedef 153 mercek (1,+3,5) amac -10.985998 bilgi 9.308694 dil_bedeli 10.977280 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.3087 W 0.0000 H 0.0000 : FKd
+x154 hedef 154 mercek (3,-1,5) amac -10.255141 bilgi 8.624514 dil_bedeli 9.562242 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.6245 W 0.0000 H 0.0000 : FSC
+x155 hedef 155 mercek (2,+1,59) amac -10.502669 bilgi 7.207061 dil_bedeli 9.392317 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 7.2071 H 0.0000 : WI1
+x156 hedef 156 mercek (2,+1,5) amac -10.873101 bilgi 8.421592 dil_bedeli 10.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.4216 W 0.0000 H 0.0000 : FC2
+x157 hedef 157 mercek (1,+1,97) amac -8.737705 bilgi 11.141950 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 11.1419 H 0.0000 : WHA2p
+x158 hedef 158 mercek (1,+2,31) amac -11.681543 bilgi 9.198112 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.1981 H 0.0000 : WHN2p
+x159 hedef 159 mercek (3,+2,17) amac -7.667591 bilgi 19.797027 dil_bedeli 17.147205 mercek_bedeli 10.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 7.7669 W 12.0301 H 0.0000 : FRK WHAp
+x160 hedef 160 mercek (1,+1,17) amac -7.053868 bilgi 12.825787 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 12.8258 H 0.0000 : WHN2p
+x161 hedef 161 mercek (2,-1,5) amac -11.256732 bilgi 7.037961 dil_bedeli 9.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 7.0380 W 0.0000 H 0.0000 : FCK
+x162 hedef 162 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :
+x163 hedef 163 mercek (1,+1,5) amac -10.258889 bilgi 8.035804 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.0358 W 0.0000 H 0.0000 : F2
+x164 hedef 164 mercek (3,-1,31) amac -8.066993 bilgi 13.812662 dil_bedeli 12.562242 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 13.8127 H 0.0000 : WUAp
+x165 hedef 165 mercek (1,-2,83) amac -11.515051 bilgi 9.364604 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.3646 H 0.0000 : WUA2p
+x166 hedef 166 mercek (1,-3,7) amac -6.891960 bilgi 12.987696 dil_bedeli 10.562242 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 12.9877 W 0.0000 H 0.0000 : FAP
+x167 hedef 167 mercek (1,-1,37) amac -10.859614 bilgi 5.850116 dil_bedeli 9.392317 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 5.8501 H 0.0000 : WI1
+x168 hedef 168 mercek (1,-1,53) amac -9.740746 bilgi 6.968984 dil_bedeli 9.392317 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 6.9690 H 0.0000 : WI1
+x169 hedef 169 mercek (1,-1,11) amac -9.167870 bilgi 7.541860 dil_bedeli 9.392317 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 7.5419 H 0.0000 : WSum
+x170 hedef 170 mercek (1,+2,61) amac -8.955839 bilgi 11.923816 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 11.9238 H 0.0000 : WUNp
+x171 hedef 171 mercek (1,-1,5) amac -10.765784 bilgi 7.528909 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 7.5289 W 0.0000 H 0.0000 : Qc
+x172 hedef 172 mercek (1,+1,5) amac -10.074019 bilgi 8.220673 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.2207 W 0.0000 H 0.0000 : F2
+x173 hedef 173 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :
+x174 hedef 174 mercek (2,-1,29) amac -10.829022 bilgi 8.050633 dil_bedeli 10.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.0506 W 0.0000 H 0.0000 : FAP
+x175 hedef 175 mercek (3,+1,97) amac -10.153865 bilgi 11.725790 dil_bedeli 12.562242 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 11.7258 H 0.0000 : WUA2p
+x176 hedef 176 mercek (1,+1,23) amac -10.992662 bilgi 8.886993 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 8.8870 H 0.0000 : WUNd2
+x177 hedef 177 mercek (3,+1,3) amac -10.209272 bilgi 10.085420 dil_bedeli 10.977280 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 10.0854 : HR1e
+x178 hedef 178 mercek (1,+1,31) amac -9.480013 bilgi 10.399642 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.3996 H 0.0000 : WUN2p
+x179 hedef 179 mercek (3,+1,17) amac -9.638908 bilgi 12.240747 dil_bedeli 12.562242 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 12.2407 H 0.0000 : WHAp
+x180 hedef 180 mercek (1,+1,3) amac -9.125435 bilgi 9.169257 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.1693 W 0.0000 H 0.0000 : F2
+x181 hedef 181 mercek (1,-1,89) amac -7.968440 bilgi 11.911216 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 11.9112 H 0.0000 : WUN2p
+x182 hedef 182 mercek (1,+2,17) amac -11.185431 bilgi 6.524299 dil_bedeli 9.392317 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 6.5243 H 0.0000 : WSum
+x183 hedef 183 mercek (1,+2,19) amac -8.271130 bilgi 21.608525 dil_bedeli 21.562242 mercek_bedeli 8.317413 |Λ| 3 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 15.5075 H 6.1011 : WSum WHRd2 HH2
+x184 hedef 184 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :
+x185 hedef 185 mercek (1,+1,19) amac -11.460544 bilgi 4.249186 dil_bedeli 8.392317 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 4.2492 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 : BMn
+x186 hedef 186 mercek (3,+2,11) amac -8.284700 bilgi 12.009992 dil_bedeli 9.977280 mercek_bedeli 10.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 12.0100 W 0.0000 H 0.0000 : K2
+x187 hedef 187 mercek (1,-3,3) amac -11.207845 bilgi 9.086847 dil_bedeli 10.977280 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.0868 W 0.0000 H 0.0000 : FC2
+x188 hedef 188 mercek (1,-1,7) amac -11.605462 bilgi 5.689231 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 5.6892 W 0.0000 H 0.0000 : FRK
+x189 hedef 189 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :
+x190 hedef 190 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :
+x191 hedef 191 mercek (1,-2,31) amac -11.237570 bilgi 9.642085 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.6421 H 0.0000 : WUTp
+x192 hedef 192 mercek (1,-1,53) amac -11.348479 bilgi 5.361251 dil_bedeli 9.392317 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 5.3613 H 0.0000 : WI1
+x193 hedef 193 mercek (1,-1,5) amac -8.991158 bilgi 9.303534 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.3035 W 0.0000 H 0.0000 : FKd
+x194 hedef 194 mercek (1,-2,89) amac -10.851770 bilgi 10.027885 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.0279 H 0.0000 : WHN2p
+x195 hedef 195 mercek (3,-1,11) amac -5.982975 bilgi 13.896680 dil_bedeli 10.562242 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 13.8967 W 0.0000 H 0.0000 : K1
+x196 hedef 196 mercek (2,-1,5) amac -6.686632 bilgi 12.193023 dil_bedeli 10.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 12.1930 W 0.0000 H 0.0000 : FAP
+x197 hedef 197 mercek (1,-1,13) amac -9.718335 bilgi 15.746282 dil_bedeli 18.147205 mercek_bedeli 7.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.6559 H 6.0904 : WUTp HH2
+x198 hedef 198 mercek (2,+1,23) amac -11.667985 bilgi 9.626708 dil_bedeli 12.977280 mercek_bedeli 8.317413 |Λ| 2 grup_bilgi B 4.5229 Z 0.0000 F 5.1038 W 0.0000 H 0.0000 : BMn FRK
+x199 hedef 199 mercek (3,-2,53) amac -9.398486 bilgi 20.873487 dil_bedeli 19.954560 mercek_bedeli 10.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 9.3620 W 11.5115 H 0.0000 : FA2p WUA2p
+x200 hedef 200 mercek (1,+1,3) amac -9.290691 bilgi 8.004001 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.0040 W 0.0000 H 0.0000 : FCK
+QP2 hedef 0 mercek (1,+1,19) amac -0.972843 bilgi 23.264239 dil_bedeli 19.147205 mercek_bedeli 5.089877 |Λ| 3 grup_bilgi B 9.6657 Z 0.0000 F 13.5985 W 0.0000 H 0.0000 : B2 K1 Qc

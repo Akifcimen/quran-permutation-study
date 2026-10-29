@@ -1,0 +1,4958 @@
+{
+ "sifir": "L",
+ "K": 100,
+ "hedefler": {
+  "Q": {
+   "k": 7,
+   "kc": 0,
+   "N": 100000000,
+   "duzey": 3,
+   "eksik": [],
+   "ad": "Q",
+   "hedef": 0,
+   "onsel": 0,
+   "Ldil": 6,
+   "dil": [
+    "B2",
+    "K1",
+    "Qc"
+   ],
+   "esik": 17.086383582,
+   "sinif": 0,
+   "dil_bedeli": 19.14720492494223,
+   "p": 7.99999992e-08,
+   "ci": [
+    2.814362962453083e-08,
+    1.4422667561035407e-07
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "Q hedef 0 mercek (1,+1,19) amac -2.060821 bilgi 24.403796 dil_bedeli 19.147205 mercek_bedeli 7.317413 |Λ| 3 grup_bilgi B 9.6705 Z 0.0000 F 14.7333 W 0.0000 H 0.0000 : B2 K1 Qc",
+   "hedef_ayrinti": "Q hedef 0 esik 17.086384 mercek (1,+1,19) Ldil 6 sinif 0 cozulmus 1 kF 12 kH 7 mc 3 | B:122713/100000000 F:48/1307394 | dil: B2 K1 Qc | L*@mercek: B1 B2 F1 F2 R0c R1c R1e K1 K2 Qc QS Qh FC1 FD1 FH2p FSC W1 QU Qa WSum WUd | el: 28.094385 (1,+1,19) sinif 1"
+  },
+  "x001": {
+   "k": 1000000,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x001",
+   "hedef": 1,
+   "onsel": 0,
+   "Ldil": 0,
+   "dil": [],
+   "esik": -7.317412614,
+   "sinif": 0,
+   "dil_bedeli": 4.392317422778761,
+   "p": 1.0,
+   "ci": [
+    0.999996311158425,
+    1.0
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x001 hedef 1 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :",
+   "hedef_ayrinti": "x001 hedef 1 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 32 kH 38 mc 6 | | dil: | L*@mercek: Qn | el: 2.624188 (1,-1,11) sinif 0",
+   "p_el": 0.784927215072785,
+   "G": -0.1051706127551095
+  },
+  "x002": {
+   "k": 184,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x002",
+   "hedef": 2,
+   "onsel": 0,
+   "Ldil": 146,
+   "dil": [
+    "FRK",
+    "FSC"
+   ],
+   "esik": 6.82016635,
+   "sinif": 0,
+   "dil_bedeli": 14.14720492494223,
+   "p": 0.000184999815000185,
+   "ci": [
+    0.00015837515069461034,
+    0.00021258950763159096
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x002 hedef 2 mercek (1,-3,5) amac -7.327039 bilgi 16.137578 dil_bedeli 14.147205 mercek_bedeli 9.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 16.1376 W 0.0000 H 0.0000 : FRK FSC",
+   "hedef_ayrinti": "x002 hedef 2 esik 6.820166 mercek (1,-3,5) Ldil 146 sinif 0 cozulmus 1 kF 20 kH 23 mc 2 | F:108/7786079 | dil: FRK FSC | L*@mercek: Zkd FHSd FRK FKSm FSC WIp WId | el: 3.036732 (1,+1,29) sinif 0",
+   "p_el": 0.7130662869337131,
+   "G": 3.585958609812426
+  },
+  "x003": {
+   "k": 61491,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x003",
+   "hedef": 3,
+   "onsel": 0,
+   "Ldil": 30,
+   "dil": [
+    "FRK"
+   ],
+   "esik": -0.659048318,
+   "sinif": 0,
+   "dil_bedeli": 9.977279923499918,
+   "p": 0.06149193850806149,
+   "ci": [
+    0.06102093080129987,
+    0.06196361112311618
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x003 hedef 3 mercek (1,-1,5) amac -10.636328 bilgi 6.658364 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 6.6584 W 0.0000 H 0.0000 : FRK",
+   "hedef_ayrinti": "x003 hedef 3 esik -0.659048 mercek (1,-1,5) Ldil 30 sinif 0 cozulmus 1 kF 24 kH 30 mc 5 | F:87224/8810556 | dil: FRK | L*@mercek: FD1 FAd FNd FRK FKS QH WUd WHd WHRd2 HR0c HR1c | el: 3.553630 (3,+2,41) sinif 0",
+   "p_el": 0.6191103808896191,
+   "G": 1.0029499018607202
+  },
+  "x004": {
+   "k": 71135,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x004",
+   "hedef": 4,
+   "onsel": 0,
+   "Ldil": 194,
+   "dil": [
+    "WHN2p"
+   ],
+   "esik": 1.466477157,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.07113592886407114,
+   "ci": [
+    0.07063193344341731,
+    0.07164055235330978
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x004 hedef 4 mercek (2,+1,79) amac -11.095765 bilgi 9.783890 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.7839 H 0.0000 : WHN2p",
+   "hedef_ayrinti": "x004 hedef 4 esik 1.466477 mercek (2,+1,79) Ldil 194 sinif 0 cozulmus 1 kF 3 kH 3 mc 0 | W:12550/11063388 | dil: WHN2p | L*@mercek: FSC W1 WEq WUTd WHAd WHN2p WHNd HR0c | el: 2.053637 (1,-1,23) sinif 0",
+   "p_el": 0.8712981287018713,
+   "G": 1.0880777745706345
+  },
+  "x005": {
+   "k": 4263,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x005",
+   "hedef": 5,
+   "onsel": 0,
+   "Ldil": 0,
+   "dil": [
+    "FCK"
+   ],
+   "esik": 0.622143031,
+   "sinif": 0,
+   "dil_bedeli": 9.977279923499918,
+   "p": 0.004263995736004264,
+   "ci": [
+    0.004136241379292064,
+    0.004392643124940346
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x005 hedef 5 mercek (1,+1,3) amac -9.355137 bilgi 7.939556 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 7.9396 W 0.0000 H 0.0000 : FCK",
+   "hedef_ayrinti": "x005 hedef 5 esik 0.622143 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 32 kH 35 mc 5 | F:16124/3958377 | dil: FCK | L*@mercek: FC1 FCK Qa WUd WUAd2 | el: 3.610880 (1,+1,7) sinif 0",
+   "p_el": 0.608989391010609,
+   "G": 2.154792965283529
+  },
+  "x006": {
+   "k": 7089,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x006",
+   "hedef": 6,
+   "onsel": 0,
+   "Ldil": 204,
+   "dil": [
+    "FSC"
+   ],
+   "esik": 0.058366538,
+   "sinif": 0,
+   "dil_bedeli": 9.562242424221072,
+   "p": 0.00708999291000709,
+   "ci": [
+    0.006925493337942592,
+    0.007255371422115329
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x006 hedef 6 mercek (2,-1,5) amac -9.503876 bilgi 8.375779 dil_bedeli 9.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.3758 W 0.0000 H 0.0000 : FSC",
+   "hedef_ayrinti": "x006 hedef 6 esik 0.058367 mercek (2,-1,5) Ldil 204 sinif 0 cozulmus 1 kF 23 kH 30 mc 2 | F:27880/9260908 | dil: FSC | L*@mercek: QS FCd FSC QH WUd WHd WHRd2 | el: 4.364377 (1,+1,29) sinif 0",
+   "p_el": 0.4785595214404786,
+   "G": 1.8292901605041765
+  },
+  "x007": {
+   "k": 15969,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x007",
+   "hedef": 7,
+   "onsel": 0,
+   "Ldil": 116,
+   "dil": [
+    "R1e"
+   ],
+   "esik": 0.19305873,
+   "sinif": 0,
+   "dil_bedeli": 10.977279923499918,
+   "p": 0.01596998403001597,
+   "ci": [
+    0.015724210448813062,
+    0.01621659897225699
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x007 hedef 7 mercek (1,+3,3) amac -10.784221 bilgi 9.510472 dil_bedeli 10.977280 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.5105 W 0.0000 H 0.0000 : R1e",
+   "hedef_ayrinti": "x007 hedef 7 esik 0.193059 mercek (1,+3,3) Ldil 116 sinif 0 cozulmus 1 kF 38 kH 38 mc 9 | F:137108/100000000 | dil: R1e | L*@mercek: R0c R1c R1e FD1 FKS HR0c HR1c | el: 3.823835 (1,-1,11) sinif 0",
+   "p_el": 0.5720374279625721,
+   "G": 1.5541199634275373
+  },
+  "x008": {
+   "k": 19231,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x008",
+   "hedef": 8,
+   "onsel": 0,
+   "Ldil": 70,
+   "dil": [
+    "WUAp"
+   ],
+   "esik": 1.79738021,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.01923198076801923,
+   "ci": [
+    0.018962719549508872,
+    0.01950207028269075
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x008 hedef 8 mercek (1,+2,43) amac -10.764862 bilgi 10.114793 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.1148 H 0.0000 : WUAp",
+   "hedef_ayrinti": "x008 hedef 8 esik 1.797380 mercek (1,+2,43) Ldil 70 sinif 0 cozulmus 1 kF 2 kH 1 mc 0 | W:23880/26478322 | dil: WUAp | L*@mercek: FSC W1 Qa WUAp | el: 4.428696 (1,+1,19) sinif 0",
+   "p_el": 0.4672245327754672,
+   "G": 1.3855016223766627
+  },
+  "x009": {
+   "k": 3753,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x009",
+   "hedef": 9,
+   "onsel": 0,
+   "Ldil": 174,
+   "dil": [
+    "FC2"
+   ],
+   "esik": 1.259894134,
+   "sinif": 0,
+   "dil_bedeli": 10.977279923499918,
+   "p": 0.003753996246003754,
+   "ci": [
+    0.003634093979939627,
+    0.003874794465571947
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x009 hedef 9 mercek (2,+1,3) amac -9.717386 bilgi 9.577306 dil_bedeli 10.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.5773 W 0.0000 H 0.0000 : FC2",
+   "hedef_ayrinti": "x009 hedef 9 esik 1.259894 mercek (2,+1,3) Ldil 174 sinif 0 cozulmus 1 kF 41 kH 38 mc 10 | F:8535/6520187 | dil: FC2 | L*@mercek: R1c QS FC2 FCd FKS Qn WUNd2 HH1 | el: 2.785756 (1,-2,83) sinif 0",
+   "p_el": 0.756031243968756,
+   "G": 2.3040459096620483
+  },
+  "x010": {
+   "k": 1000000,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x010",
+   "hedef": 10,
+   "onsel": 0,
+   "Ldil": 0,
+   "dil": [],
+   "esik": -7.317412614,
+   "sinif": 0,
+   "dil_bedeli": 4.392317422778761,
+   "p": 1.0,
+   "ci": [
+    0.999996311158425,
+    1.0
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x010 hedef 10 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :",
+   "hedef_ayrinti": "x010 hedef 10 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 35 kH 38 mc 5 | | dil: | L*@mercek: FAd FAd2 FNd WId | el: 3.141883 (1,-3,11) sinif 0",
+   "p_el": 0.6933833066166933,
+   "G": -0.15902661830628007
+  },
+  "x011": {
+   "k": 4225,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x011",
+   "hedef": 11,
+   "onsel": 0,
+   "Ldil": 36,
+   "dil": [
+    "WHAp"
+   ],
+   "esik": 3.251556159,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.004225995774004226,
+   "ci": [
+    0.004098809484781661,
+    0.004354075307020436
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x011 hedef 11 mercek (1,-1,23) amac -9.310686 bilgi 10.568969 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.5690 H 0.0000 : WHAp",
+   "hedef_ayrinti": "x011 hedef 11 esik 3.251556 mercek (1,-1,23) Ldil 36 sinif 0 cozulmus 1 kF 3 kH 2 mc 0 | W:10442/15862090 | dil: WHAp | L*@mercek: B1 R0c R0e W1 WUTd WHAp WHAd WHNd HH1 HK2 | el: 8.123454 (1,+1,7) sinif 0",
+   "p_el": 0.08245991754008246,
+   "G": 1.2903138377490453
+  },
+  "x012": {
+   "k": 119352,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x012",
+   "hedef": 12,
+   "onsel": 0,
+   "Ldil": 45,
+   "dil": [
+    "WHN2p"
+   ],
+   "esik": 0.866455794,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.11935288064711935,
+   "ci": [
+    0.11871717832160525,
+    0.1199890273853465
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x012 hedef 12 mercek (1,-1,61) amac -11.695786 bilgi 8.183869 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 8.1839 H 0.0000 : WHN2p",
+   "hedef_ayrinti": "x012 hedef 12 esik 0.866456 mercek (1,-1,61) Ldil 45 sinif 0 cozulmus 1 kF 2 kH 3 mc 0 | W:90315/26263334 | dil: WHN2p | L*@mercek: QS FSd2 W1 WUTd WHAd WHN2p WHNd HK2 | el: 2.583219 (2,-1,11) sinif 0",
+   "p_el": 0.7915942084057916,
+   "G": 0.8216697026835486
+  },
+  "x013": {
+   "k": 1776,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x013",
+   "hedef": 13,
+   "onsel": 0,
+   "Ldil": 4,
+   "dil": [
+    "HK2"
+   ],
+   "esik": 2.673741103,
+   "sinif": 0,
+   "dil_bedeli": 9.977279923499918,
+   "p": 0.001776998223001777,
+   "ci": [
+    0.0016944215414158817,
+    0.001860485591937233
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x013 hedef 13 mercek (1,+1,13) amac -7.303539 bilgi 9.991154 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 9.9912 : HK2",
+   "hedef_ayrinti": "x013 hedef 13 esik 2.673741 mercek (1,+1,13) Ldil 4 sinif 0 cozulmus 1 kF 7 kH 8 mc 0 | H:13806/14050925 | dil: HK2 | L*@mercek: W1 HR0c HR1c HK2 | el: 7.186437 (1,-1,13) sinif 0",
+   "p_el": 0.1356838643161357,
+   "G": 1.8828412104115908
+  },
+  "x014": {
+   "k": 108895,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x014",
+   "hedef": 14,
+   "onsel": 0,
+   "Ldil": 204,
+   "dil": [
+    "FRK"
+   ],
+   "esik": -1.204994916,
+   "sinif": 0,
+   "dil_bedeli": 9.977279923499918,
+   "p": 0.1088958911041089,
+   "ci": [
+    0.10828508997752447,
+    0.1095071764250777
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x014 hedef 14 mercek (2,-1,5) amac -11.182275 bilgi 7.112418 dil_bedeli 9.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 7.1124 W 0.0000 H 0.0000 : FRK",
+   "hedef_ayrinti": "x014 hedef 14 esik -1.204995 mercek (2,-1,5) Ldil 204 sinif 0 cozulmus 1 kF 22 kH 18 mc 4 | F:66791/9242064 | dil: FRK | L*@mercek: F1 FRK FKS Qa WUAd2 HR0c HR1c | el: 1.834543 (2,+1,17) sinif 0",
+   "p_el": 0.8973061026938973,
+   "G": 0.9159291283320504
+  },
+  "x015": {
+   "k": 51852,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x015",
+   "hedef": 15,
+   "onsel": 0,
+   "Ldil": 113,
+   "dil": [
+    "WUA2p"
+   ],
+   "esik": 1.309904815,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.05185294814705185,
+   "ci": [
+    0.05141821925102366,
+    0.052288378854014335
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x015 hedef 15 mercek (1,-2,107) amac -11.252338 bilgi 9.627317 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.6273 H 0.0000 : WUA2p",
+   "hedef_ayrinti": "x015 hedef 15 esik 1.309905 mercek (1,-2,107) Ldil 113 sinif 0 cozulmus 1 kF 1 kH 2 mc 0 | W:48269/38175045 | dil: WUA2p | L*@mercek: W1 Qa WUA2p HH1 | el: 2.905526 (1,+1,11) sinif 0",
+   "p_el": 0.7367112632887367,
+   "G": 1.152523856023966
+  },
+  "x016": {
+   "k": 9511,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x016",
+   "hedef": 16,
+   "onsel": 0,
+   "Ldil": 1,
+   "dil": [
+    "FSC"
+   ],
+   "esik": -0.260327577,
+   "sinif": 0,
+   "dil_bedeli": 9.562242424221072,
+   "p": 0.009511990488009513,
+   "ci": [
+    0.009321688579368277,
+    0.00970316055465826
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x016 hedef 16 mercek (1,+1,5) amac -9.822570 bilgi 7.057085 dil_bedeli 9.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 7.0571 W 0.0000 H 0.0000 : FSC",
+   "hedef_ayrinti": "x016 hedef 16 esik -0.260328 mercek (1,+1,5) Ldil 1 sinif 0 cozulmus 1 kF 29 kH 18 mc 3 | F:22850/3042850 | dil: FSC | L*@mercek: B1 BMn R0c QS FSd2 FSC Qn | el: 6.655624 (1,+1,71) sinif 0",
+   "p_el": 0.17814282185717814,
+   "G": 1.272496920124948
+  },
+  "x017": {
+   "k": 12048,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x017",
+   "hedef": 17,
+   "onsel": 0,
+   "Ldil": 191,
+   "dil": [
+    "F2"
+   ],
+   "esik": 1.054747344,
+   "sinif": 0,
+   "dil_bedeli": 10.977279923499918,
+   "p": 0.01204898795101205,
+   "ci": [
+    0.011835081750415382,
+    0.012263751562770861
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x017 hedef 17 mercek (2,+1,67) amac -9.922533 bilgi 9.372160 dil_bedeli 10.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.3722 W 0.0000 H 0.0000 : F2",
+   "hedef_ayrinti": "x017 hedef 17 esik 1.054747 mercek (2,+1,67) Ldil 191 sinif 0 cozulmus 1 kF 3 kH 0 mc 0 | F:23945/15867776 | dil: F2 | L*@mercek: F2 R1c R1e K2 WUTd | el: 9.020633 (1,+1,13) sinif 0",
+   "p_el": 0.05082894917105083,
+   "G": 0.625160561180903
+  },
+  "x018": {
+   "k": 1000000,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x018",
+   "hedef": 18,
+   "onsel": 0,
+   "Ldil": 0,
+   "dil": [],
+   "esik": -7.317412614,
+   "sinif": 0,
+   "dil_bedeli": 4.392317422778761,
+   "p": 1.0,
+   "ci": [
+    0.999996311158425,
+    1.0
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x018 hedef 18 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :",
+   "hedef_ayrinti": "x018 hedef 18 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 43 kH 36 mc 6 | | dil: | L*@mercek: FAd FNd FNd2 WHd WHd2 | el: 4.660239 (1,-1,11) sinif 0",
+   "p_el": 0.43017956982043015,
+   "G": -0.3663502190646431
+  },
+  "x019": {
+   "k": 3830,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x019",
+   "hedef": 19,
+   "onsel": 0,
+   "Ldil": 0,
+   "dil": [
+    "HH2"
+   ],
+   "esik": 1.473376037,
+   "sinif": 0,
+   "dil_bedeli": 10.977279923499918,
+   "p": 0.003830996169003831,
+   "ci": [
+    0.0037098752237413627,
+    0.00395301261396056
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x019 hedef 19 mercek (1,+1,3) amac -9.503904 bilgi 8.790789 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 8.7908 : HH2",
+   "hedef_ayrinti": "x019 hedef 19 esik 1.473376 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 42 kH 43 mc 8 | H:10727/4750828 | dil: HH2 | L*@mercek: Zkd QS FCd WUd WUTd WUTd2 WHAd WHNd WHNd2 HH2 | el: 5.201337 (2,+3,17) sinif 1",
+   "p_el": 0.3467926532073468,
+   "G": 1.9567581706963693
+  },
+  "x020": {
+   "k": 2827,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x020",
+   "hedef": 20,
+   "onsel": 0,
+   "Ldil": 0,
+   "dil": [
+    "FCK"
+   ],
+   "esik": 0.672232391,
+   "sinif": 0,
+   "dil_bedeli": 9.977279923499918,
+   "p": 0.002827997172002828,
+   "ci": [
+    0.002723879347832152,
+    0.002933016892121906
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x020 hedef 20 mercek (1,+1,3) amac -9.305047 bilgi 7.989645 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 7.9896 W 0.0000 H 0.0000 : FCK",
+   "hedef_ayrinti": "x020 hedef 20 esik 0.672232 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 38 kH 38 mc 5 | F:31067/7896273 | dil: FCK | L*@mercek: FAd FNd FCK WEq WUd WUd2 | el: 4.299972 (1,-1,47) sinif 0",
+   "p_el": 0.4897825102174898,
+   "G": 2.2385243018902115
+  },
+  "x021": {
+   "k": 18292,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x021",
+   "hedef": 21,
+   "onsel": 0,
+   "Ldil": 43,
+   "dil": [
+    "WI1"
+   ],
+   "esik": -0.283723592,
+   "sinif": 0,
+   "dil_bedeli": 9.39231742277876,
+   "p": 0.018292981707018294,
+   "ci": [
+    0.018030250411023685,
+    0.018556545039843258
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x021 hedef 21 mercek (1,-1,53) amac -9.676041 bilgi 7.033689 dil_bedeli 9.392317 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 7.0337 H 0.0000 : WI1",
+   "hedef_ayrinti": "x021 hedef 21 esik -0.283724 mercek (1,-1,53) Ldil 43 sinif 0 cozulmus 1 kF 1 kH 2 mc 0 | W:153839/20156627 | dil: WI1 | L*@mercek: QS FSd2 FAp FAd FNp FNd WI1 HR0c HR0e | el: 1.976918 (2,+1,7) sinif 0",
+   "p_el": 0.8806231193768806,
+   "G": 1.6825055829092108
+  },
+  "x022": {
+   "k": 12190,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x022",
+   "hedef": 22,
+   "onsel": 0,
+   "Ldil": 45,
+   "dil": [
+    "WUT2p"
+   ],
+   "esik": 2.528378249,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.012190987809012191,
+   "ci": [
+    0.011975840346950909,
+    0.012406992090987196
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x022 hedef 22 mercek (1,-1,61) amac -10.033864 bilgi 9.845791 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.8458 H 0.0000 : WUT2p",
+   "hedef_ayrinti": "x022 hedef 22 esik 2.528378 mercek (1,-1,61) Ldil 45 sinif 0 cozulmus 1 kF 0 kH 4 mc 0 | W:21452/19739960 | dil: WUT2p | L*@mercek: B1 Qa Qn WUT2p WUTd WHAd WHNd | el: 3.627509 (2,+1,41) sinif 0",
+   "p_el": 0.6061793938206061,
+   "G": 1.6965622721048288
+  },
+  "x023": {
+   "k": 42532,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x023",
+   "hedef": 23,
+   "onsel": 0,
+   "Ldil": 57,
+   "dil": [
+    "WHNp"
+   ],
+   "esik": 1.68910575,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.04253295746704253,
+   "ci": [
+    0.042137305722480256,
+    0.04292934681431362
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x023 hedef 23 mercek (1,-1,113) amac -10.873137 bilgi 9.006518 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.0065 H 0.0000 : WHNp",
+   "hedef_ayrinti": "x023 hedef 23 esik 1.689106 mercek (1,-1,113) Ldil 57 sinif 0 cozulmus 1 kF 2 kH 2 mc 0 | W:25620/13176840 | dil: WHNp | L*@mercek: R0c R0e QS FC1 FC2 FD1 FD2 FSd2 FCd FCd2 W1 WEq WUTd WUTd2 WHAp WHAd WHNp WHNd HR1c HR1e | el: 2.132093 (1,-3,13) sinif 0",
+   "p_el": 0.8613141386858613,
+   "G": 1.3064359945305353
+  },
+  "x024": {
+   "k": 2530,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x024",
+   "hedef": 24,
+   "onsel": 0,
+   "Ldil": 331,
+   "dil": [
+    "FN2p",
+    "WUN2p"
+   ],
+   "esik": 11.64400077,
+   "sinif": 0,
+   "dil_bedeli": 19.95455984699983,
+   "p": 0.002530997469002531,
+   "ci": [
+    0.002432483712717791,
+    0.0026304152968256067
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x024 hedef 24 mercek (3,-1,43) amac -8.310558 bilgi 20.961414 dil_bedeli 19.954560 mercek_bedeli 9.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 8.8911 W 12.0703 H 0.0000 : FN2p WUN2p",
+   "hedef_ayrinti": "x024 hedef 24 esik 11.644001 mercek (3,-1,43) Ldil 331 sinif 0 cozulmus 1 kF 3 kH 0 mc 0 | F:46785/22212410 W:5165/22212410 | dil: FN2p WUN2p | L*@mercek: B1 FAd FN2p FNd Qa Qn WUN2p WUTd | el: 8.383462 (1,-1,19) sinif 0",
+   "p_el": 0.07182892817107182,
+   "G": 1.4530076750895373
+  },
+  "x025": {
+   "k": 6507,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x025",
+   "hedef": 25,
+   "onsel": 0,
+   "Ldil": 51,
+   "dil": [
+    "WUA2p"
+   ],
+   "esik": 2.860049964,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.006507993492006508,
+   "ci": [
+    0.00635034347496548,
+    0.006666525166751708
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x025 hedef 25 mercek (1,-1,89) amac -9.702192 bilgi 10.177463 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.1775 H 0.0000 : WUA2p",
+   "hedef_ayrinti": "x025 hedef 25 esik 2.860050 mercek (1,-1,89) Ldil 51 sinif 0 cozulmus 1 kF 0 kH 4 mc 0 | W:17490/20254030 | dil: WUA2p | L*@mercek: Qa Qn WUA2p WUTp WUTd WHA2p WHAd WHNd HK2 | el: 3.463014 (1,+1,89) sinif 0",
+   "p_el": 0.6358723641276359,
+   "G": 1.9899228403980542
+  },
+  "x026": {
+   "k": 79903,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x026",
+   "hedef": 26,
+   "onsel": 0,
+   "Ldil": 30,
+   "dil": [
+    "FRK"
+   ],
+   "esik": -0.90891528,
+   "sinif": 0,
+   "dil_bedeli": 9.977279923499918,
+   "p": 0.0799039200960799,
+   "ci": [
+    0.07937228676221285,
+    0.08043614804031245
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x026 hedef 26 mercek (1,-1,5) amac -10.886195 bilgi 6.408497 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 6.4085 W 0.0000 H 0.0000 : FRK",
+   "hedef_ayrinti": "x026 hedef 26 esik -0.908915 mercek (1,-1,5) Ldil 30 sinif 0 cozulmus 1 kF 17 kH 22 mc 3 | F:44771/3803178 | dil: FRK | L*@mercek: QS FSd2 FRK WUd WUTd WHAd WHNd WHNd2 | el: 2.835996 (2,+1,17) sinif 0",
+   "p_el": 0.7478472521527478,
+   "G": 0.9712448158705645
+  },
+  "x027": {
+   "k": 222,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x027",
+   "hedef": 27,
+   "onsel": 0,
+   "Ldil": 323,
+   "dil": [
+    "K1",
+    "FSC"
+   ],
+   "esik": 7.260515929,
+   "sinif": 0,
+   "dil_bedeli": 14.732167425663384,
+   "p": 0.000222999777000223,
+   "ci": [
+    0.00019375821047051386,
+    0.00025319989490574886
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x027 hedef 27 mercek (3,-1,13) amac -7.471652 bilgi 16.577928 dil_bedeli 14.732167 mercek_bedeli 9.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 16.5779 W 0.0000 H 0.0000 : K1 FSC",
+   "hedef_ayrinti": "x027 hedef 27 esik 7.260516 mercek (3,-1,13) Ldil 323 sinif 0 cozulmus 1 kF 6 kH 11 mc 1 | F:99/9684757 | dil: K1 FSC | L*@mercek: F1 R0e K1 FD1 FRK FCK FKS FSC W1 | el: 5.247586 (3,-1,13) sinif 0",
+   "p_el": 0.3398916601083399,
+   "G": 3.183036079714532
+  },
+  "x028": {
+   "k": 6331,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x028",
+   "hedef": 28,
+   "onsel": 0,
+   "Ldil": 6,
+   "dil": [
+    "WHAd2"
+   ],
+   "esik": 1.491863013,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.006331993668006332,
+   "ci": [
+    0.006176476045121819,
+    0.006488393784854789
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x028 hedef 28 mercek (1,+1,19) amac -11.070380 bilgi 8.809276 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 8.8093 H 0.0000 : WHAd2",
+   "hedef_ayrinti": "x028 hedef 28 esik 1.491863 mercek (1,+1,19) Ldil 6 sinif 0 cozulmus 1 kF 4 kH 5 mc 0 | W:27185/12195104 | dil: WHAd2 | L*@mercek: W1 QH WUTd WHAd WHAd2 WHNd WHNd2 WHRd2 | el: 6.158834 (1,-3,11) sinif 0",
+   "p_el": 0.22646477353522645,
+   "G": 1.5534601854503458
+  },
+  "x029": {
+   "k": 126,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x029",
+   "hedef": 29,
+   "onsel": 0,
+   "Ldil": 210,
+   "dil": [
+    "BMn",
+    "FHd2"
+   ],
+   "esik": 5.501989127,
+   "sinif": 0,
+   "dil_bedeli": 15.78463484555752,
+   "p": 0.000126999873000127,
+   "ci": [
+    0.00010496241658800415,
+    0.00015001725059877934
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x029 hedef 29 mercek (2,-1,23) amac -10.282646 bilgi 13.819401 dil_bedeli 15.784635 mercek_bedeli 8.317413 |Λ| 2 grup_bilgi B 4.5233 Z 0.0000 F 9.2961 W 0.0000 H 0.0000 : BMn FHd2",
+   "hedef_ayrinti": "x029 hedef 29 esik 5.501989 mercek (2,-1,23) Ldil 210 sinif 0 cozulmus 1 kF 6 kH 4 mc 0 | B:4348745/100000000 F:23607/14840861 | dil: BMn FHd2 | L*@mercek: BMn F2 QS Qh FD1 FSd2 FHd2 W1 Qn HH1 HR0c | el: 5.662842 (2,-1,23) sinif 0",
+   "p_el": 0.28576571423428576,
+   "G": 3.3522068348818896
+  },
+  "x030": {
+   "k": 2429,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x030",
+   "hedef": 30,
+   "onsel": 0,
+   "Ldil": 7,
+   "dil": [
+    "WHNp"
+   ],
+   "esik": 4.011654616,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.00242999757000243,
+   "ci": [
+    0.0023334645042429785,
+    0.0025274354901284606
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x030 hedef 30 mercek (1,+1,23) amac -8.550588 bilgi 11.329067 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 11.3291 H 0.0000 : WHNp",
+   "hedef_ayrinti": "x030 hedef 30 esik 4.011655 mercek (1,+1,23) Ldil 7 sinif 0 cozulmus 1 kF 5 kH 2 mc 0 | W:6888/17720751 | dil: WHNp | L*@mercek: K2 FSC W1 WUTd WHAd WHNp WHNd HH1 | el: 1.816726 (2,+1,5) sinif 0",
+   "p_el": 0.8992061007938992,
+   "G": 2.5682534054646857
+  },
+  "x031": {
+   "k": 4253,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x031",
+   "hedef": 31,
+   "onsel": 0,
+   "Ldil": 15,
+   "dil": [
+    "FAp",
+    "WI1"
+   ],
+   "esik": 7.939423801,
+   "sinif": 0,
+   "dil_bedeli": 16.78463484555752,
+   "p": 0.004253995746004254,
+   "ci": [
+    0.004126390631191261,
+    0.004382493948618003
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x031 hedef 31 mercek (1,+1,59) amac -8.845211 bilgi 15.256836 dil_bedeli 16.784635 mercek_bedeli 7.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 7.7141 W 7.5427 H 0.0000 : FAp WI1",
+   "hedef_ayrinti": "x031 hedef 31 esik 7.939424 mercek (1,+1,59) Ldil 15 sinif 0 cozulmus 1 kF 1 kH 4 mc 0 | F:116054/24368694 W:130689/24368694 | dil: FAp WI1 | L*@mercek: B1 FAp FAd FNp FNd WI1 | el: 5.198936 (3,-1,11) sinif 0",
+   "p_el": 0.34707265292734707,
+   "G": 1.9116233441603039
+  },
+  "x032": {
+   "k": 4251,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x032",
+   "hedef": 32,
+   "onsel": 0,
+   "Ldil": 176,
+   "dil": [
+    "WHRp"
+   ],
+   "esik": 1.947906257,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.004251995748004252,
+   "ci": [
+    0.004124420503039441,
+    0.004380464091946117
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x032 hedef 32 mercek (2,+1,7) amac -10.614336 bilgi 10.265319 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.2653 H 0.0000 : WHRp",
+   "hedef_ayrinti": "x032 hedef 32 esik 1.947906 mercek (2,+1,7) Ldil 176 sinif 0 cozulmus 1 kF 13 kH 12 mc 1 | W:6174/7598635 | dil: WHRp | L*@mercek: QH WHRp | el: 2.444339 (3,-1,11) sinif 0",
+   "p_el": 0.8142801857198143,
+   "G": 2.282181045463223
+  },
+  "x033": {
+   "k": 1000000,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x033",
+   "hedef": 33,
+   "onsel": 0,
+   "Ldil": 0,
+   "dil": [],
+   "esik": -7.317412614,
+   "sinif": 0,
+   "dil_bedeli": 4.392317422778761,
+   "p": 1.0,
+   "ci": [
+    0.999996311158425,
+    1.0
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x033 hedef 33 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :",
+   "hedef_ayrinti": "x033 hedef 33 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 40 kH 42 mc 8 | | dil: | L*@mercek: QS FSd2 Qn WHd WId HH1 | el: 4.180690 (1,-1,19) sinif 0",
+   "p_el": 0.510925489074511,
+   "G": -0.29164243067401
+  },
+  "x034": {
+   "k": 1755,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x034",
+   "hedef": 34,
+   "onsel": 0,
+   "Ldil": 0,
+   "dil": [
+    "FD2"
+   ],
+   "esik": 1.65409732,
+   "sinif": 0,
+   "dil_bedeli": 10.977279923499918,
+   "p": 0.001755998244001756,
+   "ci": [
+    0.0016739101124414542,
+    0.0018389972807641396
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x034 hedef 34 mercek (1,+1,3) amac -9.323183 bilgi 8.971510 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.9715 W 0.0000 H 0.0000 : FD2",
+   "hedef_ayrinti": "x034 hedef 34 esik 1.654097 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 30 kH 31 mc 6 | F:4481/2249409 | dil: FD2 | L*@mercek: BMn Zkd QS Qh FD2 Qn | el: 7.289106 (2,-1,31) sinif 0",
+   "p_el": 0.12823787176212822,
+   "G": 1.8634922245715675
+  },
+  "x035": {
+   "k": 8139,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x035",
+   "hedef": 35,
+   "onsel": 0,
+   "Ldil": 123,
+   "dil": [
+    "WHNd2"
+   ],
+   "esik": 1.260421516,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.00813999186000814,
+   "ci": [
+    0.007963825875253239,
+    0.00831703202413802
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x035 hedef 35 mercek (1,+3,23) amac -11.301820 bilgi 10.577835 dil_bedeli 12.562242 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.5778 H 0.0000 : WHNd2",
+   "hedef_ayrinti": "x035 hedef 35 esik 1.260422 mercek (1,+3,23) Ldil 123 sinif 0 cozulmus 1 kF 4 kH 8 mc 1 | W:11626/17769525 | dil: WHNd2 | L*@mercek: F1 R0c R1c FC1 FD1 W1 WUTd WHAd WHNd WHNd2 HH1 HR1c | el: 0.106382 (1,+2,13) sinif 0",
+   "p_el": 0.9948040051959948,
+   "G": 2.087113554526301
+  },
+  "x036": {
+   "k": 841,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x036",
+   "hedef": 36,
+   "onsel": 0,
+   "Ldil": 6,
+   "dil": [
+    "Qh"
+   ],
+   "esik": 2.56956935,
+   "sinif": 0,
+   "dil_bedeli": 12.78463484555752,
+   "p": 0.000841999158000842,
+   "ci": [
+    0.0007851355955257119,
+    0.0008997874189350954
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x036 hedef 36 mercek (1,+1,19) amac -10.215066 bilgi 9.886982 dil_bedeli 12.784635 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.8870 W 0.0000 H 0.0000 : Qh",
+   "hedef_ayrinti": "x036 hedef 36 esik 2.569569 mercek (1,+1,19) Ldil 6 sinif 0 cozulmus 1 kF 8 kH 5 mc 1 | F:12027/11387685 | dil: Qh | L*@mercek: QS Qh FSC W1 HR1c | el: 3.003145 (1,+1,19) sinif 0",
+   "p_el": 0.7198172801827198,
+   "G": 2.9319106110602724
+  },
+  "x037": {
+   "k": 26043,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x037",
+   "hedef": 37,
+   "onsel": 0,
+   "Ldil": 36,
+   "dil": [
+    "WUT2p"
+   ],
+   "esik": 1.669083358,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.026043973956026045,
+   "ci": [
+    0.025731723165630233,
+    0.02635702620640822
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x037 hedef 37 mercek (1,-1,23) amac -10.893159 bilgi 8.986496 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 8.9865 H 0.0000 : WUT2p",
+   "hedef_ayrinti": "x037 hedef 37 esik 1.669083 mercek (1,-1,23) Ldil 36 sinif 0 cozulmus 1 kF 3 kH 9 mc 0 | W:31272/15862090 | dil: WUT2p | L*@mercek: W1 WUT2p WUTd WHAd WHNd HK2 | el: 3.958308 (1,-1,19) sinif 0",
+   "p_el": 0.5492704507295493,
+   "G": 1.3240789833961122
+  },
+  "x038": {
+   "k": 328,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x038",
+   "hedef": 38,
+   "onsel": 0,
+   "Ldil": 358,
+   "dil": [
+    "WI1",
+    "WUA2p"
+   ],
+   "esik": 7.330916167,
+   "sinif": 0,
+   "dil_bedeli": 16.562242424221072,
+   "p": 0.000328999671000329,
+   "ci": [
+    0.0002934648985990624,
+    0.0003654811460957248
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x038 hedef 38 mercek (3,+2,37) amac -9.231326 bilgi 17.648329 dil_bedeli 16.562242 mercek_bedeli 10.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 17.6483 H 0.0000 : WI1 WUA2p",
+   "hedef_ayrinti": "x038 hedef 38 esik 7.330916 mercek (3,+2,37) Ldil 358 sinif 0 cozulmus 1 kF 4 kH 2 mc 0 | W:84/17256622 | dil: WI1 WUA2p | L*@mercek: K2 Qa WI1 WUA2p | el: 1.899413 (1,-2,89) sinif 0",
+   "p_el": 0.8898261101738898,
+   "G": 3.432109681449363
+  },
+  "x039": {
+   "k": 61702,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x039",
+   "hedef": 39,
+   "onsel": 0,
+   "Ldil": 2,
+   "dil": [
+    "FRK"
+   ],
+   "esik": -0.660269975,
+   "sinif": 0,
+   "dil_bedeli": 9.977279923499918,
+   "p": 0.0617029382970617,
+   "ci": [
+    0.061231176085128645,
+    0.06217536460961158
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x039 hedef 39 mercek (1,+1,7) amac -10.637550 bilgi 6.657143 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 6.6571 W 0.0000 H 0.0000 : FRK",
+   "hedef_ayrinti": "x039 hedef 39 esik -0.660270 mercek (1,+1,7) Ldil 2 sinif 0 cozulmus 1 kF 23 kH 18 mc 5 | F:21376/2157377 | dil: FRK | L*@mercek: FRK FKS | el: 3.116507 (1,+2,11) sinif 0",
+   "p_el": 0.6985893014106986,
+   "G": 1.0539160846717002
+  },
+  "x040": {
+   "k": 1000000,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x040",
+   "hedef": 40,
+   "onsel": 0,
+   "Ldil": 0,
+   "dil": [],
+   "esik": -7.317412614,
+   "sinif": 0,
+   "dil_bedeli": 4.392317422778761,
+   "p": 1.0,
+   "ci": [
+    0.999996311158425,
+    1.0
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x040 hedef 40 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :",
+   "hedef_ayrinti": "x040 hedef 40 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 42 kH 37 mc 9 | | dil: | L*@mercek: Zkd R0c QS Qh FSd2 FHd2 FHSd WUTd WHAd WHAd2 WHNd | el: 3.621067 (1,-1,11) sinif 0",
+   "p_el": 0.607069392930607,
+   "G": -0.21676166272320893
+  },
+  "x041": {
+   "k": 16501,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x041",
+   "hedef": 41,
+   "onsel": 0,
+   "Ldil": 180,
+   "dil": [
+    "K1"
+   ],
+   "esik": 0.936759711,
+   "sinif": 0,
+   "dil_bedeli": 10.562242424221072,
+   "p": 0.0165019834980165,
+   "ci": [
+    0.0162522173805875,
+    0.016752588830873664
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x041 hedef 41 mercek (2,+1,19) amac -9.625482 bilgi 9.254173 dil_bedeli 10.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.2542 W 0.0000 H 0.0000 : K1",
+   "hedef_ayrinti": "x041 hedef 41 esik 0.936760 mercek (2,+1,19) Ldil 180 sinif 0 cozulmus 1 kF 5 kH 5 mc 1 | F:26664/16282043 | dil: K1 | L*@mercek: R0c R0e K1 FCK FKS W1 WEq | el: 4.301944 (1,-3,7) sinif 0",
+   "p_el": 0.4893075106924893,
+   "G": 1.4720457335887165
+  },
+  "x042": {
+   "k": 17330,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x042",
+   "hedef": 42,
+   "onsel": 0,
+   "Ldil": 44,
+   "dil": [
+    "WUT2p"
+   ],
+   "esik": 2.258025886,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.01733098266901733,
+   "ci": [
+    0.017075127701056323,
+    0.01758767352327328
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x042 hedef 42 mercek (1,-1,59) amac -10.304217 bilgi 9.575438 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.5754 H 0.0000 : WUT2p",
+   "hedef_ayrinti": "x042 hedef 42 esik 2.258026 mercek (1,-1,59) Ldil 44 sinif 0 cozulmus 1 kF 1 kH 3 mc 0 | W:41691/31808002 | dil: WUT2p | L*@mercek: B1 QS FSd2 W1 WUT2p WUTd WHA2p WHAd WHNd | el: 5.632536 (1,-1,11) sinif 0",
+   "p_el": 0.2892487107512893,
+   "G": 1.2224482439098767
+  },
+  "x043": {
+   "k": 22871,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x043",
+   "hedef": 43,
+   "onsel": 0,
+   "Ldil": 40,
+   "dil": [
+    "WUTp"
+   ],
+   "esik": 1.716919662,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.022871977128022872,
+   "ci": [
+    0.022578883175070702,
+    0.02316588498283607
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x043 hedef 43 mercek (1,-1,41) amac -10.845323 bilgi 9.034332 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.0343 H 0.0000 : WUTp",
+   "hedef_ayrinti": "x043 hedef 43 esik 1.716920 mercek (1,-1,41) Ldil 40 sinif 0 cozulmus 1 kF 0 kH 4 mc 0 | W:12211/6402598 | dil: WUTp | L*@mercek: B1 Qa Qn WUTp WUTd WHAd WHNd HR0e HK2 | el: 7.284914 (1,+1,41) sinif 0",
+   "p_el": 0.1285878714121286,
+   "G": 0.7498962992013437
+  },
+  "x044": {
+   "k": 248,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x044",
+   "hedef": 44,
+   "onsel": 0,
+   "Ldil": 60,
+   "dil": [
+    "QkF",
+    "FRK"
+   ],
+   "esik": 6.468886615,
+   "sinif": 0,
+   "dil_bedeli": 17.369597346278677,
+   "p": 0.000248999751000249,
+   "ci": [
+    0.00021809539750407747,
+    0.0002808590845292174
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x044 hedef 44 mercek (1,+2,7) amac -10.900711 bilgi 14.786299 dil_bedeli 17.369597 mercek_bedeli 8.317413 |Λ| 2 grup_bilgi B 0.0000 Z 8.2300 F 6.5563 W 0.0000 H 0.0000 : QkF FRK",
+   "hedef_ayrinti": "x044 hedef 44 esik 6.468887 mercek (1,+2,7) Ldil 60 sinif 0 cozulmus 1 kF 7 kH 16 mc 0 | Z:333062/100000000 F:3539/333062 | dil: QkF FRK | L*@mercek: QkF Zkd QS FRK FCK Qn WI1 | el: 5.597950 (1,-2,7) sinif 0",
+   "p_el": 0.29322270677729323,
+   "G": 3.070998685658214
+  },
+  "x045": {
+   "k": 17381,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x045",
+   "hedef": 45,
+   "onsel": 0,
+   "Ldil": 54,
+   "dil": [
+    "FAP"
+   ],
+   "esik": 1.2397182,
+   "sinif": 0,
+   "dil_bedeli": 10.562242424221072,
+   "p": 0.01738198261801738,
+   "ci": [
+    0.01712575812419309,
+    0.01763904279350609
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x045 hedef 45 mercek (1,-1,103) amac -9.322525 bilgi 8.557131 dil_bedeli 10.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.5571 W 0.0000 H 0.0000 : FAP",
+   "hedef_ayrinti": "x045 hedef 45 esik 1.239718 mercek (1,-1,103) Ldil 54 sinif 0 cozulmus 1 kF 4 kH 1 mc 1 | F:11917/4488693 | dil: FAP | L*@mercek: F1 R0c R1c K1 K2 FC1 FC2 FD1 FAP W1 | el: 4.990079 (1,+2,11) sinif 0",
+   "p_el": 0.3793946206053794,
+   "G": 1.338991857489439
+  },
+  "x046": {
+   "k": 57,
+   "kc": 0,
+   "N": 10000000,
+   "duzey": 2,
+   "eksik": [],
+   "ad": "x046",
+   "hedef": 46,
+   "onsel": 0,
+   "Ldil": 184,
+   "dil": [
+    "FA2p",
+    "FAP"
+   ],
+   "esik": 11.195502044,
+   "sinif": 0,
+   "dil_bedeli": 17.95455984699983,
+   "p": 5.799999420000058e-06,
+   "ci": [
+    4.317127100504374e-06,
+    7.385004812912778e-06
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x046 hedef 46 mercek (2,+1,37) amac -6.759057 bilgi 19.512915 dil_bedeli 17.954560 mercek_bedeli 8.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 19.5129 W 0.0000 H 0.0000 : FA2p FAP",
+   "hedef_ayrinti": "x046 hedef 46 esik 11.195502 mercek (2,+1,37) Ldil 184 sinif 0 cozulmus 0 kF 6 kH 1 mc 1 | F:7/5610919 | dil: FA2p FAP | L*@mercek: R0c R1c K2 FC1 FD1 FD2 FA2p FAd FNd FAP FKS FSC W1 | el: 4.873751 (2,+1,7) sinif 0",
+   "p_el": 0.396974603025397,
+   "G": 4.835334772955212
+  },
+  "x047": {
+   "k": 3489,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x047",
+   "hedef": 47,
+   "onsel": 0,
+   "Ldil": 148,
+   "dil": [
+    "WH2p"
+   ],
+   "esik": 2.560951949,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.00348999651000349,
+   "ci": [
+    0.0033743715683296435,
+    0.0036065189999669165
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x047 hedef 47 mercek (1,-3,11) amac -10.001290 bilgi 11.878365 dil_bedeli 12.562242 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 11.8784 H 0.0000 : WH2p",
+   "hedef_ayrinti": "x047 hedef 47 esik 2.560952 mercek (1,-3,11) Ldil 148 sinif 0 cozulmus 1 kF 7 kH 22 mc 1 | W:2089/7864706 | dil: WH2p | L*@mercek: R0c FAd FNd FKS WH2p WHd HR0c HR1c | el: 6.792565 (1,-3,13) sinif 0",
+   "p_el": 0.16614683385316614,
+   "G": 1.6776670769750908
+  },
+  "x048": {
+   "k": 23258,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x048",
+   "hedef": 48,
+   "onsel": 0,
+   "Ldil": 4,
+   "dil": [
+    "FRK"
+   ],
+   "esik": 0.10013652,
+   "sinif": 0,
+   "dil_bedeli": 9.977279923499918,
+   "p": 0.023258976741023257,
+   "ci": [
+    0.02296347204337565,
+    0.023555293817254484
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x048 hedef 48 mercek (1,+1,13) amac -9.877143 bilgi 7.417549 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 7.4175 W 0.0000 H 0.0000 : FRK",
+   "hedef_ayrinti": "x048 hedef 48 esik 0.100137 mercek (1,+1,13) Ldil 4 sinif 0 cozulmus 1 kF 8 kH 10 mc 1 | F:79003/13506673 | dil: FRK | L*@mercek: FC1 FRK FKS FSC QH WI1 HR0c HR1c HR1e | el: 7.962429 (1,-1,13) sinif 0",
+   "p_el": 0.09031290968709031,
+   "G": 0.589159230139332
+  },
+  "x049": {
+   "k": 2124,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x049",
+   "hedef": 49,
+   "onsel": 0,
+   "Ldil": 150,
+   "dil": [
+    "QkH"
+   ],
+   "esik": 2.878844977,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.002124997875002125,
+   "ci": [
+    0.0020347121959983163,
+    0.0022161909400790067
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x049 hedef 49 mercek (1,-3,17) amac -9.683397 bilgi 12.196258 dil_bedeli 12.562242 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 12.1963 H 0.0000 : QkH",
+   "hedef_ayrinti": "x049 hedef 49 esik 2.878845 mercek (1,-3,17) Ldil 150 sinif 0 cozulmus 1 kF 8 kH 17 mc 1 | W:2821/13238615 | dil: QkH | L*@mercek: F1 R0c R0e FKS QkH WI1 WHd | el: 10.801194 (1,-3,17) sinif 0",
+   "p_el": 0.018522981477018523,
+   "G": 0.9403523923403618
+  },
+  "x050": {
+   "k": 5608,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x050",
+   "hedef": 50,
+   "onsel": 0,
+   "Ldil": 15,
+   "dil": [
+    "WUN2p"
+   ],
+   "esik": 2.866007568,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.005608994391005609,
+   "ci": [
+    0.005462570544575785,
+    0.005756304244352394
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x050 hedef 50 mercek (1,+1,59) amac -9.696235 bilgi 10.183421 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.1834 H 0.0000 : WUN2p",
+   "hedef_ayrinti": "x050 hedef 50 esik 2.866008 mercek (1,+1,59) Ldil 15 sinif 0 cozulmus 1 kF 3 kH 2 mc 0 | W:17241/20048297 | dil: WUN2p | L*@mercek: R0c R0e K2 FRK W1 Qn QH WUN2p WHRd2 | el: 3.890829 (1,+1,59) sinif 0",
+   "p_el": 0.5606314393685606,
+   "G": 1.99979244297378
+  },
+  "x051": {
+   "k": 1000000,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x051",
+   "hedef": 51,
+   "onsel": 0,
+   "Ldil": 0,
+   "dil": [],
+   "esik": -7.317412614,
+   "sinif": 0,
+   "dil_bedeli": 4.392317422778761,
+   "p": 1.0,
+   "ci": [
+    0.999996311158425,
+    1.0
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x051 hedef 51 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :",
+   "hedef_ayrinti": "x051 hedef 51 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 38 kH 32 mc 5 | | dil: | L*@mercek: QH WUTd WUTd2 WHAd WHNd HH1 HR0c | el: 4.080870 (1,+2,11) sinif 0",
+   "p_el": 0.5283284716715283,
+   "G": -0.2770959845115248
+  },
+  "x052": {
+   "k": 40243,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x052",
+   "hedef": 52,
+   "onsel": 0,
+   "Ldil": 229,
+   "dil": [
+    "WHN2p"
+   ],
+   "esik": 1.842839957,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.04024395975604025,
+   "ci": [
+    0.03985864303682197,
+    0.04063002289308962
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x052 hedef 52 mercek (2,-1,107) amac -10.719402 bilgi 10.160253 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.1603 H 0.0000 : WHN2p",
+   "hedef_ayrinti": "x052 hedef 52 esik 1.842840 mercek (2,-1,107) Ldil 229 sinif 0 cozulmus 1 kF 2 kH 4 mc 0 | W:18200/20826304 | dil: WHN2p | L*@mercek: F1 K2 FC1 FRK FCK W1 WUTd WHA2p WHAd WHN2p WHNd HH1 HR0c HR0e HR1c HR1e HK2 | el: 3.162126 (3,-1,17) sinif 0",
+   "p_el": 0.6895183104816895,
+   "G": 1.233845097524645
+  },
+  "x053": {
+   "k": 656,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x053",
+   "hedef": 53,
+   "onsel": 0,
+   "Ldil": 235,
+   "dil": [
+    "FAP",
+    "HR0e"
+   ],
+   "esik": 6.129547835,
+   "sinif": 0,
+   "dil_bedeli": 16.14720492494223,
+   "p": 0.000656999343000657,
+   "ci": [
+    0.0006067688287593999,
+    0.0007081596823260137
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x053 hedef 53 mercek (2,+3,11) amac -10.017657 bilgi 16.446960 dil_bedeli 16.147205 mercek_bedeli 10.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 10.5691 W 0.0000 H 5.8779 : FAP HR0e",
+   "hedef_ayrinti": "x053 hedef 53 esik 6.129548 mercek (2,+3,11) Ldil 235 sinif 0 cozulmus 1 kF 8 kH 10 mc 2 | F:7212/10956132 H:222161/13064555 | dil: FAP HR0e | L*@mercek: F1 R0c R1c FC1 FD1 FD2 FAd FNd FAP W1 HR0e | el: 5.731076 (2,-1,11) sinif 0",
+   "p_el": 0.2778787221212779,
+   "G": 2.6262903577547316
+  },
+  "x054": {
+   "k": 75602,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x054",
+   "hedef": 54,
+   "onsel": 0,
+   "Ldil": 327,
+   "dil": [
+    "FAP"
+   ],
+   "esik": -0.249455689,
+   "sinif": 0,
+   "dil_bedeli": 10.562242424221072,
+   "p": 0.0756029243970756,
+   "ci": [
+    0.07508459311526625,
+    0.07612186669649723
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x054 hedef 54 mercek (3,-1,29) amac -10.811698 bilgi 9.067957 dil_bedeli 10.562242 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.0680 W 0.0000 H 0.0000 : FAP",
+   "hedef_ayrinti": "x054 hedef 54 esik -0.249456 mercek (3,-1,29) Ldil 327 sinif 0 cozulmus 1 kF 5 kH 4 mc 1 | F:29113/15624780 | dil: FAP | L*@mercek: R1c K1 FD2 FAP FKS WI1 | el: 1.434139 (2,+1,19) sinif 0",
+   "p_el": 0.9385020614979385,
+   "G": 1.0938966361493911
+  },
+  "x055": {
+   "k": 1000000,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x055",
+   "hedef": 55,
+   "onsel": 0,
+   "Ldil": 0,
+   "dil": [],
+   "esik": -7.317412614,
+   "sinif": 0,
+   "dil_bedeli": 4.392317422778761,
+   "p": 1.0,
+   "ci": [
+    0.999996311158425,
+    1.0
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x055 hedef 55 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :",
+   "hedef_ayrinti": "x055 hedef 55 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 36 kH 40 mc 5 | | dil: | L*@mercek: B1 Zkd Zkd2 FAd FAd2 FNd WUd WUd2 HH1 HR1c | el: 9.965047 (1,+1,11) sinif 0",
+   "p_el": 0.02984797015202985,
+   "G": -1.5250851982614921
+  },
+  "x056": {
+   "k": 14070,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x056",
+   "hedef": 56,
+   "onsel": 0,
+   "Ldil": 91,
+   "dil": [
+    "FHd2"
+   ],
+   "esik": 1.540063621,
+   "sinif": 0,
+   "dil_bedeli": 12.78463484555752,
+   "p": 0.014070985929014072,
+   "ci": [
+    0.013840064414763192,
+    0.014302756515174559
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x056 hedef 56 mercek (1,-2,13) amac -11.244571 bilgi 9.857476 dil_bedeli 12.784635 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.8575 W 0.0000 H 0.0000 : FHd2",
+   "hedef_ayrinti": "x056 hedef 56 esik 1.540064 mercek (1,-2,13) Ldil 91 sinif 0 cozulmus 1 kF 6 kH 9 mc 0 | F:10372/9621849 | dil: FHd2 | L*@mercek: F2 QS Qh FC2 FSd2 FHd2 FCd FCd2 WI1 | el: 3.094403 (1,-1,53) sinif 0",
+   "p_el": 0.702971297028703,
+   "G": 1.6986130639900159
+  },
+  "x057": {
+   "k": 15265,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x057",
+   "hedef": 57,
+   "onsel": 0,
+   "Ldil": 49,
+   "dil": [
+    "WHA2p"
+   ],
+   "esik": 2.710239173,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.015265984734015267,
+   "ci": [
+    0.015025603359703493,
+    0.015507210317089286
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x057 hedef 57 mercek (1,-1,79) amac -9.852003 bilgi 10.027652 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.0277 H 0.0000 : WHA2p",
+   "hedef_ayrinti": "x057 hedef 57 esik 2.710239 mercek (1,-1,79) Ldil 49 sinif 0 cozulmus 1 kF 2 kH 3 mc 0 | W:24751/25835490 | dil: WHA2p | L*@mercek: QS FSd2 W1 WUTd WHA2p WHAd WHNp WHNd | el: 3.757241 (1,-1,43) sinif 0",
+   "p_el": 0.5837584162415838,
+   "G": 1.5825083312377235
+  },
+  "x058": {
+   "k": 38505,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x058",
+   "hedef": 58,
+   "onsel": 0,
+   "Ldil": 38,
+   "dil": [
+    "WHNp"
+   ],
+   "esik": 1.801023246,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.0385059614940385,
+   "ci": [
+    0.03812871657829843,
+    0.03888395952424418
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x058 hedef 58 mercek (1,-1,31) amac -10.761219 bilgi 9.118436 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.1184 H 0.0000 : WHNp",
+   "hedef_ayrinti": "x058 hedef 58 esik 1.801023 mercek (1,-1,31) Ldil 38 sinif 0 cozulmus 1 kF 3 kH 2 mc 0 | W:38449/21370161 | dil: WHNp | L*@mercek: F2 K2 QS Qh FC2 FSd2 FHd2 FCd FCd2 W1 WUTd WHAd WHNp WHNd HR1c HR1e | el: 1.072397 (1,-3,23) sinif 0",
+   "p_el": 0.9637520362479638,
+   "G": 1.3984373364543206
+  },
+  "x059": {
+   "k": 1699,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x059",
+   "hedef": 59,
+   "onsel": 0,
+   "Ldil": 179,
+   "dil": [
+    "QkH"
+   ],
+   "esik": 3.108816863,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.0016999983000017,
+   "ci": [
+    0.0016192275240117752,
+    0.0017816805741661056
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x059 hedef 59 mercek (2,+1,17) amac -9.453426 bilgi 11.426229 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 11.4262 H 0.0000 : QkH",
+   "hedef_ayrinti": "x059 hedef 59 esik 3.108817 mercek (2,+1,17) Ldil 179 sinif 0 cozulmus 1 kF 6 kH 17 mc 0 | W:5831/16046516 | dil: QkH | L*@mercek: R0c FSC W1 QkH WHd | el: 8.711527 (1,-1,19) sinif 0",
+   "p_el": 0.06045293954706045,
+   "G": 1.5509689363597436
+  },
+  "x060": {
+   "k": 57,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x060",
+   "hedef": 60,
+   "onsel": 0,
+   "Ldil": 31,
+   "dil": [
+    "FC2",
+    "FSC",
+    "HK2"
+   ],
+   "esik": 9.276352168,
+   "sinif": 0,
+   "dil_bedeli": 19.14720492494223,
+   "p": 5.7999942000058e-05,
+   "ci": [
+    4.317152028105723e-05,
+    7.38494890030825e-05
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x060 hedef 60 mercek (1,-1,7) amac -9.870853 bilgi 16.593764 dil_bedeli 19.147205 mercek_bedeli 7.317413 |Λ| 3 grup_bilgi B 0.0000 Z 0.0000 F 11.5693 W 0.0000 H 5.0245 : FC2 FSC HK2",
+   "hedef_ayrinti": "x060 hedef 60 esik 9.276352 mercek (1,-1,7) Ldil 31 sinif 0 cozulmus 1 kF 15 kH 11 mc 2 | F:3440/10453605 H:127831/4160537 | dil: FC2 FSC HK2 | L*@mercek: FC2 FSC WI1 WUTd WHAd WHNd HR0c HK2 | el: 5.630712 (3,+1,13) sinif 0",
+   "p_el": 0.28952571047428954,
+   "G": 3.6982595767440687
+  },
+  "x061": {
+   "k": 339,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x061",
+   "hedef": 61,
+   "onsel": 0,
+   "Ldil": 32,
+   "dil": [
+    "FC2p"
+   ],
+   "esik": 5.462289573,
+   "sinif": 0,
+   "dil_bedeli": 13.106562940444881,
+   "p": 0.00033999966000034,
+   "ci": [
+    0.0003038747080385693,
+    0.0003770704021478494
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x061 hedef 61 mercek (1,-1,11) amac -7.644274 bilgi 12.779702 dil_bedeli 13.106563 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 12.7797 W 0.0000 H 0.0000 : FC2p",
+   "hedef_ayrinti": "x061 hedef 61 esik 5.462290 mercek (1,-1,11) Ldil 32 sinif 0 cozulmus 1 kF 10 kH 13 mc 2 | F:1865/13114520 | dil: FC2p | L*@mercek: R0c R1c Qc QS FC1 FC2 FD1 FC2p FCd FKS HR0e | el: 4.399758 (1,+1,5) sinif 0",
+   "p_el": 0.4724085275914724,
+   "G": 3.1428392458473686
+  },
+  "x062": {
+   "k": 1000000,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x062",
+   "hedef": 62,
+   "onsel": 0,
+   "Ldil": 0,
+   "dil": [],
+   "esik": -7.317412614,
+   "sinif": 0,
+   "dil_bedeli": 4.392317422778761,
+   "p": 1.0,
+   "ci": [
+    0.999996311158425,
+    1.0
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x062 hedef 62 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :",
+   "hedef_ayrinti": "x062 hedef 62 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 39 kH 46 mc 6 | | dil: | L*@mercek: Zkd FAd FNd WUd | el: 9.674535 (3,-1,11) sinif 0",
+   "p_el": 0.03497896502103498,
+   "G": -1.4561930448374212
+  },
+  "x063": {
+   "k": 1000000,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x063",
+   "hedef": 63,
+   "onsel": 0,
+   "Ldil": 0,
+   "dil": [],
+   "esik": -7.317412614,
+   "sinif": 0,
+   "dil_bedeli": 4.392317422778761,
+   "p": 1.0,
+   "ci": [
+    0.999996311158425,
+    1.0
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x063 hedef 63 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :",
+   "hedef_ayrinti": "x063 hedef 63 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 38 kH 38 mc 6 | | dil: | L*@mercek: FAd FNd Qa Qn QH WEq WUd WUd2 WUTd WUTd2 WHAd WHAd2 WHNd WHNd2 WHRd2 HR0c | el: 2.480206 (3,-1,5) sinif 0",
+   "p_el": 0.8091741908258092,
+   "G": -0.09195797780519682
+  },
+  "x064": {
+   "k": 2135,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x064",
+   "hedef": 64,
+   "onsel": 0,
+   "Ldil": 33,
+   "dil": [
+    "WU2p"
+   ],
+   "esik": 1.444041968,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.002135997864002136,
+   "ci": [
+    0.0020454793021617984,
+    0.002227423715682906
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x064 hedef 64 mercek (1,-1,13) amac -11.118200 bilgi 8.761455 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 8.7615 H 0.0000 : WU2p",
+   "hedef_ayrinti": "x064 hedef 64 esik 1.444042 mercek (1,-1,13) Ldil 33 sinif 0 cozulmus 1 kF 9 kH 19 mc 2 | W:31493/13667046 | dil: WU2p | L*@mercek: R0c FKS Qn WU2p WUd | el: 3.220460 (3,+1,13) sinif 0",
+   "p_el": 0.6791113208886791,
+   "G": 2.5023401562196925
+  },
+  "x065": {
+   "k": 2233,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x065",
+   "hedef": 65,
+   "onsel": 0,
+   "Ldil": 37,
+   "dil": [
+    "WUA2p"
+   ],
+   "esik": 3.641152145,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.002233997766002234,
+   "ci": [
+    0.0021414305206823923,
+    0.0023274714604850527
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x065 hedef 65 mercek (1,-1,29) amac -8.921090 bilgi 10.958565 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.9586 H 0.0000 : WUA2p",
+   "hedef_ayrinti": "x065 hedef 65 esik 3.641152 mercek (1,-1,29) Ldil 37 sinif 0 cozulmus 1 kF 2 kH 0 mc 0 | W:8297/16511171 | dil: WUA2p | L*@mercek: F1 FC1 FA2p FAd FNd Qa Qn WUA2p WUTd | el: 10.308152 (3,+1,29) sinif 0",
+   "p_el": 0.0247009752990247,
+   "G": 1.0436313668967052
+  },
+  "x066": {
+   "k": 7866,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x066",
+   "hedef": 66,
+   "onsel": 0,
+   "Ldil": 49,
+   "dil": [
+    "WHN2p"
+   ],
+   "esik": 3.001951934,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.007866992133007867,
+   "ci": [
+    0.0076937814492526015,
+    0.008041078219072012
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x066 hedef 66 mercek (1,-1,79) amac -9.560290 bilgi 10.319365 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.3194 H 0.0000 : WHN2p",
+   "hedef_ayrinti": "x066 hedef 66 esik 3.001952 mercek (1,-1,79) Ldil 49 sinif 0 cozulmus 1 kF 1 kH 4 mc 0 | W:26225/33508410 | dil: WHN2p | L*@mercek: W1 WUTd WUTd2 WHAd WHN2p WHNd HK2 | el: 3.777889 (1,+1,7) sinif 0",
+   "p_el": 0.5798764201235799,
+   "G": 1.867526733245102
+  },
+  "x067": {
+   "k": 5438,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x067",
+   "hedef": 67,
+   "onsel": 0,
+   "Ldil": 6,
+   "dil": [
+    "WHAp"
+   ],
+   "esik": 3.082589866,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.005438994561005439,
+   "ci": [
+    0.005294794230938838,
+    0.0055840817458446745
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x067 hedef 67 mercek (1,+1,19) amac -9.479652 bilgi 10.400003 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.4000 H 0.0000 : WHAp",
+   "hedef_ayrinti": "x067 hedef 67 esik 3.082590 mercek (1,+1,19) Ldil 6 sinif 0 cozulmus 1 kF 6 kH 1 mc 0 | W:12122/16378989 | dil: WHAp | L*@mercek: K2 FSC WI1 WUTd WHAp WHAd WHNd | el: 7.540250 (3,+1,13) sinif 0",
+   "p_el": 0.11318688681311319,
+   "G": 1.3182774903650336
+  },
+  "x068": {
+   "k": 18127,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x068",
+   "hedef": 68,
+   "onsel": 0,
+   "Ldil": 107,
+   "dil": [
+    "WUAp"
+   ],
+   "esik": 1.811698676,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.01812798187201813,
+   "ci": [
+    0.017866416180391927,
+    0.0183903802599054
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x068 hedef 68 mercek (1,-2,79) amac -10.750544 bilgi 10.129111 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.1291 H 0.0000 : WUAp",
+   "hedef_ayrinti": "x068 hedef 68 esik 1.811699 mercek (1,-2,79) Ldil 107 sinif 0 cozulmus 1 kF 1 kH 2 mc 0 | W:28891/32354067 | dil: WUAp | L*@mercek: W1 Qa WUAp HH1 HK2 | el: 4.429666 (3,+1,47) sinif 0",
+   "p_el": 0.46704953295046703,
+   "G": 1.4110134838962969
+  },
+  "x069": {
+   "k": 21965,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x069",
+   "hedef": 69,
+   "onsel": 0,
+   "Ldil": 226,
+   "dil": [
+    "WHN2p"
+   ],
+   "esik": 2.31410575,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.021965978034021966,
+   "ci": [
+    0.021678614726344417,
+    0.022254158811204836
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x069 hedef 69 mercek (2,-1,97) amac -10.248137 bilgi 10.631518 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.6315 H 0.0000 : WHN2p",
+   "hedef_ayrinti": "x069 hedef 69 esik 2.314106 mercek (2,-1,97) Ldil 226 sinif 0 cozulmus 1 kF 5 kH 3 mc 1 | W:397/629791 | dil: WHN2p | L*@mercek: R0c R0e K1 FCK FKS W1 WUTd WHA2p WHAd WHN2p WHNd | el: 6.710665 (2,-1,7) sinif 0",
+   "p_el": 0.17346482653517348,
+   "G": 0.8974608811859541
+  },
+  "x070": {
+   "k": 13563,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x070",
+   "hedef": 70,
+   "onsel": 0,
+   "Ldil": 58,
+   "dil": [
+    "FRK"
+   ],
+   "esik": 0.371237517,
+   "sinif": 0,
+   "dil_bedeli": 9.977279923499918,
+   "p": 0.013563986436013564,
+   "ci": [
+    0.013337204920381578,
+    0.013791619100942214
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x070 hedef 70 mercek (1,+2,3) amac -9.606043 bilgi 8.688650 dil_bedeli 9.977280 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.6886 W 0.0000 H 0.0000 : FRK",
+   "hedef_ayrinti": "x070 hedef 70 esik 0.371238 mercek (1,+2,3) Ldil 58 sinif 0 cozulmus 1 kF 39 kH 43 mc 0 | F:18659/7698969 | dil: FRK | L*@mercek: Zkd FRK FCK Qa WId | el: 6.433316 (1,-1,103) sinif 0",
+   "p_el": 0.19823680176319824,
+   "G": 1.164796935623154
+  },
+  "x071": {
+   "k": 1315,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x071",
+   "hedef": 71,
+   "onsel": 0,
+   "Ldil": 2,
+   "dil": [
+    "W1"
+   ],
+   "esik": -1.241854428,
+   "sinif": 0,
+   "dil_bedeli": 9.39231742277876,
+   "p": 0.001315998684001316,
+   "ci": [
+    0.0012449208478050658,
+    0.0013879927053699259
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x071 hedef 71 mercek (1,+1,7) amac -10.634172 bilgi 6.075558 dil_bedeli 9.392317 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 6.0756 H 0.0000 : W1",
+   "hedef_ayrinti": "x071 hedef 71 esik -1.241854 mercek (1,+1,7) Ldil 2 sinif 0 cozulmus 1 kF 25 kH 12 mc 2 | W:12176/821164 | dil: W1 | L*@mercek: W1 | el: 7.083173 (2,+3,7) sinif 0",
+   "p_el": 0.14302585697414302,
+   "G": 2.036159103642647
+  },
+  "x072": {
+   "k": 1535,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x072",
+   "hedef": 72,
+   "onsel": 0,
+   "Ldil": 0,
+   "dil": [
+    "R1e"
+   ],
+   "esik": 1.240561248,
+   "sinif": 0,
+   "dil_bedeli": 10.977279923499918,
+   "p": 0.001535998464001536,
+   "ci": [
+    0.0014592165419912261,
+    0.0016136937373610874
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x072 hedef 72 mercek (1,+1,3) amac -9.736719 bilgi 8.557974 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.5580 W 0.0000 H 0.0000 : R1e",
+   "hedef_ayrinti": "x072 hedef 72 esik 1.240561 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 39 kH 34 mc 6 | F:20434/7701231 | dil: R1e | L*@mercek: Zkd R1c R1e QS Qa WId HR1c | el: 4.940532 (1,+1,3) sinif 0",
+   "p_el": 0.3868806131193869,
+   "G": 2.401186186039777
+  },
+  "x073": {
+   "k": 1214,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x073",
+   "hedef": 73,
+   "onsel": 0,
+   "Ldil": 267,
+   "dil": [
+    "FSC",
+    "WUTp"
+   ],
+   "esik": 5.249510528,
+   "sinif": 0,
+   "dil_bedeli": 16.732167425663384,
+   "p": 0.001214998785001215,
+   "ci": [
+    0.0011467000269275117,
+    0.001284215205643881
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x073 hedef 73 mercek (2,-3,19) amac -11.482657 bilgi 15.566923 dil_bedeli 16.732167 mercek_bedeli 10.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 4.7272 W 10.8397 H 0.0000 : FSC WUTp",
+   "hedef_ayrinti": "x073 hedef 73 esik 5.249511 mercek (2,-3,19) Ldil 267 sinif 0 cozulmus 1 kF 4 kH 6 mc 0 | F:486348/12881774 W:7029/12881774 | dil: FSC WUTp | L*@mercek: F1 R0c FSC W1 WUTp WUTd WHAd WHNd | el: 5.217067 (3,-1,41) sinif 0",
+   "p_el": 0.34447065552934447,
+   "G": 2.4525763878735836
+  },
+  "x074": {
+   "k": 1000000,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x074",
+   "hedef": 74,
+   "onsel": 0,
+   "Ldil": 0,
+   "dil": [],
+   "esik": -7.317412614,
+   "sinif": 0,
+   "dil_bedeli": 4.392317422778761,
+   "p": 1.0,
+   "ci": [
+    0.999996311158425,
+    1.0
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x074 hedef 74 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :",
+   "hedef_ayrinti": "x074 hedef 74 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 39 kH 43 mc 7 | | dil: | L*@mercek: Zkd FHSd Qa WId | el: 1.674618 (1,-1,19) sinif 0",
+   "p_el": 0.9153310846689153,
+   "G": -0.03842178873489258
+  },
+  "x075": {
+   "k": 35199,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x075",
+   "hedef": 75,
+   "onsel": 0,
+   "Ldil": 207,
+   "dil": [
+    "FAP"
+   ],
+   "esik": 0.724712134,
+   "sinif": 0,
+   "dil_bedeli": 10.562242424221072,
+   "p": 0.0351999648000352,
+   "ci": [
+    0.034838659679056874,
+    0.03556203580460714
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x075 hedef 75 mercek (2,-1,13) amac -9.837531 bilgi 9.042124 dil_bedeli 10.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.0421 W 0.0000 H 0.0000 : FAP",
+   "hedef_ayrinti": "x075 hedef 75 esik 0.724712 mercek (2,-1,13) Ldil 207 sinif 0 cozulmus 1 kF 10 kH 11 mc 1 | F:22763/11999970 | dil: FAP | L*@mercek: R0c FC2 FAP Qn HR1c | el: 6.629854 (1,+1,11) sinif 0",
+   "p_el": 0.1804258195741804,
+   "G": 0.7097564575487861
+  },
+  "x076": {
+   "k": 82717,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x076",
+   "hedef": 76,
+   "onsel": 0,
+   "Ldil": 8,
+   "dil": [
+    "F2"
+   ],
+   "esik": -0.601926087,
+   "sinif": 0,
+   "dil_bedeli": 10.977279923499918,
+   "p": 0.08271791728208272,
+   "ci": [
+    0.08217782918936038,
+    0.08325858926205168
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x076 hedef 76 mercek (1,+1,29) amac -11.579206 bilgi 6.715487 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 6.7155 W 0.0000 H 0.0000 : F2",
+   "hedef_ayrinti": "x076 hedef 76 esik -0.601926 mercek (1,+1,29) Ldil 8 sinif 0 cozulmus 1 kF 3 kH 3 mc 0 | F:171164/17987689 | dil: F2 | L*@mercek: F2 R1c R1e W1 WEq HH2 HK2 | el: 4.829101 (3,-1,11) sinif 0",
+   "p_el": 0.4037075962924037,
+   "G": 0.6884673303337914
+  },
+  "x077": {
+   "k": 6894,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x077",
+   "hedef": 77,
+   "onsel": 0,
+   "Ldil": 63,
+   "dil": [
+    "WSum"
+   ],
+   "esik": 0.306615592,
+   "sinif": 0,
+   "dil_bedeli": 9.39231742277876,
+   "p": 0.006894993105006895,
+   "ci": [
+    0.006732755373471038,
+    0.007058110680105206
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x077 hedef 77 mercek (1,+2,17) amac -9.085701 bilgi 8.624029 dil_bedeli 9.392317 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 8.6240 H 0.0000 : WSum",
+   "hedef_ayrinti": "x077 hedef 77 esik 0.306616 mercek (1,+2,17) Ldil 63 sinif 0 cozulmus 1 kF 2 kH 15 mc 0 | W:5516/2176284 | dil: WSum | L*@mercek: F1 K2 QS FC1 FSp FRK FCK W1 QU QH WSum WUd | el: 9.768771 (1,+2,17) sinif 0",
+   "p_el": 0.033310966689033314,
+   "G": 0.6840533999446354
+  },
+  "x078": {
+   "k": 18250,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x078",
+   "hedef": 78,
+   "onsel": 0,
+   "Ldil": 32,
+   "dil": [
+    "WUT2p"
+   ],
+   "esik": 2.205178023,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.01825098174901825,
+   "ci": [
+    0.017988546623492564,
+    0.018514249079684623
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x078 hedef 78 mercek (1,-1,11) amac -10.357064 bilgi 9.522591 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.5226 H 0.0000 : WUT2p",
+   "hedef_ayrinti": "x078 hedef 78 esik 2.205178 mercek (1,-1,11) Ldil 32 sinif 0 cozulmus 1 kF 6 kH 3 mc 1 | W:7139/5250769 | dil: WUT2p | L*@mercek: BMt F1 FD1 FKS W1 WUT2p WUTd WHAd WHNd | el: 3.684817 (2,-1,13) sinif 0",
+   "p_el": 0.5961834038165962,
+   "G": 1.5140936514405685
+  },
+  "x079": {
+   "k": 110513,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x079",
+   "hedef": 79,
+   "onsel": 0,
+   "Ldil": 40,
+   "dil": [
+    "FAP"
+   ],
+   "esik": -0.990686654,
+   "sinif": 0,
+   "dil_bedeli": 10.562242424221072,
+   "p": 0.11051388948611052,
+   "ci": [
+    0.10989912483012337,
+    0.11112913217898497
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x079 hedef 79 mercek (1,-1,41) amac -11.552929 bilgi 6.326726 dil_bedeli 10.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 6.3267 W 0.0000 H 0.0000 : FAP",
+   "hedef_ayrinti": "x079 hedef 79 esik -0.990687 mercek (1,-1,41) Ldil 40 sinif 0 cozulmus 1 kF 4 kH 1 mc 1 | F:187760/15070837 | dil: FAP | L*@mercek: F1 R0c R1c K1 K2 FC1 FD1 FD2 FAP W1 | el: 2.120661 (1,-3,17) sinif 0",
+   "p_el": 0.862956137043863,
+   "G": 0.8925718576666903
+  },
+  "x080": {
+   "k": 62329,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x080",
+   "hedef": 80,
+   "onsel": 0,
+   "Ldil": 95,
+   "dil": [
+    "WHN2p"
+   ],
+   "esik": 1.524057151,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.06232993767006233,
+   "ci": [
+    0.061855942611880294,
+    0.06280459443699514
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x080 hedef 80 mercek (1,-2,29) amac -11.038185 bilgi 9.841470 dil_bedeli 12.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.8415 H 0.0000 : WHN2p",
+   "hedef_ayrinti": "x080 hedef 80 esik 1.524057 mercek (1,-2,29) Ldil 95 sinif 0 cozulmus 1 kF 2 kH 2 mc 0 | W:16946/15546940 | dil: WHN2p | L*@mercek: W1 WEq WUTd WHAd WHN2p WHNd | el: 5.901869 (1,-3,7) sinif 0",
+   "p_el": 0.2557157442842557,
+   "G": 0.6130607755352656
+  },
+  "x081": {
+   "k": 35937,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x081",
+   "hedef": 81,
+   "onsel": 0,
+   "Ldil": 1,
+   "dil": [
+    "HH2"
+   ],
+   "esik": 0.166615726,
+   "sinif": 0,
+   "dil_bedeli": 10.977279923499918,
+   "p": 0.035937964062035935,
+   "ci": [
+    0.0355730303732718,
+    0.03630366078235497
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x081 hedef 81 mercek (1,+1,5) amac -10.810664 bilgi 7.484028 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 7.4840 : HH2",
+   "hedef_ayrinti": "x081 hedef 81 esik 0.166616 mercek (1,+1,5) Ldil 1 sinif 0 cozulmus 1 kF 13 kH 19 mc 2 | H:36391/6514948 | dil: HH2 | L*@mercek: QS FSd2 FKS WUTd WHAd WHNd WHNd2 HH2 | el: 3.669496 (1,+1,7) sinif 0",
+   "p_el": 0.5988814011185989,
+   "G": 1.221787355773847
+  },
+  "x082": {
+   "k": 5717,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x082",
+   "hedef": 82,
+   "onsel": 0,
+   "Ldil": 30,
+   "dil": [
+    "FKd"
+   ],
+   "esik": 1.968075515,
+   "sinif": 0,
+   "dil_bedeli": 10.977279923499918,
+   "p": 0.005717994282005718,
+   "ci": [
+    0.005570162761492674,
+    0.0058667112704141435
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x082 hedef 82 mercek (1,-1,5) amac -9.009204 bilgi 9.285488 dil_bedeli 10.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 9.2855 W 0.0000 H 0.0000 : FKd",
+   "hedef_ayrinti": "x082 hedef 82 esik 1.968076 mercek (1,-1,5) Ldil 30 sinif 0 cozulmus 1 kF 23 kH 26 mc 3 | F:14842/9261959 | dil: FKd | L*@mercek: QS Qh FCd FKd Qn QH WUNd2 | el: 4.667205 (1,+3,37) sinif 0",
+   "p_el": 0.4293045706954293,
+   "G": 1.8755217955980799
+  },
+  "x083": {
+   "k": 6011,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x083",
+   "hedef": 83,
+   "onsel": 0,
+   "Ldil": 207,
+   "dil": [
+    "K1"
+   ],
+   "esik": 2.107416869,
+   "sinif": 0,
+   "dil_bedeli": 10.562242424221072,
+   "p": 0.006011993988006012,
+   "ci": [
+    0.00586043230915443,
+    0.006164439698726088
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x083 hedef 83 mercek (2,-1,13) amac -8.454826 bilgi 10.424829 dil_bedeli 10.562242 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 10.4248 W 0.0000 H 0.0000 : K1",
+   "hedef_ayrinti": "x083 hedef 83 esik 2.107417 mercek (2,-1,13) Ldil 207 sinif 0 cozulmus 1 kF 8 kH 7 mc 1 | F:10143/13942889 | dil: K1 | L*@mercek: F1 K1 FC1 FC2 FAP W1 | el: 6.055039 (2,+1,23) sinif 0",
+   "p_el": 0.23788876211123788,
+   "G": 1.5973553887867538
+  },
+  "x084": {
+   "k": 1000000,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x084",
+   "hedef": 84,
+   "onsel": 0,
+   "Ldil": 0,
+   "dil": [],
+   "esik": -7.317412614,
+   "sinif": 0,
+   "dil_bedeli": 4.392317422778761,
+   "p": 1.0,
+   "ci": [
+    0.999996311158425,
+    1.0
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x084 hedef 84 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :",
+   "hedef_ayrinti": "x084 hedef 84 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 33 kH 37 mc 6 | | dil: | L*@mercek: BMn Zkd QS Qh FSd2 FAd FAd2 FNd FNd2 QH | el: 2.908932 (2,-1,17) sinif 0",
+   "p_el": 0.735937264062736,
+   "G": -0.1331592060872876
+  },
+  "x085": {
+   "k": 61225,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x085",
+   "hedef": 85,
+   "onsel": 0,
+   "Ldil": 30,
+   "dil": [
+    "FCK"
+   ],
+   "esik": -0.962585687,
+   "sinif": 0,
+   "dil_bedeli": 9.977279923499918,
+   "p": 0.061225938774061225,
+   "ci": [
+    0.06075588448735225,
+    0.0616966589870947
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x085 hedef 85 mercek (1,-1,5) amac -10.939866 bilgi 6.354827 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 6.3548 W 0.0000 H 0.0000 : FCK",
+   "hedef_ayrinti": "x085 hedef 85 esik -0.962586 mercek (1,-1,5) Ldil 30 sinif 0 cozulmus 1 kF 18 kH 21 mc 2 | F:62814/5141028 | dil: FCK | L*@mercek: BMn F1 FCK | el: 7.248062 (3,-1,7) sinif 0",
+   "p_el": 0.13124686875313124,
+   "G": 0.33115349807728023
+  },
+  "x086": {
+   "k": 93462,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x086",
+   "hedef": 86,
+   "onsel": 0,
+   "Ldil": 6,
+   "dil": [
+    "BMn"
+   ],
+   "esik": -3.070038079,
+   "sinif": 0,
+   "dil_bedeli": 8.39231742277876,
+   "p": 0.09346290653709347,
+   "ci": [
+    0.09289217406242276,
+    0.09403418195805607
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x086 hedef 86 mercek (1,+1,19) amac -11.462355 bilgi 4.247375 dil_bedeli 8.392317 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 4.2474 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 : BMn",
+   "hedef_ayrinti": "x086 hedef 86 esik -3.070038 mercek (1,+1,19) Ldil 6 sinif 0 cozulmus 1 kF 3 kH 4 mc 0 | B:5265175/100000000 | dil: BMn | L*@mercek: B1 BMn R1c W1 | el: 5.670180 (1,+1,7) sinif 0",
+   "p_el": 0.2849047150952849,
+   "G": 0.4840603540376395
+  },
+  "x087": {
+   "k": 27599,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x087",
+   "hedef": 87,
+   "onsel": 0,
+   "Ldil": 1,
+   "dil": [
+    "FCK"
+   ],
+   "esik": -0.360200166,
+   "sinif": 0,
+   "dil_bedeli": 9.977279923499918,
+   "p": 0.027599972400027598,
+   "ci": [
+    0.027278785640639076,
+    0.027921954545744997
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x087 hedef 87 mercek (1,+1,5) amac -10.337480 bilgi 6.957212 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 6.9572 W 0.0000 H 0.0000 : FCK",
+   "hedef_ayrinti": "x087 hedef 87 esik -0.360200 mercek (1,+1,5) Ldil 1 sinif 0 cozulmus 1 kF 21 kH 20 mc 3 | F:71363/8867530 | dil: FCK | L*@mercek: FCK Qn QH WHd WUNd2 | el: 7.269069 (1,-1,11) sinif 0",
+   "p_el": 0.12976187023812977,
+   "G": 0.6722384485616509
+  },
+  "x088": {
+   "k": 13833,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x088",
+   "hedef": 88,
+   "onsel": 0,
+   "Ldil": 29,
+   "dil": [
+    "FCK"
+   ],
+   "esik": 0.118519069,
+   "sinif": 0,
+   "dil_bedeli": 9.977279923499918,
+   "p": 0.013833986166013834,
+   "ci": [
+    0.01360499006527997,
+    0.014063832309182673
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x088 hedef 88 mercek (1,-1,3) amac -9.858761 bilgi 7.435931 dil_bedeli 9.977280 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 7.4359 W 0.0000 H 0.0000 : FCK",
+   "hedef_ayrinti": "x088 hedef 88 esik 0.118519 mercek (1,-1,3) Ldil 29 sinif 0 cozulmus 1 kF 35 kH 53 mc 5 | F:38901/6735955 | dil: FCK | L*@mercek: BMn QS FSd2 FAd FAd2 FNd FNd2 FCK Qa Qn WUNd2 WUTd WHAd WHAd2 WHNd | el: 4.114053 (1,+1,23) sinif 0",
+   "p_el": 0.5224614775385225,
+   "G": 1.577106937238597
+  },
+  "x089": {
+   "k": 19234,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x089",
+   "hedef": 89,
+   "onsel": 0,
+   "Ldil": 3,
+   "dil": [
+    "FAP"
+   ],
+   "esik": 1.168742896,
+   "sinif": 0,
+   "dil_bedeli": 10.562242424221072,
+   "p": 0.019234980765019234,
+   "ci": [
+    0.018965698958207575,
+    0.01950509085691075
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x089 hedef 89 mercek (1,+1,11) amac -9.393500 bilgi 8.486155 dil_bedeli 10.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.4862 W 0.0000 H 0.0000 : FAP",
+   "hedef_ayrinti": "x089 hedef 89 esik 1.168743 mercek (1,+1,11) Ldil 3 sinif 0 cozulmus 1 kF 8 kH 12 mc 2 | F:30683/11002340 | dil: FAP | L*@mercek: F1 R0c R1c K2 FC1 FC2 FD1 FAP WI1 | el: 1.504320 (1,+1,107) sinif 0",
+   "p_el": 0.9326410673589326,
+   "G": 1.6856227786544093
+  },
+  "x090": {
+   "k": 34,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x090",
+   "hedef": 90,
+   "onsel": 0,
+   "Ldil": 291,
+   "dil": [
+    "FSC",
+    "WI1"
+   ],
+   "esik": 8.63434291,
+   "sinif": 0,
+   "dil_bedeli": 13.562242424221072,
+   "p": 3.4999965000035e-05,
+   "ci": [
+    2.3546099685987463e-05,
+    4.751127093246873e-05
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x090 hedef 90 mercek (3,+1,5) amac -4.927900 bilgi 17.951755 dil_bedeli 13.562242 mercek_bedeli 9.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 8.2957 W 9.6561 H 0.0000 : FSC WI1",
+   "hedef_ayrinti": "x090 hedef 90 esik 8.634343 mercek (3,+1,5) Ldil 291 sinif 0 cozulmus 1 kF 25 kH 16 mc 2 | F:25246/7933187 W:9833/7933187 | dil: FSC WI1 | L*@mercek: B1 Zkd Zkd2 R1c FSC QH WI1 WUd HH1 HR0c | el: 7.060016 (1,-1,11) sinif 0",
+   "p_el": 0.1446958553041447,
+   "G": 3.6163884812266827
+  },
+  "x091": {
+   "k": 247,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x091",
+   "hedef": 91,
+   "onsel": 0,
+   "Ldil": 4,
+   "dil": [
+    "WHA2p"
+   ],
+   "esik": 6.521005393,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.000247999752000248,
+   "ci": [
+    0.00021715768987370072,
+    0.0002797969213809502
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x091 hedef 91 mercek (1,+1,13) amac -6.041237 bilgi 13.838418 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 13.8384 H 0.0000 : WHA2p",
+   "hedef_ayrinti": "x091 hedef 91 esik 6.521005 mercek (1,+1,13) Ldil 4 sinif 0 cozulmus 1 kF 12 kH 1 mc 2 | W:510/7470489 | dil: WHA2p | L*@mercek: FSC WI1 WSum WUTd WHA2p WHAd WHNd | el: 4.923562 (2,-1,19) sinif 0",
+   "p_el": 0.3897036102963897,
+   "G": 3.1962831826749993
+  },
+  "x092": {
+   "k": 1847,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x092",
+   "hedef": 92,
+   "onsel": 0,
+   "Ldil": 209,
+   "dil": [
+    "WSum"
+   ],
+   "esik": 2.130147697,
+   "sinif": 0,
+   "dil_bedeli": 9.39231742277876,
+   "p": 0.001847998152001848,
+   "ci": [
+    0.0017637908551136942,
+    0.001933115417853585
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x092 hedef 92 mercek (2,-1,19) amac -7.262169 bilgi 10.447561 dil_bedeli 9.392317 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.4476 H 0.0000 : WSum",
+   "hedef_ayrinti": "x092 hedef 92 esik 2.130148 mercek (2,-1,19) Ldil 209 sinif 0 cozulmus 1 kF 4 kH 15 mc 0 | W:9763/13633658 | dil: WSum | L*@mercek: QS FC1 FSp FCK W1 QU Qn WSum WUd | el: 11.363493 (2,-1,19) sinif 0",
+   "p_el": 0.013435986564013435,
+   "G": 0.8615680282855387
+  },
+  "x093": {
+   "k": 52678,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x093",
+   "hedef": 93,
+   "onsel": 0,
+   "Ldil": 99,
+   "dil": [
+    "WI1"
+   ],
+   "esik": -1.591779946,
+   "sinif": 0,
+   "dil_bedeli": 9.39231742277876,
+   "p": 0.05267894732105268,
+   "ci": [
+    0.052240959961711464,
+    0.053117633322074496
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x093 hedef 93 mercek (1,-2,43) amac -10.984097 bilgi 6.725633 dil_bedeli 9.392317 mercek_bedeli 8.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 6.7256 H 0.0000 : WI1",
+   "hedef_ayrinti": "x093 hedef 93 esik -1.591780 mercek (1,-2,43) Ldil 99 sinif 0 cozulmus 1 kF 1 kH 5 mc 0 | W:166903/17663686 | dil: WI1 | L*@mercek: FAp FAd FNp FNd WI1 HK2 | el: 3.239012 (1,+3,13) sinif 0",
+   "p_el": 0.675998324001676,
+   "G": 1.1083085312928695
+  },
+  "x094": {
+   "k": 1367,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x094",
+   "hedef": 94,
+   "onsel": 0,
+   "Ldil": 36,
+   "dil": [
+    "WHAd2"
+   ],
+   "esik": 2.950196029,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.001367998632001368,
+   "ci": [
+    0.0012955317690913105,
+    0.001441380967118323
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x094 hedef 94 mercek (1,-1,23) amac -9.612046 bilgi 10.267609 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 10.2676 H 0.0000 : WHAd2",
+   "hedef_ayrinti": "x094 hedef 94 esik 2.950196 mercek (1,-1,23) Ldil 36 sinif 0 cozulmus 1 kF 5 kH 6 mc 0 | W:14490/17861860 | dil: WHAd2 | L*@mercek: W1 WUTd WHAd WHAd2 WHNd | el: 9.008051 (2,+1,13) sinif 0",
+   "p_el": 0.051176948823051176,
+   "G": 1.572988726534546
+  },
+  "x095": {
+   "k": 1000000,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x095",
+   "hedef": 95,
+   "onsel": 0,
+   "Ldil": 0,
+   "dil": [],
+   "esik": -7.317412614,
+   "sinif": 0,
+   "dil_bedeli": 4.392317422778761,
+   "p": 1.0,
+   "ci": [
+    0.999996311158425,
+    1.0
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x095 hedef 95 mercek (1,+1,3) amac -11.709730 bilgi 0.000000 dil_bedeli 4.392317 mercek_bedeli 7.317413 |Λ| 0 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.0000 H 0.0000 :",
+   "hedef_ayrinti": "x095 hedef 95 esik -7.317413 mercek (1,+1,3) Ldil 0 sinif 0 cozulmus 1 kF 29 kH 35 mc 5 | | dil: | L*@mercek: B1 R1c Qa WId WId2 | el: 3.845042 (2,+1,19) sinif 0",
+   "p_el": 0.5684234315765684,
+   "G": -0.2453280278686687
+  },
+  "x096": {
+   "k": 9059,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x096",
+   "hedef": 96,
+   "onsel": 0,
+   "Ldil": 145,
+   "dil": [
+    "FD2"
+   ],
+   "esik": 0.830764533,
+   "sinif": 0,
+   "dil_bedeli": 10.977279923499918,
+   "p": 0.00905999094000906,
+   "ci": [
+    0.008874222899377485,
+    0.009246629102034273
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x096 hedef 96 mercek (1,-3,3) amac -10.146515 bilgi 10.148177 dil_bedeli 10.977280 mercek_bedeli 9.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 10.1482 W 0.0000 H 0.0000 : FD2",
+   "hedef_ayrinti": "x096 hedef 96 esik 0.830765 mercek (1,-3,3) Ldil 145 sinif 0 cozulmus 1 kF 38 kH 38 mc 6 | F:88124/100000000 | dil: FD2 | L*@mercek: BMn BMt FD2 | el: 4.932126 (2,-3,7) sinif 0",
+   "p_el": 0.38810661189338813,
+   "G": 1.6318232781834223
+  },
+  "x097": {
+   "k": 17213,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x097",
+   "hedef": 97,
+   "onsel": 0,
+   "Ldil": 34,
+   "dil": [
+    "FAP"
+   ],
+   "esik": 1.249407531,
+   "sinif": 0,
+   "dil_bedeli": 10.562242424221072,
+   "p": 0.017213982786017212,
+   "ci": [
+    0.01695897772333189,
+    0.017469824204014748
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x097 hedef 97 mercek (1,-1,17) amac -9.312835 bilgi 8.566820 dil_bedeli 10.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 8.5668 W 0.0000 H 0.0000 : FAP",
+   "hedef_ayrinti": "x097 hedef 97 esik 1.249408 mercek (1,-1,17) Ldil 34 sinif 0 cozulmus 1 kF 4 kH 12 mc 1 | F:26194/9932797 | dil: FAP | L*@mercek: F1 R0c R1c K1 K2 FC1 FD1 FD2 FAP WI1 HR1c HK2 | el: 4.872236 (1,+1,5) sinif 0",
+   "p_el": 0.39722360277639723,
+   "G": 1.3631536817593664
+  },
+  "x098": {
+   "k": 1113,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x098",
+   "hedef": 98,
+   "onsel": 0,
+   "Ldil": 222,
+   "dil": [
+    "FA2p",
+    "WUNp"
+   ],
+   "esik": 11.245808364,
+   "sinif": 0,
+   "dil_bedeli": 19.95455984699983,
+   "p": 0.001113998886001114,
+   "ci": [
+    0.0010485978718437327,
+    0.0011803191854231115
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x098 hedef 98 mercek (2,-1,73) amac -8.708751 bilgi 19.563221 dil_bedeli 19.954560 mercek_bedeli 8.317413 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 9.4124 W 10.1508 H 0.0000 : FA2p WUNp",
+   "hedef_ayrinti": "x098 hedef 98 esik 11.245808 mercek (2,-1,73) Ldil 222 sinif 0 cozulmus 1 kF 2 kH 0 mc 0 | F:40442/27558134 W:24241/27558134 | dil: FA2p WUNp | L*@mercek: R1c QS FC1 FD1 FSd2 FA2p FAd FNp FNd Qa Qn WUA2p WUNp WUTd WUTd2 | el: 6.945716 (2,-1,73) sinif 0",
+   "p_el": 0.15357484642515357,
+   "G": 2.139435333153891
+  },
+  "x099": {
+   "k": 26917,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x099",
+   "hedef": 99,
+   "onsel": 0,
+   "Ldil": 37,
+   "dil": [
+    "WHN2p"
+   ],
+   "esik": 2.083146812,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.026917973082026918,
+   "ci": [
+    0.026600668409266177,
+    0.02723607580149618
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x099 hedef 99 mercek (1,-1,29) amac -10.479096 bilgi 9.400559 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 9.4006 H 0.0000 : WHN2p",
+   "hedef_ayrinti": "x099 hedef 99 esik 2.083147 mercek (1,-1,29) Ldil 37 sinif 0 cozulmus 1 kF 5 kH 2 mc 1 | W:21860/14774082 | dil: WHN2p | L*@mercek: R1c FKS W1 WUTd WHAd WHN2p WHNd | el: 1.387483 (1,-1,7) sinif 0",
+   "p_el": 0.9420670579329421,
+   "G": 1.5440394632161403
+  },
+  "x100": {
+   "k": 15548,
+   "kc": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "ad": "x100",
+   "hedef": 100,
+   "onsel": 0,
+   "Ldil": 22,
+   "dil": [
+    "WHAd"
+   ],
+   "esik": 1.109300376,
+   "sinif": 0,
+   "dil_bedeli": 12.562242424221072,
+   "p": 0.01554898445101555,
+   "ci": [
+    0.015306420120555083,
+    0.01579239184298716
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "x100 hedef 100 mercek (1,+1,89) amac -11.452942 bilgi 8.426713 dil_bedeli 12.562242 mercek_bedeli 7.317413 |Λ| 1 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 8.4267 H 0.0000 : WHAd",
+   "hedef_ayrinti": "x100 hedef 100 esik 1.109300 mercek (1,+1,89) Ldil 22 sinif 0 cozulmus 1 kF 1 kH 5 mc 0 | W:92245/31742132 | dil: WHAd | L*@mercek: W1 QH WUTd WHAd WHNd WHRd2 HH2 HR0e HR1c HK2 | el: 2.902055 (1,-1,37) sinif 0",
+   "p_el": 0.7373062626937373,
+   "G": 1.6759458935596137
+  },
+  "QP2": {
+   "k": 4,
+   "kc": 0,
+   "N": 100000000,
+   "duzey": 3,
+   "eksik": [],
+   "ad": "QP2",
+   "hedef": 0,
+   "onsel": 1,
+   "Ldil": 6,
+   "dil": [
+    "B2",
+    "K1",
+    "Qc"
+   ],
+   "esik": 19.313919307,
+   "sinif": 0,
+   "dil_bedeli": 19.14720492494223,
+   "p": 4.99999995e-08,
+   "ci": [
+    1.0898653481614903e-08,
+    1.0241579181401608e-07
+   ],
+   "pc": 1.0,
+   "ci_c": [
+    1.0,
+    1.0
+   ],
+   "ayrinti": "QP2 hedef 0 mercek (1,+1,19) amac 0.166714 bilgi 24.403796 dil_bedeli 19.147205 mercek_bedeli 5.089877 |Λ| 3 grup_bilgi B 9.6705 Z 0.0000 F 14.7333 W 0.0000 H 0.0000 : B2 K1 Qc",
+   "hedef_ayrinti": "QP2 hedef 0 esik 19.313919 mercek (1,+1,19) Ldil 6 sinif 0 cozulmus 1 kF 12 kH 7 mc 3 | B:122713/100000000 F:48/1307394 | dil: B2 K1 Qc | L*@mercek: B1 B2 F1 F2 R0c R1c R1e K1 K2 Qc QS Qh FC1 FD1 FH2p FSC W1 QU Qa WSum WUd | el: 28.094385 (1,+1,19) sinif 1"
+  }
+ },
+ "el": {
+  "0": {
+   "k": 14,
+   "kc": 0,
+   "N": 100000000,
+   "duzey": 3,
+   "eksik": [],
+   "hedef": 0,
+   "esik": 28.09438491,
+   "sinif": 1,
+   "p": 1.4999999850000001e-07,
+   "ci": [
+    7.653930525063016e-08,
+    2.3489603151699082e-07
+   ],
+   "pc": 9.9999999e-09
+  },
+  "1": {
+   "k": 784927,
+   "kc": 2856,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 1,
+   "esik": 2.624188186,
+   "sinif": 0,
+   "p": 0.784927215072785,
+   "ci": [
+    0.7841203791604592,
+    0.7857319701585999
+   ],
+   "pc": 1.0
+  },
+  "2": {
+   "k": 713066,
+   "kc": 2695,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 2,
+   "esik": 3.036731661,
+   "sinif": 0,
+   "p": 0.7130662869337131,
+   "ci": [
+    0.7121783323473969,
+    0.7139524334168142
+   ],
+   "pc": 1.0
+  },
+  "3": {
+   "k": 619110,
+   "kc": 2457,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 3,
+   "esik": 3.553630115,
+   "sinif": 0,
+   "p": 0.6191103808896191,
+   "ci": [
+    0.6181573866169298,
+    0.620061923381513
+   ],
+   "pc": 1.0
+  },
+  "4": {
+   "k": 871298,
+   "kc": 3041,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 4,
+   "esik": 2.053636999,
+   "sinif": 0,
+   "p": 0.8712981287018713,
+   "ci": [
+    0.8706400917397524,
+    0.8719537567479291
+   ],
+   "pc": 1.0
+  },
+  "5": {
+   "k": 608989,
+   "kc": 2426,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 5,
+   "esik": 3.610880376,
+   "sinif": 0,
+   "p": 0.608989391010609,
+   "ci": [
+    0.6080317684481819,
+    0.6099456002382944
+   ],
+   "pc": 1.0
+  },
+  "6": {
+   "k": 478559,
+   "kc": 2031,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 6,
+   "esik": 4.364376546,
+   "sinif": 0,
+   "p": 0.4785595214404786,
+   "ci": [
+    0.47757948274832546,
+    0.4795386414337335
+   ],
+   "pc": 1.0
+  },
+  "7": {
+   "k": 572037,
+   "kc": 2297,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 7,
+   "esik": 3.823835136,
+   "sinif": 0,
+   "p": 0.5720374279625721,
+   "ci": [
+    0.571066534774183,
+    0.5730070479348607
+   ],
+   "pc": 1.0
+  },
+  "8": {
+   "k": 467224,
+   "kc": 1994,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 8,
+   "esik": 4.428696395,
+   "sinif": 0,
+   "p": 0.4672245327754672,
+   "ci": [
+    0.46624572188943064,
+    0.46820246792077425
+   ],
+   "pc": 1.0
+  },
+  "9": {
+   "k": 756031,
+   "kc": 2783,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 9,
+   "esik": 2.785756351,
+   "sinif": 0,
+   "p": 0.756031243968756,
+   "ci": [
+    0.7551880051685167,
+    0.7568725116223378
+   ],
+   "pc": 1.0
+  },
+  "10": {
+   "k": 693383,
+   "kc": 2653,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 10,
+   "esik": 3.141882659,
+   "sinif": 0,
+   "p": 0.6933833066166933,
+   "ci": [
+    0.6924782231673733,
+    0.6942866565833073
+   ],
+   "pc": 1.0
+  },
+  "11": {
+   "k": 82459,
+   "kc": 584,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 11,
+   "esik": 8.123453618,
+   "sinif": 0,
+   "p": 0.08245991754008246,
+   "ci": [
+    0.081920596751397,
+    0.08299982319448417
+   ],
+   "pc": 1.0
+  },
+  "12": {
+   "k": 791594,
+   "kc": 2878,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 12,
+   "esik": 2.583219052,
+   "sinif": 0,
+   "p": 0.7915942084057916,
+   "ci": [
+    0.7907965801622016,
+    0.7923897304727967
+   ],
+   "pc": 1.0
+  },
+  "13": {
+   "k": 135683,
+   "kc": 829,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 13,
+   "esik": 7.186436595,
+   "sinif": 0,
+   "p": 0.1356838643161357,
+   "ci": [
+    0.13501236293460772,
+    0.13635574803049522
+   ],
+   "pc": 1.0
+  },
+  "14": {
+   "k": 897306,
+   "kc": 3109,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 14,
+   "esik": 1.834542991,
+   "sinif": 0,
+   "p": 0.8973061026938973,
+   "ci": [
+    0.8967093845757459,
+    0.8979003130313626
+   ],
+   "pc": 1.0
+  },
+  "15": {
+   "k": 736711,
+   "kc": 2741,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 15,
+   "esik": 2.905525924,
+   "sinif": 0,
+   "p": 0.7367112632887367,
+   "ci": [
+    0.735846612070754,
+    0.7375740166553709
+   ],
+   "pc": 1.0
+  },
+  "16": {
+   "k": 178142,
+   "kc": 984,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 16,
+   "esik": 6.655623914,
+   "sinif": 0,
+   "p": 0.17814282185717814,
+   "ci": [
+    0.17739248754211914,
+    0.17889337720679507
+   ],
+   "pc": 1.0
+  },
+  "17": {
+   "k": 50828,
+   "kc": 429,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 17,
+   "esik": 9.02063346,
+   "sinif": 0,
+   "p": 0.05082894917105083,
+   "ci": [
+    0.050398302482681206,
+    0.05126030159656656
+   ],
+   "pc": 1.0
+  },
+  "18": {
+   "k": 430179,
+   "kc": 1884,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 18,
+   "esik": 4.660239459,
+   "sinif": 0,
+   "p": 0.43017956982043015,
+   "ci": [
+    0.4292083231919267,
+    0.4311500812404152
+   ],
+   "pc": 1.0
+  },
+  "19": {
+   "k": 346792,
+   "kc": 1626,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 19,
+   "esik": 5.201336921,
+   "sinif": 1,
+   "p": 0.3467926532073468,
+   "ci": [
+    0.3458591021946315,
+    0.347725785284368
+   ],
+   "pc": 0.001626998373001627
+  },
+  "20": {
+   "k": 489782,
+   "kc": 2066,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 20,
+   "esik": 4.29997182,
+   "sinif": 0,
+   "p": 0.4897825102174898,
+   "ci": [
+    0.4888017534282653,
+    0.4907623057236259
+   ],
+   "pc": 1.0
+  },
+  "21": {
+   "k": 880623,
+   "kc": 3074,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 21,
+   "esik": 1.976917506,
+   "sinif": 0,
+   "p": 0.8806231193768806,
+   "ci": [
+    0.879985915150824,
+    0.8812578792648949
+   ],
+   "pc": 1.0
+  },
+  "22": {
+   "k": 606179,
+   "kc": 2411,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 22,
+   "esik": 3.627509118,
+   "sinif": 0,
+   "p": 0.6061793938206061,
+   "ci": [
+    0.6052205631032426,
+    0.6071368218417008
+   ],
+   "pc": 1.0
+  },
+  "23": {
+   "k": 861314,
+   "kc": 3021,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 23,
+   "esik": 2.132092954,
+   "sinif": 0,
+   "p": 0.8613141386858613,
+   "ci": [
+    0.8606350536249987,
+    0.861990852819988
+   ],
+   "pc": 1.0
+  },
+  "24": {
+   "k": 71828,
+   "kc": 522,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 24,
+   "esik": 8.383462192,
+   "sinif": 0,
+   "p": 0.07182892817107182,
+   "ci": [
+    0.0713226722081791,
+    0.07233580955537375
+   ],
+   "pc": 1.0
+  },
+  "25": {
+   "k": 635872,
+   "kc": 2507,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 25,
+   "esik": 3.46301365,
+   "sinif": 0,
+   "p": 0.6358723641276359,
+   "ci": [
+    0.6349280027239148,
+    0.636815210215131
+   ],
+   "pc": 1.0
+  },
+  "26": {
+   "k": 747847,
+   "kc": 2755,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 26,
+   "esik": 2.83599639,
+   "sinif": 0,
+   "p": 0.7478472521527478,
+   "ci": [
+    0.7469946713127157,
+    0.748697892891369
+   ],
+   "pc": 1.0
+  },
+  "27": {
+   "k": 339891,
+   "kc": 1580,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 27,
+   "esik": 5.247585775,
+   "sinif": 0,
+   "p": 0.3398916601083399,
+   "ci": [
+    0.33896258484822633,
+    0.3408203426150514
+   ],
+   "pc": 1.0
+  },
+  "28": {
+   "k": 226464,
+   "kc": 1198,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 28,
+   "esik": 6.15883422,
+   "sinif": 0,
+   "p": 0.22646477353522645,
+   "ci": [
+    0.225643964326122,
+    0.22728562032921099
+   ],
+   "pc": 1.0
+  },
+  "29": {
+   "k": 285765,
+   "kc": 1409,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 29,
+   "esik": 5.66284156,
+   "sinif": 0,
+   "p": 0.28576571423428576,
+   "ci": [
+    0.2848796528513966,
+    0.2866515881969513
+   ],
+   "pc": 1.0
+  },
+  "30": {
+   "k": 899206,
+   "kc": 3115,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 30,
+   "esik": 1.816726447,
+   "sinif": 0,
+   "p": 0.8992061007938992,
+   "ci": [
+    0.8986142848841081,
+    0.8997954016538027
+   ],
+   "pc": 1.0
+  },
+  "31": {
+   "k": 347072,
+   "kc": 1627,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 31,
+   "esik": 5.198935987,
+   "sinif": 0,
+   "p": 0.34707265292734707,
+   "ci": [
+    0.346138924906548,
+    0.34800596093953157
+   ],
+   "pc": 1.0
+  },
+  "32": {
+   "k": 814280,
+   "kc": 2926,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 32,
+   "esik": 2.444338561,
+   "sinif": 0,
+   "p": 0.8142801857198143,
+   "ci": [
+    0.8135163983456721,
+    0.8150417808616535
+   ],
+   "pc": 1.0
+  },
+  "33": {
+   "k": 510925,
+   "kc": 2122,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 33,
+   "esik": 4.180690051,
+   "sinif": 0,
+   "p": 0.510925489074511,
+   "ci": [
+    0.5099447215252307,
+    0.5119052151793919
+   ],
+   "pc": 1.0
+  },
+  "34": {
+   "k": 128237,
+   "kc": 800,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 34,
+   "esik": 7.289106132,
+   "sinif": 0,
+   "p": 0.12823787176212822,
+   "ci": [
+    0.1275822565052801,
+    0.12889389765124135
+   ],
+   "pc": 1.0
+  },
+  "35": {
+   "k": 994804,
+   "kc": 3274,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 35,
+   "esik": 0.106382133,
+   "sinif": 0,
+   "p": 0.9948040051959948,
+   "ci": [
+    0.9946611438469155,
+    0.9949439784504376
+   ],
+   "pc": 1.0
+  },
+  "36": {
+   "k": 719817,
+   "kc": 2704,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 36,
+   "esik": 3.003144802,
+   "sinif": 0,
+   "p": 0.7198172801827198,
+   "ci": [
+    0.718935666907283,
+    0.7206970596430637
+   ],
+   "pc": 1.0
+  },
+  "37": {
+   "k": 549270,
+   "kc": 2225,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 37,
+   "esik": 3.958308221,
+   "sinif": 0,
+   "p": 0.5492704507295493,
+   "ci": [
+    0.5482941459871868,
+    0.5502455686052051
+   ],
+   "pc": 1.0
+  },
+  "38": {
+   "k": 889826,
+   "kc": 3097,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 38,
+   "esik": 1.899412991,
+   "sinif": 0,
+   "p": 0.8898261101738898,
+   "ci": [
+    0.8892106931585593,
+    0.8904390478519042
+   ],
+   "pc": 1.0
+  },
+  "39": {
+   "k": 698589,
+   "kc": 2663,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 39,
+   "esik": 3.116506816,
+   "sinif": 0,
+   "p": 0.6985893014106986,
+   "ci": [
+    0.6976885555528657,
+    0.6994882940436966
+   ],
+   "pc": 1.0
+  },
+  "40": {
+   "k": 607069,
+   "kc": 2416,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 40,
+   "esik": 3.621067287,
+   "sinif": 0,
+   "p": 0.607069392930607,
+   "ci": [
+    0.606110941261141,
+    0.6080264385136794
+   ],
+   "pc": 1.0
+  },
+  "41": {
+   "k": 489307,
+   "kc": 2066,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 41,
+   "esik": 4.301944495,
+   "sinif": 0,
+   "p": 0.4893075106924893,
+   "ci": [
+    0.4883267743108691,
+    0.4902872876435386
+   ],
+   "pc": 1.0
+  },
+  "42": {
+   "k": 289248,
+   "kc": 1417,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 42,
+   "esik": 5.632535697,
+   "sinif": 0,
+   "p": 0.2892487107512893,
+   "ci": [
+    0.2883594376961535,
+    0.2901377831592933
+   ],
+   "pc": 1.0
+  },
+  "43": {
+   "k": 128587,
+   "kc": 802,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 43,
+   "esik": 7.284913779,
+   "sinif": 0,
+   "p": 0.1285878714121286,
+   "ci": [
+    0.127931493555687,
+    0.12924465857343218
+   ],
+   "pc": 1.0
+  },
+  "44": {
+   "k": 293222,
+   "kc": 1429,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 44,
+   "esik": 5.597949744,
+   "sinif": 0,
+   "p": 0.29322270677729323,
+   "ci": [
+    0.2923298471644831,
+    0.29411535067068967
+   ],
+   "pc": 1.0
+  },
+  "45": {
+   "k": 379394,
+   "kc": 1724,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 45,
+   "esik": 4.990079166,
+   "sinif": 0,
+   "p": 0.3793946206053794,
+   "ci": [
+    0.3784428049197546,
+    0.3803458937154272
+   ],
+   "pc": 1.0
+  },
+  "46": {
+   "k": 396974,
+   "kc": 1774,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 46,
+   "esik": 4.873750926,
+   "sinif": 0,
+   "p": 0.396974603025397,
+   "ci": [
+    0.39601484692560723,
+    0.3979337498597995
+   ],
+   "pc": 1.0
+  },
+  "47": {
+   "k": 166146,
+   "kc": 932,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 47,
+   "esik": 6.792564632,
+   "sinif": 0,
+   "p": 0.16614683385316614,
+   "ci": [
+    0.16541694624436967,
+    0.16687698805587836
+   ],
+   "pc": 1.0
+  },
+  "48": {
+   "k": 90312,
+   "kc": 628,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 48,
+   "esik": 7.962428809,
+   "sinif": 0,
+   "p": 0.09031290968709031,
+   "ci": [
+    0.08975090608459098,
+    0.09087546822480565
+   ],
+   "pc": 1.0
+  },
+  "49": {
+   "k": 18522,
+   "kc": 190,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 49,
+   "esik": 10.801193954,
+   "sinif": 0,
+   "p": 0.018522981477018523,
+   "ci": [
+    0.018258634633764054,
+    0.01878815943980316
+   ],
+   "pc": 1.0
+  },
+  "50": {
+   "k": 560631,
+   "kc": 2249,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 50,
+   "esik": 3.890829087,
+   "sinif": 0,
+   "p": 0.5606314393685606,
+   "ci": [
+    0.559657575308071,
+    0.5616040734510092
+   ],
+   "pc": 1.0
+  },
+  "51": {
+   "k": 528328,
+   "kc": 2164,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 51,
+   "esik": 4.080870391,
+   "sinif": 0,
+   "p": 0.5283284716715283,
+   "ci": [
+    0.5273490112166266,
+    0.5293068246635098
+   ],
+   "pc": 1.0
+  },
+  "52": {
+   "k": 689518,
+   "kc": 2638,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 52,
+   "esik": 3.162125946,
+   "sinif": 0,
+   "p": 0.6895183104816895,
+   "ci": [
+    0.6886100944615626,
+    0.6904248077158389
+   ],
+   "pc": 1.0
+  },
+  "53": {
+   "k": 277878,
+   "kc": 1381,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 53,
+   "esik": 5.73107648,
+   "sinif": 0,
+   "p": 0.2778787221212779,
+   "ci": [
+    0.27700017270407673,
+    0.27875711403785525
+   ],
+   "pc": 1.0
+  },
+  "54": {
+   "k": 938502,
+   "kc": 3173,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 54,
+   "esik": 1.434139014,
+   "sinif": 0,
+   "p": 0.9385020614979385,
+   "ci": [
+    0.9380293638179715,
+    0.938972094275765
+   ],
+   "pc": 1.0
+  },
+  "55": {
+   "k": 29847,
+   "kc": 287,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 55,
+   "esik": 9.965046645,
+   "sinif": 0,
+   "p": 0.02984797015202985,
+   "ci": [
+    0.029514344782112397,
+    0.03018238215399882
+   ],
+   "pc": 1.0
+  },
+  "56": {
+   "k": 702971,
+   "kc": 2670,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 56,
+   "esik": 3.09440303,
+   "sinif": 0,
+   "p": 0.702971297028703,
+   "ci": [
+    0.7020743086807089,
+    0.7038665155442879
+   ],
+   "pc": 1.0
+  },
+  "57": {
+   "k": 583758,
+   "kc": 2334,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 57,
+   "esik": 3.757241489,
+   "sinif": 0,
+   "p": 0.5837584162415838,
+   "ci": [
+    0.5827911243501632,
+    0.5847243904743512
+   ],
+   "pc": 1.0
+  },
+  "58": {
+   "k": 963752,
+   "kc": 3223,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 58,
+   "esik": 1.072396995,
+   "sinif": 0,
+   "p": 0.9637520362479638,
+   "ci": [
+    0.9633838240956121,
+    0.9641174865774219
+   ],
+   "pc": 1.0
+  },
+  "59": {
+   "k": 60452,
+   "kc": 468,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 59,
+   "esik": 8.71152711,
+   "sinif": 0,
+   "p": 0.06045293954706045,
+   "ci": [
+    0.05998567025129997,
+    0.060920877727444755
+   ],
+   "pc": 1.0
+  },
+  "60": {
+   "k": 289525,
+   "kc": 1417,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 60,
+   "esik": 5.630712272,
+   "sinif": 0,
+   "p": 0.28952571047428954,
+   "ci": [
+    0.2886361847443373,
+    0.2904150345023677
+   ],
+   "pc": 1.0
+  },
+  "61": {
+   "k": 472408,
+   "kc": 2013,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 61,
+   "esik": 4.399757625,
+   "sinif": 0,
+   "p": 0.4724085275914724,
+   "ci": [
+    0.4714290923864389,
+    0.473387067437477
+   ],
+   "pc": 1.0
+  },
+  "62": {
+   "k": 34978,
+   "kc": 324,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 62,
+   "esik": 9.67453456,
+   "sinif": 0,
+   "p": 0.03497896502103498,
+   "ci": [
+    0.03461875474154138,
+    0.035339942039848964
+   ],
+   "pc": 1.0
+  },
+  "63": {
+   "k": 809174,
+   "kc": 2921,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 63,
+   "esik": 2.480206252,
+   "sinif": 0,
+   "p": 0.8091741908258092,
+   "ci": [
+    0.808402432820257,
+    0.8099437759408529
+   ],
+   "pc": 1.0
+  },
+  "64": {
+   "k": 679111,
+   "kc": 2617,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 64,
+   "esik": 3.220459701,
+   "sinif": 0,
+   "p": 0.6791113208886791,
+   "ci": [
+    0.6781950353536829,
+    0.6800259271129548
+   ],
+   "pc": 1.0
+  },
+  "65": {
+   "k": 24700,
+   "kc": 256,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 65,
+   "esik": 10.308152438,
+   "sinif": 0,
+   "p": 0.0247009752990247,
+   "ci": [
+    0.02439667264524923,
+    0.025006084670723253
+   ],
+   "pc": 1.0
+  },
+  "66": {
+   "k": 579876,
+   "kc": 2318,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 66,
+   "esik": 3.777889491,
+   "sinif": 0,
+   "p": 0.5798764201235799,
+   "ci": [
+    0.5789078735715895,
+    0.5808436637518127
+   ],
+   "pc": 1.0
+  },
+  "67": {
+   "k": 113186,
+   "kc": 727,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 67,
+   "esik": 7.540250064,
+   "sinif": 0,
+   "p": 0.11318688681311319,
+   "ci": [
+    0.11256566506427061,
+    0.11380857643586487
+   ],
+   "pc": 1.0
+  },
+  "68": {
+   "k": 467049,
+   "kc": 1994,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 68,
+   "esik": 4.429666163,
+   "sinif": 0,
+   "p": 0.46704953295046703,
+   "ci": [
+    0.46607074501513623,
+    0.4680274458338517
+   ],
+   "pc": 1.0
+  },
+  "69": {
+   "k": 173464,
+   "kc": 956,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 69,
+   "esik": 6.71066475,
+   "sinif": 0,
+   "p": 0.17346482653517348,
+   "ci": [
+    0.1727223102057801,
+    0.17420758166159764
+   ],
+   "pc": 1.0
+  },
+  "70": {
+   "k": 198236,
+   "kc": 1086,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 70,
+   "esik": 6.433316232,
+   "sinif": 0,
+   "p": 0.19823680176319824,
+   "ci": [
+    0.19745499418879528,
+    0.1990187540756271
+   ],
+   "pc": 1.0
+  },
+  "71": {
+   "k": 143025,
+   "kc": 855,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 71,
+   "esik": 7.083173038,
+   "sinif": 0,
+   "p": 0.14302585697414302,
+   "ci": [
+    0.1423393544155468,
+    0.1437127139609684
+   ],
+   "pc": 1.0
+  },
+  "72": {
+   "k": 386880,
+   "kc": 1749,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 72,
+   "esik": 4.940532328,
+   "sinif": 0,
+   "p": 0.3868806131193869,
+   "ci": [
+    0.3859252561248867,
+    0.3878353991072541
+   ],
+   "pc": 1.0
+  },
+  "73": {
+   "k": 344470,
+   "kc": 1605,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 73,
+   "esik": 5.217066691,
+   "sinif": 0,
+   "p": 0.34447065552934447,
+   "ci": [
+    0.34353858618295663,
+    0.3454023147638892
+   ],
+   "pc": 1.0
+  },
+  "74": {
+   "k": 915331,
+   "kc": 3145,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 74,
+   "esik": 1.674618484,
+   "sinif": 0,
+   "p": 0.9153310846689153,
+   "ci": [
+    0.9147836648807919,
+    0.9158759279874209
+   ],
+   "pc": 1.0
+  },
+  "75": {
+   "k": 180425,
+   "kc": 1000,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 75,
+   "esik": 6.629853965,
+   "sinif": 0,
+   "p": 0.1804258195741804,
+   "ci": [
+    0.17967173972598685,
+    0.18118011178741586
+   ],
+   "pc": 1.0
+  },
+  "76": {
+   "k": 403707,
+   "kc": 1799,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 76,
+   "esik": 4.82910061,
+   "sinif": 0,
+   "p": 0.4037075962924037,
+   "ci": [
+    0.40274514319973304,
+    0.4046694145686677
+   ],
+   "pc": 1.0
+  },
+  "77": {
+   "k": 33310,
+   "kc": 313,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 77,
+   "esik": 9.768771411,
+   "sinif": 0,
+   "p": 0.033310966689033314,
+   "ci": [
+    0.03295914678433376,
+    0.0336635597896791
+   ],
+   "pc": 1.0
+  },
+  "78": {
+   "k": 596183,
+   "kc": 2363,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 78,
+   "esik": 3.684817256,
+   "sinif": 0,
+   "p": 0.5961834038165962,
+   "ci": [
+    0.5952205434531627,
+    0.5971448993981837
+   ],
+   "pc": 1.0
+  },
+  "79": {
+   "k": 862956,
+   "kc": 3022,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 79,
+   "esik": 2.120661021,
+   "sinif": 0,
+   "p": 0.862956137043863,
+   "ci": [
+    0.8622804293287681,
+    0.8636294675933726
+   ],
+   "pc": 1.0
+  },
+  "80": {
+   "k": 255715,
+   "kc": 1290,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 80,
+   "esik": 5.901869298,
+   "sinif": 0,
+   "p": 0.2557157442842557,
+   "ci": [
+    0.25486014994752226,
+    0.2565712652141503
+   ],
+   "pc": 1.0
+  },
+  "81": {
+   "k": 598881,
+   "kc": 2380,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 81,
+   "esik": 3.66949606,
+   "sinif": 0,
+   "p": 0.5988814011185989,
+   "ci": [
+    0.5979195873255672,
+    0.5998418398646398
+   ],
+   "pc": 1.0
+  },
+  "82": {
+   "k": 429304,
+   "kc": 1882,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 82,
+   "esik": 4.66720462,
+   "sinif": 0,
+   "p": 0.4293045706954293,
+   "ci": [
+    0.4283335691287391,
+    0.4302748403552866
+   ],
+   "pc": 1.0
+  },
+  "83": {
+   "k": 237888,
+   "kc": 1234,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 83,
+   "esik": 6.055038692,
+   "sinif": 0,
+   "p": 0.23788876211123788,
+   "ci": [
+    0.23705372656723261,
+    0.23872379188862367
+   ],
+   "pc": 1.0
+  },
+  "84": {
+   "k": 735937,
+   "kc": 2739,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 84,
+   "esik": 2.908932448,
+   "sinif": 0,
+   "p": 0.735937264062736,
+   "ci": [
+    0.7350718007020254,
+    0.736800832510859
+   ],
+   "pc": 1.0
+  },
+  "85": {
+   "k": 131246,
+   "kc": 814,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 85,
+   "esik": 7.248061896,
+   "sinif": 0,
+   "p": 0.13124686875313124,
+   "ci": [
+    0.13058474918028048,
+    0.1319093875270998
+   ],
+   "pc": 1.0
+  },
+  "86": {
+   "k": 284904,
+   "kc": 1408,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 86,
+   "esik": 5.670179845,
+   "sinif": 0,
+   "p": 0.2849047150952849,
+   "ci": [
+    0.28401945755574665,
+    0.2857897884736814
+   ],
+   "pc": 1.0
+  },
+  "87": {
+   "k": 129761,
+   "kc": 807,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 87,
+   "esik": 7.269069196,
+   "sinif": 0,
+   "p": 0.12976187023812977,
+   "ci": [
+    0.1291029460584208,
+    0.13042119926296167
+   ],
+   "pc": 1.0
+  },
+  "88": {
+   "k": 522461,
+   "kc": 2154,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 88,
+   "esik": 4.114053489,
+   "sinif": 0,
+   "p": 0.5224614775385225,
+   "ci": [
+    0.5214814434160182,
+    0.5234404264552611
+   ],
+   "pc": 1.0
+  },
+  "89": {
+   "k": 932641,
+   "kc": 3161,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 89,
+   "esik": 1.504319579,
+   "sinif": 0,
+   "p": 0.9326410673589326,
+   "ci": [
+    0.9321479951110225,
+    0.9331314971319065
+   ],
+   "pc": 1.0
+  },
+  "90": {
+   "k": 144695,
+   "kc": 858,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 90,
+   "esik": 7.060016395,
+   "sinif": 0,
+   "p": 0.1446958553041447,
+   "ci": [
+    0.14400602800000725,
+    0.1453860306869896
+   ],
+   "pc": 1.0
+  },
+  "91": {
+   "k": 389703,
+   "kc": 1758,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 91,
+   "esik": 4.923562051,
+   "sinif": 0,
+   "p": 0.3897036102963897,
+   "ci": [
+    0.3887469797433814,
+    0.39065965915062023
+   ],
+   "pc": 1.0
+  },
+  "92": {
+   "k": 13435,
+   "kc": 151,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 92,
+   "esik": 11.363493205,
+   "sinif": 0,
+   "p": 0.013435986564013435,
+   "ci": [
+    0.013210262949893517,
+    0.013662561852921223
+   ],
+   "pc": 1.0
+  },
+  "93": {
+   "k": 675998,
+   "kc": 2609,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 93,
+   "esik": 3.239011527,
+   "sinif": 0,
+   "p": 0.675998324001676,
+   "ci": [
+    0.675079726669188,
+    0.6769152538157576
+   ],
+   "pc": 1.0
+  },
+  "94": {
+   "k": 51176,
+   "kc": 429,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 94,
+   "esik": 9.008051158,
+   "sinif": 0,
+   "p": 0.051176948823051176,
+   "ci": [
+    0.05074490944969128,
+    0.05160969259994838
+   ],
+   "pc": 1.0
+  },
+  "95": {
+   "k": 568423,
+   "kc": 2279,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 95,
+   "esik": 3.845041515,
+   "sinif": 0,
+   "p": 0.5684234315765684,
+   "ci": [
+    0.5674515403300052,
+    0.5693940633000901
+   ],
+   "pc": 1.0
+  },
+  "96": {
+   "k": 388106,
+   "kc": 1755,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 96,
+   "esik": 4.932125569,
+   "sinif": 0,
+   "p": 0.38810661189338813,
+   "ci": [
+    0.3871506976766878,
+    0.3890619504797224
+   ],
+   "pc": 1.0
+  },
+  "97": {
+   "k": 397223,
+   "kc": 1775,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 97,
+   "esik": 4.872235538,
+   "sinif": 0,
+   "p": 0.39722360277639723,
+   "ci": [
+    0.39626374357084665,
+    0.3981828517587145
+   ],
+   "pc": 1.0
+  },
+  "98": {
+   "k": 153574,
+   "kc": 893,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 98,
+   "esik": 6.945716144,
+   "sinif": 0,
+   "p": 0.15357484642515357,
+   "ci": [
+    0.15286785879632697,
+    0.15428214840050436
+   ],
+   "pc": 1.0
+  },
+  "99": {
+   "k": 942067,
+   "kc": 3182,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 99,
+   "esik": 1.387482644,
+   "sinif": 0,
+   "p": 0.9420670579329421,
+   "ci": [
+    0.9416073378423192,
+    0.9425240995124334
+   ],
+   "pc": 1.0
+  },
+  "100": {
+   "k": 737306,
+   "kc": 2742,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": [],
+   "hedef": 100,
+   "esik": 2.902054967,
+   "sinif": 0,
+   "p": 0.7373062626937373,
+   "ci": [
+    0.7364422381508151,
+    0.7381683870927427
+   ],
+   "pc": 1.0
+  }
+ },
+ "tamam": true,
+ "kalibre": {
+  "pQ": 7.99999992e-08,
+  "ciQ": [
+   2.814362962453083e-08,
+   1.4422667561035407e-07
+  ],
+  "kQ": 7,
+  "NQ": 100000000,
+  "R": 0,
+  "ulasanlar": [],
+  "p_kal": 0.009900990099009901,
+  "okuma": "aşar",
+  "model": {
+   "esik_u": 2.733298467410177,
+   "m": 20,
+   "gpd_sigma": 0.750134804092398,
+   "gpd_xi": -0.09600679675926645,
+   "P_gpd": 4.007223063472512e-05,
+   "P_gpd_95": [
+    0.0,
+    0.002577166708608182
+   ],
+   "normal_mu": 1.925352222146318,
+   "normal_sd": 1.071228849651499,
+   "P_normal": 6.90639162283475e-07,
+   "delta_mertebe": 1.860337967484492
+  }
+ },
+ "sinif": {
+  "Q_sinif": 0,
+  "sinifta_plasebo": 0,
+  "not_": "Kur'an kendi dilinde sınıf dışı; sınıf şartlı kalibrasyon tanımsız"
+ },
+ "el_ozet": {
+  "G_medyan": 1.4320105794929172,
+  "G_ceyrek": [
+   0.8962386253061382,
+   1.9650493381217906
+  ],
+  "G_min": -1.5250851982614921,
+  "G_maks": 4.835334772955212,
+  "pQ_el": 1.4999999850000001e-07,
+  "kQ_el": 14,
+  "ciQ_el": [
+   7.653930525063016e-08,
+   2.3489603151699082e-07
+  ],
+  "G_Q": 0.2730012720637376,
+  "ortak": [
+   "B2",
+   "K1",
+   "Qc"
+  ]
+ },
+ "plasebo": {
+  "medyan": 0.013951982822672768,
+  "medyan_95": [
+   0.006507993492006508,
+   0.018292981707018294
+  ],
+  "min": 5.799999420000058e-06,
+  "min_aralik": [
+   4.317127100504374e-06,
+   7.385004812912778e-06
+  ],
+  "ceyrekler": [
+   0.0006252993747006254,
+   0.0025057474942525057,
+   0.013952486047513953,
+   0.05205944794055206,
+   1.0
+  ],
+  "dil_boyu": [
+   0,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   0,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   0,
+   1,
+   1,
+   1,
+   1,
+   1,
+   2,
+   1,
+   1,
+   2,
+   1,
+   2,
+   1,
+   2,
+   1,
+   0,
+   1,
+   1,
+   1,
+   1,
+   2,
+   1,
+   0,
+   1,
+   1,
+   1,
+   2,
+   1,
+   2,
+   1,
+   1,
+   1,
+   1,
+   0,
+   1,
+   2,
+   1,
+   0,
+   1,
+   1,
+   1,
+   1,
+   3,
+   1,
+   0,
+   0,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   2,
+   0,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   0,
+   1,
+   1,
+   1,
+   1,
+   1,
+   2,
+   1,
+   1,
+   1,
+   1,
+   0,
+   1,
+   1,
+   2,
+   1,
+   1
+  ],
+  "duzeyler": {
+   "1": 99,
+   "2": 1,
+   "3": 0
+  }
+ },
+ "hesap_sn": 8750.900000000009
+}
