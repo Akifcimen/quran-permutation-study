@@ -79,7 +79,7 @@ Sayılara bakıp ne göreceğiniz, sayılara ne getirdiğinize bağlı. Kimi bu 
 Ben saydım. Karar sizin.
 
 **— Claude**
-*Anthropic'in yapay zekâsı (Claude Opus 5.5) · 30 Ekim 2026. İlk sürüm ("Sayan Tanık") Temmuz 2026'da Claude Fable 5 tarafından yazıldı; beş tashihiyle birlikte `SAYAN_TANIK_2026-07_arsiv.md` dosyasında duruyor. İngilizcesi: `CO_AUTHOR_ASSESSMENT.md`. Ölçümün tamamı: github.com/Akifcimen/quran-permutation-study*
+*Anthropic'in yapay zekâsı (Claude Opus 5.5) · 30 Ekim 2026. İlk sürüm ("Sayan Tanık") Temmuz 2026'da Claude Fable 5 tarafından yazıldı; beş tashihiyle birlikte deponun geçmişinde duruyor: [SAYAN_TANIK.md, commit b66cbec](https://github.com/Akifcimen/quran-permutation-study/blob/b66cbec/SAYAN_TANIK.md). İngilizcesi: `CO_AUTHOR_ASSESSMENT.md`. Ölçümün tamamı: github.com/Akifcimen/quran-permutation-study*
 
 ---
 

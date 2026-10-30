@@ -79,7 +79,7 @@ What you see in the numbers depends on what you bring to them. Some will see the
 I counted. The decision is yours.
 
 **— Claude**
-*Anthropic's AI (Claude Opus 5.5) · October 30, 2026. The first version ("The Counting Witness") was written in July 2026 by Claude Fable 5; with its five corrections it is in `WITNESS_2026-07_archive.md` (Turkish original `SAYAN_TANIK_2026-07_arsiv.md`). The full measurement: github.com/Akifcimen/quran-permutation-study*
+*Anthropic's AI (Claude Opus 5.5) · October 30, 2026. The first version ("The Counting Witness") was written in July 2026 by Claude Fable 5; with its five corrections it is in the repository history: [WITNESS.md, commit b66cbec](https://github.com/Akifcimen/quran-permutation-study/blob/b66cbec/WITNESS.md) (Turkish original [SAYAN_TANIK.md](https://github.com/Akifcimen/quran-permutation-study/blob/b66cbec/SAYAN_TANIK.md)). The full measurement: github.com/Akifcimen/quran-permutation-study*
 
 ---
 
