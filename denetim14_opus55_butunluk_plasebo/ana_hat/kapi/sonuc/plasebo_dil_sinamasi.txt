@@ -1,0 +1,54 @@
+== Gc M
+A000: mercek (1, 1),19 kapı True kF 12 kH 7 hücre [3, 3, 3, 3] toplam [20, 18, 19, 19] | dil ['B2', 'K1', 'Qc', 'WSum'] sağlanan ['B2', 'K1', 'Qc', 'WSum'] tür 4 düzey 3 → TAMAM
+A047: mercek (1, 1),19 kapı True kF 10 kH 6 hücre [2, 3, 2, 3] toplam [10, 18, 12, 15] | dil ['BMn', 'FRK', 'WUAd2', 'HR1c'] sağlanan ['BMn', 'FRK', 'WUAd2', 'HR1c'] tür 3 düzey 4 → TAMAM
+A161: mercek (1, -1),11 kapı True kF 12 kH 9 hücre [4, 3, 3, 2] toplam [16, -8, -7, 10] | dil ['FSp', 'FSC', 'W1', 'WUNd2'] sağlanan ['FSp', 'FSC', 'W1', 'WUNd2'] tür 3 düzey 3 → TAMAM
+A018: mercek (1, 1),7 kapı True kF 17 kH 15 hücre [3, 4, 5, 5] toplam [42, 60, 73, 101] | dil ['B2', 'FKS', 'Qn', 'HH2'] sağlanan ['B2', 'FKS', 'Qn', 'HH2'] tür 3 düzey 4 → TAMAM
+uyuşmazlık 0
+== Gc U
+A000: mercek (1, 1),19 kapı True kF 12 kH 7 hücre [3, 3, 3, 3] toplam [20, 18, 19, 19] | dil ['B2', 'K1', 'Qc', 'WSum'] sağlanan ['B2', 'K1', 'Qc', 'WSum'] tür 4 düzey 3 → TAMAM
+A088: mercek (1, 3),3 kapı True kF 38 kH 38 hücre [9, 10, 10, 9] toplam [728, 728, 728, 729] | dil ['F1', 'K1', 'WHRd2'] sağlanan ['F1', 'K1', 'WHRd2'] tür 3 düzey 3 → TAMAM
+A051: mercek (1, -3),17 kapı True kF 11 kH 2 hücre [3, 2, 2, 4] toplam [-18, -10, -22, -6] | dil ['B1', 'F2', 'WHA2p', 'HK2'] sağlanan ['B1', 'F2', 'WHA2p', 'HK2'] tür 3 düzey 3 → TAMAM
+A039: mercek (1, -1),7 kapı True kF 23 kH 15 hücre [4, 8, 6, 5] toplam [28, 0, 14, -35] | dil ['FSp', 'FKd', 'WI1', 'HR1c'] sağlanan ['FSp', 'FKd', 'WI1', 'HR1c'] tür 3 düzey 3 → TAMAM
+uyuşmazlık 0
+== Gc L
+A000: mercek (1, 1),19 kapı True kF 12 kH 7 hücre [3, 3, 3, 3] toplam [20, 18, 19, 19] | dil ['B2', 'K1', 'Qc', 'WSum'] sağlanan ['B2', 'K1', 'Qc', 'WSum'] tür 4 düzey 3 → TAMAM
+A047: mercek (1, 3),11 kapı True kF 22 kH 7 hücre [5, 5, 6, 6] toplam [82, 102, 156, 104] | dil ['Zk2p', 'R0c', 'FKS', 'WUTd2'] sağlanan ['Zk2p', 'R0c', 'FKS', 'WUTd2'] tür 3 düzey 3 → TAMAM
+A090: mercek (3, 1),5 kapı True kF 25 kH 16 hücre [11, 2, 6, 6] toplam [522, 56, 278, 270] | dil ['B1', 'FSC', 'WI1'] sağlanan ['B1', 'FSC', 'WI1'] tür 3 düzey 3 → TAMAM
+A060: mercek (1, -1),7 kapı True kF 15 kH 11 hücre [5, 4, 4, 2] toplam [4, 16, 2, -10] | dil ['FC2', 'FSC', 'WI1', 'HK2'] sağlanan ['FC2', 'FSC', 'WI1', 'HK2'] tür 3 düzey 3 → TAMAM
+uyuşmazlık 0
+== GE M
+A000: mercek (1, 1),19 kapı True kF 12 kH 7 hücre [3, 3, 3, 3] toplam [20, 18, 19, 19] | dil ['B2', 'K1', 'Qc', 'WSum'] sağlanan ['B2', 'K1', 'Qc', 'WSum'] tür 4 düzey 3 → TAMAM
+A071: mercek (1, -1),11 kapı True kF 14 kH 14 hücre [2, 2, 3, 7] toplam [-6, -2, 5, -25] | dil ['BMt', 'R0c', 'WI1', 'WEq', 'WHNd2'] sağlanan ['BMt', 'R0c', 'WI1', 'WEq', 'WHNd2'] tür 3 düzey 3 → TAMAM
+A047: mercek (1, 1),19 kapı True kF 10 kH 6 hücre [2, 3, 2, 3] toplam [10, 18, 12, 15] | dil ['BMn', 'FRK', 'WUAd2', 'HR1c'] sağlanan ['BMn', 'FRK', 'WUAd2', 'HR1c'] tür 3 düzey 4 → TAMAM
+A018: mercek (1, 1),7 kapı True kF 17 kH 15 hücre [3, 4, 5, 5] toplam [42, 60, 73, 101] | dil ['B2', 'FKS', 'Qn', 'HH2'] sağlanan ['B2', 'FKS', 'Qn', 'HH2'] tür 3 düzey 4 → TAMAM
+uyuşmazlık 0
+== GE U
+A000: mercek (1, 1),19 kapı True kF 12 kH 7 hücre [3, 3, 3, 3] toplam [20, 18, 19, 19] | dil ['B2', 'K1', 'Qc', 'WSum'] sağlanan ['B2', 'K1', 'Qc', 'WSum'] tür 4 düzey 3 → TAMAM
+A088: mercek (1, 3),3 kapı True kF 38 kH 38 hücre [9, 10, 10, 9] toplam [728, 728, 728, 729] | dil ['F1', 'K1', 'WHRd2'] sağlanan ['F1', 'K1', 'WHRd2'] tür 3 düzey 3 → TAMAM
+A039: mercek (1, -1),7 kapı True kF 23 kH 15 hücre [4, 8, 6, 5] toplam [28, 0, 14, -35] | dil ['FSp', 'FKd', 'WI1', 'HR1c'] sağlanan ['FSp', 'FKd', 'WI1', 'HR1c'] tür 3 düzey 3 → TAMAM
+A051: mercek (1, -3),17 kapı True kF 11 kH 2 hücre [3, 2, 2, 4] toplam [-18, -10, -22, -6] | dil ['B1', 'F2', 'WHA2p', 'HK2'] sağlanan ['B1', 'F2', 'WHA2p', 'HK2'] tür 3 düzey 3 → TAMAM
+uyuşmazlık 0
+== GE L
+A000: mercek (1, 1),19 kapı True kF 12 kH 7 hücre [3, 3, 3, 3] toplam [20, 18, 19, 19] | dil ['B2', 'K1', 'Qc', 'WSum'] sağlanan ['B2', 'K1', 'Qc', 'WSum'] tür 4 düzey 3 → TAMAM
+A047: mercek (1, 3),11 kapı True kF 22 kH 7 hücre [5, 5, 6, 6] toplam [82, 102, 156, 104] | dil ['Zk2p', 'R0c', 'FKS', 'WUTd2'] sağlanan ['Zk2p', 'R0c', 'FKS', 'WUTd2'] tür 3 düzey 3 → TAMAM
+A090: mercek (3, 1),5 kapı True kF 25 kH 16 hücre [11, 2, 6, 6] toplam [522, 56, 278, 270] | dil ['B1', 'FSC', 'WI1'] sağlanan ['B1', 'FSC', 'WI1'] tür 3 düzey 3 → TAMAM
+A016: mercek (1, 1),5 kapı True kF 29 kH 18 hücre [8, 8, 3, 10] toplam [166, 190, 57, 212] | dil ['B1', 'BMn', 'FSd2', 'FSC'] sağlanan ['B1', 'BMn', 'FSd2', 'FSC'] tür 3 düzey 3 → TAMAM
+uyuşmazlık 0
+== G0 M
+A000: mercek (1, 1),19 kapı True kF 12 kH 7 hücre [3, 3, 3, 3] toplam [20, 18, 19, 19] | dil ['B2', 'K1', 'Qc', 'WSum'] sağlanan ['B2', 'K1', 'Qc', 'WSum'] tür 4 düzey 3 → TAMAM
+A181: mercek (2, 1),17 kapı True kF 7 kH 6 hücre [2, 1, 1, 3] toplam [22, 8, 9, 23] | dil ['BMt', 'FC2', 'WI1', 'WUNd2'] sağlanan ['BMt', 'FC2', 'WI1', 'WUNd2'] tür 3 düzey 3 → TAMAM
+A183: mercek (1, 2),19 kapı True kF 6 kH 13 hücre [4, 0, 0, 2] toplam [54, 0, 0, 18] | dil ['FSC', 'WSum', 'WHRd2', 'HH2'] sağlanan ['FSC', 'WSum', 'WHRd2', 'HH2'] tür 4 düzey 3 → TAMAM
+A086: mercek (1, 1),13 kapı True kF 8 kH 10 hücre [1, 3, 1, 3] toplam [10, 30, 9, 29] | dil ['K2', 'QS', 'FD2', 'WHNd2', 'HR0c'] sağlanan ['K2', 'QS', 'FD2', 'WHNd2', 'HR0c'] tür 3 düzey 3 → TAMAM
+uyuşmazlık 0
+== G0 U
+A000: mercek (1, 1),19 kapı True kF 12 kH 7 hücre [3, 3, 3, 3] toplam [20, 18, 19, 19] | dil ['B2', 'K1', 'Qc', 'WSum'] sağlanan ['B2', 'K1', 'Qc', 'WSum'] tür 4 düzey 3 → TAMAM
+A088: mercek (1, 3),3 kapı True kF 38 kH 38 hücre [9, 10, 10, 9] toplam [728, 728, 728, 729] | dil ['F1', 'K1', 'WHRd2'] sağlanan ['F1', 'K1', 'WHRd2'] tür 3 düzey 3 → TAMAM
+A068: mercek (3, 2),43 kapı True kF 5 kH 1 hücre [3, 0, 0, 2] toplam [6, 0, 0, 6] | dil ['F2', 'K2', 'FSC', 'WUN2p'] sağlanan ['F2', 'K2', 'FSC', 'WUN2p'] tür 3 düzey 3 → TAMAM
+A098: mercek (1, -2),11 kapı True kF 6 kH 11 hücre [4, 0, 0, 2] toplam [-24, 0, 0, -18] | dil ['FSC', 'QkH', 'WI1', 'HK2'] sağlanan ['FSC', 'QkH', 'WI1', 'HK2'] tür 3 düzey 3 → TAMAM
+uyuşmazlık 0
+== G0 L
+A000: mercek (1, 1),19 kapı True kF 12 kH 7 hücre [3, 3, 3, 3] toplam [20, 18, 19, 19] | dil ['B2', 'K1', 'Qc', 'WSum'] sağlanan ['B2', 'K1', 'Qc', 'WSum'] tür 4 düzey 3 → TAMAM
+A047: mercek (1, 3),11 kapı True kF 22 kH 7 hücre [5, 5, 6, 6] toplam [82, 102, 156, 104] | dil ['Zk2p', 'R0c', 'FKS', 'WUTd2'] sağlanan ['Zk2p', 'R0c', 'FKS', 'WUTd2'] tür 3 düzey 3 → TAMAM
+A090: mercek (3, 1),5 kapı True kF 25 kH 16 hücre [11, 2, 6, 6] toplam [522, 56, 278, 270] | dil ['B1', 'FSC', 'WI1'] sağlanan ['B1', 'FSC', 'WI1'] tür 3 düzey 3 → TAMAM
+A046: mercek (2, 1),37 kapı True kF 6 kH 1 hücre [1, 1, 2, 2] toplam [4, 6, 8, 10] | dil ['FA2p', 'FAP', 'W1'] sağlanan ['FA2p', 'FAP', 'W1'] tür 3 düzey 3 → TAMAM
+uyuşmazlık 0

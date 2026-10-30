@@ -1,0 +1,3 @@
+mekanik (sıfır U): 29 dil (kol 1–3: 19, kol 4: 10), 4×4000 kontrol; uyuşmazlık: k 0, kB 0, eşik (kontrol_b) 0, eşik (dil_b ayrıntısı) 0 / 29; eşiğe 1e-4 bitten yakın puan 75
+  kapsam: toplam isabet ≥ 50: evet
+rc=0

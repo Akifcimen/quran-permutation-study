@@ -1,0 +1,1 @@
+hedef_ayrinti_b M: girdi 100 dil satırı, çıktı 100 satır, rc=0

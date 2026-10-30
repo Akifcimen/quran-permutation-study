@@ -1,0 +1,6 @@
+# sifir L bolut 162 tohum 29422600162 N 250000 sure_s 24.6 aday 0 aday_tasma 0
+D B000 0 0
+D B011 0 0
+D B016 1 0
+D B061 0 0
+D B090 0 0

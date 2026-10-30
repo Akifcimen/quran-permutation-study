@@ -1,0 +1,6 @@
+# sifir L bolut 355 tohum 29422600355 N 250000 sure_s 25.2 aday 0 aday_tasma 0
+D B000 0 0
+D B011 1 0
+D B016 0 0
+D B061 0 0
+D B090 0 0

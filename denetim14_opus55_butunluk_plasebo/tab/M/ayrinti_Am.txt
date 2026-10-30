@@ -1,0 +1,201 @@
+Am000 hedef 0 kol 2 mercek (1,+1,19) amac -3.200379 bilgi 23.264239 dil_bedeli 19.147205 mercek_bedeli 7.317413 esik 15.946826 |Λ| 3 grup_bilgi B 9.6657 Z 0.0000 F 13.5985 W 0.0000 H 0.0000 tur abd duzey KH Gmercek 1 Bmercek 1 aday_asimi 0 : B2 K1 Qc
+Am001 hedef 1 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am002 hedef 2 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am003 hedef 3 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am004 hedef 4 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am005 hedef 5 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am006 hedef 6 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am007 hedef 7 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am008 hedef 8 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am009 hedef 9 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am010 hedef 10 kol 2 mercek (2,-1,29) amac -16.847595 bilgi 6.447097 dil_bedeli 14.977280 mercek_bedeli 8.317413 esik -1.870315 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 2.4945 H 3.9526 tur ac duzey HB Gmercek 2 Bmercek 2 aday_asimi 0 : WI1 HR0e
+Am011 hedef 11 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am012 hedef 12 kol 2 mercek (1,-3,19) amac -11.777569 bilgi 12.102086 dil_bedeli 14.562242 mercek_bedeli 9.317413 esik 2.784673 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 9.5013 W 2.6007 H 0.0000 tur cd duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : FAP WSum
+Am013 hedef 13 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am014 hedef 14 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am015 hedef 15 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am016 hedef 16 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am017 hedef 17 kol 2 mercek (1,+1,29) amac -16.470760 bilgi 5.993857 dil_bedeli 15.147205 mercek_bedeli 7.317413 esik -1.323555 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 5.9939 W 0.0000 H 0.0000 tur ad duzey AH Gmercek 1 Bmercek 1 aday_asimi 0 : FD2 FKS
+Am018 hedef 18 kol 2 mercek (2,-3,29) amac -19.189492 bilgi 6.105200 dil_bedeli 14.977280 mercek_bedeli 10.317413 esik -4.212212 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 5.7791 W 0.3261 H 0.0000 tur ac duzey AB Gmercek 1 Bmercek 1 aday_asimi 0 : FD2 W1
+Am019 hedef 19 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am020 hedef 20 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am021 hedef 21 kol 2 mercek (2,-3,19) amac -18.239249 bilgi 7.055444 dil_bedeli 14.977280 mercek_bedeli 10.317413 esik -3.261969 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 1.5190 H 5.5364 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : WI1 HR1e
+Am022 hedef 22 kol 2 mercek (3,-1,17) amac -20.667487 bilgi 3.627206 dil_bedeli 14.977280 mercek_bedeli 9.317413 esik -5.690207 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.7710 W 0.8563 H 0.0000 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : R1c W1
+Am023 hedef 23 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am024 hedef 24 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am025 hedef 25 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am026 hedef 26 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am027 hedef 27 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am028 hedef 28 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am029 hedef 29 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am030 hedef 30 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am031 hedef 31 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am032 hedef 32 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am033 hedef 33 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am034 hedef 34 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am035 hedef 35 kol 2 mercek (2,-1,23) amac -19.273234 bilgi 4.021459 dil_bedeli 14.977280 mercek_bedeli 8.317413 esik -4.295954 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.3751 H 3.6464 tur ac duzey AB Gmercek 1 Bmercek 1 aday_asimi 0 : W1 HH2
+Am036 hedef 36 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am037 hedef 37 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am038 hedef 38 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am039 hedef 39 kol 2 mercek (2,-3,17) amac -21.971542 bilgi 3.323150 dil_bedeli 14.977280 mercek_bedeli 10.317413 esik -6.994262 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.7489 W 0.5743 H 0.0000 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : R0c W1
+Am040 hedef 40 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am041 hedef 41 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am042 hedef 42 kol 2 mercek (1,-3,19) amac -21.087372 bilgi 3.207321 dil_bedeli 14.977280 mercek_bedeli 9.317413 esik -6.110092 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.7469 H 2.4604 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : W1 HR0c
+Am043 hedef 43 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am044 hedef 44 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am045 hedef 45 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am046 hedef 46 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am047 hedef 47 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am048 hedef 48 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am049 hedef 49 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am050 hedef 50 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am051 hedef 51 kol 2 mercek (2,-1,17) amac -17.107883 bilgi 6.356735 dil_bedeli 15.147205 mercek_bedeli 8.317413 esik -1.960678 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 6.3567 W 0.0000 H 0.0000 tur ad duzey AH Gmercek 1 Bmercek 1 aday_asimi 0 : F1 FSC
+Am052 hedef 52 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am053 hedef 53 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am054 hedef 54 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am055 hedef 55 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am056 hedef 56 kol 2 mercek (2,+1,13) amac -15.600687 bilgi 9.448893 dil_bedeli 16.732167 mercek_bedeli 8.317413 esik 1.131480 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.5819 W 6.8670 H 0.0000 tur bd duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : FKS WHRp
+Am057 hedef 57 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am058 hedef 58 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am059 hedef 59 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am060 hedef 60 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am061 hedef 61 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am062 hedef 62 kol 2 mercek (2,+1,17) amac -17.158547 bilgi 6.136146 dil_bedeli 14.977280 mercek_bedeli 8.317413 esik -2.181267 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 5.5321 W 0.6041 H 0.0000 tur ac duzey HB Gmercek 2 Bmercek 1 aday_asimi 0 : R1e W1
+Am063 hedef 63 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am064 hedef 64 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am065 hedef 65 kol 2 mercek (2,-3,29) amac -19.050076 bilgi 6.244616 dil_bedeli 14.977280 mercek_bedeli 10.317413 esik -4.072797 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 5.8328 W 0.4118 H 0.0000 tur ac duzey AB Gmercek 1 Bmercek 1 aday_asimi 0 : F2 W1
+Am066 hedef 66 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am067 hedef 67 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am068 hedef 68 kol 2 mercek (2,+3,31) amac -19.563544 bilgi 4.316111 dil_bedeli 13.562242 mercek_bedeli 10.317413 esik -6.001302 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 1.9398 W 2.3763 H 0.0000 tur cd duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : FSC WI1
+Am069 hedef 69 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am070 hedef 70 kol 2 mercek (1,+3,31) amac -19.210468 bilgi 3.084224 dil_bedeli 12.977280 mercek_bedeli 9.317413 esik -6.233188 |Λ| 2 grup_bilgi B 2.7515 Z 0.0000 F 0.0000 W 0.3327 H 0.0000 tur ac duzey KB Gmercek 1 Bmercek 1 aday_asimi 0 : B1 W1
+Am071 hedef 71 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am072 hedef 72 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am073 hedef 73 kol 2 mercek (3,+1,23) amac -20.546556 bilgi 2.333099 dil_bedeli 13.562242 mercek_bedeli 9.317413 esik -6.984314 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 1.9525 W 0.3806 H 0.0000 tur cd duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : FKS W1
+Am074 hedef 74 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am075 hedef 75 kol 2 mercek (3,-1,11) amac -20.390988 bilgi 5.658592 dil_bedeli 16.732167 mercek_bedeli 9.317413 esik -3.658820 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.6905 W 2.9681 H 0.0000 tur bd duzey HB Gmercek 2 Bmercek 2 aday_asimi 0 : FKS QkH
+Am076 hedef 76 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am077 hedef 77 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am078 hedef 78 kol 2 mercek (2,-1,29) amac -16.009359 bilgi 6.285334 dil_bedeli 13.977280 mercek_bedeli 8.317413 esik -2.032079 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 4.0981 W 2.1872 H 0.0000 tur cd duzey AB Gmercek 1 Bmercek 1 aday_asimi 0 : FCK WI1
+Am079 hedef 79 kol 2 mercek (2,-3,19) amac -23.144708 bilgi 2.149985 dil_bedeli 14.977280 mercek_bedeli 10.317413 esik -8.167428 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.7537 H 1.3962 tur ac duzey AB Gmercek 1 Bmercek 1 aday_asimi 0 : W1 HH1
+Am080 hedef 80 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am081 hedef 81 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am082 hedef 82 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am083 hedef 83 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am084 hedef 84 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am085 hedef 85 kol 2 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0
+Am086 hedef 86 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am087 hedef 87 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am088 hedef 88 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am089 hedef 89 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am090 hedef 90 kol 2 mercek (1,-3,23) amac -20.042205 bilgi 6.229768 dil_bedeli 16.954560 mercek_bedeli 9.317413 esik -3.087645 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 6.2298 W 0.0000 H 0.0000 tur bd duzey AH Gmercek 1 Bmercek 1 aday_asimi 0 : QS FKS
+Am091 hedef 91 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am092 hedef 92 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am093 hedef 93 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am094 hedef 94 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am095 hedef 95 kol 2 mercek (2,-1,23) amac -15.229438 bilgi 8.650217 dil_bedeli 15.562242 mercek_bedeli 8.317413 esik 0.332804 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 8.6502 W 0.0000 H 0.0000 tur ad duzey AH Gmercek 2 Bmercek 2 aday_asimi 0 : R0e FRK
+Am096 hedef 96 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am097 hedef 97 kol 2 mercek (2,-1,19) amac -15.762315 bilgi 7.702303 dil_bedeli 15.147205 mercek_bedeli 8.317413 esik -0.615110 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 7.7023 W 0.0000 H 0.0000 tur ad duzey AH Gmercek 1 Bmercek 1 aday_asimi 0 : FD2 FKS
+Am098 hedef 98 kol 2 mercek (1,-3,29) amac -18.222389 bilgi 4.242229 dil_bedeli 13.147205 mercek_bedeli 9.317413 esik -5.075184 |Λ| 2 grup_bilgi B 2.7515 Z 0.0000 F 1.4907 W 0.0000 H 0.0000 tur ad duzey KH Gmercek 1 Bmercek 1 aday_asimi 0 : B1 FKS
+Am099 hedef 99 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am100 hedef 100 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am101 hedef 101 kol 2 mercek (2,-3,29) amac -20.436407 bilgi 4.858285 dil_bedeli 14.977280 mercek_bedeli 10.317413 esik -5.459127 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 4.4465 W 0.4118 H 0.0000 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : R0e W1
+Am102 hedef 102 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am103 hedef 103 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am104 hedef 104 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am105 hedef 105 kol 2 mercek (1,+1,29) amac -17.122560 bilgi 8.342057 dil_bedeli 18.147205 mercek_bedeli 7.317413 esik 1.024645 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 3.5082 W 4.8339 H 0.0000 tur ab duzey HB Gmercek 2 Bmercek 2 aday_asimi 0 : R0e WHAd
+Am106 hedef 106 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am107 hedef 107 kol 2 mercek (1,+1,17) amac -17.040746 bilgi 5.253946 dil_bedeli 14.977280 mercek_bedeli 7.317413 esik -2.063466 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.5739 H 4.6801 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : W1 HR1e
+Am108 hedef 108 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am109 hedef 109 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am110 hedef 110 kol 2 mercek (1,+1,29) amac -18.509554 bilgi 3.785139 dil_bedeli 14.977280 mercek_bedeli 7.317413 esik -3.532274 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 3.4741 W 0.3111 H 0.0000 tur ac duzey HB Gmercek 2 Bmercek 2 aday_asimi 0 : R1e W1
+Am111 hedef 111 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am112 hedef 112 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am113 hedef 113 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am114 hedef 114 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am115 hedef 115 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am116 hedef 116 kol 2 mercek (1,+1,31) amac -17.661043 bilgi 5.218612 dil_bedeli 15.562242 mercek_bedeli 7.317413 esik -2.098800 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.9894 W 0.0000 H 2.2292 tur ad duzey AH Gmercek 1 Bmercek 1 aday_asimi 0 : FRK HR1c
+Am117 hedef 117 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am118 hedef 118 kol 2 mercek (1,+1,19) amac -16.848090 bilgi 5.446603 dil_bedeli 14.977280 mercek_bedeli 7.317413 esik -1.870810 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 4.7115 W 0.7351 H 0.0000 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : R1e W1
+Am119 hedef 119 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am120 hedef 120 kol 2 mercek (3,-1,37) amac -17.253654 bilgi 8.433356 dil_bedeli 16.369597 mercek_bedeli 9.317413 esik -0.884056 |Λ| 2 grup_bilgi B 2.7515 Z 0.0000 F 5.6818 W 0.0000 H 0.0000 tur ab duzey KA Gmercek 1 Bmercek 1 aday_asimi 0 : B1 QS
+Am121 hedef 121 kol 2 mercek (2,+1,29) amac -19.002154 bilgi 4.292538 dil_bedeli 14.977280 mercek_bedeli 8.317413 esik -4.024874 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 3.9289 W 0.3637 H 0.0000 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : R1e W1
+Am122 hedef 122 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am123 hedef 123 kol 2 mercek (2,+1,11) amac -20.828034 bilgi 5.858976 dil_bedeli 18.369597 mercek_bedeli 8.317413 esik -2.458437 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 3.4801 W 0.0000 H 2.3789 tur ab duzey AH Gmercek 1 Bmercek 1 aday_asimi 0 : FAd HR1c
+Am124 hedef 124 kol 2 mercek (2,+1,31) amac -20.365800 bilgi 2.928893 dil_bedeli 14.977280 mercek_bedeli 8.317413 esik -5.388520 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.5029 W 0.4260 H 0.0000 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : R0c W1
+Am125 hedef 125 kol 2 mercek (1,-3,29) amac -20.223452 bilgi 7.241165 dil_bedeli 18.147205 mercek_bedeli 9.317413 esik -2.076248 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.3737 W 4.8674 H 0.0000 tur ab duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : R1c Qa
+Am126 hedef 126 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am127 hedef 127 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am128 hedef 128 kol 2 mercek (2,+3,23) amac -21.290720 bilgi 2.588935 dil_bedeli 13.562242 mercek_bedeli 10.317413 esik -7.728478 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.2392 W 0.3497 H 0.0000 tur cd duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : FKS W1
+Am129 hedef 129 kol 2 mercek (3,-1,29) amac -19.276576 bilgi 5.018116 dil_bedeli 14.977280 mercek_bedeli 9.317413 esik -4.299296 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.5061 H 4.5120 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : W1 HR1e
+Am130 hedef 130 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am131 hedef 131 kol 2 mercek (1,-3,17) amac -20.894496 bilgi 3.400197 dil_bedeli 14.977280 mercek_bedeli 9.317413 esik -5.917216 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.7241 W 0.6761 H 0.0000 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : R1c W1
+Am132 hedef 132 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am133 hedef 133 kol 2 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0
+Am134 hedef 134 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am135 hedef 135 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am136 hedef 136 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am137 hedef 137 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am138 hedef 138 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am139 hedef 139 kol 2 mercek (3,-1,19) amac -20.970597 bilgi 3.324095 dil_bedeli 14.977280 mercek_bedeli 9.317413 esik -5.993318 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.5425 W 0.7816 H 0.0000 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : R1c W1
+Am140 hedef 140 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am141 hedef 141 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am142 hedef 142 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am143 hedef 143 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am144 hedef 144 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am145 hedef 145 kol 2 mercek (2,-3,13) amac -20.782881 bilgi 3.096774 dil_bedeli 13.562242 mercek_bedeli 10.317413 esik -7.220639 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 1.8543 W 1.2425 H 0.0000 tur cd duzey HB Gmercek 3 Bmercek 2 aday_asimi 0 : FKS WI1
+Am146 hedef 146 kol 2 mercek (2,+3,19) amac -15.397393 bilgi 8.897300 dil_bedeli 13.977280 mercek_bedeli 10.317413 esik -1.420113 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 6.0620 W 2.8353 H 0.0000 tur cd duzey AB Gmercek 1 Bmercek 1 aday_asimi 0 : FCK WSum
+Am147 hedef 147 kol 2 mercek (1,-3,23) amac -18.018362 bilgi 4.446256 dil_bedeli 13.147205 mercek_bedeli 9.317413 esik -4.871157 |Λ| 2 grup_bilgi B 2.7515 Z 0.0000 F 1.6947 W 0.0000 H 0.0000 tur ad duzey KH Gmercek 1 Bmercek 1 aday_asimi 0 : B1 FKS
+Am148 hedef 148 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am149 hedef 149 kol 2 mercek (1,+1,23) amac -18.340188 bilgi 2.539467 dil_bedeli 13.562242 mercek_bedeli 7.317413 esik -4.777946 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.2081 W 0.3314 H 0.0000 tur cd duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : FKS W1
+Am150 hedef 150 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am151 hedef 151 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am152 hedef 152 kol 2 mercek (1,-1,13) amac -17.011271 bilgi 6.453347 dil_bedeli 16.147205 mercek_bedeli 7.317413 esik -0.864066 |Λ| 2 grup_bilgi B 2.7515 Z 0.0000 F 0.0000 W 3.7018 H 0.0000 tur ab duzey KB Gmercek 1 Bmercek 1 aday_asimi 0 : B1 Qa
+Am153 hedef 153 kol 2 mercek (1,+1,17) amac -17.855875 bilgi 3.023780 dil_bedeli 13.562242 mercek_bedeli 7.317413 esik -4.293633 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 1.4120 W 1.6118 H 0.0000 tur cd duzey HB Gmercek 2 Bmercek 2 aday_asimi 0 : FSC WI1
+Am154 hedef 154 kol 2 mercek (1,+1,13) amac -18.139448 bilgi 4.325170 dil_bedeli 15.147205 mercek_bedeli 7.317413 esik -2.992243 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.3060 W 0.0000 H 2.0191 tur ad duzey AH Gmercek 1 Bmercek 1 aday_asimi 0 : FSC HH1
+Am155 hedef 155 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am156 hedef 156 kol 2 mercek (3,+1,19) amac -18.690175 bilgi 6.996835 dil_bedeli 16.369597 mercek_bedeli 9.317413 esik -2.320578 |Λ| 2 grup_bilgi B 2.7515 Z 0.0000 F 4.2453 W 0.0000 H 0.0000 tur ab duzey KA Gmercek 1 Bmercek 1 aday_asimi 0 : B1 FAd
+Am157 hedef 157 kol 2 mercek (3,-1,23) amac -18.407788 bilgi 7.279222 dil_bedeli 16.369597 mercek_bedeli 9.317413 esik -2.038190 |Λ| 2 grup_bilgi B 2.7515 Z 0.0000 F 4.5277 W 0.0000 H 0.0000 tur ab duzey KA Gmercek 1 Bmercek 1 aday_asimi 0 : B1 FAd
+Am158 hedef 158 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am159 hedef 159 kol 2 mercek (3,+1,17) amac -13.982681 bilgi 10.896974 dil_bedeli 15.562242 mercek_bedeli 9.317413 esik 1.579562 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 5.9883 W 0.0000 H 4.9087 tur ad duzey AH Gmercek 1 Bmercek 1 aday_asimi 0 : FCK HR0e
+Am160 hedef 160 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am161 hedef 161 kol 2 mercek (2,-1,19) amac -17.515254 bilgi 5.779438 dil_bedeli 14.977280 mercek_bedeli 8.317413 esik -2.537975 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 4.3501 W 1.4294 H 0.0000 tur ac duzey HB Gmercek 2 Bmercek 2 aday_asimi 0 : R0e WI1
+Am162 hedef 162 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am163 hedef 163 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am164 hedef 164 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am165 hedef 165 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am166 hedef 166 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am167 hedef 167 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am168 hedef 168 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am169 hedef 169 kol 2 mercek (2,-1,19) amac -16.994147 bilgi 4.885508 dil_bedeli 13.562242 mercek_bedeli 8.317413 esik -3.431905 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 3.3825 W 1.5030 H 0.0000 tur cd duzey HB Gmercek 2 Bmercek 2 aday_asimi 0 : FSC WI1
+Am170 hedef 170 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am171 hedef 171 kol 2 mercek (3,+1,23) amac -17.729629 bilgi 6.565064 dil_bedeli 14.977280 mercek_bedeli 9.317413 esik -2.752349 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 2.0851 H 4.4799 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : WI1 HR0e
+Am172 hedef 172 kol 2 mercek (1,-3,17) amac -15.744200 bilgi 6.550493 dil_bedeli 12.977280 mercek_bedeli 9.317413 esik -2.766920 |Λ| 2 grup_bilgi B 2.7515 Z 0.0000 F 0.0000 W 3.7990 H 0.0000 tur ac duzey KB Gmercek 2 Bmercek 2 aday_asimi 0 : B1 WSum
+Am173 hedef 173 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am174 hedef 174 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am175 hedef 175 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am176 hedef 176 kol 2 mercek (2,+1,19) amac -15.897740 bilgi 7.566877 dil_bedeli 15.147205 mercek_bedeli 8.317413 esik -0.750535 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 7.5669 W 0.0000 H 0.0000 tur ad duzey AH Gmercek 1 Bmercek 1 aday_asimi 0 : FC2 FKS
+Am177 hedef 177 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am178 hedef 178 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am179 hedef 179 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am180 hedef 180 kol 2 mercek (2,+3,19) amac -19.485461 bilgi 4.394194 dil_bedeli 13.562242 mercek_bedeli 10.317413 esik -5.923219 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.8865 W 1.5077 H 0.0000 tur cd duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : FSC WI1
+Am181 hedef 181 kol 2 mercek (1,-1,31) amac -15.560761 bilgi 6.903857 dil_bedeli 15.147205 mercek_bedeli 7.317413 esik -0.413556 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 1.5436 W 0.0000 H 5.3603 tur ad duzey AH Gmercek 3 Bmercek 3 aday_asimi 0 : FSC HH2
+Am182 hedef 182 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am183 hedef 183 kol 2 mercek (1,+3,23) amac -18.561430 bilgi 3.903188 dil_bedeli 13.147205 mercek_bedeli 9.317413 esik -5.414225 |Λ| 2 grup_bilgi B 2.7515 Z 0.0000 F 1.1517 W 0.0000 H 0.0000 tur ad duzey KH Gmercek 1 Bmercek 1 aday_asimi 0 : B1 FKS
+Am184 hedef 184 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am185 hedef 185 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am186 hedef 186 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am187 hedef 187 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am188 hedef 188 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am189 hedef 189 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am190 hedef 190 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am191 hedef 191 kol 2 mercek (1,-1,19) amac -18.000101 bilgi 2.879554 dil_bedeli 13.562242 mercek_bedeli 7.317413 esik -4.437859 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.0491 W 0.8304 H 0.0000 tur cd duzey HB Gmercek 2 Bmercek 2 aday_asimi 0 : FKS W1
+Am192 hedef 192 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am193 hedef 193 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am194 hedef 194 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am195 hedef 195 kol 2 mercek (1,+3,19) amac -17.185837 bilgi 10.501173 dil_bedeli 18.369597 mercek_bedeli 9.317413 esik 1.183760 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 4.2418 W 0.0000 H 6.2594 tur ab duzey AH Gmercek 1 Bmercek 1 aday_asimi 0 : FAd HR1e
+Am196 hedef 196 kol 2 mercek (1,-1,43) amac -17.670395 bilgi 4.794222 dil_bedeli 15.147205 mercek_bedeli 7.317413 esik -2.523191 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 4.7942 W 0.0000 H 0.0000 tur ad duzey AH Gmercek 1 Bmercek 1 aday_asimi 0 : F2 FSC
+Am197 hedef 197 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am198 hedef 198 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0
+Am199 hedef 199 kol 2 mercek (1,+3,23) amac -19.725611 bilgi 3.154044 dil_bedeli 13.562242 mercek_bedeli 9.317413 esik -6.163369 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.7811 W 0.3729 H 0.0000 tur cd duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : FSC W1
+Am200 hedef 200 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0

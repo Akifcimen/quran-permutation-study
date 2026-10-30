@@ -1,0 +1,2 @@
+# sifir U bolut 249 tohum 29222600249 N 250000 sure_s 18.8 aday 0 aday_tasma 0
+D A000 0 0

@@ -1,0 +1,11 @@
+# plasebo14 ve plasebo12 Mallows bölütleri: özgün (Mac, clang arm64, 4 iş parçacığı) ↔ yarış düzeltmeli yeniden koşu (Linux, gcc x86-64); süre alanı dışında
+plasebo14_L_kA_d1_0: 4 bölüt, 0 farklı, 0 eksik;
+plasebo14_L_kA_d2_0: 36 bölüt, 0 farklı, 0 eksik;
+plasebo14_L_kA_d3_0: 360 bölüt, 1 farklı, 0 eksik; b0041
+plasebo14_L_kB_d1_0: 4 bölüt, 0 farklı, 0 eksik;
+plasebo14_L_kB_d2_0: 36 bölüt, 0 farklı, 0 eksik;
+plasebo14_L_kB_d3_0: 360 bölüt, 0 farklı, 0 eksik;
+plasebo12_L_k1: 4 bölüt, 0 farklı, 0 eksik;
+plasebo12_L_k2: 36 bölüt, 0 farklı, 0 eksik;
+plasebo12_L_k3: 360 bölüt, 0 farklı, 0 eksik;
+# plasebo14 yeniden sayımı (yeniden_say14.py) düzeltilmiş b0041 ile: özgünle birebir aynı

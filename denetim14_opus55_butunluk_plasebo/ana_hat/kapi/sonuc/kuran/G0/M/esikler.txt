@@ -1,0 +1,4 @@
+D A000 0 18.801347495 1 kol 1 mercek 6
+D Am000 0 15.946826697 1 kol 2 mercek 6
+D Ap000 0 18.801347495 1 kol 3 mercek 6
+# dil sayısı 3

@@ -1,0 +1,42 @@
+[2026-10-29T12:48:27Z] derlendi: KAPI_ESIK=114 KAPI_HUCRE=2 (GE, tam)
+[2026-10-29T12:48:28Z] dil M A: 201 satır, 196 dilli
+[2026-10-29T12:48:33Z] dil U A: 101 satır, 98 dilli
+[2026-10-29T12:48:36Z] dil L A: 101 satır, 100 dilli
+[2026-10-29T12:48:40Z] diller yazıldı: 5647d4e43a6a5633…
+[2026-10-29T12:48:40Z] bütçe M küme A düzey 1: kayıtlı 0.00 ç-saat, kestirim 0.07 ç-saat (N 1000000, kol A dili 196, kol B dili 0)
+[2026-10-29T12:48:40Z] kontrol M küme A düzey 1 d1_0: 196 dil, bölüt 1–4 başladı
+[2026-10-29T12:49:54Z] kontrol M küme A düzey 1 d1_0: bitti rc=0
+[2026-10-29T12:49:54Z] kontrol M küme A düzey 2: 11 plasebo dili derinleşiyor: A018 A028 A042 A047 A067 A071 A095 A108 A157 A161 A195
+[2026-10-29T12:49:54Z] bütçe M küme A düzey 2: kayıtlı 0.07 ç-saat, kestirim 0.22 ç-saat (N 9000000, kol A dili 12, kol B dili 0)
+[2026-10-29T12:49:54Z] kontrol M küme A düzey 2 d2_0: 12 dil, bölüt 5–40 başladı
+[2026-10-29T12:55:47Z] kontrol M küme A düzey 2 d2_0: bitti rc=0
+[2026-10-29T12:55:47Z] kontrol M küme A düzey 3: 5 plasebo dili derinleşiyor: A018 A028 A047 A071 A161
+[2026-10-29T12:55:47Z] bütçe M küme A düzey 3: kayıtlı 0.62 ç-saat, kestirim 2.04 ç-saat (N 90000000, kol A dili 6, kol B dili 0)
+[2026-10-29T12:55:49Z] kontrol M küme A düzey 3 d3_0: 6 dil, bölüt 41–400 başladı
+[2026-10-29T13:50:31Z] kontrol M küme A düzey 3 d3_0: bitti rc=0
+[2026-10-29T13:50:31Z] kontrol M A bitti
+[2026-10-29T13:50:31Z] bütçe U küme A düzey 1: kayıtlı 6.07 ç-saat, kestirim 0.05 ç-saat (N 1000000, kol A dili 98, kol B dili 0)
+[2026-10-29T13:50:31Z] kontrol U küme A düzey 1 d1_0: 98 dil, bölüt 1–4 başladı
+[2026-10-29T13:51:45Z] kontrol U küme A düzey 1 d1_0: bitti rc=0
+[2026-10-29T13:51:45Z] kontrol U küme A düzey 2: 3 plasebo dili derinleşiyor: A039 A051 A088
+[2026-10-29T13:51:45Z] bütçe U küme A düzey 2: kayıtlı 6.14 ç-saat, kestirim 0.20 ç-saat (N 9000000, kol A dili 4, kol B dili 0)
+[2026-10-29T13:51:46Z] kontrol U küme A düzey 2 d2_0: 4 dil, bölüt 5–40 başladı
+[2026-10-29T13:57:41Z] kontrol U küme A düzey 2 d2_0: bitti rc=0
+[2026-10-29T13:57:41Z] kontrol U küme A düzey 3: 3 plasebo dili derinleşiyor: A039 A051 A088
+[2026-10-29T13:57:41Z] bütçe U küme A düzey 3: kayıtlı 6.70 ç-saat, kestirim 1.99 ç-saat (N 90000000, kol A dili 4, kol B dili 0)
+[2026-10-29T13:57:42Z] kontrol U küme A düzey 3 d3_0: 4 dil, bölüt 41–400 başladı
+[2026-10-29T14:46:31Z] kontrol U küme A düzey 3 d3_0: bitti rc=0
+[2026-10-29T14:46:31Z] kontrol U A bitti
+[2026-10-29T14:46:31Z] bütçe L küme A düzey 1: kayıtlı 11.55 ç-saat, kestirim 0.05 ç-saat (N 1000000, kol A dili 100, kol B dili 0)
+[2026-10-29T14:46:31Z] kontrol L küme A düzey 1 d1_0: 100 dil, bölüt 1–4 başladı
+[2026-10-29T14:47:23Z] kontrol L küme A düzey 1 d1_0: bitti rc=0
+[2026-10-29T14:47:23Z] kontrol L küme A düzey 2: 8 plasebo dili derinleşiyor: A016 A041 A047 A061 A087 A090 A091 A094
+[2026-10-29T14:47:23Z] bütçe L küme A düzey 2: kayıtlı 11.60 ç-saat, kestirim 0.21 ç-saat (N 9000000, kol A dili 9, kol B dili 0)
+[2026-10-29T14:47:23Z] kontrol L küme A düzey 2 d2_0: 9 dil, bölüt 5–40 başladı
+[2026-10-29T14:51:42Z] kontrol L küme A düzey 2 d2_0: bitti rc=0
+[2026-10-29T14:51:42Z] kontrol L küme A düzey 3: 2 plasebo dili derinleşiyor: A047 A090
+[2026-10-29T14:51:42Z] bütçe L küme A düzey 3: kayıtlı 12.03 ç-saat, kestirim 1.97 ç-saat (N 90000000, kol A dili 3, kol B dili 0)
+[2026-10-29T14:51:43Z] kontrol L küme A düzey 3 d3_0: 3 dil, bölüt 41–400 başladı
+[2026-10-29T15:34:16Z] kontrol L küme A düzey 3 d3_0: bitti rc=0
+[2026-10-29T15:34:16Z] kontrol L A bitti
+[2026-10-29T15:34:16Z] AKIŞ BİTTİ

@@ -1,0 +1,5 @@
+D A000 0 20.830033303 1 kol 1 mercek 6
+D A018 18 5.152458907 1 kol 1 mercek 8
+D A025 25 4.117861987 1 kol 1 mercek 36
+D A045 45 3.446815730 1 kol 1 mercek 7
+# dil sayısı 4, tablo belleği 0 MB

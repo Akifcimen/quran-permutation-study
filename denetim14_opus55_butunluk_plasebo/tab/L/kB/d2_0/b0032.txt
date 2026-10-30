@@ -1,0 +1,14 @@
+# sifir L bolut 32 tohum 29422600032 N 250000 sure_s 37.4 aday 0 aday_tasma 0
+D B000 0 0
+D B002 3 0
+D B003 2 0
+D B011 0 0
+D B016 0 0
+D B046 1 0
+D B047 1 0
+D B053 0 0
+D B061 0 0
+D B090 0 0
+D B091 0 0
+D B092 1 0
+D B094 1 0

@@ -1,0 +1,3 @@
+kaba-kuvvet D_B (2000 hedef olmayan kitap, 3 kol): uyuşmazlık (i) D_B'den iyi alt küme 0; (ii) D_B merceğinde eşitlik 0; (iii) tam taramada amaç/dilsizlik 0; (iv) dilin doğrudan puanı/B/sağlanma 0; (v) en geniş dil 0; (vi) tam taramada seçilen dil (liste, mercek) 0
+  kapsam: taranan mercek ≥ 1000: hayır; (ii) karşılaştırması ≥ 300: evet; (iii) tam taranan (kitap, kol) ≥ 300: evet
+rc=0

@@ -1,0 +1,8 @@
+# hesap_ek.txt — kontrol bölütleri dışındaki hesap kalemleri (çekirdek-saniye; kestirimler yukarı yuvarlandı)
+420 Ö0 bölüt sınaması o0_k.sh (iki kez; 3 süreç × ~95 s)
+30 Ö0 kısıtsız D sınaması o0_d.sh ve bağlam ölçümü
+200 kos/dogrulama.sh (kaba-kuvvet 3 × 2.000 kitap, mekanik sınama iki kez)
+2500 kos/hiz.sh (iki kez; 4 iş parçacığı)
+40 kos/diller.sh (dondurmadan sonra: 8 kol-sıfır dili ~1 s'şer, hedef ayrıntıları; ≤ 3 süreç × 12 s duvar)
+300 src/analiz_b.py (M A 77 s, U A 37 s, L A 41 s, M B 18 s, U B 20 s, L B 18 s; M A betimsel düzeltmeyle yeniden 80 s)
+510 kos/yeniden_sina.sh (oturum sonu yeniden derleme ve yeniden üretim; ölçülen user + sys 505 + 5 s)

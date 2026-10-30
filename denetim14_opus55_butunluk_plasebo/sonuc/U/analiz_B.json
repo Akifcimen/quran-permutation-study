@@ -1,0 +1,7490 @@
+{
+ "sifir": "U",
+ "kol": "B",
+ "kol_adi": "Kol B (bedelsiz en geniş dil)",
+ "K": 100,
+ "hedefler": {
+  "B000": {
+   "ad": "B000",
+   "hedef": 0,
+   "L": 35,
+   "dil": [
+    "B1",
+    "B2",
+    "FKS",
+    "W1",
+    "QU",
+    "Qa",
+    "QH",
+    "WSum",
+    "WUd",
+    "HH1",
+    "HH2",
+    "HR0c",
+    "HR1c",
+    "HR1e",
+    "HK2"
+   ],
+   "boy": 15,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 4,
+   "n_duzey": 4,
+   "ayrinti": "B000 hedef 0 kol 4 mercek (1,-1,19) puan 35.814187 bilgi 43.131599 mercek_bedeli 7.317413 |Λ| 15 grup_bilgi B 11.6421 Z 0.0000 F 1.0704 W 15.8923 H 14.5268 grup_sayim B 31288/100000000 Z 0/0 F 6718983/14110428 W 232/14110428 H 43/1014992 : B1 B2 FKS W1 QU Qa QH WSum WUd HH1 HH2 HR0c HR1c HR1e HK2",
+   "hedef_ayrinti": "B000 hedef 0 kol 4 esik 35.814188 mercek (1,-1,19) Ldil 35 cozulmus 1 kF 7 kH 12 FnH 0 mc 1 kapiG 0 hucre_boy 3/1/2/1 hucre_q 2/4/6/-5 kapsam_tur 4 kapsam_duzey 4 | B:31288/100000000 F:6718983/14110428 W:232/14110428 H:43/1014992 | dil: B1 B2 FKS W1 QU Qa QH WSum WUd HH1 HH2 HR0c HR1c HR1e HK2 | sağlanan: B1 B2 FKS W1 QU Qa QH WSum WUd HH1 HH2 HR0c HR1c HR1e HK2 | L*@mercek: B1 B2 FKS W1 QU Qa QH WSum WUd HH1 HH2 HR0c HR1c HR1e HK2 | Gmercek 1",
+   "dilsiz": false,
+   "k": 0,
+   "kB": 0,
+   "N": 100000000,
+   "duzey": 3,
+   "eksik": 0,
+   "esik": 35.814187766,
+   "esik_bayrak": 0,
+   "esik_mercek": 35,
+   "p": 9.9999999e-09,
+   "ci": [
+    0.0,
+    3.6888739390569175e-08
+   ]
+  },
+  "B001": {
+   "ad": "B001",
+   "hedef": 1,
+   "L": 7,
+   "dil": [
+    "F1",
+    "K2",
+    "FC1",
+    "FRK",
+    "FKS",
+    "W1",
+    "QH",
+    "WEq",
+    "WUTd",
+    "WHAd",
+    "WHNd",
+    "WHRd2",
+    "HH2",
+    "HR0c"
+   ],
+   "boy": 14,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B001 hedef 1 kol 4 mercek (1,+1,23) puan 16.549080 bilgi 23.866493 mercek_bedeli 7.317413 |Λ| 14 grup_bilgi B 0.0000 Z 0.0000 F 7.1183 W 11.4766 H 5.2717 grup_sayim B 0/0 Z 0/0 F 107373/14917776 W 5235/14917776 H 386146/14917132 : F1 K2 FC1 FRK FKS W1 QH WEq WUTd WHAd WHNd WHRd2 HH2 HR0c",
+   "hedef_ayrinti": "B001 hedef 1 kol 4 esik 16.549080 mercek (1,+1,23) Ldil 7 cozulmus 1 kF 6 kH 6 FnH 0 mc 1 kapiG 0 hucre_boy 1/2/2/1 hucre_q 6/10/12/3 kapsam_tur 4 kapsam_duzey 3 | F:107373/14917776 W:5235/14917776 H:386146/14917132 | dil: F1 K2 FC1 FRK FKS W1 QH WEq WUTd WHAd WHNd WHRd2 HH2 HR0c | sağlanan: F1 K2 FC1 FRK FKS W1 QH WEq WUTd WHAd WHNd WHRd2 HH2 HR0c | L*@mercek: F1 K2 FC1 FRK FKS W1 QH WEq WUTd WHAd WHNd WHRd2 HH2 HR0c | Gmercek 1",
+   "dilsiz": false,
+   "k": 32,
+   "kB": 1,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 16.549079658,
+   "esik_bayrak": 0,
+   "esik_mercek": 7,
+   "p": 3.2999967000033e-05,
+   "ci": [
+    2.188807603158896e-05,
+    4.5174154325901726e-05
+   ]
+  },
+  "B002": {
+   "ad": "B002",
+   "hedef": 2,
+   "L": 262,
+   "dil": [
+    "BMn",
+    "Zkd",
+    "R0c",
+    "QS",
+    "Qh",
+    "FSd2",
+    "FHd2",
+    "FKS",
+    "WUd"
+   ],
+   "boy": 9,
+   "turler": [
+    "a",
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 3,
+   "n_duzey": 4,
+   "ayrinti": "B002 hedef 2 kol 4 mercek (2,-3,5) puan 10.131670 bilgi 20.449083 mercek_bedeli 10.317413 |Λ| 9 grup_bilgi B 2.3217 Z 2.3220 F 13.4821 W 2.3233 H 0.0000 grup_sayim B 20003287/100000000 Z 19999325/100000000 F 155/1773607 W 354388/1773607 H 0/0 : BMn Zkd R0c QS Qh FSd2 FHd2 FKS WUd",
+   "hedef_ayrinti": "B002 hedef 2 kol 4 esik 10.131671 mercek (2,-3,5) Ldil 262 cozulmus 1 kF 15 kH 19 FnH 4 mc 3 kapiG 0 hucre_boy 3/3/4/5 hucre_q 16/-16/-32/-43 kapsam_tur 3 kapsam_duzey 4 | B:20003287/100000000 Z:19999325/100000000 F:155/1773607 W:354388/1773607 | dil: BMn Zkd R0c QS Qh FSd2 FHd2 FKS WUd | sağlanan: BMn Zkd R0c QS Qh FSd2 FHd2 FKS WUd | L*@mercek: BMn Zkd R0c QS Qh FSd2 FHd2 FKS WUd | Gmercek 0",
+   "dilsiz": false,
+   "k": 264,
+   "kB": 3,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 10.131670953,
+   "esik_bayrak": 0,
+   "esik_mercek": 262,
+   "p": 0.000264999735000265,
+   "ci": [
+    0.00023311530865897232,
+    0.000297837201697048
+   ]
+  },
+  "B003": {
+   "ad": "B003",
+   "hedef": 3,
+   "L": 208,
+   "dil": [
+    "FKS",
+    "W1",
+    "WUTd",
+    "WUTd2",
+    "WHAd",
+    "WHNd",
+    "HK2"
+   ],
+   "boy": 7,
+   "turler": [
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B003 hedef 3 kol 4 mercek (2,-1,17) puan 7.667527 bilgi 15.984940 mercek_bedeli 8.317413 |Λ| 7 grup_bilgi B 0.0000 Z 0.0000 F 1.4627 W 8.5124 H 6.0099 grup_sayim B 0/0 Z 0/0 F 3415946/9415083 W 25784/9415083 H 156559/10088750 : FKS W1 WUTd WUTd2 WHAd WHNd HK2",
+   "hedef_ayrinti": "B003 hedef 3 kol 4 esik 7.667527 mercek (2,-1,17) Ldil 208 cozulmus 1 kF 9 kH 4 FnH 0 mc 1 kapiG 0 hucre_boy 2/3/3/1 hucre_q 12/4/23/3 kapsam_tur 3 kapsam_duzey 3 | F:3415946/9415083 W:25784/9415083 H:156559/10088750 | dil: FKS W1 WUTd WUTd2 WHAd WHNd HK2 | sağlanan: FKS W1 WUTd WUTd2 WHAd WHNd HK2 | L*@mercek: FKS W1 WUTd WUTd2 WHAd WHNd HK2 | Gmercek 0",
+   "dilsiz": false,
+   "k": 630,
+   "kB": 1,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 7.6675272,
+   "esik_bayrak": 0,
+   "esik_mercek": 208,
+   "p": 0.000630999369000631,
+   "ci": [
+    0.0005817729319359114,
+    0.0006811565028118643
+   ]
+  },
+  "B004": {
+   "ad": "B004",
+   "hedef": 4,
+   "L": 8,
+   "dil": [
+    "F1",
+    "R1c",
+    "R1e",
+    "K2",
+    "FSC",
+    "W1",
+    "WUTd",
+    "WHAp",
+    "WHAd",
+    "WHNd",
+    "HR0c",
+    "HK2"
+   ],
+   "boy": 12,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B004 hedef 4 kol 4 mercek (1,+1,29) puan 13.709682 bilgi 21.027095 mercek_bedeli 7.317413 |Λ| 12 grup_bilgi B 0.0000 Z 0.0000 F 7.3047 W 9.8398 H 3.8826 grup_sayim B 0/0 Z 0/0 F 125661/19867756 W 21681/19867756 H 1350960/19925578 : F1 R1c R1e K2 FSC W1 WUTd WHAp WHAd WHNd HR0c HK2",
+   "hedef_ayrinti": "B004 hedef 4 kol 4 esik 13.709682 mercek (1,+1,29) Ldil 8 cozulmus 1 kF 4 kH 3 FnH 0 mc 0 kapiG 0 hucre_boy 2/0/1/1 hucre_q 8/0/5/5 kapsam_tur 4 kapsam_duzey 3 | F:125661/19867756 W:21681/19867756 H:1350960/19925578 | dil: F1 R1c R1e K2 FSC W1 WUTd WHAp WHAd WHNd HR0c HK2 | sağlanan: F1 R1c R1e K2 FSC W1 WUTd WHAp WHAd WHNd HR0c HK2 | L*@mercek: F1 R1c R1e K2 FSC W1 WUTd WHAp WHAd WHNd HR0c HK2 | Gmercek 0",
+   "dilsiz": false,
+   "k": 105,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 13.709681989,
+   "esik_bayrak": 0,
+   "esik_mercek": 8,
+   "p": 0.000105999894000106,
+   "ci": [
+    8.588037542743875e-05,
+    0.000127107496478735
+   ]
+  },
+  "B005": {
+   "ad": "B005",
+   "hedef": 5,
+   "L": 300,
+   "dil": [
+    "FC2",
+    "FAd",
+    "FNd",
+    "Qa",
+    "Qn",
+    "WI1",
+    "WUTd",
+    "WHAd",
+    "WHNd",
+    "HH1",
+    "HR0c",
+    "HR0e",
+    "HR1c"
+   ],
+   "boy": 13,
+   "turler": [
+    "a",
+    "b",
+    "c"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B005 hedef 5 kol 4 mercek (3,+1,37) puan 18.887822 bilgi 28.205235 mercek_bedeli 9.317413 |Λ| 13 grup_bilgi B 0.0000 Z 0.0000 F 10.7219 W 11.6937 H 5.7896 grup_sayim B 0/0 Z 0/0 F 1316/2222650 W 671/2222650 H 319332/17664460 : FC2 FAd FNd Qa Qn WI1 WUTd WHAd WHNd HH1 HR0c HR0e HR1c",
+   "hedef_ayrinti": "B005 hedef 5 kol 4 esik 18.887822 mercek (3,+1,37) Ldil 300 cozulmus 1 kF 7 kH 4 FnH 1 mc 0 kapiG 0 hucre_boy 2/3/2/0 hucre_q 14/18/4/0 kapsam_tur 3 kapsam_duzey 3 | F:1316/2222650 W:671/2222650 H:319332/17664460 | dil: FC2 FAd FNd Qa Qn WI1 WUTd WHAd WHNd HH1 HR0c HR0e HR1c | sağlanan: FC2 FAd FNd Qa Qn WI1 WUTd WHAd WHNd HH1 HR0c HR0e HR1c | L*@mercek: FC2 FAd FNd Qa Qn WI1 WUTd WHAd WHNd HH1 HR0c HR0e HR1c | Gmercek 0",
+   "dilsiz": false,
+   "k": 28,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 18.887822391,
+   "esik_bayrak": 0,
+   "esik_mercek": 300,
+   "p": 2.8999971000029e-05,
+   "ci": [
+    1.860587474470177e-05,
+    4.0467543500234636e-05
+   ]
+  },
+  "B006": {
+   "ad": "B006",
+   "hedef": 6,
+   "L": 356,
+   "dil": [
+    "FAd",
+    "FNd",
+    "W1",
+    "Qa",
+    "Qn",
+    "WUTd",
+    "WUTd2",
+    "WHA2p",
+    "WHAd",
+    "WHNd"
+   ],
+   "boy": 10,
+   "turler": [
+    "b",
+    "c"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "B006 hedef 6 kol 4 mercek (3,+2,29) puan 13.054444 bilgi 23.371856 mercek_bedeli 10.317413 |Λ| 10 grup_bilgi B 0.0000 Z 0.0000 F 4.8575 W 18.5143 H 0.0000 grup_sayim B 0/0 Z 0/0 F 542444/15725954 W 42/15725954 H 0/0 : FAd FNd W1 Qa Qn WUTd WUTd2 WHA2p WHAd WHNd",
+   "hedef_ayrinti": "B006 hedef 6 kol 4 esik 13.054443 mercek (3,+2,29) Ldil 356 cozulmus 1 kF 5 kH 2 FnH 0 mc 0 kapiG 0 hucre_boy 3/0/0/2 hucre_q 14/0/0/22 kapsam_tur 2 kapsam_duzey 2 | F:542444/15725954 W:42/15725954 | dil: FAd FNd W1 Qa Qn WUTd WUTd2 WHA2p WHAd WHNd | sağlanan: FAd FNd W1 Qa Qn WUTd WUTd2 WHA2p WHAd WHNd | L*@mercek: FAd FNd W1 Qa Qn WUTd WUTd2 WHA2p WHAd WHNd | Gmercek 0",
+   "dilsiz": false,
+   "k": 1438,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 13.054443122,
+   "esik_bayrak": 0,
+   "esik_mercek": 356,
+   "p": 0.001438998561001439,
+   "ci": [
+    0.0013646773029391119,
+    0.0015142343634094325
+   ]
+  },
+  "B007": {
+   "ad": "B007",
+   "hedef": 7,
+   "L": 150,
+   "dil": [
+    "R0c",
+    "R0e",
+    "QS",
+    "FKS",
+    "FSC",
+    "WI1",
+    "HR0c",
+    "HR1c",
+    "HR1e"
+   ],
+   "boy": 9,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B007 hedef 7 kol 4 mercek (1,-3,17) puan 14.522939 bilgi 23.840352 mercek_bedeli 9.317413 |Λ| 9 grup_bilgi B 0.0000 Z 0.0000 F 13.7547 W 2.7292 H 7.3564 grup_sayim B 0/0 Z 0/0 F 1106/15287757 W 2305516/15287757 H 96405/15797787 : R0c R0e QS FKS FSC WI1 HR0c HR1c HR1e",
+   "hedef_ayrinti": "B007 hedef 7 kol 4 esik 14.522939 mercek (1,-3,17) Ldil 150 cozulmus 1 kF 7 kH 6 FnH 1 mc 1 kapiG 0 hucre_boy 2/2/1/2 hucre_q -24/-24/3/-6 kapsam_tur 4 kapsam_duzey 3 | F:1106/15287757 W:2305516/15287757 H:96405/15797787 | dil: R0c R0e QS FKS FSC WI1 HR0c HR1c HR1e | sağlanan: R0c R0e QS FKS FSC WI1 HR0c HR1c HR1e | L*@mercek: R0c R0e QS FKS FSC WI1 HR0c HR1c HR1e | Gmercek 0",
+   "dilsiz": false,
+   "k": 38,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 14.522938968,
+   "esik_bayrak": 0,
+   "esik_mercek": 150,
+   "p": 3.8999961000039e-05,
+   "ci": [
+    2.6891197564023464e-05,
+    5.215759950762374e-05
+   ]
+  },
+  "B008": {
+   "ad": "B008",
+   "hedef": 8,
+   "L": 205,
+   "dil": [
+    "QS",
+    "FD2",
+    "FAP",
+    "FKS",
+    "QH",
+    "WI1",
+    "WUTd",
+    "WHAd",
+    "WHAd2",
+    "WHNd",
+    "WHNd2"
+   ],
+   "boy": 11,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B008 hedef 8 kol 4 mercek (2,-1,7) puan 19.300172 bilgi 27.617584 mercek_bedeli 8.317413 |Λ| 11 grup_bilgi B 0.0000 Z 0.0000 F 17.2215 W 10.3960 H 0.0000 grup_sayim B 0/0 Z 0/0 F 67/10239442 W 7599/10239442 H 0/0 : QS FD2 FAP FKS QH WI1 WUTd WHAd WHAd2 WHNd WHNd2",
+   "hedef_ayrinti": "B008 hedef 8 kol 4 esik 19.300172 mercek (2,-1,7) Ldil 205 cozulmus 1 kF 17 kH 13 FnH 1 mc 3 kapiG 0 hucre_boy 5/4/5/3 hucre_q 58/36/69/47 kapsam_tur 4 kapsam_duzey 3 | F:67/10239442 W:7599/10239442 | dil: QS FD2 FAP FKS QH WI1 WUTd WHAd WHAd2 WHNd WHNd2 | sağlanan: QS FD2 FAP FKS QH WI1 WUTd WHAd WHAd2 WHNd WHNd2 | L*@mercek: QS FD2 FAP FKS QH WI1 WUTd WHAd WHAd2 WHNd WHNd2 | Gmercek 0",
+   "dilsiz": false,
+   "k": 67,
+   "kB": 1,
+   "N": 100000000,
+   "duzey": 3,
+   "eksik": 0,
+   "esik": 19.300171615,
+   "esik_bayrak": 0,
+   "esik_mercek": 205,
+   "p": 6.799999932000001e-07,
+   "ci": [
+    5.192408274644356e-07,
+    8.508759387808194e-07
+   ]
+  },
+  "B009": {
+   "ad": "B009",
+   "hedef": 9,
+   "L": 211,
+   "dil": [
+    "R0e",
+    "K2",
+    "FSC",
+    "Qn",
+    "WI1",
+    "WEq"
+   ],
+   "boy": 6,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B009 hedef 9 kol 4 mercek (2,-1,29) puan 10.683047 bilgi 19.000459 mercek_bedeli 8.317413 |Λ| 6 grup_bilgi B 0.0000 Z 0.0000 F 8.4566 W 10.5439 H 0.0000 grup_sayim B 0/0 Z 0/0 F 44731/15714121 W 10526/15714121 H 0/0 : R0e K2 FSC Qn WI1 WEq",
+   "hedef_ayrinti": "B009 hedef 9 kol 4 esik 10.683046 mercek (2,-1,29) Ldil 211 cozulmus 1 kF 5 kH 5 FnH 1 mc 0 kapiG 0 hucre_boy 1/2/0/2 hucre_q 0/0/0/2 kapsam_tur 4 kapsam_duzey 3 | F:44731/15714121 W:10526/15714121 | dil: R0e K2 FSC Qn WI1 WEq | sağlanan: R0e K2 FSC Qn WI1 WEq | L*@mercek: R0e K2 FSC Qn WI1 WEq | Gmercek 2",
+   "dilsiz": false,
+   "k": 219,
+   "kB": 2,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 10.683046104,
+   "esik_bayrak": 0,
+   "esik_mercek": 211,
+   "p": 0.00021999978000022,
+   "ci": [
+    0.00019095621514156908,
+    0.0002500023473207311
+   ]
+  },
+  "B010": {
+   "ad": "B010",
+   "hedef": 10,
+   "L": 181,
+   "dil": [
+    "R0c",
+    "QS",
+    "FC1",
+    "FD1",
+    "FS2p",
+    "FCm",
+    "FSC",
+    "W1",
+    "QH",
+    "WUTd",
+    "WHAd",
+    "WHNd",
+    "WHRd2",
+    "HR1c"
+   ],
+   "boy": 14,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B010 hedef 10 kol 4 mercek (2,+1,23) puan 18.114928 bilgi 26.432341 mercek_bedeli 8.317413 |Λ| 14 grup_bilgi B 0.0000 Z 0.0000 F 13.4255 W 10.5336 H 2.4732 grup_sayim B 0/0 Z 0/0 F 1624/17867416 W 12054/17867416 H 2534899/14076084 : R0c QS FC1 FD1 FS2p FCm FSC W1 QH WUTd WHAd WHNd WHRd2 HR1c",
+   "hedef_ayrinti": "B010 hedef 10 kol 4 esik 18.114928 mercek (2,+1,23) Ldil 181 cozulmus 1 kF 4 kH 3 FnH 0 mc 0 kapiG 0 hucre_boy 2/2/0/0 hucre_q 20/26/0/0 kapsam_tur 4 kapsam_duzey 3 | F:1624/17867416 W:12054/17867416 H:2534899/14076084 | dil: R0c QS FC1 FD1 FS2p FCm FSC W1 QH WUTd WHAd WHNd WHRd2 HR1c | sağlanan: R0c QS FC1 FD1 FS2p FCm FSC W1 QH WUTd WHAd WHNd WHRd2 HR1c | L*@mercek: R0c QS FC1 FD1 FS2p FCm FSC W1 QH WUTd WHAd WHNd WHRd2 HR1c | Gmercek 2",
+   "dilsiz": false,
+   "k": 28,
+   "kB": 0,
+   "N": 10000000,
+   "duzey": 2,
+   "eksik": 0,
+   "esik": 18.114928247,
+   "esik_bayrak": 0,
+   "esik_mercek": 181,
+   "p": 2.899999710000029e-06,
+   "ci": [
+    1.8605804457146846e-06,
+    4.046777010294517e-06
+   ]
+  },
+  "B011": {
+   "ad": "B011",
+   "hedef": 11,
+   "L": 2,
+   "dil": [
+    "QS",
+    "Qh",
+    "FKS",
+    "Qn",
+    "QH",
+    "HR1c"
+   ],
+   "boy": 6,
+   "turler": [
+    "a",
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B011 hedef 11 kol 4 mercek (1,+1,7) puan 9.143416 bilgi 16.460829 mercek_bedeli 7.317413 |Λ| 6 grup_bilgi B 0.0000 Z 0.0000 F 7.8027 W 5.6149 H 3.0432 grup_sayim B 0/0 Z 0/0 F 46338/10346615 W 211128/10346615 H 55372/456436 : QS Qh FKS Qn QH HR1c",
+   "hedef_ayrinti": "B011 hedef 11 kol 4 esik 9.143416 mercek (1,+1,7) Ldil 2 cozulmus 1 kF 15 kH 26 FnH 4 mc 3 kapiG 0 hucre_boy 5/3/3/4 hucre_q 70/42/33/72 kapsam_tur 3 kapsam_duzey 3 | F:46338/10346615 W:211128/10346615 H:55372/456436 | dil: QS Qh FKS Qn QH HR1c | sağlanan: QS Qh FKS Qn QH HR1c | L*@mercek: QS Qh FKS Qn QH HR1c | Gmercek 0",
+   "dilsiz": false,
+   "k": 296,
+   "kB": 1,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 9.143415929,
+   "esik_bayrak": 0,
+   "esik_mercek": 2,
+   "p": 0.000296999703000297,
+   "ci": [
+    0.00026324059649943565,
+    0.00033170843532346933
+   ]
+  },
+  "B012": {
+   "ad": "B012",
+   "hedef": 12,
+   "L": 4,
+   "dil": [
+    "R0c",
+    "R0e",
+    "FCK",
+    "FKS",
+    "FSC",
+    "W1",
+    "WUTd",
+    "WHAd",
+    "WHNd"
+   ],
+   "boy": 9,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B012 hedef 12 kol 4 mercek (1,+1,13) puan 10.371316 bilgi 17.688728 mercek_bedeli 7.317413 |Λ| 9 grup_bilgi B 0.0000 Z 0.0000 F 12.6923 W 4.9964 H 0.0000 grup_sayim B 0/0 Z 0/0 F 1446/9570727 W 299836/9570727 H 0/0 : R0c R0e FCK FKS FSC W1 WUTd WHAd WHNd",
+   "hedef_ayrinti": "B012 hedef 12 kol 4 esik 10.371316 mercek (1,+1,13) Ldil 4 cozulmus 1 kF 11 kH 8 FnH 0 mc 2 kapiG 0 hucre_boy 3/3/3/2 hucre_q 26/26/17/18 kapsam_tur 4 kapsam_duzey 3 | F:1446/9570727 W:299836/9570727 | dil: R0c R0e FCK FKS FSC W1 WUTd WHAd WHNd | sağlanan: R0c R0e FCK FKS FSC W1 WUTd WHAd WHNd | L*@mercek: R0c R0e FCK FKS FSC W1 WUTd WHAd WHNd | Gmercek 0",
+   "dilsiz": false,
+   "k": 242,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 10.371316196,
+   "esik_bayrak": 0,
+   "esik_mercek": 4,
+   "p": 0.000242999757000243,
+   "ci": [
+    0.00021247106321527033,
+    0.00027448420544049325
+   ]
+  },
+  "B013": {
+   "ad": "B013",
+   "hedef": 13,
+   "L": 185,
+   "dil": [
+    "R0c",
+    "R0e",
+    "FCK",
+    "FKS",
+    "FSC",
+    "W1",
+    "Qa",
+    "HH2"
+   ],
+   "boy": 8,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B013 hedef 13 kol 4 mercek (2,+1,41) puan 9.477853 bilgi 17.795266 mercek_bedeli 8.317413 |Λ| 8 grup_bilgi B 0.0000 Z 0.0000 F 8.2986 W 5.5252 H 3.9714 grup_sayim B 0/0 Z 0/0 F 4677/1472654 W 31977/1472654 H 1446782/22694238 : R0c R0e FCK FKS FSC W1 Qa HH2",
+   "hedef_ayrinti": "B013 hedef 13 kol 4 esik 9.477853 mercek (2,+1,41) Ldil 185 cozulmus 1 kF 7 kH 3 FnH 0 mc 1 kapiG 0 hucre_boy 1/1/2/3 hucre_q 4/4/6/7 kapsam_tur 4 kapsam_duzey 3 | F:4677/1472654 W:31977/1472654 H:1446782/22694238 | dil: R0c R0e FCK FKS FSC W1 Qa HH2 | sağlanan: R0c R0e FCK FKS FSC W1 Qa HH2 | L*@mercek: R0c R0e FCK FKS FSC W1 Qa HH2 | Gmercek 1",
+   "dilsiz": false,
+   "k": 1539,
+   "kB": 8,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 9.477853299,
+   "esik_bayrak": 0,
+   "esik_mercek": 185,
+   "p": 0.00153999846000154,
+   "ci": [
+    0.0014631167691830705,
+    0.0016177934546252747
+   ]
+  },
+  "B014": {
+   "ad": "B014",
+   "hedef": 14,
+   "L": 120,
+   "dil": [
+    "B1",
+    "F1",
+    "QS",
+    "Qh",
+    "FAd",
+    "FNd",
+    "WI1",
+    "WEq"
+   ],
+   "boy": 8,
+   "turler": [
+    "a",
+    "b",
+    "c"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "kitap"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B014 hedef 14 kol 4 mercek (1,+3,13) puan 11.652020 bilgi 20.969433 mercek_bedeli 9.317413 |Λ| 8 grup_bilgi B 2.7500 Z 0.0000 F 12.8192 W 5.4003 H 0.0000 grup_sayim B 14865314/100000000 Z 0/0 F 1349/9749165 W 230845/9749165 H 0/0 : B1 F1 QS Qh FAd FNd WI1 WEq",
+   "hedef_ayrinti": "B014 hedef 14 kol 4 esik 11.652021 mercek (1,+3,13) Ldil 120 cozulmus 1 kF 6 kH 6 FnH 1 mc 0 kapiG 0 hucre_boy 1/2/0/3 hucre_q 8/18/0/39 kapsam_tur 3 kapsam_duzey 3 | B:14865314/100000000 F:1349/9749165 W:230845/9749165 | dil: B1 F1 QS Qh FAd FNd WI1 WEq | sağlanan: B1 F1 QS Qh FAd FNd WI1 WEq | L*@mercek: B1 F1 QS Qh FAd FNd WI1 WEq | Gmercek 2",
+   "dilsiz": false,
+   "k": 442,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 11.652020694,
+   "esik_bayrak": 0,
+   "esik_mercek": 120,
+   "p": 0.000442999557000443,
+   "ci": [
+    0.00040175717681954185,
+    0.000485180822820405
+   ]
+  },
+  "B015": {
+   "ad": "B015",
+   "hedef": 15,
+   "L": 35,
+   "dil": [
+    "R0c",
+    "QS",
+    "FC2",
+    "FSd2",
+    "FCd",
+    "FCd2",
+    "FSC",
+    "W1",
+    "Qa",
+    "WEq",
+    "HR0c",
+    "HR1c",
+    "HR1e"
+   ],
+   "boy": 13,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B015 hedef 15 kol 4 mercek (1,-1,19) puan 15.959699 bilgi 23.277112 mercek_bedeli 7.317413 |Λ| 13 grup_bilgi B 0.0000 Z 0.0000 F 10.0140 W 7.1722 H 6.0909 grup_sayim B 0/0 Z 0/0 F 15924/16465084 W 114161/16465084 H 241571/16466286 : R0c QS FC2 FSd2 FCd FCd2 FSC W1 Qa WEq HR0c HR1c HR1e",
+   "hedef_ayrinti": "B015 hedef 15 kol 4 esik 15.959699 mercek (1,-1,19) Ldil 35 cozulmus 1 kF 6 kH 6 FnH 0 mc 0 kapiG 0 hucre_boy 2/2/0/2 hucre_q 0/2/0/-2 kapsam_tur 4 kapsam_duzey 3 | F:15924/16465084 W:114161/16465084 H:241571/16466286 | dil: R0c QS FC2 FSd2 FCd FCd2 FSC W1 Qa WEq HR0c HR1c HR1e | sağlanan: R0c QS FC2 FSd2 FCd FCd2 FSC W1 Qa WEq HR0c HR1c HR1e | L*@mercek: R0c QS FC2 FSd2 FCd FCd2 FSC W1 Qa WEq HR0c HR1c HR1e | Gmercek 0",
+   "dilsiz": false,
+   "k": 69,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 15.959699393,
+   "esik_bayrak": 0,
+   "esik_mercek": 35,
+   "p": 6.999993000007e-05,
+   "ci": [
+    5.368650278826692e-05,
+    8.732311580328462e-05
+   ]
+  },
+  "B016": {
+   "ad": "B016",
+   "hedef": 16,
+   "L": 320,
+   "dil": [
+    "BMn",
+    "QS",
+    "Qh",
+    "Qa",
+    "WUd",
+    "WHd",
+    "HR1c"
+   ],
+   "boy": 7,
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 2,
+   "n_duzey": 4,
+   "ayrinti": "B016 hedef 16 kol 4 mercek (3,-1,5) puan 7.990802 bilgi 17.308214 mercek_bedeli 9.317413 |Λ| 7 grup_bilgi B 2.3224 Z 0.0000 F 4.6445 W 7.4623 H 2.8790 grup_sayim B 19993277/100000000 Z 0/0 F 157331/3935043 W 22314/3935043 H 1072527/7889994 : BMn QS Qh Qa WUd WHd HR1c",
+   "hedef_ayrinti": "B016 hedef 16 kol 4 esik 7.990802 mercek (3,-1,5) Ldil 320 cozulmus 1 kF 17 kH 20 FnH 2 mc 2 kapiG 0 hucre_boy 4/7/4/2 hucre_q 146/144/42/88 kapsam_tur 2 kapsam_duzey 4 | B:19993277/100000000 F:157331/3935043 W:22314/3935043 H:1072527/7889994 | dil: BMn QS Qh Qa WUd WHd HR1c | sağlanan: BMn QS Qh Qa WUd WHd HR1c | L*@mercek: BMn QS Qh Qa WUd WHd HR1c | Gmercek 0",
+   "dilsiz": false,
+   "k": 1000,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 7.990801812,
+   "esik_bayrak": 0,
+   "esik_mercek": 320,
+   "p": 0.001000998999001001,
+   "ci": [
+    0.0009390012079234888,
+    0.0010639181065850792
+   ]
+  },
+  "B017": {
+   "ad": "B017",
+   "hedef": 17,
+   "L": 30,
+   "dil": [
+    "B1",
+    "QS",
+    "Qh",
+    "FCd",
+    "QH",
+    "WIp",
+    "WId",
+    "WUTd",
+    "WHAd",
+    "WHNd",
+    "HR1c"
+   ],
+   "boy": 11,
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 2,
+   "n_duzey": 4,
+   "ayrinti": "B017 hedef 17 kol 4 mercek (1,-1,5) puan 12.277572 bilgi 19.594984 mercek_bedeli 7.317413 |Λ| 11 grup_bilgi B 2.7500 Z 0.0000 F 6.9655 W 6.8524 H 3.0271 grup_sayim B 14865314/100000000 Z 0/0 F 31453/3930876 W 34019/3930876 H 822790/6707275 : B1 QS Qh FCd QH WIp WId WUTd WHAd WHNd HR1c",
+   "hedef_ayrinti": "B017 hedef 17 kol 4 esik 12.277572 mercek (1,-1,5) Ldil 30 cozulmus 1 kF 17 kH 26 FnH 5 mc 2 kapiG 0 hucre_boy 5/4/2/6 hucre_q 16/34/14/6 kapsam_tur 2 kapsam_duzey 4 | B:14865314/100000000 F:31453/3930876 W:34019/3930876 H:822790/6707275 | dil: B1 QS Qh FCd QH WIp WId WUTd WHAd WHNd HR1c | sağlanan: B1 QS Qh FCd QH WIp WId WUTd WHAd WHNd HR1c | L*@mercek: B1 QS Qh FCd QH WIp WId WUTd WHAd WHNd HR1c | Gmercek 0",
+   "dilsiz": false,
+   "k": 81,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 12.277571918,
+   "esik_bayrak": 0,
+   "esik_mercek": 30,
+   "p": 8.1999918000082e-05,
+   "ci": [
+    6.432619613576421e-05,
+    0.00010067461352653037
+   ]
+  },
+  "B018": {
+   "ad": "B018",
+   "hedef": 18,
+   "L": 240,
+   "dil": [
+    "K2",
+    "FD1",
+    "FSC",
+    "QH",
+    "WI1",
+    "WUTd",
+    "WHAd",
+    "WHNd",
+    "WHRd2",
+    "HH2",
+    "HK2"
+   ],
+   "boy": 11,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B018 hedef 18 kol 4 mercek (2,+3,29) puan 22.857254 bilgi 33.174667 mercek_bedeli 10.317413 |Λ| 11 grup_bilgi B 0.0000 Z 0.0000 F 8.8030 W 13.6477 H 10.7239 grup_sayim B 0/0 Z 0/0 F 44481/19867921 W 1548/19867921 H 6042/10218593 : K2 FD1 FSC QH WI1 WUTd WHAd WHNd WHRd2 HH2 HK2",
+   "hedef_ayrinti": "B018 hedef 18 kol 4 esik 22.857254 mercek (2,+3,29) Ldil 240 cozulmus 1 kF 4 kH 6 FnH 1 mc 0 kapiG 0 hucre_boy 1/0/2/1 hucre_q 6/0/14/5 kapsam_tur 4 kapsam_duzey 3 | F:44481/19867921 W:1548/19867921 H:6042/10218593 | dil: K2 FD1 FSC QH WI1 WUTd WHAd WHNd WHRd2 HH2 HK2 | sağlanan: K2 FD1 FSC QH WI1 WUTd WHAd WHNd WHRd2 HH2 HK2 | L*@mercek: K2 FD1 FSC QH WI1 WUTd WHAd WHNd WHRd2 HH2 HK2 | Gmercek 2",
+   "dilsiz": false,
+   "k": 19,
+   "kB": 0,
+   "N": 100000000,
+   "duzey": 3,
+   "eksik": 0,
+   "esik": 22.857253791,
+   "esik_bayrak": 0,
+   "esik_mercek": 240,
+   "p": 1.99999998e-07,
+   "ci": [
+    1.1439241138731146e-07,
+    2.9670834406121474e-07
+   ]
+  },
+  "B019": {
+   "ad": "B019",
+   "hedef": 19,
+   "L": 31,
+   "dil": [
+    "Zkd",
+    "R0c",
+    "R0e",
+    "QS",
+    "FCd",
+    "Qa",
+    "WUd",
+    "WUAd2",
+    "HR0c"
+   ],
+   "boy": 9,
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 3,
+   "ayrinti": "B019 hedef 19 kol 4 mercek (1,-1,7) puan 20.112010 bilgi 27.429422 mercek_bedeli 7.317413 |Λ| 9 grup_bilgi B 0.0000 Z 2.7988 F 13.4087 W 8.4348 H 2.7872 grup_sayim B 0/0 Z 14370362/100000000 F 418/4545528 W 13136/4545528 H 1485718/10255427 : Zkd R0c R0e QS FCd Qa WUd WUAd2 HR0c",
+   "hedef_ayrinti": "B019 hedef 19 kol 4 esik 20.112010 mercek (1,-1,7) Ldil 31 cozulmus 1 kF 21 kH 17 FnH 3 mc 4 kapiG 0 hucre_boy 4/4/8/5 hucre_q -30/-30/16/37 kapsam_tur 2 kapsam_duzey 3 | Z:14370362/100000000 F:418/4545528 W:13136/4545528 H:1485718/10255427 | dil: Zkd R0c R0e QS FCd Qa WUd WUAd2 HR0c | sağlanan: Zkd R0c R0e QS FCd Qa WUd WUAd2 HR0c | L*@mercek: Zkd R0c R0e QS FCd Qa WUd WUAd2 HR0c | Gmercek 0",
+   "dilsiz": false,
+   "k": 71,
+   "kB": 0,
+   "N": 100000000,
+   "duzey": 3,
+   "eksik": 0,
+   "esik": 20.112009765,
+   "esik_bayrak": 0,
+   "esik_mercek": 31,
+   "p": 7.199999928e-07,
+   "ci": [
+    5.545159237061942e-07,
+    8.955680086189905e-07
+   ]
+  },
+  "B020": {
+   "ad": "B020",
+   "hedef": 20,
+   "L": 235,
+   "dil": [
+    "F1",
+    "FC1",
+    "FKS",
+    "FSC",
+    "WEq",
+    "WUTd",
+    "WHAd",
+    "WHAd2",
+    "WHNd",
+    "HR0c",
+    "HR1c"
+   ],
+   "boy": 11,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B020 hedef 20 kol 4 mercek (2,+3,11) puan 11.400928 bilgi 21.718341 mercek_bedeli 10.317413 |Λ| 11 grup_bilgi B 0.0000 Z 0.0000 F 7.8727 W 9.8577 H 3.9879 grup_sayim B 0/0 Z 0/0 F 55765/13070556 W 14087/13070556 H 822424/13048477 : F1 FC1 FKS FSC WEq WUTd WHAd WHAd2 WHNd HR0c HR1c",
+   "hedef_ayrinti": "B020 hedef 20 kol 4 esik 11.400928 mercek (2,+3,11) Ldil 235 cozulmus 1 kF 10 kH 10 FnH 3 mc 2 kapiG 0 hucre_boy 2/3/3/2 hucre_q 40/98/93/18 kapsam_tur 4 kapsam_duzey 3 | F:55765/13070556 W:14087/13070556 H:822424/13048477 | dil: F1 FC1 FKS FSC WEq WUTd WHAd WHAd2 WHNd HR0c HR1c | sağlanan: F1 FC1 FKS FSC WEq WUTd WHAd WHAd2 WHNd HR0c HR1c | L*@mercek: F1 FC1 FKS FSC WEq WUTd WHAd WHAd2 WHNd HR0c HR1c | Gmercek 0",
+   "dilsiz": false,
+   "k": 227,
+   "kB": 2,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 11.400928022,
+   "esik_bayrak": 0,
+   "esik_mercek": 235,
+   "p": 0.000227999772000228,
+   "ci": [
+    0.00019843115659710318,
+    0.00025852620626898396
+   ]
+  },
+  "B021": {
+   "ad": "B021",
+   "hedef": 21,
+   "L": 4,
+   "dil": [
+    "R1c",
+    "FD2",
+    "W1",
+    "QU",
+    "WSum",
+    "WUd",
+    "HH1",
+    "HR0c",
+    "HR0e"
+   ],
+   "boy": 9,
+   "turler": [
+    "a",
+    "b",
+    "c"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B021 hedef 21 kol 4 mercek (1,+1,13) puan 10.516391 bilgi 17.833804 mercek_bedeli 7.317413 |Λ| 9 grup_bilgi B 0.0000 Z 0.0000 F 7.2741 W 5.2685 H 5.2912 grup_sayim B 0/0 Z 0/0 F 88457/13691402 W 355190/13691402 H 90085/3527438 : R1c FD2 W1 QU WSum WUd HH1 HR0c HR0e",
+   "hedef_ayrinti": "B021 hedef 21 kol 4 esik 10.516392 mercek (1,+1,13) Ldil 4 cozulmus 1 kF 9 kH 4 FnH 0 mc 1 kapiG 0 hucre_boy 1/4/2/2 hucre_q 24/28/14/18 kapsam_tur 3 kapsam_duzey 3 | F:88457/13691402 W:355190/13691402 H:90085/3527438 | dil: R1c FD2 W1 QU WSum WUd HH1 HR0c HR0e | sağlanan: R1c FD2 W1 QU WSum WUd HH1 HR0c HR0e | L*@mercek: R1c FD2 W1 QU WSum WUd HH1 HR0c HR0e | Gmercek 0",
+   "dilsiz": false,
+   "k": 237,
+   "kB": 1,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 10.516391517,
+   "esik_bayrak": 0,
+   "esik_mercek": 4,
+   "p": 0.000237999762000238,
+   "ci": [
+    0.0002077876953609002,
+    0.0002691682503203745
+   ]
+  },
+  "B022": {
+   "ad": "B022",
+   "hedef": 22,
+   "L": 215,
+   "dil": [
+    "R1c",
+    "K1",
+    "K2",
+    "FD2",
+    "FAP",
+    "FKS",
+    "FSC",
+    "W1",
+    "WUTd",
+    "WHAp",
+    "WHAd",
+    "WHNd"
+   ],
+   "boy": 12,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B022 hedef 22 kol 4 mercek (2,-1,43) puan 10.123804 bilgi 18.441216 mercek_bedeli 8.317413 |Λ| 12 grup_bilgi B 0.0000 Z 0.0000 F 9.5507 W 8.8905 H 0.0000 grup_sayim B 0/0 Z 0/0 F 11452/8588624 W 18097/8588624 H 0/0 : R1c K1 K2 FD2 FAP FKS FSC W1 WUTd WHAp WHAd WHNd",
+   "hedef_ayrinti": "B022 hedef 22 kol 4 esik 10.123804 mercek (2,-1,43) Ldil 215 cozulmus 1 kF 5 kH 3 FnH 0 mc 1 kapiG 0 hucre_boy 2/1/1/1 hucre_q 0/2/1/3 kapsam_tur 4 kapsam_duzey 3 | F:11452/8588624 W:18097/8588624 | dil: R1c K1 K2 FD2 FAP FKS FSC W1 WUTd WHAp WHAd WHNd | sağlanan: R1c K1 K2 FD2 FAP FKS FSC W1 WUTd WHAp WHAd WHNd | L*@mercek: R1c K1 K2 FD2 FAP FKS FSC W1 WUTd WHAp WHAd WHNd | Gmercek 0",
+   "dilsiz": false,
+   "k": 1470,
+   "kB": 11,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 10.123803855,
+   "esik_bayrak": 0,
+   "esik_mercek": 215,
+   "p": 0.001470998529001471,
+   "ci": [
+    0.0013958565399502677,
+    0.0015470546598498518
+   ]
+  },
+  "B023": {
+   "ad": "B023",
+   "hedef": 23,
+   "L": 2,
+   "dil": [
+    "Zk2p",
+    "Zkd",
+    "F1",
+    "FC1",
+    "FHSp",
+    "FHSm",
+    "FHSd",
+    "FKS",
+    "FSC",
+    "WUd",
+    "HR1c"
+   ],
+   "boy": 11,
+   "turler": [
+    "a",
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B023 hedef 23 kol 4 mercek (1,+1,7) puan 12.870691 bilgi 20.188103 mercek_bedeli 7.317413 |Λ| 11 grup_bilgi B 0.0000 Z 3.4256 F 11.2176 W 2.7859 H 2.7590 grup_sayim B 0/0 Z 9306798/100000000 F 3908/9306798 W 1349507/9306798 H 1576989/10675366 : Zk2p Zkd F1 FC1 FHSp FHSm FHSd FKS FSC WUd HR1c",
+   "hedef_ayrinti": "B023 hedef 23 kol 4 esik 12.870691 mercek (1,+1,7) Ldil 2 cozulmus 1 kF 14 kH 16 FnH 2 mc 3 kapiG 0 hucre_boy 3/4/4/3 hucre_q 58/70/50/33 kapsam_tur 3 kapsam_duzey 3 | Z:9306798/100000000 F:3908/9306798 W:1349507/9306798 H:1576989/10675366 | dil: Zk2p Zkd F1 FC1 FHSp FHSm FHSd FKS FSC WUd HR1c | sağlanan: Zk2p Zkd F1 FC1 FHSp FHSm FHSd FKS FSC WUd HR1c | L*@mercek: Zk2p Zkd F1 FC1 FHSp FHSm FHSd FKS FSC WUd HR1c | Gmercek 1",
+   "dilsiz": false,
+   "k": 45,
+   "kB": 3,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 12.870691062,
+   "esik_bayrak": 0,
+   "esik_mercek": 2,
+   "p": 4.5999954000046e-05,
+   "ci": [
+    3.282349221491058e-05,
+    6.021308228660186e-05
+   ]
+  },
+  "B024": {
+   "ad": "B024",
+   "hedef": 24,
+   "L": 335,
+   "dil": [
+    "F1",
+    "K2",
+    "FD1",
+    "FAp",
+    "FAd",
+    "FN2p",
+    "FNd",
+    "FRK",
+    "Qa",
+    "Qn",
+    "WUAp",
+    "WUN2p",
+    "WUTd"
+   ],
+   "boy": 13,
+   "turler": [
+    "a",
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim"
+   ],
+   "n_tur": 3,
+   "n_duzey": 2,
+   "ayrinti": "B024 hedef 24 kol 4 mercek (3,-1,61) puan 11.731214 bilgi 21.048627 mercek_bedeli 9.317413 |Λ| 13 grup_bilgi B 0.0000 Z 0.0000 F 9.9307 W 11.1179 H 0.0000 grup_sayim B 0/0 Z 0/0 F 27904/27233671 W 12254/27233671 H 0/0 : F1 K2 FD1 FAp FAd FN2p FNd FRK Qa Qn WUAp WUN2p WUTd",
+   "hedef_ayrinti": "B024 hedef 24 kol 4 esik 11.731214 mercek (3,-1,61) Ldil 335 cozulmus 1 kF 2 kH 0 FnH 0 mc 0 kapiG 0 hucre_boy 0/1/0/1 hucre_q 0/2/0/3 kapsam_tur 3 kapsam_duzey 2 | F:27904/27233671 W:12254/27233671 | dil: F1 K2 FD1 FAp FAd FN2p FNd FRK Qa Qn WUAp WUN2p WUTd | sağlanan: F1 K2 FD1 FAp FAd FN2p FNd FRK Qa Qn WUAp WUN2p WUTd | L*@mercek: F1 K2 FD1 FAp FAd FN2p FNd FRK Qa Qn WUAp WUN2p WUTd | Gmercek 0",
+   "dilsiz": false,
+   "k": 23448,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 11.731214286,
+   "esik_bayrak": 0,
+   "esik_mercek": 335,
+   "p": 0.02344897655102345,
+   "ci": [
+    0.02315229616272505,
+    0.023746468571500607
+   ]
+  },
+  "B025": {
+   "ad": "B025",
+   "hedef": 25,
+   "L": 43,
+   "dil": [
+    "R0e",
+    "K2",
+    "FC1",
+    "FRK",
+    "FCK",
+    "FSC",
+    "W1",
+    "WEq",
+    "WUT2p",
+    "WUTd",
+    "WHA2p",
+    "WHAd",
+    "WHNd",
+    "HK2"
+   ],
+   "boy": 14,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B025 hedef 25 kol 4 mercek (1,-1,53) puan 12.648153 bilgi 19.965566 mercek_bedeli 7.317413 |Λ| 14 grup_bilgi B 0.0000 Z 0.0000 F 4.6397 W 14.6348 H 0.6910 grup_sayim B 0/0 Z 0/0 F 461284/11499134 W 452/11499134 H 6137331/9908096 : R0e K2 FC1 FRK FCK FSC W1 WEq WUT2p WUTd WHA2p WHAd WHNd HK2",
+   "hedef_ayrinti": "B025 hedef 25 kol 4 esik 12.648153 mercek (1,-1,53) Ldil 43 cozulmus 1 kF 4 kH 4 FnH 0 mc 0 kapiG 0 hucre_boy 2/1/0/1 hucre_q 0/0/0/-1 kapsam_tur 4 kapsam_duzey 3 | F:461284/11499134 W:452/11499134 H:6137331/9908096 | dil: R0e K2 FC1 FRK FCK FSC W1 WEq WUT2p WUTd WHA2p WHAd WHNd HK2 | sağlanan: R0e K2 FC1 FRK FCK FSC W1 WEq WUT2p WUTd WHA2p WHAd WHNd HK2 | L*@mercek: R0e K2 FC1 FRK FCK FSC W1 WEq WUT2p WUTd WHA2p WHAd WHNd HK2 | Gmercek 1",
+   "dilsiz": false,
+   "k": 1055,
+   "kB": 3,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 12.648152889,
+   "esik_bayrak": 0,
+   "esik_mercek": 43,
+   "p": 0.001055998944001056,
+   "ci": [
+    0.000992321880239284,
+    0.0011205963035720743
+   ]
+  },
+  "B026": {
+   "ad": "B026",
+   "hedef": 26,
+   "L": 148,
+   "dil": [
+    "R0c",
+    "R0e",
+    "QS",
+    "WI1",
+    "WEq",
+    "WUTd",
+    "WHAd",
+    "WHNd",
+    "WHNd2",
+    "HH1",
+    "HR0c",
+    "HR1c"
+   ],
+   "boy": 12,
+   "turler": [
+    "a",
+    "b",
+    "c"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B026 hedef 26 kol 4 mercek (1,-3,11) puan 19.295095 bilgi 28.612507 mercek_bedeli 9.317413 |Λ| 12 grup_bilgi B 0.0000 Z 0.0000 F 11.2407 W 12.0098 H 5.3620 grup_sayim B 0/0 Z 0/0 F 4397/10640073 W 2580/10640073 H 255238/10496759 : R0c R0e QS WI1 WEq WUTd WHAd WHNd WHNd2 HH1 HR0c HR1c",
+   "hedef_ayrinti": "B026 hedef 26 kol 4 esik 19.295095 mercek (1,-3,11) Ldil 148 cozulmus 1 kF 12 kH 12 FnH 1 mc 2 kapiG 0 hucre_boy 2/2/5/3 hucre_q -4/-4/-87/-37 kapsam_tur 3 kapsam_duzey 3 | F:4397/10640073 W:2580/10640073 H:255238/10496759 | dil: R0c R0e QS WI1 WEq WUTd WHAd WHNd WHNd2 HH1 HR0c HR1c | sağlanan: R0c R0e QS WI1 WEq WUTd WHAd WHNd WHNd2 HH1 HR0c HR1c | L*@mercek: R0c R0e QS WI1 WEq WUTd WHAd WHNd WHNd2 HH1 HR0c HR1c | Gmercek 0",
+   "dilsiz": false,
+   "k": 81,
+   "kB": 1,
+   "N": 100000000,
+   "duzey": 3,
+   "eksik": 0,
+   "esik": 19.29509473,
+   "esik_bayrak": 0,
+   "esik_mercek": 148,
+   "p": 8.199999918000001e-07,
+   "ci": [
+    6.432569639919413e-07,
+    1.0067556461154803e-06
+   ]
+  },
+  "B027": {
+   "ad": "B027",
+   "hedef": 27,
+   "L": 238,
+   "dil": [
+    "R0c",
+    "R0e",
+    "R1c",
+    "FC1",
+    "FD1",
+    "FAd",
+    "FNd",
+    "W1",
+    "HH1",
+    "HR0e"
+   ],
+   "boy": 10,
+   "turler": [
+    "a",
+    "b",
+    "c"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B027 hedef 27 kol 4 mercek (2,+3,19) puan 8.648224 bilgi 18.965636 mercek_bedeli 10.317413 |Λ| 10 grup_bilgi B 0.0000 Z 0.0000 F 12.3425 W 0.4394 H 6.1837 grup_sayim B 0/0 Z 0/0 F 2020/10490845 W 7736271/10490845 H 226411/16458302 : R0c R0e R1c FC1 FD1 FAd FNd W1 HH1 HR0e",
+   "hedef_ayrinti": "B027 hedef 27 kol 4 esik 8.648224 mercek (2,+3,19) Ldil 238 cozulmus 1 kF 8 kH 6 FnH 0 mc 1 kapiG 0 hucre_boy 1/1/3/3 hucre_q 12/12/93/57 kapsam_tur 3 kapsam_duzey 3 | F:2020/10490845 W:7736271/10490845 H:226411/16458302 | dil: R0c R0e R1c FC1 FD1 FAd FNd W1 HH1 HR0e | sağlanan: R0c R0e R1c FC1 FD1 FAd FNd W1 HH1 HR0e | L*@mercek: R0c R0e R1c FC1 FD1 FAd FNd W1 HH1 HR0e | Gmercek 0",
+   "dilsiz": false,
+   "k": 861,
+   "kB": 3,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 8.648224057,
+   "esik_bayrak": 0,
+   "esik_mercek": 238,
+   "p": 0.000861999138000862,
+   "ci": [
+    0.0008044644505537295,
+    0.0009204580567374393
+   ]
+  },
+  "B028": {
+   "ad": "B028",
+   "hedef": 28,
+   "L": 123,
+   "dil": [
+    "K2",
+    "W1",
+    "WUTd",
+    "WHAp",
+    "WHAd",
+    "WHNd",
+    "HH1"
+   ],
+   "boy": 7,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim"
+   ],
+   "n_tur": 4,
+   "n_duzey": 2,
+   "ayrinti": "B028 hedef 28 kol 4 mercek (1,+3,23) puan 10.206841 bilgi 19.524253 mercek_bedeli 9.317413 |Λ| 7 grup_bilgi B 0.0000 Z 0.0000 F 7.9570 W 10.5675 H 0.9997 grup_sayim B 0/0 Z 0/0 F 42317/10515198 W 6929/10515198 H 4115220/8228667 : K2 W1 WUTd WHAp WHAd WHNd HH1",
+   "hedef_ayrinti": "B028 hedef 28 kol 4 esik 10.206841 mercek (1,+3,23) Ldil 123 cozulmus 1 kF 7 kH 2 FnH 0 mc 0 kapiG 0 hucre_boy 3/0/1/3 hucre_q 14/0/5/13 kapsam_tur 4 kapsam_duzey 2 | F:42317/10515198 W:6929/10515198 H:4115220/8228667 | dil: K2 W1 WUTd WHAp WHAd WHNd HH1 | sağlanan: K2 W1 WUTd WHAp WHAd WHNd HH1 | L*@mercek: K2 W1 WUTd WHAp WHAd WHNd HH1 | Gmercek 0",
+   "dilsiz": false,
+   "k": 61,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 10.206840814,
+   "esik_bayrak": 0,
+   "esik_mercek": 123,
+   "p": 6.1999938000062e-05,
+   "ci": [
+    4.666047778374283e-05,
+    7.835637166982611e-05
+   ]
+  },
+  "B029": {
+   "ad": "B029",
+   "hedef": 29,
+   "L": 175,
+   "dil": [
+    "BMn",
+    "Zkd",
+    "Zkd2",
+    "R0c",
+    "FCK",
+    "FKS",
+    "Qn",
+    "WIp",
+    "WId"
+   ],
+   "boy": 9,
+   "turler": [
+    "a",
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 3,
+   "n_duzey": 4,
+   "ayrinti": "B029 hedef 29 kol 4 mercek (2,+1,5) puan 12.815546 bilgi 21.132959 mercek_bedeli 8.317413 |Λ| 9 grup_bilgi B 2.3217 Z 3.6697 F 10.6148 W 4.5267 H 0.0000 grup_sayim B 20003287/100000000 Z 7857938/100000000 F 5011/7857938 W 340901/7857938 H 0/0 : BMn Zkd Zkd2 R0c FCK FKS Qn WIp WId",
+   "hedef_ayrinti": "B029 hedef 29 kol 4 esik 12.815547 mercek (2,+1,5) Ldil 175 cozulmus 1 kF 25 kH 18 FnH 5 mc 5 kapiG 0 hucre_boy 7/7/5/6 hucre_q 248/196/151/204 kapsam_tur 3 kapsam_duzey 4 | B:20003287/100000000 Z:7857938/100000000 F:5011/7857938 W:340901/7857938 | dil: BMn Zkd Zkd2 R0c FCK FKS Qn WIp WId | sağlanan: BMn Zkd Zkd2 R0c FCK FKS Qn WIp WId | L*@mercek: BMn Zkd Zkd2 R0c FCK FKS Qn WIp WId | Gmercek 1",
+   "dilsiz": false,
+   "k": 20,
+   "kB": 2,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 12.815546752,
+   "esik_bayrak": 0,
+   "esik_mercek": 175,
+   "p": 2.0999979000021e-05,
+   "ci": [
+    1.2216561017504294e-05,
+    3.088820958289153e-05
+   ]
+  },
+  "B030": {
+   "ad": "B030",
+   "hedef": 30,
+   "L": 195,
+   "dil": [
+    "FA2p",
+    "FAd",
+    "FN2p",
+    "FNd",
+    "Qa",
+    "Qn",
+    "WUA2p",
+    "WUN2p",
+    "WUTd"
+   ],
+   "boy": 9,
+   "turler": [
+    "b"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim"
+   ],
+   "n_tur": 1,
+   "n_duzey": 2,
+   "ayrinti": "B030 hedef 30 kol 4 mercek (2,+1,83) puan 13.185385 bilgi 21.502798 mercek_bedeli 8.317413 |Λ| 9 grup_bilgi B 0.0000 Z 0.0000 F 9.6708 W 11.8320 H 0.0000 grup_sayim B 0/0 Z 0/0 F 27484/22402395 W 6145/22402395 H 0/0 : FA2p FAd FN2p FNd Qa Qn WUA2p WUN2p WUTd",
+   "hedef_ayrinti": "B030 hedef 30 kol 4 esik 13.185385 mercek (2,+1,83) Ldil 195 cozulmus 1 kF 2 kH 0 FnH 0 mc 0 kapiG 0 hucre_boy 2/0/0/0 hucre_q 6/0/0/0 kapsam_tur 1 kapsam_duzey 2 | F:27484/22402395 W:6145/22402395 | dil: FA2p FAd FN2p FNd Qa Qn WUA2p WUN2p WUTd | sağlanan: FA2p FAd FN2p FNd Qa Qn WUA2p WUN2p WUTd | L*@mercek: FA2p FAd FN2p FNd Qa Qn WUA2p WUN2p WUTd | Gmercek 0",
+   "dilsiz": false,
+   "k": 9170,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 13.185384513,
+   "esik_bayrak": 0,
+   "esik_mercek": 195,
+   "p": 0.00917099082900917,
+   "ci": [
+    0.008984098804822859,
+    0.0093587524911151
+   ]
+  },
+  "B031": {
+   "ad": "B031",
+   "hedef": 31,
+   "L": 328,
+   "dil": [
+    "B1",
+    "F1",
+    "F2",
+    "R1c",
+    "FAp",
+    "FAd",
+    "FNd",
+    "W1",
+    "Qa",
+    "Qn",
+    "WUTd",
+    "WHAd",
+    "WHNd"
+   ],
+   "boy": 13,
+   "turler": [
+    "a",
+    "b",
+    "c"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 3,
+   "n_duzey": 4,
+   "ayrinti": "B031 hedef 31 kol 4 mercek (3,-1,31) puan 20.395470 bilgi 29.712883 mercek_bedeli 9.317413 |Λ| 13 grup_bilgi B 2.7500 Z 0.0000 F 16.7416 W 10.2213 H 0.0000 grup_sayim B 14865314/100000000 Z 0/0 F 179/19614031 W 16430/19614031 H 0/0 : B1 F1 F2 R1c FAp FAd FNd W1 Qa Qn WUTd WHAd WHNd",
+   "hedef_ayrinti": "B031 hedef 31 kol 4 esik 20.395471 mercek (3,-1,31) Ldil 328 cozulmus 1 kF 4 kH 5 FnH 0 mc 0 kapiG 0 hucre_boy 0/2/1/1 hucre_q 0/10/1/9 kapsam_tur 3 kapsam_duzey 4 | B:14865314/100000000 F:179/19614031 W:16430/19614031 | dil: B1 F1 F2 R1c FAp FAd FNd W1 Qa Qn WUTd WHAd WHNd | sağlanan: B1 F1 F2 R1c FAp FAd FNd W1 Qa Qn WUTd WHAd WHNd | L*@mercek: B1 F1 F2 R1c FAp FAd FNd W1 Qa Qn WUTd WHAd WHNd | Gmercek 1",
+   "dilsiz": false,
+   "k": 51,
+   "kB": 0,
+   "N": 10000000,
+   "duzey": 2,
+   "eksik": 0,
+   "esik": 20.395471336,
+   "esik_bayrak": 0,
+   "esik_mercek": 328,
+   "p": 5.199999480000052e-06,
+   "ci": [
+    3.797287267180412e-06,
+    6.705552647059028e-06
+   ]
+  },
+  "B032": {
+   "ad": "B032",
+   "hedef": 32,
+   "L": 264,
+   "dil": [
+    "F1",
+    "FD1",
+    "FAd",
+    "FNd",
+    "FKS",
+    "FSC",
+    "Qa",
+    "Qn",
+    "WI1",
+    "WEq",
+    "WUTd",
+    "WHAd",
+    "WHNd"
+   ],
+   "boy": 13,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B032 hedef 32 kol 4 mercek (2,-3,11) puan 12.229114 bilgi 22.546526 mercek_bedeli 10.317413 |Λ| 13 grup_bilgi B 0.0000 Z 0.0000 F 11.3688 W 11.1777 H 0.0000 grup_sayim B 0/0 Z 0/0 F 4934/13048477 W 5633/13048477 H 0/0 : F1 FD1 FAd FNd FKS FSC Qa Qn WI1 WEq WUTd WHAd WHNd",
+   "hedef_ayrinti": "B032 hedef 32 kol 4 esik 12.229114 mercek (2,-3,11) Ldil 264 cozulmus 1 kF 10 kH 10 FnH 1 mc 2 kapiG 0 hucre_boy 3/2/3/2 hucre_q 2/-16/3/2 kapsam_tur 4 kapsam_duzey 3 | F:4934/13048477 W:5633/13048477 | dil: F1 FD1 FAd FNd FKS FSC Qa Qn WI1 WEq WUTd WHAd WHNd | sağlanan: F1 FD1 FAd FNd FKS FSC Qa Qn WI1 WEq WUTd WHAd WHNd | L*@mercek: F1 FD1 FAd FNd FKS FSC Qa Qn WI1 WEq WUTd WHAd WHNd | Gmercek 0",
+   "dilsiz": false,
+   "k": 4701,
+   "kB": 23,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 12.229114295,
+   "esik_bayrak": 0,
+   "esik_mercek": 264,
+   "p": 0.004701995298004702,
+   "ci": [
+    0.004567869811285443,
+    0.004837011439599838
+   ]
+  },
+  "B033": {
+   "ad": "B033",
+   "hedef": 33,
+   "L": 31,
+   "dil": [
+    "B1",
+    "QS",
+    "Qh",
+    "FCd",
+    "Qa",
+    "QH"
+   ],
+   "boy": 6,
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "kitap"
+   ],
+   "n_tur": 2,
+   "n_duzey": 3,
+   "ayrinti": "B033 hedef 33 kol 4 mercek (1,-1,7) puan 9.484582 bilgi 16.801994 mercek_bedeli 7.317413 |Λ| 6 grup_bilgi B 2.7500 Z 0.0000 F 8.4344 W 5.6176 H 0.0000 grup_sayim B 14865314/100000000 Z 0/0 F 30858/10675366 W 217430/10675366 H 0/0 : B1 QS Qh FCd Qa QH",
+   "hedef_ayrinti": "B033 hedef 33 kol 4 esik 9.484582 mercek (1,-1,7) Ldil 31 cozulmus 1 kF 16 kH 17 FnH 2 mc 1 kapiG 0 hucre_boy 5/6/1/4 hucre_q 6/8/1/20 kapsam_tur 2 kapsam_duzey 3 | B:14865314/100000000 F:30858/10675366 W:217430/10675366 | dil: B1 QS Qh FCd Qa QH | sağlanan: B1 QS Qh FCd Qa QH | L*@mercek: B1 QS Qh FCd Qa QH | Gmercek 0",
+   "dilsiz": false,
+   "k": 371,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 9.48458171,
+   "esik_bayrak": 0,
+   "esik_mercek": 31,
+   "p": 0.000371999628000372,
+   "ci": [
+    0.000334210301904975,
+    0.0004107323124317868
+   ]
+  },
+  "B034": {
+   "ad": "B034",
+   "hedef": 34,
+   "L": 33,
+   "dil": [
+    "R1c",
+    "FD2",
+    "FAP",
+    "WI1",
+    "WEq",
+    "WUTd",
+    "WHAd",
+    "WHNd",
+    "HH2",
+    "HR0c"
+   ],
+   "boy": 10,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B034 hedef 34 kol 4 mercek (1,-1,13) puan 18.780749 bilgi 26.098162 mercek_bedeli 7.317413 |Λ| 10 grup_bilgi B 0.0000 Z 0.0000 F 9.2176 W 9.1650 H 7.7156 grup_sayim B 0/0 Z 0/0 F 16380/9751642 W 16988/9751642 H 45415/9546179 : R1c FD2 FAP WI1 WEq WUTd WHAd WHNd HH2 HR0c",
+   "hedef_ayrinti": "B034 hedef 34 kol 4 esik 18.780749 mercek (1,-1,13) Ldil 33 cozulmus 1 kF 6 kH 6 FnH 1 mc 1 kapiG 0 hucre_boy 1/3/1/1 hucre_q 0/6/-3/3 kapsam_tur 4 kapsam_duzey 3 | F:16380/9751642 W:16988/9751642 H:45415/9546179 | dil: R1c FD2 FAP WI1 WEq WUTd WHAd WHNd HH2 HR0c | sağlanan: R1c FD2 FAP WI1 WEq WUTd WHAd WHNd HH2 HR0c | L*@mercek: R1c FD2 FAP WI1 WEq WUTd WHAd WHNd HH2 HR0c | Gmercek 0",
+   "dilsiz": false,
+   "k": 74,
+   "kB": 0,
+   "N": 100000000,
+   "duzey": 3,
+   "eksik": 0,
+   "esik": 18.780749084,
+   "esik_bayrak": 0,
+   "esik_mercek": 33,
+   "p": 7.499999925e-07,
+   "ci": [
+    5.810592013408389e-07,
+    9.290018474192712e-07
+   ]
+  },
+  "B035": {
+   "ad": "B035",
+   "hedef": 35,
+   "L": 321,
+   "dil": [
+    "B1",
+    "FC1",
+    "FAd",
+    "FNd",
+    "FSC",
+    "Qa",
+    "Qn",
+    "WI1",
+    "WUNd2",
+    "WUTd",
+    "WHAd",
+    "WHNd"
+   ],
+   "boy": 12,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 4,
+   "n_duzey": 4,
+   "ayrinti": "B035 hedef 35 kol 4 mercek (3,-1,7) puan 14.835930 bilgi 24.153343 mercek_bedeli 9.317413 |Λ| 12 grup_bilgi B 2.7500 Z 0.0000 F 11.1306 W 10.2728 H 0.0000 grup_sayim B 14865314/100000000 Z 0/0 F 4762/10676465 W 8630/10676465 H 0/0 : B1 FC1 FAd FNd FSC Qa Qn WI1 WUNd2 WUTd WHAd WHNd",
+   "hedef_ayrinti": "B035 hedef 35 kol 4 esik 14.835931 mercek (3,-1,7) Ldil 321 cozulmus 1 kF 16 kH 17 FnH 1 mc 2 kapiG 0 hucre_boy 6/4/2/4 hucre_q 90/86/54/112 kapsam_tur 4 kapsam_duzey 4 | B:14865314/100000000 F:4762/10676465 W:8630/10676465 | dil: B1 FC1 FAd FNd FSC Qa Qn WI1 WUNd2 WUTd WHAd WHNd | sağlanan: B1 FC1 FAd FNd FSC Qa Qn WI1 WUNd2 WUTd WHAd WHNd | L*@mercek: B1 FC1 FAd FNd FSC Qa Qn WI1 WUNd2 WUTd WHAd WHNd | Gmercek 0",
+   "dilsiz": false,
+   "k": 455,
+   "kB": 3,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 14.835930587,
+   "esik_bayrak": 0,
+   "esik_mercek": 321,
+   "p": 0.000455999544000456,
+   "ci": [
+    0.00041415585411876116,
+    0.0004987814086174009
+   ]
+  },
+  "B036": {
+   "ad": "B036",
+   "hedef": 36,
+   "L": 36,
+   "dil": [
+    "R1c",
+    "K1",
+    "K2",
+    "FC2",
+    "FAP",
+    "FKS",
+    "FSC",
+    "WI1",
+    "HR0c",
+    "HR0e",
+    "HK2"
+   ],
+   "boy": 11,
+   "turler": [
+    "a",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B036 hedef 36 kol 4 mercek (1,-1,23) puan 14.059723 bilgi 21.377136 mercek_bedeli 7.317413 |Λ| 11 grup_bilgi B 0.0000 Z 0.0000 F 9.9047 W 3.8710 H 7.6014 grup_sayim B 0/0 Z 0/0 F 18747/17970353 W 1228216/17970353 H 76816/14917776 : R1c K1 K2 FC2 FAP FKS FSC WI1 HR0c HR0e HK2",
+   "hedef_ayrinti": "B036 hedef 36 kol 4 esik 14.059723 mercek (1,-1,23) Ldil 36 cozulmus 1 kF 5 kH 6 FnH 1 mc 1 kapiG 0 hucre_boy 2/1/1/1 hucre_q 0/2/1/-1 kapsam_tur 3 kapsam_duzey 3 | F:18747/17970353 W:1228216/17970353 H:76816/14917776 | dil: R1c K1 K2 FC2 FAP FKS FSC WI1 HR0c HR0e HK2 | sağlanan: R1c K1 K2 FC2 FAP FKS FSC WI1 HR0c HR0e HK2 | L*@mercek: R1c K1 K2 FC2 FAP FKS FSC WI1 HR0c HR0e HK2 | Gmercek 0",
+   "dilsiz": false,
+   "k": 204,
+   "kB": 6,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 14.05972314,
+   "esik_bayrak": 0,
+   "esik_mercek": 36,
+   "p": 0.000204999795000205,
+   "ci": [
+    0.00017696726516540614,
+    0.00023399372513171704
+   ]
+  },
+  "B037": {
+   "ad": "B037",
+   "hedef": 37,
+   "L": 320,
+   "dil": [
+    "R0e",
+    "FC1",
+    "WEq",
+    "WUTd",
+    "WUTd2",
+    "WHAd",
+    "WHAd2",
+    "WHNd"
+   ],
+   "boy": 8,
+   "turler": [
+    "a",
+    "b",
+    "c"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B037 hedef 37 kol 4 mercek (3,-1,5) puan 13.644430 bilgi 22.961842 mercek_bedeli 9.317413 |Λ| 8 grup_bilgi B 0.0000 Z 0.0000 F 9.5556 W 13.4063 H 0.0000 grup_sayim B 0/0 Z 0/0 F 1284/966227 W 89/966227 H 0/0 : R0e FC1 WEq WUTd WUTd2 WHAd WHAd2 WHNd",
+   "hedef_ayrinti": "B037 hedef 37 kol 4 esik 13.644430 mercek (3,-1,5) Ldil 320 cozulmus 1 kF 32 kH 32 FnH 11 mc 6 kapiG 0 hucre_boy 8/10/8/6 hucre_q 192/192/222/270 kapsam_tur 3 kapsam_duzey 3 | F:1284/966227 W:89/966227 | dil: R0e FC1 WEq WUTd WUTd2 WHAd WHAd2 WHNd | sağlanan: R0e FC1 WEq WUTd WUTd2 WHAd WHAd2 WHNd | L*@mercek: R0e FC1 WEq WUTd WUTd2 WHAd WHAd2 WHNd | Gmercek 1",
+   "dilsiz": false,
+   "k": 65,
+   "kB": 0,
+   "N": 10000000,
+   "duzey": 2,
+   "eksik": 0,
+   "esik": 13.644429923,
+   "esik_bayrak": 0,
+   "esik_mercek": 320,
+   "p": 6.599999340000066e-06,
+   "ci": [
+    5.016566240800512e-06,
+    8.284776059097845e-06
+   ]
+  },
+  "B038": {
+   "ad": "B038",
+   "hedef": 38,
+   "L": 4,
+   "dil": [
+    "B1",
+    "F1",
+    "R1c",
+    "FAd",
+    "FNd",
+    "W1",
+    "QU",
+    "Qa",
+    "Qn",
+    "WSum",
+    "WUd",
+    "WUTd",
+    "WUTd2",
+    "WHAd",
+    "WHNd",
+    "HR0c"
+   ],
+   "boy": 16,
+   "turler": [
+    "a",
+    "b",
+    "c"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 3,
+   "n_duzey": 4,
+   "ayrinti": "B038 hedef 38 kol 4 mercek (1,+1,13) puan 18.228396 bilgi 25.545808 mercek_bedeli 7.317413 |Λ| 16 grup_bilgi B 2.7500 Z 0.0000 F 6.0961 W 14.2958 H 2.4039 grup_sayim B 14865314/100000000 Z 0/0 F 49689/3399053 W 169/3399053 H 2583342/13672303 : B1 F1 R1c FAd FNd W1 QU Qa Qn WSum WUd WUTd WUTd2 WHAd WHNd HR0c",
+   "hedef_ayrinti": "B038 hedef 38 kol 4 esik 18.228396 mercek (1,+1,13) Ldil 4 cozulmus 1 kF 4 kH 9 FnH 0 mc 0 kapiG 0 hucre_boy 0/2/1/1 hucre_q 0/8/15/11 kapsam_tur 3 kapsam_duzey 4 | B:14865314/100000000 F:49689/3399053 W:169/3399053 H:2583342/13672303 | dil: B1 F1 R1c FAd FNd W1 QU Qa Qn WSum WUd WUTd WUTd2 WHAd WHNd HR0c | sağlanan: B1 F1 R1c FAd FNd W1 QU Qa Qn WSum WUd WUTd WUTd2 WHAd WHNd HR0c | L*@mercek: B1 F1 R1c FAd FNd W1 QU Qa Qn WSum WUd WUTd WUTd2 WHAd WHNd HR0c | Gmercek 0",
+   "dilsiz": false,
+   "k": 92,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 18.22839594,
+   "esik_bayrak": 0,
+   "esik_mercek": 4,
+   "p": 9.2999907000093e-05,
+   "ci": [
+    7.416560906242017e-05,
+    0.0001128286576588313
+   ]
+  },
+  "B039": {
+   "ad": "B039",
+   "hedef": 39,
+   "L": 31,
+   "dil": [
+    "QS",
+    "Qh",
+    "FSp",
+    "FCd",
+    "FKd",
+    "WI1",
+    "HR1c"
+   ],
+   "boy": 7,
+   "turler": [
+    "a",
+    "b",
+    "c"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B039 hedef 39 kol 4 mercek (1,-1,7) puan 13.634201 bilgi 20.951613 mercek_bedeli 7.317413 |Λ| 7 grup_bilgi B 0.0000 Z 0.0000 F 15.2367 W 3.0049 H 2.7101 grup_sayim B 0/0 Z 0/0 F 55/2123542 W 264548/2123542 H 1581207/10346615 : QS Qh FSp FCd FKd WI1 HR1c",
+   "hedef_ayrinti": "B039 hedef 39 kol 4 esik 13.634201 mercek (1,-1,7) Ldil 31 cozulmus 1 kF 23 kH 15 FnH 1 mc 4 kapiG 0 hucre_boy 4/8/6/5 hucre_q 28/0/14/-35 kapsam_tur 3 kapsam_duzey 3 | F:55/2123542 W:264548/2123542 H:1581207/10346615 | dil: QS Qh FSp FCd FKd WI1 HR1c | sağlanan: QS Qh FSp FCd FKd WI1 HR1c | L*@mercek: QS Qh FSp FCd FKd WI1 HR1c | Gmercek 0",
+   "dilsiz": false,
+   "k": 62,
+   "kB": 0,
+   "N": 10000000,
+   "duzey": 2,
+   "eksik": 0,
+   "esik": 13.634201051,
+   "esik_bayrak": 0,
+   "esik_mercek": 31,
+   "p": 6.299999370000063e-06,
+   "ci": [
+    4.753507644231281e-06,
+    7.948113119741304e-06
+   ]
+  },
+  "B040": {
+   "ad": "B040",
+   "hedef": 40,
+   "L": 209,
+   "dil": [
+    "BMn",
+    "F1",
+    "F2",
+    "R0c",
+    "FSC",
+    "W1",
+    "Qa",
+    "HR0c"
+   ],
+   "boy": 8,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 4,
+   "n_duzey": 4,
+   "ayrinti": "B040 hedef 40 kol 4 mercek (2,-1,19) puan 12.653270 bilgi 20.970682 mercek_bedeli 8.317413 |Λ| 8 grup_bilgi B 4.2484 Z 0.0000 F 10.0214 W 4.4611 H 2.2398 grup_sayim B 5261545/100000000 Z 0/0 F 12879/13385016 W 607692/13385016 H 3485387/16462530 : BMn F1 F2 R0c FSC W1 Qa HR0c",
+   "hedef_ayrinti": "B040 hedef 40 kol 4 esik 12.653270 mercek (2,-1,19) Ldil 209 cozulmus 1 kF 4 kH 6 FnH 0 mc 0 kapiG 0 hucre_boy 1/1/2/0 hucre_q -2/8/6/0 kapsam_tur 4 kapsam_duzey 4 | B:5261545/100000000 F:12879/13385016 W:607692/13385016 H:3485387/16462530 | dil: BMn F1 F2 R0c FSC W1 Qa HR0c | sağlanan: BMn F1 F2 R0c FSC W1 Qa HR0c | L*@mercek: BMn F1 F2 R0c FSC W1 Qa HR0c | Gmercek 1",
+   "dilsiz": false,
+   "k": 32,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 12.65326953,
+   "esik_bayrak": 0,
+   "esik_mercek": 209,
+   "p": 3.2999967000033e-05,
+   "ci": [
+    2.188807603158896e-05,
+    4.5174154325901726e-05
+   ]
+  },
+  "B041": {
+   "ad": "B041",
+   "hedef": 41,
+   "L": 176,
+   "dil": [
+    "Zk2p",
+    "Zkd",
+    "QS",
+    "FHSm",
+    "FSC",
+    "QH",
+    "HR1e"
+   ],
+   "boy": 7,
+   "turler": [
+    "a",
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B041 hedef 41 kol 4 mercek (2,+1,7) puan 12.221688 bilgi 20.539101 mercek_bedeli 8.317413 |Λ| 7 grup_bilgi B 0.0000 Z 3.4325 F 7.6959 W 2.8059 H 6.6049 grup_sayim B 0/0 Z 9262513/100000000 F 44673/9262513 W 1324592/9262513 H 106625/10378699 : Zk2p Zkd QS FHSm FSC QH HR1e",
+   "hedef_ayrinti": "B041 hedef 41 kol 4 esik 12.221688 mercek (2,+1,7) Ldil 176 cozulmus 1 kF 14 kH 15 FnH 2 mc 2 kapiG 0 hucre_boy 4/2/6/2 hucre_q 144/28/126/52 kapsam_tur 3 kapsam_duzey 3 | Z:9262513/100000000 F:44673/9262513 W:1324592/9262513 H:106625/10378699 | dil: Zk2p Zkd QS FHSm FSC QH HR1e | sağlanan: Zk2p Zkd QS FHSm FSC QH HR1e | L*@mercek: Zk2p Zkd QS FHSm FSC QH HR1e | Gmercek 0",
+   "dilsiz": false,
+   "k": 69,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 12.221688033,
+   "esik_bayrak": 0,
+   "esik_mercek": 176,
+   "p": 6.999993000007e-05,
+   "ci": [
+    5.368650278826692e-05,
+    8.732311580328462e-05
+   ]
+  },
+  "B042": {
+   "ad": "B042",
+   "hedef": 42,
+   "L": 9,
+   "dil": [
+    "B1",
+    "K2",
+    "FC1",
+    "FCK",
+    "WEq",
+    "WUTd",
+    "WHAd",
+    "WHNd",
+    "HR0e",
+    "HK2"
+   ],
+   "boy": 10,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 4,
+   "n_duzey": 4,
+   "ayrinti": "B042 hedef 42 kol 4 mercek (1,+1,31) puan 16.056429 bilgi 23.373842 mercek_bedeli 7.317413 |Λ| 10 grup_bilgi B 2.7500 Z 0.0000 F 5.9538 W 10.6317 H 4.0384 grup_sayim B 14865314/100000000 Z 0/0 F 32277/2000618 W 1261/2000618 H 128089/2104715 : B1 K2 FC1 FCK WEq WUTd WHAd WHNd HR0e HK2",
+   "hedef_ayrinti": "B042 hedef 42 kol 4 esik 16.056429 mercek (1,+1,31) Ldil 9 cozulmus 1 kF 8 kH 8 FnH 2 mc 0 kapiG 0 hucre_boy 4/1/0/3 hucre_q 16/4/0/13 kapsam_tur 4 kapsam_duzey 4 | B:14865314/100000000 F:32277/2000618 W:1261/2000618 H:128089/2104715 | dil: B1 K2 FC1 FCK WEq WUTd WHAd WHNd HR0e HK2 | sağlanan: B1 K2 FC1 FCK WEq WUTd WHAd WHNd HR0e HK2 | L*@mercek: B1 K2 FC1 FCK WEq WUTd WHAd WHNd HR0e HK2 | Gmercek 0",
+   "dilsiz": false,
+   "k": 11,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 16.056428672,
+   "esik_bayrak": 0,
+   "esik_mercek": 9,
+   "p": 1.1999988000012e-05,
+   "ci": [
+    5.491172745001062e-06,
+    1.9681952938421945e-05
+   ]
+  },
+  "B043": {
+   "ad": "B043",
+   "hedef": 43,
+   "L": 31,
+   "dil": [
+    "Zk2p",
+    "Zkd",
+    "F1",
+    "FC1",
+    "FHSp",
+    "FHSm",
+    "FHSd",
+    "FKS",
+    "Qn",
+    "WI1",
+    "WEq",
+    "WH2p",
+    "WHd",
+    "WUNd2"
+   ],
+   "boy": 14,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B043 hedef 43 kol 4 mercek (1,-1,7) puan 11.319576 bilgi 18.636989 mercek_bedeli 7.317413 |Λ| 14 grup_bilgi B 0.0000 Z 3.4191 F 4.8659 W 10.3520 H 0.0000 grup_sayim B 0/0 Z 9348640/100000000 F 320603/9348640 W 7153/9348640 H 0/0 : Zk2p Zkd F1 FC1 FHSp FHSm FHSd FKS Qn WI1 WEq WH2p WHd WUNd2",
+   "hedef_ayrinti": "B043 hedef 43 kol 4 esik 11.319576 mercek (1,-1,7) Ldil 31 cozulmus 1 kF 14 kH 14 FnH 1 mc 3 kapiG 0 hucre_boy 3/4/4/3 hucre_q 20/6/40/9 kapsam_tur 4 kapsam_duzey 3 | Z:9348640/100000000 F:320603/9348640 W:7153/9348640 | dil: Zk2p Zkd F1 FC1 FHSp FHSm FHSd FKS Qn WI1 WEq WH2p WHd WUNd2 | sağlanan: Zk2p Zkd F1 FC1 FHSp FHSm FHSd FKS Qn WI1 WEq WH2p WHd WUNd2 | L*@mercek: Zk2p Zkd F1 FC1 FHSp FHSm FHSd FKS Qn WI1 WEq WH2p WHd WUNd2 | Gmercek 1",
+   "dilsiz": false,
+   "k": 220,
+   "kB": 44,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 11.319576264,
+   "esik_bayrak": 0,
+   "esik_mercek": 31,
+   "p": 0.000220999779000221,
+   "ci": [
+    0.00019189006355001167,
+    0.00025106834556426055
+   ]
+  },
+  "B044": {
+   "ad": "B044",
+   "hedef": 44,
+   "L": 248,
+   "dil": [
+    "F1",
+    "FD1",
+    "FAp",
+    "FAd",
+    "FN2p",
+    "FNd",
+    "Qa",
+    "Qn",
+    "WUAp",
+    "WUN2p",
+    "WUTd"
+   ],
+   "boy": 11,
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "B044 hedef 44 kol 4 mercek (2,+3,61) puan 9.057749 bilgi 19.375161 mercek_bedeli 10.317413 |Λ| 11 grup_bilgi B 0.0000 Z 0.0000 F 8.3399 W 11.0353 H 0.0000 grup_sayim B 0/0 Z 0/0 F 84118/27254268 W 12986/27254268 H 0/0 : F1 FD1 FAp FAd FN2p FNd Qa Qn WUAp WUN2p WUTd",
+   "hedef_ayrinti": "B044 hedef 44 kol 4 esik 9.057750 mercek (2,+3,61) Ldil 248 cozulmus 1 kF 2 kH 0 FnH 0 mc 0 kapiG 0 hucre_boy 1/0/1/0 hucre_q 2/0/5/0 kapsam_tur 2 kapsam_duzey 2 | F:84118/27254268 W:12986/27254268 | dil: F1 FD1 FAp FAd FN2p FNd Qa Qn WUAp WUN2p WUTd | sağlanan: F1 FD1 FAp FAd FN2p FNd Qa Qn WUAp WUN2p WUTd | L*@mercek: F1 FD1 FAp FAd FN2p FNd Qa Qn WUAp WUN2p WUTd | Gmercek 0",
+   "dilsiz": false,
+   "k": 81624,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 9.057749511,
+   "esik_bayrak": 0,
+   "esik_mercek": 248,
+   "p": 0.08162491837508162,
+   "ci": [
+    0.08108809170186312,
+    0.08216233310064056
+   ]
+  },
+  "B045": {
+   "ad": "B045",
+   "hedef": 45,
+   "L": 30,
+   "dil": [
+    "BMn",
+    "F1",
+    "FC1",
+    "Qa",
+    "QH",
+    "WHRd2",
+    "HR0c",
+    "HR1c"
+   ],
+   "boy": 8,
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 2,
+   "n_duzey": 4,
+   "ayrinti": "B045 hedef 45 kol 4 mercek (1,-1,5) puan 11.959925 bilgi 19.277338 mercek_bedeli 7.317413 |Λ| 8 grup_bilgi B 2.3224 Z 0.0000 F 5.1000 W 6.9654 H 4.8896 grup_sayim B 19993277/100000000 Z 0/0 F 255267/8754792 W 70059/8754792 H 313286/9286432 : BMn F1 FC1 Qa QH WHRd2 HR0c HR1c",
+   "hedef_ayrinti": "B045 hedef 45 kol 4 esik 11.959926 mercek (1,-1,5) Ldil 30 cozulmus 1 kF 24 kH 22 FnH 7 mc 5 kapiG 0 hucre_boy 5/7/7/5 hucre_q -14/46/31/-39 kapsam_tur 2 kapsam_duzey 4 | B:19993277/100000000 F:255267/8754792 W:70059/8754792 H:313286/9286432 | dil: BMn F1 FC1 Qa QH WHRd2 HR0c HR1c | sağlanan: BMn F1 FC1 Qa QH WHRd2 HR0c HR1c | L*@mercek: BMn F1 FC1 Qa QH WHRd2 HR0c HR1c | Gmercek 3",
+   "dilsiz": false,
+   "k": 17,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 11.959925653,
+   "esik_bayrak": 0,
+   "esik_mercek": 30,
+   "p": 1.7999982000018e-05,
+   "ci": [
+    9.903156656773567e-06,
+    2.72185075919043e-05
+   ]
+  },
+  "B046": {
+   "ad": "B046",
+   "hedef": 46,
+   "L": 203,
+   "dil": [
+    "BMn",
+    "Zkd",
+    "QS",
+    "Qh",
+    "FCd",
+    "FAd",
+    "FNd",
+    "FKd",
+    "Qa",
+    "Qn",
+    "WUd",
+    "WUd2",
+    "WUNd2",
+    "WUTd",
+    "WHAd",
+    "WHNd",
+    "WHNd2",
+    "HH1"
+   ],
+   "boy": 18,
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 2,
+   "n_duzey": 4,
+   "ayrinti": "B046 hedef 46 kol 4 mercek (2,-1,3) puan 16.162212 bilgi 24.479624 mercek_bedeli 8.317413 |Λ| 18 grup_bilgi B 1.5851 Z 1.5851 F 7.8871 W 10.5444 H 2.8779 grup_sayim B 33329492/100000000 Z 33330818/100000000 F 41/9706 W 6/9706 H 305003/2242084 : BMn Zkd QS Qh FCd FAd FNd FKd Qa Qn WUd WUd2 WUNd2 WUTd WHAd WHNd WHNd2 HH1",
+   "hedef_ayrinti": "B046 hedef 46 kol 4 esik 16.162211 mercek (2,-1,3) Ldil 203 cozulmus 0 kF 57 kH 46 FnH 22 mc 12 kapiG 0 hucre_boy 12/14/15/16 hucre_q 240/456/267/300 kapsam_tur 2 kapsam_duzey 4 | B:33329492/100000000 Z:33330818/100000000 F:41/9706 W:6/9706 H:305003/2242084 | dil: BMn Zkd QS Qh FCd FAd FNd FKd Qa Qn WUd WUd2 WUNd2 WUTd WHAd WHNd WHNd2 HH1 | sağlanan: BMn Zkd QS Qh FCd FAd FNd FKd Qa Qn WUd WUd2 WUNd2 WUTd WHAd WHNd WHNd2 HH1 | L*@mercek: BMn Zkd QS Qh FCd FAd FNd FKd Qa Qn WUd WUd2 WUNd2 WUTd WHAd WHNd WHNd2 HH1 | Gmercek 1",
+   "dilsiz": false,
+   "k": 377,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 16.162211419,
+   "esik_bayrak": 0,
+   "esik_mercek": 203,
+   "p": 0.000377999622000378,
+   "ci": [
+    0.0003399063428647052,
+    0.000417035836390618
+   ]
+  },
+  "B047": {
+   "ad": "B047",
+   "hedef": 47,
+   "L": 32,
+   "dil": [
+    "F1",
+    "FC1",
+    "FKS",
+    "WI1",
+    "WEq",
+    "WUTd",
+    "WUTd2",
+    "WHAd",
+    "WHNd",
+    "HH1"
+   ],
+   "boy": 10,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B047 hedef 47 kol 4 mercek (1,-1,11) puan 10.130815 bilgi 17.448227 mercek_bedeli 7.317413 |Λ| 10 grup_bilgi B 0.0000 Z 0.0000 F 4.2812 W 11.1462 H 2.0208 grup_sayim B 0/0 Z 0/0 F 673031/13086116 W 5774/13086116 H 3207124/13015052 : F1 FC1 FKS WI1 WEq WUTd WUTd2 WHAd WHNd HH1",
+   "hedef_ayrinti": "B047 hedef 47 kol 4 esik 10.130815 mercek (1,-1,11) Ldil 32 cozulmus 1 kF 10 kH 10 FnH 1 mc 2 kapiG 0 hucre_boy 2/3/3/2 hucre_q 0/-18/9/-10 kapsam_tur 4 kapsam_duzey 3 | F:673031/13086116 W:5774/13086116 H:3207124/13015052 | dil: F1 FC1 FKS WI1 WEq WUTd WUTd2 WHAd WHNd HH1 | sağlanan: F1 FC1 FKS WI1 WEq WUTd WUTd2 WHAd WHNd HH1 | L*@mercek: F1 FC1 FKS WI1 WEq WUTd WUTd2 WHAd WHNd HH1 | Gmercek 0",
+   "dilsiz": false,
+   "k": 229,
+   "kB": 2,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 10.130814553,
+   "esik_bayrak": 0,
+   "esik_mercek": 32,
+   "p": 0.00022999977000023,
+   "ci": [
+    0.00020030134610264058,
+    0.0002606557262705979
+   ]
+  },
+  "B048": {
+   "ad": "B048",
+   "hedef": 48,
+   "L": 31,
+   "dil": [
+    "FD1",
+    "FSC",
+    "WI1",
+    "WUd",
+    "HR0c"
+   ],
+   "boy": 5,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B048 hedef 48 kol 4 mercek (1,-1,7) puan 7.973803 bilgi 15.291216 mercek_bedeli 7.317413 |Λ| 5 grup_bilgi B 0.0000 Z 0.0000 F 7.8277 W 4.9442 H 2.5193 grup_sayim B 0/0 Z 0/0 F 40449/9188954 W 298473/9188954 H 720750/4132187 : FD1 FSC WI1 WUd HR0c",
+   "hedef_ayrinti": "B048 hedef 48 kol 4 esik 7.973803 mercek (1,-1,7) Ldil 31 cozulmus 1 kF 18 kH 11 FnH 1 mc 2 kapiG 0 hucre_boy 2/4/5/7 hucre_q -4/-14/-5/-17 kapsam_tur 4 kapsam_duzey 3 | F:40449/9188954 W:298473/9188954 H:720750/4132187 | dil: FD1 FSC WI1 WUd HR0c | sağlanan: FD1 FSC WI1 WUd HR0c | L*@mercek: FD1 FSC WI1 WUd HR0c | Gmercek 0",
+   "dilsiz": false,
+   "k": 352,
+   "kB": 1,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 7.973803283,
+   "esik_bayrak": 0,
+   "esik_mercek": 31,
+   "p": 0.000352999647000353,
+   "ci": [
+    0.00031618944049458035,
+    0.0003907546180576471
+   ]
+  },
+  "B049": {
+   "ad": "B049",
+   "hedef": 49,
+   "L": 292,
+   "dil": [
+    "R0c",
+    "QS",
+    "FKS",
+    "WI1",
+    "WUd",
+    "HH1",
+    "HR0c",
+    "HR1c"
+   ],
+   "boy": 8,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B049 hedef 49 kol 4 mercek (3,+1,7) puan 7.536735 bilgi 16.854148 mercek_bedeli 9.317413 |Λ| 8 grup_bilgi B 0.0000 Z 0.0000 F 6.6702 W 4.2802 H 5.9038 grup_sayim B 0/0 Z 0/0 F 74709/7608540 W 391594/7608540 H 178327/10676465 : R0c QS FKS WI1 WUd HH1 HR0c HR1c",
+   "hedef_ayrinti": "B049 hedef 49 kol 4 esik 7.536735 mercek (3,+1,7) Ldil 292 cozulmus 1 kF 13 kH 16 FnH 1 mc 3 kapiG 0 hucre_boy 3/3/4/3 hucre_q 120/100/134/115 kapsam_tur 4 kapsam_duzey 3 | F:74709/7608540 W:391594/7608540 H:178327/10676465 | dil: R0c QS FKS WI1 WUd HH1 HR0c HR1c | sağlanan: R0c QS FKS WI1 WUd HH1 HR0c HR1c | L*@mercek: R0c QS FKS WI1 WUd HH1 HR0c HR1c | Gmercek 1",
+   "dilsiz": false,
+   "k": 2342,
+   "kB": 12,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 7.536735297,
+   "esik_bayrak": 0,
+   "esik_mercek": 292,
+   "p": 0.002342997657002343,
+   "ci": [
+    0.0022482042486827772,
+    0.0024386966144293583
+   ]
+  },
+  "B050": {
+   "ad": "B050",
+   "hedef": 50,
+   "L": 37,
+   "dil": [
+    "FC1",
+    "FSC",
+    "W1",
+    "QH",
+    "WUT2p",
+    "WUTd",
+    "WHAd",
+    "WHNd",
+    "WHRp",
+    "HH1"
+   ],
+   "boy": 10,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B050 hedef 50 kol 4 mercek (1,-1,29) puan 13.271994 bilgi 20.589407 mercek_bedeli 7.317413 |Λ| 10 grup_bilgi B 0.0000 Z 0.0000 F 3.2640 W 15.6520 H 1.6734 grup_sayim B 0/0 Z 0/0 F 2069002/19875368 W 386/19875368 H 3159769/10078649 : FC1 FSC W1 QH WUT2p WUTd WHAd WHNd WHRp HH1",
+   "hedef_ayrinti": "B050 hedef 50 kol 4 esik 13.271995 mercek (1,-1,29) Ldil 37 cozulmus 1 kF 4 kH 6 FnH 0 mc 0 kapiG 0 hucre_boy 1/0/1/2 hucre_q -2/0/1/6 kapsam_tur 4 kapsam_duzey 3 | F:2069002/19875368 W:386/19875368 H:3159769/10078649 | dil: FC1 FSC W1 QH WUT2p WUTd WHAd WHNd WHRp HH1 | sağlanan: FC1 FSC W1 QH WUT2p WUTd WHAd WHNd WHRp HH1 | L*@mercek: FC1 FSC W1 QH WUT2p WUTd WHAd WHNd WHRp HH1 | Gmercek 2",
+   "dilsiz": false,
+   "k": 33,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 13.271994711,
+   "esik_bayrak": 0,
+   "esik_mercek": 37,
+   "p": 3.3999966000033997e-05,
+   "ci": [
+    2.271578702046281e-05,
+    4.6343959873201884e-05
+   ]
+  },
+  "B051": {
+   "ad": "B051",
+   "hedef": 51,
+   "L": 101,
+   "dil": [
+    "K2",
+    "FAp",
+    "FAd",
+    "FNp",
+    "FNd",
+    "FRK",
+    "FCK",
+    "FSC",
+    "Qa",
+    "Qn",
+    "WUAp",
+    "WUNp",
+    "WUTd"
+   ],
+   "boy": 13,
+   "turler": [
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 3,
+   "ayrinti": "B051 hedef 51 kol 4 mercek (1,-2,53) puan 18.740712 bilgi 27.058125 mercek_bedeli 8.317413 |Λ| 13 grup_bilgi B 0.0000 Z 0.0000 F 12.0010 W 15.0571 H 0.0000 grup_sayim B 0/0 Z 0/0 F 4824/19772940 W 580/19772940 H 0/0 : K2 FAp FAd FNp FNd FRK FCK FSC Qa Qn WUAp WUNp WUTd",
+   "hedef_ayrinti": "B051 hedef 51 kol 4 esik 18.740712 mercek (1,-2,53) Ldil 101 cozulmus 1 kF 3 kH 0 FnH 0 mc 0 kapiG 0 hucre_boy 2/0/0/1 hucre_q 0/0/0/-1 kapsam_tur 2 kapsam_duzey 3 | F:4824/19772940 W:580/19772940 | dil: K2 FAp FAd FNp FNd FRK FCK FSC Qa Qn WUAp WUNp WUTd | sağlanan: K2 FAp FAd FNp FNd FRK FCK FSC Qa Qn WUAp WUNp WUTd | L*@mercek: K2 FAp FAd FNp FNd FRK FCK FSC Qa Qn WUAp WUNp WUTd | Gmercek 0",
+   "dilsiz": false,
+   "k": 810,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 18.740711928,
+   "esik_bayrak": 0,
+   "esik_mercek": 101,
+   "p": 0.000810999189000811,
+   "ci": [
+    0.0007551918859433189,
+    0.0008677319427607688
+   ]
+  },
+  "B052": {
+   "ad": "B052",
+   "hedef": 52,
+   "L": 321,
+   "dil": [
+    "Zk2p",
+    "Zkd",
+    "R0c",
+    "R1c",
+    "QS",
+    "FC1",
+    "FD1",
+    "FCd",
+    "FHSm",
+    "FAd",
+    "FAd2",
+    "FNd",
+    "FNd2",
+    "FKS",
+    "QH",
+    "WHRd2",
+    "HR0c"
+   ],
+   "boy": 17,
+   "turler": [
+    "a",
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B052 hedef 52 kol 4 mercek (3,-1,7) puan 18.162638 bilgi 27.480051 mercek_bedeli 9.317413 |Λ| 17 grup_bilgi B 0.0000 Z 3.4211 F 15.9844 W 5.6140 H 2.4605 grup_sayim B 0/0 Z 9335393/100000000 F 144/9335393 W 190608/9335393 H 460829/2536474 : Zk2p Zkd R0c R1c QS FC1 FD1 FCd FHSm FAd FAd2 FNd FNd2 FKS QH WHRd2 HR0c",
+   "hedef_ayrinti": "B052 hedef 52 kol 4 esik 18.162638 mercek (3,-1,7) Ldil 321 cozulmus 1 kF 14 kH 10 FnH 2 mc 3 kapiG 0 hucre_boy 4/4/3/3 hucre_q 54/40/79/9 kapsam_tur 3 kapsam_duzey 3 | Z:9335393/100000000 F:144/9335393 W:190608/9335393 H:460829/2536474 | dil: Zk2p Zkd R0c R1c QS FC1 FD1 FCd FHSm FAd FAd2 FNd FNd2 FKS QH WHRd2 HR0c | sağlanan: Zk2p Zkd R0c R1c QS FC1 FD1 FCd FHSm FAd FAd2 FNd FNd2 FKS QH WHRd2 HR0c | L*@mercek: Zk2p Zkd R0c R1c QS FC1 FD1 FCd FHSm FAd FAd2 FNd FNd2 FKS QH WHRd2 HR0c | Gmercek 1",
+   "dilsiz": false,
+   "k": 16,
+   "kB": 1,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 18.162638188,
+   "esik_bayrak": 0,
+   "esik_mercek": 321,
+   "p": 1.6999983000016998e-05,
+   "ci": [
+    9.14540922323905e-06,
+    2.5982867748881325e-05
+   ]
+  },
+  "B053": {
+   "ad": "B053",
+   "hedef": 53,
+   "L": 271,
+   "dil": [
+    "FAd",
+    "FNp",
+    "FNd",
+    "Qa",
+    "Qn",
+    "WUNp",
+    "WUTd"
+   ],
+   "boy": 7,
+   "turler": [
+    "b"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim"
+   ],
+   "n_tur": 1,
+   "n_duzey": 2,
+   "ayrinti": "B053 hedef 53 kol 4 mercek (2,-3,37) puan 16.710530 bilgi 27.027942 mercek_bedeli 10.317413 |Λ| 7 grup_bilgi B 0.0000 Z 0.0000 F 11.2881 W 15.7398 H 0.0000 grup_sayim B 0/0 Z 0/0 F 9081/22709185 W 415/22709185 H 0/0 : FAd FNp FNd Qa Qn WUNp WUTd",
+   "hedef_ayrinti": "B053 hedef 53 kol 4 esik 16.710530 mercek (2,-3,37) Ldil 271 cozulmus 1 kF 3 kH 0 FnH 0 mc 0 kapiG 0 hucre_boy 0/2/0/1 hucre_q 0/-18/0/-1 kapsam_tur 1 kapsam_duzey 2 | F:9081/22709185 W:415/22709185 | dil: FAd FNp FNd Qa Qn WUNp WUTd | sağlanan: FAd FNp FNd Qa Qn WUNp WUTd | L*@mercek: FAd FNp FNd Qa Qn WUNp WUTd | Gmercek 0",
+   "dilsiz": false,
+   "k": 460,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 16.710530044,
+   "esik_bayrak": 0,
+   "esik_mercek": 271,
+   "p": 0.000460999539000461,
+   "ci": [
+    0.00041892687127029123,
+    0.0005040101155100262
+   ]
+  },
+  "B054": {
+   "ad": "B054",
+   "hedef": 54,
+   "L": 10,
+   "dil": [
+    "F1",
+    "R0c",
+    "R0e",
+    "R1c",
+    "FC1",
+    "FD1",
+    "FSC",
+    "W1",
+    "Qa",
+    "QH",
+    "WHRd2",
+    "HR1c",
+    "HR1e"
+   ],
+   "boy": 13,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B054 hedef 54 kol 4 mercek (1,+1,37) puan 11.766268 bilgi 19.083680 mercek_bedeli 7.317413 |Λ| 13 grup_bilgi B 0.0000 Z 0.0000 F 6.9938 W 8.2219 H 3.8679 grup_sayim B 0/0 Z 0/0 F 6503/828838 W 2776/828838 H 1554025/22688831 : F1 R0c R0e R1c FC1 FD1 FSC W1 Qa QH WHRd2 HR1c HR1e",
+   "hedef_ayrinti": "B054 hedef 54 kol 4 esik 11.766268 mercek (1,+1,37) Ldil 10 cozulmus 1 kF 8 kH 3 FnH 0 mc 2 kapiG 1 hucre_boy 2/2/2/2 hucre_q 4/4/8/6 kapsam_tur 4 kapsam_duzey 3 | F:6503/828838 W:2776/828838 H:1554025/22688831 | dil: F1 R0c R0e R1c FC1 FD1 FSC W1 Qa QH WHRd2 HR1c HR1e | sağlanan: F1 R0c R0e R1c FC1 FD1 FSC W1 Qa QH WHRd2 HR1c HR1e | L*@mercek: F1 R0c R0e R1c FC1 FD1 FSC W1 Qa QH WHRd2 HR1c HR1e | Gmercek 1",
+   "dilsiz": false,
+   "k": 1308,
+   "kB": 5,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 11.766267778,
+   "esik_bayrak": 1,
+   "esik_mercek": 10,
+   "p": 0.001308998691001309,
+   "ci": [
+    0.0012381099301753125,
+    0.0013808037353610296
+   ]
+  },
+  "B055": {
+   "ad": "B055",
+   "hedef": 55,
+   "L": 33,
+   "dil": [
+    "R0e",
+    "FC1",
+    "FAd",
+    "FAd2",
+    "FNd",
+    "FCK",
+    "FKS",
+    "FSC",
+    "W1"
+   ],
+   "boy": 9,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B055 hedef 55 kol 4 mercek (1,-1,13) puan 13.280142 bilgi 20.597555 mercek_bedeli 7.317413 |Λ| 9 grup_bilgi B 0.0000 Z 0.0000 F 19.4232 W 1.1744 H 0.0000 grup_sayim B 0/0 Z 0/0 F 17/11951155 W 5295281/11951155 H 0/0 : R0e FC1 FAd FAd2 FNd FCK FKS FSC W1",
+   "hedef_ayrinti": "B055 hedef 55 kol 4 esik 13.280142 mercek (1,-1,13) Ldil 33 cozulmus 1 kF 10 kH 5 FnH 0 mc 1 kapiG 0 hucre_boy 3/4/2/1 hucre_q 0/0/6/5 kapsam_tur 4 kapsam_duzey 3 | F:17/11951155 W:5295281/11951155 | dil: R0e FC1 FAd FAd2 FNd FCK FKS FSC W1 | sağlanan: R0e FC1 FAd FAd2 FNd FCK FKS FSC W1 | L*@mercek: R0e FC1 FAd FAd2 FNd FCK FKS FSC W1 | Gmercek 0",
+   "dilsiz": false,
+   "k": 42,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 13.280141712,
+   "esik_bayrak": 0,
+   "esik_mercek": 33,
+   "p": 4.2999957000043e-05,
+   "ci": [
+    3.0270068130785857e-05,
+    5.6771379286011163e-05
+   ]
+  },
+  "B056": {
+   "ad": "B056",
+   "hedef": 56,
+   "L": 266,
+   "dil": [
+    "FC1",
+    "FRK",
+    "W1",
+    "WUT2p",
+    "WUTd",
+    "WHAd",
+    "WHNd",
+    "HR0c",
+    "HR0e"
+   ],
+   "boy": 9,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B056 hedef 56 kol 4 mercek (2,-3,17) puan 13.323065 bilgi 23.640477 mercek_bedeli 10.317413 |Λ| 9 grup_bilgi B 0.0000 Z 0.0000 F 5.9307 W 11.0822 H 6.6276 grup_sayim B 0/0 Z 0/0 F 163566/9977229 W 4602/9977229 H 154817/15308450 : FC1 FRK W1 WUT2p WUTd WHAd WHNd HR0c HR0e",
+   "hedef_ayrinti": "B056 hedef 56 kol 4 esik 13.323066 mercek (2,-3,17) Ldil 266 cozulmus 1 kF 4 kH 7 FnH 0 mc 0 kapiG 0 hucre_boy 1/2/1/0 hucre_q -2/4/1/0 kapsam_tur 4 kapsam_duzey 3 | F:163566/9977229 W:4602/9977229 H:154817/15308450 | dil: FC1 FRK W1 WUT2p WUTd WHAd WHNd HR0c HR0e | sağlanan: FC1 FRK W1 WUT2p WUTd WHAd WHNd HR0c HR0e | L*@mercek: FC1 FRK W1 WUT2p WUTd WHAd WHNd HR0c HR0e | Gmercek 0",
+   "dilsiz": false,
+   "k": 19,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 13.32306552,
+   "esik_bayrak": 0,
+   "esik_mercek": 266,
+   "p": 1.999998000002e-05,
+   "ci": [
+    1.1439278687838811e-05,
+    2.967069510755215e-05
+   ]
+  },
+  "B057": {
+   "ad": "B057",
+   "hedef": 57,
+   "L": 293,
+   "dil": [
+    "F1",
+    "QS",
+    "FD1",
+    "FKS",
+    "WI1",
+    "WU2p",
+    "WUd",
+    "HR1c"
+   ],
+   "boy": 8,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B057 hedef 57 kol 4 mercek (3,+1,11) puan 6.332985 bilgi 15.650397 mercek_bedeli 9.317413 |Λ| 8 grup_bilgi B 0.0000 Z 0.0000 F 7.7514 W 5.2893 H 2.6097 grup_sayim B 0/0 Z 0/0 F 60556/13048477 W 333684/13048477 H 1341079/8185897 : F1 QS FD1 FKS WI1 WU2p WUd HR1c",
+   "hedef_ayrinti": "B057 hedef 57 kol 4 esik 6.332984 mercek (3,+1,11) Ldil 293 cozulmus 1 kF 10 kH 13 FnH 1 mc 2 kapiG 0 hucre_boy 3/2/3/2 hucre_q 72/36/75/48 kapsam_tur 4 kapsam_duzey 3 | F:60556/13048477 W:333684/13048477 H:1341079/8185897 | dil: F1 QS FD1 FKS WI1 WU2p WUd HR1c | sağlanan: F1 QS FD1 FKS WI1 WU2p WUd HR1c | L*@mercek: F1 QS FD1 FKS WI1 WU2p WUd HR1c | Gmercek 0",
+   "dilsiz": false,
+   "k": 3665,
+   "kB": 24,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 6.332984449,
+   "esik_bayrak": 0,
+   "esik_mercek": 293,
+   "p": 0.003665996334003666,
+   "ci": [
+    0.0035475024300582634,
+    0.0037853867157328263
+   ]
+  },
+  "B058": {
+   "ad": "B058",
+   "hedef": 58,
+   "L": 208,
+   "dil": [
+    "FD1",
+    "FRK",
+    "FKS",
+    "QU",
+    "QH",
+    "WI1",
+    "WUd",
+    "WUTd",
+    "WHAd",
+    "WHNd"
+   ],
+   "boy": 10,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B058 hedef 58 kol 4 mercek (2,-1,17) puan 12.304523 bilgi 20.621936 mercek_bedeli 8.317413 |Λ| 10 grup_bilgi B 0.0000 Z 0.0000 F 6.5714 W 14.0505 H 0.0000 grup_sayim B 0/0 Z 0/0 F 134353/12777085 W 753/12777085 H 0/0 : FD1 FRK FKS QU QH WI1 WUd WUTd WHAd WHNd",
+   "hedef_ayrinti": "B058 hedef 58 kol 4 esik 12.304523 mercek (2,-1,17) Ldil 208 cozulmus 1 kF 8 kH 10 FnH 1 mc 1 kapiG 0 hucre_boy 3/2/2/1 hucre_q 18/-4/16/-3 kapsam_tur 4 kapsam_duzey 3 | F:134353/12777085 W:753/12777085 | dil: FD1 FRK FKS QU QH WI1 WUd WUTd WHAd WHNd | sağlanan: FD1 FRK FKS QU QH WI1 WUd WUTd WHAd WHNd | L*@mercek: FD1 FRK FKS QU QH WI1 WUd WUTd WHAd WHNd | Gmercek 0",
+   "dilsiz": false,
+   "k": 51,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 12.304523231,
+   "esik_bayrak": 0,
+   "esik_mercek": 208,
+   "p": 5.1999948000052e-05,
+   "ci": [
+    3.7973078191368735e-05,
+    6.705504287835977e-05
+   ]
+  },
+  "B059": {
+   "ad": "B059",
+   "hedef": 59,
+   "L": 180,
+   "dil": [
+    "FD1",
+    "FAd",
+    "FAd2",
+    "FNd",
+    "FKS",
+    "FSC",
+    "W1",
+    "HR0c",
+    "HR0e",
+    "HR1c"
+   ],
+   "boy": 10,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B059 hedef 59 kol 4 mercek (2,+1,19) puan 11.523793 bilgi 19.841206 mercek_bedeli 8.317413 |Λ| 10 grup_bilgi B 0.0000 Z 0.0000 F 12.7040 W 0.4393 H 6.6979 grup_sayim B 0/0 Z 0/0 F 1573/10495428 W 7740153/10495428 H 158585/16464105 : FD1 FAd FAd2 FNd FKS FSC W1 HR0c HR0e HR1c",
+   "hedef_ayrinti": "B059 hedef 59 kol 4 esik 11.523793 mercek (2,+1,19) Ldil 180 cozulmus 1 kF 8 kH 6 FnH 0 mc 1 kapiG 0 hucre_boy 1/2/2/3 hucre_q 4/8/14/27 kapsam_tur 4 kapsam_duzey 3 | F:1573/10495428 W:7740153/10495428 H:158585/16464105 | dil: FD1 FAd FAd2 FNd FKS FSC W1 HR0c HR0e HR1c | sağlanan: FD1 FAd FAd2 FNd FKS FSC W1 HR0c HR0e HR1c | L*@mercek: FD1 FAd FAd2 FNd FKS FSC W1 HR0c HR0e HR1c | Gmercek 1",
+   "dilsiz": false,
+   "k": 225,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 11.523793222,
+   "esik_bayrak": 0,
+   "esik_mercek": 180,
+   "p": 0.000225999774000226,
+   "ci": [
+    0.00019656154099676083,
+    0.0002563961160388514
+   ]
+  },
+  "B060": {
+   "ad": "B060",
+   "hedef": 60,
+   "L": 34,
+   "dil": [
+    "F1",
+    "F2",
+    "R0c",
+    "R0e",
+    "R1c",
+    "K2",
+    "FC1",
+    "FD1",
+    "FSC",
+    "Qn",
+    "WI1",
+    "HR0c",
+    "HR0e",
+    "HR1c"
+   ],
+   "boy": 14,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B060 hedef 60 kol 4 mercek (1,-1,17) puan 19.973839 bilgi 27.291252 mercek_bedeli 7.317413 |Λ| 14 grup_bilgi B 0.0000 Z 0.0000 F 14.4593 W 6.6527 H 6.1793 grup_sayim B 0/0 Z 0/0 F 580/13064910 W 129855/13064910 H 218678/15847631 : F1 F2 R0c R0e R1c K2 FC1 FD1 FSC Qn WI1 HR0c HR0e HR1c",
+   "hedef_ayrinti": "B060 hedef 60 kol 4 esik 19.973839 mercek (1,-1,17) Ldil 34 cozulmus 1 kF 8 kH 6 FnH 1 mc 2 kapiG 0 hucre_boy 2/2/2/2 hucre_q 4/4/6/2 kapsam_tur 4 kapsam_duzey 3 | F:580/13064910 W:129855/13064910 H:218678/15847631 | dil: F1 F2 R0c R0e R1c K2 FC1 FD1 FSC Qn WI1 HR0c HR0e HR1c | sağlanan: F1 F2 R0c R0e R1c K2 FC1 FD1 FSC Qn WI1 HR0c HR0e HR1c | L*@mercek: F1 F2 R0c R0e R1c K2 FC1 FD1 FSC Qn WI1 HR0c HR0e HR1c | Gmercek 1",
+   "dilsiz": false,
+   "k": 38,
+   "kB": 0,
+   "N": 10000000,
+   "duzey": 2,
+   "eksik": 0,
+   "esik": 19.973839046,
+   "esik_bayrak": 0,
+   "esik_mercek": 34,
+   "p": 3.899999610000039e-06,
+   "ci": [
+    2.6891075249794424e-06,
+    5.215793089635898e-06
+   ]
+  },
+  "B061": {
+   "ad": "B061",
+   "hedef": 61,
+   "L": 296,
+   "dil": [
+    "FAd",
+    "FNd",
+    "FKS",
+    "W1",
+    "Qa",
+    "Qn",
+    "QH",
+    "WUTd",
+    "WHAd",
+    "WHNd",
+    "WHR2p",
+    "HR1e"
+   ],
+   "boy": 12,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B061 hedef 61 kol 4 mercek (3,+1,19) puan 15.985725 bilgi 25.303138 mercek_bedeli 9.317413 |Λ| 12 grup_bilgi B 0.0000 Z 0.0000 F 5.3165 W 14.4904 H 5.4963 grup_sayim B 0/0 Z 0/0 F 354053/14108943 W 613/14108943 H 361637/16323608 : FAd FNd FKS W1 Qa Qn QH WUTd WHAd WHNd WHR2p HR1e",
+   "hedef_ayrinti": "B061 hedef 61 kol 4 esik 15.985725 mercek (3,+1,19) Ldil 296 cozulmus 1 kF 7 kH 5 FnH 0 mc 1 kapiG 0 hucre_boy 2/1/3/1 hucre_q 8/10/35/15 kapsam_tur 4 kapsam_duzey 3 | F:354053/14108943 W:613/14108943 H:361637/16323608 | dil: FAd FNd FKS W1 Qa Qn QH WUTd WHAd WHNd WHR2p HR1e | sağlanan: FAd FNd FKS W1 Qa Qn QH WUTd WHAd WHNd WHR2p HR1e | L*@mercek: FAd FNd FKS W1 Qa Qn QH WUTd WHAd WHNd WHR2p HR1e | Gmercek 1",
+   "dilsiz": false,
+   "k": 180,
+   "kB": 3,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 15.985725165,
+   "esik_bayrak": 0,
+   "esik_mercek": 296,
+   "p": 0.000180999819000181,
+   "ci": [
+    0.00015466578267232955,
+    0.0002082996787799844
+   ]
+  },
+  "B062": {
+   "ad": "B062",
+   "hedef": 62,
+   "L": 176,
+   "dil": [
+    "R0c",
+    "QS",
+    "FKS",
+    "Qa",
+    "QH",
+    "WUd",
+    "HR1c"
+   ],
+   "boy": 7,
+   "turler": [
+    "a",
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B062 hedef 62 kol 4 mercek (2,+1,7) puan 9.779742 bilgi 18.097155 mercek_bedeli 8.317413 |Λ| 7 grup_bilgi B 0.0000 Z 0.0000 F 7.0499 W 8.4295 H 2.6178 grup_sayim B 0/0 Z 0/0 F 77501/10269305 W 29786/10269305 H 1271673/7805474 : R0c QS FKS Qa QH WUd HR1c",
+   "hedef_ayrinti": "B062 hedef 62 kol 4 esik 9.779742 mercek (2,+1,7) Ldil 176 cozulmus 1 kF 17 kH 13 FnH 2 mc 4 kapiG 0 hucre_boy 4/4/4/5 hucre_q 124/116/90/83 kapsam_tur 3 kapsam_duzey 3 | F:77501/10269305 W:29786/10269305 H:1271673/7805474 | dil: R0c QS FKS Qa QH WUd HR1c | sağlanan: R0c QS FKS Qa QH WUd HR1c | L*@mercek: R0c QS FKS Qa QH WUd HR1c | Gmercek 0",
+   "dilsiz": false,
+   "k": 459,
+   "kB": 2,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 9.779741765,
+   "esik_bayrak": 0,
+   "esik_mercek": 176,
+   "p": 0.00045999954000046,
+   "ci": [
+    0.0004179725677414961,
+    0.0005029644739125736
+   ]
+  },
+  "B063": {
+   "ad": "B063",
+   "hedef": 63,
+   "L": 208,
+   "dil": [
+    "R0e",
+    "R1c",
+    "WI1",
+    "WSum",
+    "HR0e",
+    "HR1c"
+   ],
+   "boy": 6,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "B063 hedef 63 kol 4 mercek (2,-1,17) puan 12.584957 bilgi 20.902369 mercek_bedeli 8.317413 |Λ| 6 grup_bilgi B 0.0000 Z 0.0000 F 6.3138 W 6.9384 H 7.6502 grup_sayim B 0/0 Z 0/0 F 198967/15827392 W 129047/15827392 H 18325/3681242 : R0e R1c WI1 WSum HR0e HR1c",
+   "hedef_ayrinti": "B063 hedef 63 kol 4 esik 12.584957 mercek (2,-1,17) Ldil 208 cozulmus 1 kF 6 kH 11 FnH 1 mc 1 kapiG 0 hucre_boy 1/3/1/1 hucre_q 10/10/-7/1 kapsam_tur 2 kapsam_duzey 2 | F:198967/15827392 W:129047/15827392 H:18325/3681242 | dil: R0e R1c WI1 WSum HR0e HR1c | sağlanan: R0e R1c WI1 WSum HR0e HR1c | L*@mercek: R0e R1c WI1 WSum HR0e HR1c | Gmercek 0",
+   "dilsiz": false,
+   "k": 13,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 12.584956885,
+   "esik_bayrak": 0,
+   "esik_mercek": 208,
+   "p": 1.3999986000014e-05,
+   "ci": [
+    6.921970064657923e-06,
+    2.2230293172041696e-05
+   ]
+  },
+  "B064": {
+   "ad": "B064",
+   "hedef": 64,
+   "L": 147,
+   "dil": [
+    "Zk2p",
+    "Zkd",
+    "F1",
+    "QS",
+    "FC1",
+    "FHSp",
+    "FHSm",
+    "FHSd",
+    "FKS",
+    "QH",
+    "WUTd",
+    "WHAd",
+    "WHAd2",
+    "WHNd",
+    "WHNd2",
+    "HH1"
+   ],
+   "boy": 16,
+   "turler": [
+    "a",
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B064 hedef 64 kol 4 mercek (1,-3,7) puan 12.689770 bilgi 22.007182 mercek_bedeli 9.317413 |Λ| 16 grup_bilgi B 0.0000 Z 3.4325 F 7.6530 W 8.4145 H 2.5072 grup_sayim B 0/0 Z 9262513/100000000 F 46019/9262513 W 27147/9262513 H 1070135/6084021 : Zk2p Zkd F1 QS FC1 FHSp FHSm FHSd FKS QH WUTd WHAd WHAd2 WHNd WHNd2 HH1",
+   "hedef_ayrinti": "B064 hedef 64 kol 4 esik 12.689770 mercek (1,-3,7) Ldil 147 cozulmus 1 kF 14 kH 20 FnH 3 mc 3 kapiG 0 hucre_boy 4/3/3/4 hucre_q -8/-22/-59/-72 kapsam_tur 3 kapsam_duzey 3 | Z:9262513/100000000 F:46019/9262513 W:27147/9262513 H:1070135/6084021 | dil: Zk2p Zkd F1 QS FC1 FHSp FHSm FHSd FKS QH WUTd WHAd WHAd2 WHNd WHNd2 HH1 | sağlanan: Zk2p Zkd F1 QS FC1 FHSp FHSm FHSd FKS QH WUTd WHAd WHAd2 WHNd WHNd2 HH1 | L*@mercek: Zk2p Zkd F1 QS FC1 FHSp FHSm FHSd FKS QH WUTd WHAd WHAd2 WHNd WHNd2 HH1 | Gmercek 0",
+   "dilsiz": false,
+   "k": 122,
+   "kB": 21,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 12.689769508,
+   "esik_bayrak": 0,
+   "esik_mercek": 147,
+   "p": 0.000122999877000123,
+   "ci": [
+    0.00010131462364593279,
+    0.00014566644569165432
+   ]
+  },
+  "B065": {
+   "ad": "B065",
+   "hedef": 65,
+   "L": 12,
+   "dil": [
+    "R0c",
+    "R0e",
+    "K1",
+    "K2",
+    "FAd",
+    "FNd",
+    "FRK",
+    "FCK",
+    "FKS",
+    "FSC",
+    "WI1"
+   ],
+   "boy": 11,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B065 hedef 65 kol 4 mercek (1,+1,43) puan 9.631313 bilgi 16.948725 mercek_bedeli 7.317413 |Λ| 11 grup_bilgi B 0.0000 Z 0.0000 F 13.5950 W 3.3537 H 0.0000 grup_sayim B 0/0 Z 0/0 F 78/965173 W 94415/965173 H 0/0 : R0c R0e K1 K2 FAd FNd FRK FCK FKS FSC WI1",
+   "hedef_ayrinti": "B065 hedef 65 kol 4 esik 9.631313 mercek (1,+1,43) Ldil 12 cozulmus 1 kF 7 kH 6 FnH 1 mc 1 kapiG 0 hucre_boy 2/2/2/1 hucre_q 6/6/6/5 kapsam_tur 4 kapsam_duzey 3 | F:78/965173 W:94415/965173 | dil: R0c R0e K1 K2 FAd FNd FRK FCK FKS FSC WI1 | sağlanan: R0c R0e K1 K2 FAd FNd FRK FCK FKS FSC WI1 | L*@mercek: R0c R0e K1 K2 FAd FNd FRK FCK FKS FSC WI1 | Gmercek 0",
+   "dilsiz": false,
+   "k": 2701,
+   "kB": 23,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 9.631313087,
+   "esik_bayrak": 0,
+   "esik_mercek": 12,
+   "p": 0.002701997298002702,
+   "ci": [
+    0.002600218843695981,
+    0.002804678550098233
+   ]
+  },
+  "B066": {
+   "ad": "B066",
+   "hedef": 66,
+   "L": 1,
+   "dil": [
+    "QS",
+    "Qh",
+    "FCd",
+    "FKd",
+    "WUTd",
+    "WUTd2",
+    "WHAd",
+    "WHNd",
+    "HR1c"
+   ],
+   "boy": 9,
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 3,
+   "ayrinti": "B066 hedef 66 kol 4 mercek (1,+1,5) puan 9.700194 bilgi 17.017606 mercek_bedeli 7.317413 |Λ| 9 grup_bilgi B 0.0000 Z 0.0000 F 9.3361 W 4.6440 H 3.0375 grup_sayim B 0/0 Z 0/0 F 8175/5283738 W 211332/5283738 H 817029/6708383 : QS Qh FCd FKd WUTd WUTd2 WHAd WHNd HR1c",
+   "hedef_ayrinti": "B066 hedef 66 kol 4 esik 9.700193 mercek (1,+1,5) Ldil 1 cozulmus 1 kF 18 kH 26 FnH 3 mc 3 kapiG 0 hucre_boy 7/4/3/4 hucre_q 150/60/55/50 kapsam_tur 2 kapsam_duzey 3 | F:8175/5283738 W:211332/5283738 H:817029/6708383 | dil: QS Qh FCd FKd WUTd WUTd2 WHAd WHNd HR1c | sağlanan: QS Qh FCd FKd WUTd WUTd2 WHAd WHNd HR1c | L*@mercek: QS Qh FCd FKd WUTd WUTd2 WHAd WHNd HR1c | Gmercek 0",
+   "dilsiz": false,
+   "k": 1715,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 9.700193406,
+   "esik_bayrak": 0,
+   "esik_mercek": 1,
+   "p": 0.001715998284001716,
+   "ci": [
+    0.0016348489221371491,
+    0.001798058972598169
+   ]
+  },
+  "B067": {
+   "ad": "B067",
+   "hedef": 67,
+   "L": 4,
+   "dil": [
+    "B1",
+    "R1c",
+    "FKS",
+    "FSC",
+    "W1",
+    "Qn",
+    "QH",
+    "WHRd2",
+    "HR1e"
+   ],
+   "boy": 9,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B067 hedef 67 kol 4 mercek (1,+1,13) puan 15.124709 bilgi 22.442122 mercek_bedeli 7.317413 |Λ| 9 grup_bilgi B 2.7500 Z 0.0000 F 5.1270 W 9.7669 H 4.7982 grup_sayim B 14865314/100000000 Z 0/0 F 391805/13691402 W 15715/13691402 H 429532/11951155 : B1 R1c FKS FSC W1 Qn QH WHRd2 HR1e",
+   "hedef_ayrinti": "B067 hedef 67 kol 4 esik 15.124709 mercek (1,+1,13) Ldil 4 cozulmus 1 kF 9 kH 10 FnH 0 mc 2 kapiG 0 hucre_boy 2/3/2/2 hucre_q 20/18/14/18 kapsam_tur 4 kapsam_duzey 3 | B:14865314/100000000 F:391805/13691402 W:15715/13691402 H:429532/11951155 | dil: B1 R1c FKS FSC W1 Qn QH WHRd2 HR1e | sağlanan: B1 R1c FKS FSC W1 Qn QH WHRd2 HR1e | L*@mercek: B1 R1c FKS FSC W1 Qn QH WHRd2 HR1e | Gmercek 0",
+   "dilsiz": false,
+   "k": 21,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 15.124709369,
+   "esik_bayrak": 0,
+   "esik_mercek": 4,
+   "p": 2.1999978000022e-05,
+   "ci": [
+    1.2999376483670713e-05,
+    3.210055240605428e-05
+   ]
+  },
+  "B068": {
+   "ad": "B068",
+   "hedef": 68,
+   "L": 360,
+   "dil": [
+    "F2",
+    "K2",
+    "FC2",
+    "FSC",
+    "W1",
+    "Qn",
+    "QH",
+    "WUN2p",
+    "WHRd2"
+   ],
+   "boy": 9,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B068 hedef 68 kol 4 mercek (3,+2,43) puan 25.951763 bilgi 36.269175 mercek_bedeli 10.317413 |Λ| 9 grup_bilgi B 0.0000 Z 0.0000 F 16.6346 W 19.6346 H 0.0000 grup_sayim B 0/0 Z 0/0 F 76/7732562 W 9/7732562 H 0/0 : F2 K2 FC2 FSC W1 Qn QH WUN2p WHRd2",
+   "hedef_ayrinti": "B068 hedef 68 kol 4 esik 25.951764 mercek (3,+2,43) Ldil 360 cozulmus 0 kF 5 kH 1 FnH 0 mc 0 kapiG 0 hucre_boy 3/0/0/2 hucre_q 6/0/0/6 kapsam_tur 4 kapsam_duzey 3 | F:76/7732562 W:9/7732562 | dil: F2 K2 FC2 FSC W1 Qn QH WUN2p WHRd2 | sağlanan: F2 K2 FC2 FSC W1 Qn QH WUN2p WHRd2 | L*@mercek: F2 K2 FC2 FSC W1 Qn QH WUN2p WHRd2 | Gmercek 1",
+   "dilsiz": false,
+   "k": 4,
+   "kB": 0,
+   "N": 100000000,
+   "duzey": 3,
+   "eksik": 0,
+   "esik": 25.951763869,
+   "esik_bayrak": 0,
+   "esik_mercek": 360,
+   "p": 4.99999995e-08,
+   "ci": [
+    1.0898653481614903e-08,
+    1.0241579181401608e-07
+   ]
+  },
+  "B069": {
+   "ad": "B069",
+   "hedef": 69,
+   "L": 328,
+   "dil": [
+    "R1c",
+    "FC2",
+    "W1",
+    "Qn",
+    "HH1",
+    "HH2",
+    "HR1c",
+    "HR1e",
+    "HK2"
+   ],
+   "boy": 9,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B069 hedef 69 kol 4 mercek (3,-1,31) puan 10.776033 bilgi 20.093445 mercek_bedeli 9.317413 |Λ| 9 grup_bilgi B 0.0000 Z 0.0000 F 5.7056 W 5.0859 H 9.3019 grup_sayim B 0/0 Z 0/0 F 404851/21127388 W 622052/21127388 H 31026/19583298 : R1c FC2 W1 Qn HH1 HH2 HR1c HR1e HK2",
+   "hedef_ayrinti": "B069 hedef 69 kol 4 esik 10.776033 mercek (3,-1,31) Ldil 328 cozulmus 1 kF 3 kH 4 FnH 0 mc 0 kapiG 0 hucre_boy 0/1/1/1 hucre_q 0/4/7/3 kapsam_tur 4 kapsam_duzey 3 | F:404851/21127388 W:622052/21127388 H:31026/19583298 | dil: R1c FC2 W1 Qn HH1 HH2 HR1c HR1e HK2 | sağlanan: R1c FC2 W1 Qn HH1 HH2 HR1c HR1e HK2 | L*@mercek: R1c FC2 W1 Qn HH1 HH2 HR1c HR1e HK2 | Gmercek 0",
+   "dilsiz": false,
+   "k": 745,
+   "kB": 3,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 10.776033164,
+   "esik_bayrak": 0,
+   "esik_mercek": 328,
+   "p": 0.000745999254000746,
+   "ci": [
+    0.0006924746036896732,
+    0.0008004510579378008
+   ]
+  },
+  "B070": {
+   "ad": "B070",
+   "hedef": 70,
+   "L": 31,
+   "dil": [
+    "Zkd",
+    "R1c",
+    "R1e",
+    "FAd",
+    "FAd2",
+    "FNd",
+    "W1"
+   ],
+   "boy": 7,
+   "turler": [
+    "a",
+    "b",
+    "c"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B070 hedef 70 kol 4 mercek (1,-1,7) puan 14.000240 bilgi 21.317652 mercek_bedeli 7.317413 |Λ| 7 grup_bilgi B 0.0000 Z 2.7988 F 13.6607 W 4.8581 H 0.0000 grup_sayim B 0/0 Z 14370362/100000000 F 351/4545528 W 156726/4545528 H 0/0 : Zkd R1c R1e FAd FAd2 FNd W1",
+   "hedef_ayrinti": "B070 hedef 70 kol 4 esik 14.000240 mercek (1,-1,7) Ldil 31 cozulmus 1 kF 21 kH 11 FnH 0 mc 4 kapiG 0 hucre_boy 6/7/4/4 hucre_q 24/-14/-16/-16 kapsam_tur 3 kapsam_duzey 3 | Z:14370362/100000000 F:351/4545528 W:156726/4545528 | dil: Zkd R1c R1e FAd FAd2 FNd W1 | sağlanan: Zkd R1c R1e FAd FAd2 FNd W1 | L*@mercek: Zkd R1c R1e FAd FAd2 FNd W1 | Gmercek 0",
+   "dilsiz": false,
+   "k": 67,
+   "kB": 16,
+   "N": 10000000,
+   "duzey": 2,
+   "eksik": 0,
+   "esik": 14.00023985,
+   "esik_bayrak": 0,
+   "esik_mercek": 31,
+   "p": 6.799999320000068e-06,
+   "ci": [
+    5.19241162852664e-06,
+    8.508755336485223e-06
+   ]
+  },
+  "B071": {
+   "ad": "B071",
+   "hedef": 71,
+   "L": 0,
+   "dil": [
+    "BMn",
+    "F1",
+    "FC1",
+    "FAd",
+    "FNd",
+    "FNd2",
+    "Qa",
+    "Qn",
+    "WId",
+    "WUTd",
+    "WHAd",
+    "WHNd",
+    "WHNd2",
+    "HR1c"
+   ],
+   "boy": 14,
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 2,
+   "n_duzey": 4,
+   "ayrinti": "B071 hedef 71 kol 4 mercek (1,+1,3) puan 12.698361 bilgi 20.015773 mercek_bedeli 7.317413 |Λ| 14 grup_bilgi B 1.5852 Z 0.0000 F 8.8198 W 6.3216 H 3.2892 grup_sayim B 33328744/100000000 Z 0/0 F 17451/7885699 W 98595/7885699 H 391661/3828884 : BMn F1 FC1 FAd FNd FNd2 Qa Qn WId WUTd WHAd WHNd WHNd2 HR1c",
+   "hedef_ayrinti": "B071 hedef 71 kol 4 esik 12.698361 mercek (1,+1,3) Ldil 0 cozulmus 1 kF 38 kH 44 FnH 15 mc 7 kapiG 0 hucre_boy 12/7/7/12 hucre_q 456/152/251/450 kapsam_tur 2 kapsam_duzey 4 | B:33328744/100000000 F:17451/7885699 W:98595/7885699 H:391661/3828884 | dil: BMn F1 FC1 FAd FNd FNd2 Qa Qn WId WUTd WHAd WHNd WHNd2 HR1c | sağlanan: BMn F1 FC1 FAd FNd FNd2 Qa Qn WId WUTd WHAd WHNd WHNd2 HR1c | L*@mercek: BMn F1 FC1 FAd FNd FNd2 Qa Qn WId WUTd WHAd WHNd WHNd2 HR1c | Gmercek 1",
+   "dilsiz": false,
+   "k": 1807,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 12.698360563,
+   "esik_bayrak": 0,
+   "esik_mercek": 0,
+   "p": 0.001807998192001808,
+   "ci": [
+    0.001724705594761127,
+    0.0018922011598159357
+   ]
+  },
+  "B072": {
+   "ad": "B072",
+   "hedef": 72,
+   "L": 38,
+   "dil": [
+    "F1",
+    "R0e",
+    "R1e",
+    "K1",
+    "FC2",
+    "FD1",
+    "FD2",
+    "FSC",
+    "WI1",
+    "HR0c",
+    "HK2"
+   ],
+   "boy": 11,
+   "turler": [
+    "a",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B072 hedef 72 kol 4 mercek (1,-1,31) puan 11.069648 bilgi 18.387060 mercek_bedeli 7.317413 |Λ| 11 grup_bilgi B 0.0000 Z 0.0000 F 11.9151 W 2.6341 H 3.8379 grup_sayim B 0/0 Z 0/0 F 545/2104715 W 339038/2104715 H 1482409/21197419 : F1 R0e R1e K1 FC2 FD1 FD2 FSC WI1 HR0c HK2",
+   "hedef_ayrinti": "B072 hedef 72 kol 4 esik 11.069648 mercek (1,-1,31) Ldil 38 cozulmus 1 kF 8 kH 3 FnH 1 mc 1 kapiG 0 hucre_boy 3/1/3/1 hucre_q 0/0/-1/-1 kapsam_tur 3 kapsam_duzey 3 | F:545/2104715 W:339038/2104715 H:1482409/21197419 | dil: F1 R0e R1e K1 FC2 FD1 FD2 FSC WI1 HR0c HK2 | sağlanan: F1 R0e R1e K1 FC2 FD1 FD2 FSC WI1 HR0c HK2 | L*@mercek: F1 R0e R1e K1 FC2 FD1 FD2 FSC WI1 HR0c HK2 | Gmercek 0",
+   "dilsiz": false,
+   "k": 809,
+   "kB": 5,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 11.069647552,
+   "esik_bayrak": 0,
+   "esik_mercek": 38,
+   "p": 0.00080999919000081,
+   "ci": [
+    0.0007542262942590092,
+    0.0008666975612956086
+   ]
+  },
+  "B073": {
+   "ad": "B073",
+   "hedef": 73,
+   "L": 35,
+   "dil": [
+    "BMn",
+    "F1",
+    "K2",
+    "FC1",
+    "FRK",
+    "FCK",
+    "Qn",
+    "WI1",
+    "WUNd2",
+    "HR1c"
+   ],
+   "boy": 10,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 4,
+   "n_duzey": 4,
+   "ayrinti": "B073 hedef 73 kol 4 mercek (1,-1,19) puan 14.832419 bilgi 22.149832 mercek_bedeli 7.317413 |Λ| 10 grup_bilgi B 4.2479 Z 0.0000 F 3.4234 W 12.2582 H 2.2203 grup_sayim B 5263195/100000000 Z 0/0 F 392237/4208059 W 859/4208059 H 3533494/16466286 : BMn F1 K2 FC1 FRK FCK Qn WI1 WUNd2 HR1c",
+   "hedef_ayrinti": "B073 hedef 73 kol 4 esik 14.832419 mercek (1,-1,19) Ldil 35 cozulmus 1 kF 2 kH 6 FnH 1 mc 0 kapiG 0 hucre_boy 0/1/1/0 hucre_q 0/2/3/0 kapsam_tur 4 kapsam_duzey 4 | B:5263195/100000000 F:392237/4208059 W:859/4208059 H:3533494/16466286 | dil: BMn F1 K2 FC1 FRK FCK Qn WI1 WUNd2 HR1c | sağlanan: BMn F1 K2 FC1 FRK FCK Qn WI1 WUNd2 HR1c | L*@mercek: BMn F1 K2 FC1 FRK FCK Qn WI1 WUNd2 HR1c | Gmercek 0",
+   "dilsiz": false,
+   "k": 26,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 14.832419158,
+   "esik_bayrak": 0,
+   "esik_mercek": 35,
+   "p": 2.6999973000027e-05,
+   "ci": [
+    1.6984131285938045e-05,
+    3.809579351240172e-05
+   ]
+  },
+  "B074": {
+   "ad": "B074",
+   "hedef": 74,
+   "L": 211,
+   "dil": [
+    "R0c",
+    "R0e",
+    "FKS",
+    "FSC",
+    "W1",
+    "Qn",
+    "WEq",
+    "HR0e",
+    "HR1c"
+   ],
+   "boy": 9,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 2,
+   "ayrinti": "B074 hedef 74 kol 4 mercek (2,-1,29) puan 13.988865 bilgi 22.306278 mercek_bedeli 8.317413 |Λ| 9 grup_bilgi B 0.0000 Z 0.0000 F 7.9300 W 7.7437 H 6.6326 grup_sayim B 0/0 Z 0/0 F 64435/15714121 W 73319/15714121 H 156904/15568647 : R0c R0e FKS FSC W1 Qn WEq HR0e HR1c",
+   "hedef_ayrinti": "B074 hedef 74 kol 4 esik 13.988865 mercek (2,-1,29) Ldil 211 cozulmus 1 kF 5 kH 5 FnH 0 mc 1 kapiG 0 hucre_boy 1/1/2/1 hucre_q 2/2/-6/-3 kapsam_tur 4 kapsam_duzey 2 | F:64435/15714121 W:73319/15714121 H:156904/15568647 | dil: R0c R0e FKS FSC W1 Qn WEq HR0e HR1c | sağlanan: R0c R0e FKS FSC W1 Qn WEq HR0e HR1c | L*@mercek: R0c R0e FKS FSC W1 Qn WEq HR0e HR1c | Gmercek 0",
+   "dilsiz": false,
+   "k": 84,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 13.988864661,
+   "esik_bayrak": 0,
+   "esik_mercek": 211,
+   "p": 8.4999915000085e-05,
+   "ci": [
+    6.700222570732598e-05,
+    0.00010399667568895826
+   ]
+  },
+  "B075": {
+   "ad": "B075",
+   "hedef": 75,
+   "L": 234,
+   "dil": [
+    "Zk2p",
+    "Zkd",
+    "F1",
+    "QS",
+    "FC1",
+    "FSd2",
+    "FHSp",
+    "FHSm",
+    "FHSd",
+    "FAd",
+    "FNd",
+    "FKS",
+    "WI1",
+    "WUd",
+    "HR1c"
+   ],
+   "boy": 15,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B075 hedef 75 kol 4 mercek (2,+3,7) puan 13.829581 bilgi 24.146994 mercek_bedeli 10.317413 |Λ| 15 grup_bilgi B 0.0000 Z 3.4425 F 13.3797 W 4.3632 H 2.9616 grup_sayim B 0/0 Z 9198084/100000000 F 863/9198084 W 446938/9198084 H 411554/3205952 : Zk2p Zkd F1 QS FC1 FSd2 FHSp FHSm FHSd FAd FNd FKS WI1 WUd HR1c",
+   "hedef_ayrinti": "B075 hedef 75 kol 4 esik 13.829582 mercek (2,+3,7) Ldil 234 cozulmus 1 kF 14 kH 22 FnH 1 mc 3 kapiG 0 hucre_boy 3/4/4/3 hucre_q 98/162/114/67 kapsam_tur 4 kapsam_duzey 3 | Z:9198084/100000000 F:863/9198084 W:446938/9198084 H:411554/3205952 | dil: Zk2p Zkd F1 QS FC1 FSd2 FHSp FHSm FHSd FAd FNd FKS WI1 WUd HR1c | sağlanan: Zk2p Zkd F1 QS FC1 FSd2 FHSp FHSm FHSd FAd FNd FKS WI1 WUd HR1c | L*@mercek: Zk2p Zkd F1 QS FC1 FSd2 FHSp FHSm FHSd FAd FNd FKS WI1 WUd HR1c | Gmercek 0",
+   "dilsiz": false,
+   "k": 126,
+   "kB": 23,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 13.8295815,
+   "esik_bayrak": 0,
+   "esik_mercek": 234,
+   "p": 0.000126999873000127,
+   "ci": [
+    0.00010496241658800415,
+    0.00015001725059877934
+   ]
+  },
+  "B076": {
+   "ad": "B076",
+   "hedef": 76,
+   "L": 192,
+   "dil": [
+    "R0c",
+    "FC1",
+    "FD1",
+    "FSC",
+    "W1",
+    "Qa",
+    "WEq",
+    "HH1",
+    "HR0c",
+    "HK2"
+   ],
+   "boy": 10,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B076 hedef 76 kol 4 mercek (2,+1,71) puan 11.208412 bilgi 19.525825 mercek_bedeli 8.317413 |Λ| 10 grup_bilgi B 0.0000 Z 0.0000 F 6.3483 W 10.1693 H 3.0082 grup_sayim B 0/0 Z 0/0 F 57916/4718831 W 4098/4718831 H 825132/6638716 : R0c FC1 FD1 FSC W1 Qa WEq HH1 HR0c HK2",
+   "hedef_ayrinti": "B076 hedef 76 kol 4 esik 11.208412 mercek (2,+1,71) Ldil 192 cozulmus 1 kF 4 kH 4 FnH 0 mc 0 kapiG 0 hucre_boy 2/2/0/0 hucre_q 6/4/0/0 kapsam_tur 4 kapsam_duzey 3 | F:57916/4718831 W:4098/4718831 H:825132/6638716 | dil: R0c FC1 FD1 FSC W1 Qa WEq HH1 HR0c HK2 | sağlanan: R0c FC1 FD1 FSC W1 Qa WEq HH1 HR0c HK2 | L*@mercek: R0c FC1 FD1 FSC W1 Qa WEq HH1 HR0c HK2 | Gmercek 0",
+   "dilsiz": false,
+   "k": 383,
+   "kB": 10,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 11.208411933,
+   "esik_bayrak": 0,
+   "esik_mercek": 192,
+   "p": 0.000383999616000384,
+   "ci": [
+    0.0003456047967349548,
+    0.00042333695681583936
+   ]
+  },
+  "B077": {
+   "ad": "B077",
+   "hedef": 77,
+   "L": 73,
+   "dil": [
+    "F1",
+    "K2",
+    "FC1",
+    "FAp",
+    "FAd",
+    "FNp",
+    "FNd",
+    "FRK",
+    "FCK",
+    "Qa",
+    "Qn",
+    "WUAp",
+    "WUNp",
+    "WUTd"
+   ],
+   "boy": 14,
+   "turler": [
+    "a",
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim"
+   ],
+   "n_tur": 3,
+   "n_duzey": 2,
+   "ayrinti": "B077 hedef 77 kol 4 mercek (1,+2,59) puan 12.226021 bilgi 20.543434 mercek_bedeli 8.317413 |Λ| 14 grup_bilgi B 0.0000 Z 0.0000 F 8.9123 W 11.6312 H 0.0000 grup_sayim B 0/0 Z 0/0 F 56654/27295159 W 8605/27295159 H 0/0 : F1 K2 FC1 FAp FAd FNp FNd FRK FCK Qa Qn WUAp WUNp WUTd",
+   "hedef_ayrinti": "B077 hedef 77 kol 4 esik 12.226022 mercek (1,+2,59) Ldil 73 cozulmus 1 kF 2 kH 0 FnH 0 mc 0 kapiG 0 hucre_boy 1/0/0/1 hucre_q 2/0/0/1 kapsam_tur 3 kapsam_duzey 2 | F:56654/27295159 W:8605/27295159 | dil: F1 K2 FC1 FAp FAd FNp FNd FRK FCK Qa Qn WUAp WUNp WUTd | sağlanan: F1 K2 FC1 FAp FAd FNp FNd FRK FCK Qa Qn WUAp WUNp WUTd | L*@mercek: F1 K2 FC1 FAp FAd FNp FNd FRK FCK Qa Qn WUAp WUNp WUTd | Gmercek 0",
+   "dilsiz": false,
+   "k": 18298,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 12.226021529,
+   "esik_bayrak": 0,
+   "esik_mercek": 73,
+   "p": 0.018298981701018298,
+   "ci": [
+    0.018036208125333346,
+    0.018562587291510838
+   ]
+  },
+  "B078": {
+   "ad": "B078",
+   "hedef": 78,
+   "L": 234,
+   "dil": [
+    "Zkd",
+    "WUTd",
+    "WUTd2",
+    "WHAd",
+    "WHNd",
+    "WHNd2",
+    "HH1",
+    "HH2",
+    "HR0c"
+   ],
+   "boy": 9,
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 3,
+   "ayrinti": "B078 hedef 78 kol 4 mercek (2,+3,7) puan 12.638742 bilgi 22.956155 mercek_bedeli 10.317413 |Λ| 9 grup_bilgi B 0.0000 Z 2.8006 F 0.0000 W 8.4201 H 11.7354 grup_sayim B 0/0 Z 14352548/100000000 F 0/0 W 13694/4690698 H 395/1346822 : Zkd WUTd WUTd2 WHAd WHNd WHNd2 HH1 HH2 HR0c",
+   "hedef_ayrinti": "B078 hedef 78 kol 4 esik 12.638742 mercek (2,+3,7) Ldil 234 cozulmus 1 kF 21 kH 24 FnH 2 mc 4 kapiG 0 hucre_boy 7/5/4/5 hucre_q 292/178/170/155 kapsam_tur 2 kapsam_duzey 3 | Z:14352548/100000000 W:13694/4690698 H:395/1346822 | dil: Zkd WUTd WUTd2 WHAd WHNd WHNd2 HH1 HH2 HR0c | sağlanan: Zkd WUTd WUTd2 WHAd WHNd WHNd2 HH1 HH2 HR0c | L*@mercek: Zkd WUTd WUTd2 WHAd WHNd WHNd2 HH1 HH2 HR0c | Gmercek 1",
+   "dilsiz": false,
+   "k": 26,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 12.638742448,
+   "esik_bayrak": 0,
+   "esik_mercek": 234,
+   "p": 2.6999973000027e-05,
+   "ci": [
+    1.6984131285938045e-05,
+    3.809579351240172e-05
+   ]
+  },
+  "B079": {
+   "ad": "B079",
+   "hedef": 79,
+   "L": 36,
+   "dil": [
+    "B1",
+    "F1",
+    "FD1",
+    "FKS",
+    "W1",
+    "Qn",
+    "WEq",
+    "HH2"
+   ],
+   "boy": 8,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 4,
+   "n_duzey": 4,
+   "ayrinti": "B079 hedef 79 kol 4 mercek (1,-1,23) puan 12.128043 bilgi 19.445456 mercek_bedeli 7.317413 |Λ| 8 grup_bilgi B 2.7500 Z 0.0000 F 3.4798 W 7.4288 H 5.7869 grup_sayim B 14865314/100000000 Z 0/0 F 1337078/14917132 W 86578/14917132 H 270191/14917776 : B1 F1 FD1 FKS W1 Qn WEq HH2",
+   "hedef_ayrinti": "B079 hedef 79 kol 4 esik 12.128043 mercek (1,-1,23) Ldil 36 cozulmus 1 kF 6 kH 6 FnH 0 mc 1 kapiG 0 hucre_boy 1/2/1/2 hucre_q -4/2/1/2 kapsam_tur 4 kapsam_duzey 4 | B:14865314/100000000 F:1337078/14917132 W:86578/14917132 H:270191/14917776 | dil: B1 F1 FD1 FKS W1 Qn WEq HH2 | sağlanan: B1 F1 FD1 FKS W1 Qn WEq HH2 | L*@mercek: B1 F1 FD1 FKS W1 Qn WEq HH2 | Gmercek 0",
+   "dilsiz": false,
+   "k": 49,
+   "kB": 1,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 12.128043176,
+   "esik_bayrak": 0,
+   "esik_mercek": 36,
+   "p": 4.999995000005e-05,
+   "ci": [
+    3.625068270988913e-05,
+    6.478008727387911e-05
+   ]
+  },
+  "B080": {
+   "ad": "B080",
+   "hedef": 80,
+   "L": 1,
+   "dil": [
+    "B1",
+    "Zkd",
+    "Zkd2",
+    "F2",
+    "QS",
+    "Qh",
+    "FSd2",
+    "FHd2",
+    "FCd",
+    "Qn",
+    "QH",
+    "WHd",
+    "WUNd2",
+    "HR0c",
+    "HR1c"
+   ],
+   "boy": 15,
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 2,
+   "n_duzey": 4,
+   "ayrinti": "B080 hedef 80 kol 4 mercek (1,+1,5) puan 28.360587 bilgi 35.678000 mercek_bedeli 7.317413 |Λ| 15 grup_bilgi B 2.7500 Z 3.6696 F 15.1847 W 9.2897 H 4.7840 grup_sayim B 14865314/100000000 Z 7858432/100000000 F 211/7858432 W 12556/7858432 H 286400/7890292 : B1 Zkd Zkd2 F2 QS Qh FSd2 FHd2 FCd Qn QH WHd WUNd2 HR0c HR1c",
+   "hedef_ayrinti": "B080 hedef 80 kol 4 esik 28.360586 mercek (1,+1,5) Ldil 1 cozulmus 1 kF 25 kH 20 FnH 6 mc 5 kapiG 0 hucre_boy 6/5/5/9 hucre_q 122/128/83/167 kapsam_tur 2 kapsam_duzey 4 | B:14865314/100000000 Z:7858432/100000000 F:211/7858432 W:12556/7858432 H:286400/7890292 | dil: B1 Zkd Zkd2 F2 QS Qh FSd2 FHd2 FCd Qn QH WHd WUNd2 HR0c HR1c | sağlanan: B1 Zkd Zkd2 F2 QS Qh FSd2 FHd2 FCd Qn QH WHd WUNd2 HR0c HR1c | L*@mercek: B1 Zkd Zkd2 F2 QS Qh FSd2 FHd2 FCd Qn QH WHd WUNd2 HR0c HR1c | Gmercek 0",
+   "dilsiz": false,
+   "k": 1,
+   "kB": 0,
+   "N": 100000000,
+   "duzey": 3,
+   "eksik": 0,
+   "esik": 28.360586406,
+   "esik_bayrak": 0,
+   "esik_mercek": 1,
+   "p": 1.99999998e-08,
+   "ci": [
+    2.531780141393311e-10,
+    5.571637068747401e-08
+   ]
+  },
+  "B081": {
+   "ad": "B081",
+   "hedef": 81,
+   "L": 118,
+   "dil": [
+    "BMt",
+    "R0c",
+    "QS",
+    "FKS",
+    "HR0e",
+    "HR1c"
+   ],
+   "boy": 6,
+   "turler": [
+    "a",
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B081 hedef 81 kol 4 mercek (1,+3,7) puan 9.206401 bilgi 18.523813 mercek_bedeli 9.317413 |Λ| 6 grup_bilgi B 2.8071 Z 0.0000 F 6.8914 W 0.0000 H 8.8253 grup_sayim B 14288184/100000000 Z 0/0 F 87424/10378699 W 0/0 H 12924/5862531 : BMt R0c QS FKS HR0e HR1c",
+   "hedef_ayrinti": "B081 hedef 81 kol 4 esik 9.206400 mercek (1,+3,7) Ldil 118 cozulmus 1 kF 15 kH 12 FnH 2 mc 3 kapiG 0 hucre_boy 4/4/3/4 hucre_q 128/94/71/162 kapsam_tur 3 kapsam_duzey 3 | B:14288184/100000000 F:87424/10378699 H:12924/5862531 | dil: BMt R0c QS FKS HR0e HR1c | sağlanan: BMt R0c QS FKS HR0e HR1c | L*@mercek: BMt R0c QS FKS HR0e HR1c | Gmercek 0",
+   "dilsiz": false,
+   "k": 82,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 9.206400157,
+   "esik_bayrak": 0,
+   "esik_mercek": 118,
+   "p": 8.2999917000083e-05,
+   "ci": [
+    6.521754813750476e-05,
+    0.0001017826140855067
+   ]
+  },
+  "B082": {
+   "ad": "B082",
+   "hedef": 82,
+   "L": 4,
+   "dil": [
+    "QkF",
+    "Zkd",
+    "R0e",
+    "FCK",
+    "FKS",
+    "WI1",
+    "WUTd",
+    "WHAd",
+    "WHAd2",
+    "WHNd",
+    "HR1e"
+   ],
+   "boy": 11,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B082 hedef 82 kol 4 mercek (1,+1,13) puan 21.507528 bilgi 28.824940 mercek_bedeli 7.317413 |Λ| 11 grup_bilgi B 0.0000 Z 4.4594 F 10.6903 W 8.6039 H 5.0714 grup_sayim B 0/0 Z 4545464/100000000 F 2751/4545464 W 11683/4545464 H 104911/3527438 : QkF Zkd R0e FCK FKS WI1 WUTd WHAd WHAd2 WHNd HR1e",
+   "hedef_ayrinti": "B082 hedef 82 kol 4 esik 21.507529 mercek (1,+1,13) Ldil 4 cozulmus 1 kF 13 kH 4 FnH 1 mc 2 kapiG 0 hucre_boy 2/4/3/4 hucre_q 22/22/25/24 kapsam_tur 4 kapsam_duzey 3 | Z:4545464/100000000 F:2751/4545464 W:11683/4545464 H:104911/3527438 | dil: QkF Zkd R0e FCK FKS WI1 WUTd WHAd WHAd2 WHNd HR1e | sağlanan: QkF Zkd R0e FCK FKS WI1 WUTd WHAd WHAd2 WHNd HR1e | L*@mercek: QkF Zkd R0e FCK FKS WI1 WUTd WHAd WHAd2 WHNd HR1e | Gmercek 0",
+   "dilsiz": false,
+   "k": 20,
+   "kB": 8,
+   "N": 100000000,
+   "duzey": 3,
+   "eksik": 0,
+   "esik": 21.507528545,
+   "esik_bayrak": 0,
+   "esik_mercek": 4,
+   "p": 2.0999999790000003e-07,
+   "ci": [
+    1.2216519569633996e-07,
+    3.0888358491819904e-07
+   ]
+  },
+  "B083": {
+   "ad": "B083",
+   "hedef": 83,
+   "L": 295,
+   "dil": [
+    "QS",
+    "FD1",
+    "FCd",
+    "W1",
+    "QH",
+    "WUTd",
+    "WHAd",
+    "WHNd",
+    "HR0e"
+   ],
+   "boy": 9,
+   "turler": [
+    "a",
+    "b",
+    "c"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B083 hedef 83 kol 4 mercek (3,+1,17) puan 14.327381 bilgi 23.644793 mercek_bedeli 9.317413 |Λ| 9 grup_bilgi B 0.0000 Z 0.0000 F 10.2983 W 8.6717 H 4.6748 grup_sayim B 0/0 Z 0/0 F 1525/1920261 W 4709/1920261 H 497292/12702274 : QS FD1 FCd W1 QH WUTd WHAd WHNd HR0e",
+   "hedef_ayrinti": "B083 hedef 83 kol 4 esik 14.327381 mercek (3,+1,17) Ldil 295 cozulmus 1 kF 12 kH 8 FnH 0 mc 0 kapiG 0 hucre_boy 4/6/0/2 hucre_q 68/78/0/24 kapsam_tur 3 kapsam_duzey 3 | F:1525/1920261 W:4709/1920261 H:497292/12702274 | dil: QS FD1 FCd W1 QH WUTd WHAd WHNd HR0e | sağlanan: QS FD1 FCd W1 QH WUTd WHAd WHNd HR0e | L*@mercek: QS FD1 FCd W1 QH WUTd WHAd WHNd HR0e | Gmercek 0",
+   "dilsiz": false,
+   "k": 12,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 14.327381374,
+   "esik_bayrak": 0,
+   "esik_mercek": 295,
+   "p": 1.2999987000013e-05,
+   "ci": [
+    6.2005899874295945e-06,
+    2.0961490980760637e-05
+   ]
+  },
+  "B084": {
+   "ad": "B084",
+   "hedef": 84,
+   "L": 302,
+   "dil": [
+    "FC1",
+    "FRK",
+    "FSC",
+    "W1",
+    "WEq",
+    "HH1",
+    "HR0c",
+    "HR0e"
+   ],
+   "boy": 8,
+   "turler": [
+    "a",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B084 hedef 84 kol 4 mercek (3,+1,43) puan 6.953280 bilgi 16.270693 mercek_bedeli 9.317413 |Λ| 8 grup_bilgi B 0.0000 Z 0.0000 F 8.8022 W 2.8985 H 4.5700 grup_sayim B 0/0 Z 0/0 F 33420/14918857 W 2000815/14918857 H 616999/14655251 : FC1 FRK FSC W1 WEq HH1 HR0c HR0e",
+   "hedef_ayrinti": "B084 hedef 84 kol 4 esik 6.953280 mercek (3,+1,43) Ldil 302 cozulmus 1 kF 4 kH 4 FnH 0 mc 0 kapiG 0 hucre_boy 2/1/0/1 hucre_q 4/2/0/5 kapsam_tur 3 kapsam_duzey 3 | F:33420/14918857 W:2000815/14918857 H:616999/14655251 | dil: FC1 FRK FSC W1 WEq HH1 HR0c HR0e | sağlanan: FC1 FRK FSC W1 WEq HH1 HR0c HR0e | L*@mercek: FC1 FRK FSC W1 WEq HH1 HR0c HR0e | Gmercek 0",
+   "dilsiz": false,
+   "k": 6534,
+   "kB": 31,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 6.95328045,
+   "esik_bayrak": 0,
+   "esik_mercek": 302,
+   "p": 0.006534993465006535,
+   "ci": [
+    0.006377018933093956,
+    0.0066938495276104345
+   ]
+  },
+  "B085": {
+   "ad": "B085",
+   "hedef": 85,
+   "L": 31,
+   "dil": [
+    "F1",
+    "R0c",
+    "FC2",
+    "FAd",
+    "FNd",
+    "FKS",
+    "W1",
+    "Qa",
+    "Qn",
+    "WUNd2",
+    "WUTd",
+    "WHAd",
+    "WHNd"
+   ],
+   "boy": 13,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B085 hedef 85 kol 4 mercek (1,-1,7) puan 18.073775 bilgi 25.391187 mercek_bedeli 7.317413 |Λ| 13 grup_bilgi B 0.0000 Z 0.0000 F 13.5039 W 11.8873 H 0.0000 grup_sayim B 0/0 Z 0/0 F 919/10675366 W 2818/10675366 H 0/0 : F1 R0c FC2 FAd FNd FKS W1 Qa Qn WUNd2 WUTd WHAd WHNd",
+   "hedef_ayrinti": "B085 hedef 85 kol 4 esik 18.073775 mercek (1,-1,7) Ldil 31 cozulmus 1 kF 16 kH 9 FnH 0 mc 3 kapiG 0 hucre_boy 4/4/3/5 hucre_q -26/-10/3/-13 kapsam_tur 4 kapsam_duzey 3 | F:919/10675366 W:2818/10675366 | dil: F1 R0c FC2 FAd FNd FKS W1 Qa Qn WUNd2 WUTd WHAd WHNd | sağlanan: F1 R0c FC2 FAd FNd FKS W1 Qa Qn WUNd2 WUTd WHAd WHNd | L*@mercek: F1 R0c FC2 FAd FNd FKS W1 Qa Qn WUNd2 WUTd WHAd WHNd | Gmercek 0",
+   "dilsiz": false,
+   "k": 20,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 18.073775054,
+   "esik_bayrak": 0,
+   "esik_mercek": 31,
+   "p": 2.0999979000021e-05,
+   "ci": [
+    1.2216561017504294e-05,
+    3.088820958289153e-05
+   ]
+  },
+  "B086": {
+   "ad": "B086",
+   "hedef": 86,
+   "L": 174,
+   "dil": [
+    "BMn",
+    "Zkd",
+    "Zkd2",
+    "F1",
+    "QS",
+    "FD1",
+    "FSd2",
+    "FHSd",
+    "FHSd2",
+    "QH",
+    "WUd",
+    "WUd2",
+    "WUTd",
+    "WHAd",
+    "WHAd2",
+    "WHNd",
+    "WHNd2",
+    "WHRd2",
+    "HH1",
+    "HR0c",
+    "HR1c"
+   ],
+   "boy": 21,
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 2,
+   "n_duzey": 4,
+   "ayrinti": "B086 hedef 86 kol 4 mercek (2,+1,3) puan 21.349705 bilgi 29.667118 mercek_bedeli 8.317413 |Λ| 21 grup_bilgi B 1.5851 Z 3.1664 F 8.8617 W 8.5396 H 7.5142 grup_sayim B 33329492/100000000 Z 11137941/100000000 F 15872/7383798 W 19843/7383798 H 39409/7204449 : BMn Zkd Zkd2 F1 QS FD1 FSd2 FHSd FHSd2 QH WUd WUd2 WUTd WHAd WHAd2 WHNd WHNd2 WHRd2 HH1 HR0c HR1c",
+   "hedef_ayrinti": "B086 hedef 86 kol 4 esik 21.349705 mercek (2,+1,3) Ldil 174 cozulmus 1 kF 36 kH 40 FnH 13 mc 8 kapiG 0 hucre_boy 8/10/8/10 hucre_q 448/588/540/458 kapsam_tur 2 kapsam_duzey 4 | B:33329492/100000000 Z:11137941/100000000 F:15872/7383798 W:19843/7383798 H:39409/7204449 | dil: BMn Zkd Zkd2 F1 QS FD1 FSd2 FHSd FHSd2 QH WUd WUd2 WUTd WHAd WHAd2 WHNd WHNd2 WHRd2 HH1 HR0c HR1c | sağlanan: BMn Zkd Zkd2 F1 QS FD1 FSd2 FHSd FHSd2 QH WUd WUd2 WUTd WHAd WHAd2 WHNd WHNd2 WHRd2 HH1 HR0c HR1c | L*@mercek: BMn Zkd Zkd2 F1 QS FD1 FSd2 FHSd FHSd2 QH WUd WUd2 WUTd WHAd WHAd2 WHNd WHNd2 WHRd2 HH1 HR0c HR1c | Gmercek 0",
+   "dilsiz": false,
+   "k": 14,
+   "kB": 0,
+   "N": 10000000,
+   "duzey": 2,
+   "eksik": 0,
+   "esik": 21.34970522,
+   "esik_bayrak": 0,
+   "esik_mercek": 174,
+   "p": 1.499999850000015e-06,
+   "ci": [
+    7.653932307755591e-07,
+    2.3489609508007387e-06
+   ]
+  },
+  "B087": {
+   "ad": "B087",
+   "hedef": 87,
+   "L": 38,
+   "dil": [
+    "R0c",
+    "R0e",
+    "K2",
+    "FA2p",
+    "FAd",
+    "FNd",
+    "FRK",
+    "Qa",
+    "Qn",
+    "WUA2p",
+    "WUTd"
+   ],
+   "boy": 11,
+   "turler": [
+    "a",
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B087 hedef 87 kol 4 mercek (1,-1,31) puan 18.138761 bilgi 25.456174 mercek_bedeli 7.317413 |Λ| 11 grup_bilgi B 0.0000 Z 0.0000 F 12.2574 W 13.1988 H 0.0000 grup_sayim B 0/0 Z 0/0 F 4292/21013798 W 2235/21013798 H 0/0 : R0c R0e K2 FA2p FAd FNd FRK Qa Qn WUA2p WUTd",
+   "hedef_ayrinti": "B087 hedef 87 kol 4 esik 18.138761 mercek (1,-1,31) Ldil 38 cozulmus 1 kF 3 kH 0 FnH 0 mc 0 kapiG 0 hucre_boy 1/1/1/0 hucre_q 2/2/3/0 kapsam_tur 3 kapsam_duzey 3 | F:4292/21013798 W:2235/21013798 | dil: R0c R0e K2 FA2p FAd FNd FRK Qa Qn WUA2p WUTd | sağlanan: R0c R0e K2 FA2p FAd FNd FRK Qa Qn WUA2p WUTd | L*@mercek: R0c R0e K2 FA2p FAd FNd FRK Qa Qn WUA2p WUTd | Gmercek 0",
+   "dilsiz": false,
+   "k": 187,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 18.138761283,
+   "esik_bayrak": 0,
+   "esik_mercek": 38,
+   "p": 0.000187999812000188,
+   "ci": [
+    0.00016115924718021417,
+    0.00021580482514077967
+   ]
+  },
+  "B088": {
+   "ad": "B088",
+   "hedef": 88,
+   "L": 116,
+   "dil": [
+    "F1",
+    "R0e",
+    "K1",
+    "QS",
+    "FAd",
+    "FRK",
+    "FCK",
+    "FKS",
+    "Qa",
+    "QH",
+    "WUTd2",
+    "WHAd",
+    "WHRd2",
+    "HH1"
+   ],
+   "boy": 14,
+   "turler": [
+    "a",
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B088 hedef 88 kol 4 mercek (1,+3,3) puan 24.390952 bilgi 33.708364 mercek_bedeli 9.317413 |Λ| 14 grup_bilgi B 0.0000 Z 0.0000 F 27.5754 W 3.1694 H 2.9635 grup_sayim B 0/0 Z 0/0 F 0/100000000 W 11115191/100000000 H 12819890/100000000 : F1 R0e K1 QS FAd FRK FCK FKS Qa QH WUTd2 WHAd WHRd2 HH1",
+   "hedef_ayrinti": "B088 hedef 88 kol 4 esik 24.390951 mercek (1,+3,3) Ldil 116 cozulmus 0 kF 38 kH 38 FnH 38 mc 9 kapiG 0 hucre_boy 9/10/10/9 hucre_q 728/728/728/729 kapsam_tur 3 kapsam_duzey 3 | F:0/100000000 W:11115191/100000000 H:12819890/100000000 | dil: F1 R0e K1 QS FAd FRK FCK FKS Qa QH WUTd2 WHAd WHRd2 HH1 | sağlanan: F1 R0e K1 QS FAd FRK FCK FKS Qa QH WUTd2 WHAd WHRd2 HH1 | L*@mercek: F1 R0e K1 QS FAd FRK FCK FKS Qa QH WUTd2 WHAd WHRd2 HH1 | Gmercek 0",
+   "dilsiz": false,
+   "k": 49,
+   "kB": 0,
+   "N": 10000000,
+   "duzey": 2,
+   "eksik": 0,
+   "esik": 24.390951158,
+   "esik_bayrak": 0,
+   "esik_mercek": 116,
+   "p": 4.99999950000005e-06,
+   "ci": [
+    3.6250491039011117e-06,
+    6.478054635414016e-06
+   ]
+  },
+  "B089": {
+   "ad": "B089",
+   "hedef": 89,
+   "L": 213,
+   "dil": [
+    "F1",
+    "F2",
+    "R0c",
+    "FC2",
+    "FAd",
+    "FNd",
+    "W1",
+    "WEq",
+    "HH1",
+    "HR0c",
+    "HR1c",
+    "HR1e"
+   ],
+   "boy": 12,
+   "turler": [
+    "a",
+    "b",
+    "c"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B089 hedef 89 kol 4 mercek (2,-1,37) puan 12.580698 bilgi 20.898111 mercek_bedeli 8.317413 |Λ| 12 grup_bilgi B 0.0000 Z 0.0000 F 12.7795 W 2.7489 H 5.3697 grup_sayim B 0/0 Z 0/0 F 2472/17380547 W 2585607/17380547 H 415657/17186104 : F1 F2 R0c FC2 FAd FNd W1 WEq HH1 HR0c HR1c HR1e",
+   "hedef_ayrinti": "B089 hedef 89 kol 4 esik 12.580698 mercek (2,-1,37) Ldil 213 cozulmus 1 kF 4 kH 4 FnH 0 mc 0 kapiG 0 hucre_boy 1/1/0/2 hucre_q 4/0/0/4 kapsam_tur 3 kapsam_duzey 3 | F:2472/17380547 W:2585607/17380547 H:415657/17186104 | dil: F1 F2 R0c FC2 FAd FNd W1 WEq HH1 HR0c HR1c HR1e | sağlanan: F1 F2 R0c FC2 FAd FNd W1 WEq HH1 HR0c HR1c HR1e | L*@mercek: F1 F2 R0c FC2 FAd FNd W1 WEq HH1 HR0c HR1c HR1e | Gmercek 1",
+   "dilsiz": false,
+   "k": 359,
+   "kB": 3,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 12.580697776,
+   "esik_bayrak": 0,
+   "esik_mercek": 213,
+   "p": 0.00035999964000036,
+   "ci": [
+    0.0003228256963367471,
+    0.00039811781791681227
+   ]
+  },
+  "B090": {
+   "ad": "B090",
+   "hedef": 90,
+   "L": 294,
+   "dil": [
+    "F2",
+    "FD2",
+    "FAd",
+    "FNd",
+    "W1",
+    "HR0c",
+    "HR0e"
+   ],
+   "boy": 7,
+   "turler": [
+    "a",
+    "b",
+    "c"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B090 hedef 90 kol 4 mercek (3,+1,13) puan 13.377076 bilgi 22.694489 mercek_bedeli 9.317413 |Λ| 7 grup_bilgi B 0.0000 Z 0.0000 F 14.7573 W 0.5559 H 7.3814 grup_sayim B 0/0 Z 0/0 F 234/6480324 W 4408266/6480324 H 15866/2645328 : F2 FD2 FAd FNd W1 HR0c HR0e",
+   "hedef_ayrinti": "B090 hedef 90 kol 4 esik 13.377076 mercek (3,+1,13) Ldil 294 cozulmus 1 kF 5 kH 14 FnH 0 mc 0 kapiG 0 hucre_boy 3/0/2/0 hucre_q 42/0/42/0 kapsam_tur 3 kapsam_duzey 3 | F:234/6480324 W:4408266/6480324 H:15866/2645328 | dil: F2 FD2 FAd FNd W1 HR0c HR0e | sağlanan: F2 FD2 FAd FNd W1 HR0c HR0e | L*@mercek: F2 FD2 FAd FNd W1 HR0c HR0e | Gmercek 0",
+   "dilsiz": false,
+   "k": 17,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 13.377076269,
+   "esik_bayrak": 0,
+   "esik_mercek": 294,
+   "p": 1.7999982000018e-05,
+   "ci": [
+    9.903156656773567e-06,
+    2.72185075919043e-05
+   ]
+  },
+  "B091": {
+   "ad": "B091",
+   "hedef": 91,
+   "L": 61,
+   "dil": [
+    "Qn",
+    "QH",
+    "WEq",
+    "WU2p",
+    "WUd",
+    "WHRd2",
+    "HH1",
+    "HH2"
+   ],
+   "boy": 8,
+   "turler": [
+    "a",
+    "b",
+    "c"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim"
+   ],
+   "n_tur": 3,
+   "n_duzey": 2,
+   "ayrinti": "B091 hedef 91 kol 4 mercek (1,+2,11) puan 15.173179 bilgi 23.490591 mercek_bedeli 8.317413 |Λ| 8 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 16.0081 H 7.4825 grup_sayim B 0/0 Z 0/0 F 0/0 W 158/10413236 H 58921/10536931 : Qn QH WEq WU2p WUd WHRd2 HH1 HH2",
+   "hedef_ayrinti": "B091 hedef 91 kol 4 esik 15.173179 mercek (1,+2,11) Ldil 61 cozulmus 1 kF 12 kH 12 FnH 2 mc 0 kapiG 0 hucre_boy 5/0/0/7 hucre_q 52/0/0/125 kapsam_tur 3 kapsam_duzey 2 | W:158/10413236 H:58921/10536931 | dil: Qn QH WEq WU2p WUd WHRd2 HH1 HH2 | sağlanan: Qn QH WEq WU2p WUd WHRd2 HH1 HH2 | L*@mercek: Qn QH WEq WU2p WUd WHRd2 HH1 HH2 | Gmercek 0",
+   "dilsiz": false,
+   "k": 50,
+   "kB": 0,
+   "N": 10000000,
+   "duzey": 2,
+   "eksik": 0,
+   "esik": 15.173179389,
+   "esik_bayrak": 0,
+   "esik_mercek": 61,
+   "p": 5.099999490000051e-06,
+   "ci": [
+    3.7110985781657606e-06,
+    6.5918713109535285e-06
+   ]
+  },
+  "B092": {
+   "ad": "B092",
+   "hedef": 92,
+   "L": 3,
+   "dil": [
+    "F1",
+    "QS",
+    "Qh",
+    "FD1",
+    "FCd",
+    "FAd",
+    "FNd",
+    "FKS",
+    "WI1",
+    "HR1c"
+   ],
+   "boy": 10,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B092 hedef 92 kol 4 mercek (1,+1,11) puan 13.873558 bilgi 21.190970 mercek_bedeli 7.317413 |Λ| 10 grup_bilgi B 0.0000 Z 0.0000 F 17.7114 W 1.2090 H 2.2705 grup_sayim B 0/0 Z 0/0 F 23/4936329 W 2135273/4936329 H 1676031/8086727 : F1 QS Qh FD1 FCd FAd FNd FKS WI1 HR1c",
+   "hedef_ayrinti": "B092 hedef 92 kol 4 esik 13.873557 mercek (1,+1,11) Ldil 3 cozulmus 1 kF 6 kH 7 FnH 1 mc 1 kapiG 0 hucre_boy 2/1/2/1 hucre_q 14/8/30/3 kapsam_tur 4 kapsam_duzey 3 | F:23/4936329 W:2135273/4936329 H:1676031/8086727 | dil: F1 QS Qh FD1 FCd FAd FNd FKS WI1 HR1c | sağlanan: F1 QS Qh FD1 FCd FAd FNd FKS WI1 HR1c | L*@mercek: F1 QS Qh FD1 FCd FAd FNd FKS WI1 HR1c | Gmercek 0",
+   "dilsiz": false,
+   "k": 15,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 13.87355733,
+   "esik_bayrak": 0,
+   "esik_mercek": 3,
+   "p": 1.5999984000016e-05,
+   "ci": [
+    8.395409657683342e-06,
+    2.4740098229640964e-05
+   ]
+  },
+  "B093": {
+   "ad": "B093",
+   "hedef": 93,
+   "L": 31,
+   "dil": [
+    "R0e",
+    "FAd",
+    "FNd",
+    "FRK",
+    "Qa",
+    "Qn",
+    "WUTd",
+    "WHAd",
+    "WHNd",
+    "HR0c"
+   ],
+   "boy": 10,
+   "turler": [
+    "a",
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B093 hedef 93 kol 4 mercek (1,-1,7) puan 14.214809 bilgi 21.532222 mercek_bedeli 7.317413 |Λ| 10 grup_bilgi B 0.0000 Z 0.0000 F 13.0589 W 5.6186 H 2.8547 grup_sayim B 0/0 Z 0/0 F 1251/10675366 W 217271/10675366 H 1072863/7760370 : R0e FAd FNd FRK Qa Qn WUTd WHAd WHNd HR0c",
+   "hedef_ayrinti": "B093 hedef 93 kol 4 esik 14.214809 mercek (1,-1,7) Ldil 31 cozulmus 1 kF 16 kH 19 FnH 3 mc 2 kapiG 0 hucre_boy 4/5/2/5 hucre_q -2/-2/-10/5 kapsam_tur 3 kapsam_duzey 3 | F:1251/10675366 W:217271/10675366 H:1072863/7760370 | dil: R0e FAd FNd FRK Qa Qn WUTd WHAd WHNd HR0c | sağlanan: R0e FAd FNd FRK Qa Qn WUTd WHAd WHNd HR0c | L*@mercek: R0e FAd FNd FRK Qa Qn WUTd WHAd WHNd HR0c | Gmercek 0",
+   "dilsiz": false,
+   "k": 768,
+   "kB": 1,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 14.21480918,
+   "esik_bayrak": 0,
+   "esik_mercek": 31,
+   "p": 0.000768999231000769,
+   "ci": [
+    0.0007146558666609273,
+    0.0008242691253433292
+   ]
+  },
+  "B094": {
+   "ad": "B094",
+   "hedef": 94,
+   "L": 1,
+   "dil": [
+    "B2",
+    "QS",
+    "FD1",
+    "FCd",
+    "FKS",
+    "WHd",
+    "WUTd",
+    "WHAd",
+    "WHNd"
+   ],
+   "boy": 9,
+   "turler": [
+    "a",
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 3,
+   "n_duzey": 4,
+   "ayrinti": "B094 hedef 94 kol 4 mercek (1,+1,5) puan 16.020531 bilgi 23.337944 mercek_bedeli 7.317413 |Λ| 9 grup_bilgi B 9.7981 Z 0.0000 F 8.9027 W 4.6372 H 0.0000 grup_sayim B 112329/100000000 Z 0/0 F 5715/2735238 W 109916/2735238 H 0/0 : B2 QS FD1 FCd FKS WHd WUTd WHAd WHNd",
+   "hedef_ayrinti": "B094 hedef 94 kol 4 esik 16.020532 mercek (1,+1,5) Ldil 1 cozulmus 1 kF 16 kH 20 FnH 3 mc 3 kapiG 0 hucre_boy 4/3/5/4 hucre_q 40/96/85/134 kapsam_tur 3 kapsam_duzey 4 | B:112329/100000000 F:5715/2735238 W:109916/2735238 | dil: B2 QS FD1 FCd FKS WHd WUTd WHAd WHNd | sağlanan: B2 QS FD1 FCd FKS WHd WUTd WHAd WHNd | L*@mercek: B2 QS FD1 FCd FKS WHd WUTd WHAd WHNd | Gmercek 0",
+   "dilsiz": false,
+   "k": 31,
+   "kB": 0,
+   "N": 10000000,
+   "duzey": 2,
+   "eksik": 0,
+   "esik": 16.020531894,
+   "esik_bayrak": 0,
+   "esik_mercek": 1,
+   "p": 3.199999680000032e-06,
+   "ci": [
+    2.106300538256778e-06,
+    4.400199611090033e-06
+   ]
+  },
+  "B095": {
+   "ad": "B095",
+   "hedef": 95,
+   "L": 314,
+   "dil": [
+    "K2",
+    "FAp",
+    "FAd",
+    "FN2p",
+    "FNd",
+    "FRK",
+    "FCK",
+    "FSC",
+    "Qa",
+    "Qn",
+    "WUAp",
+    "WUN2p",
+    "WUTd"
+   ],
+   "boy": 13,
+   "turler": [
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 3,
+   "ayrinti": "B095 hedef 95 kol 4 mercek (3,+1,101) puan 12.904370 bilgi 22.221783 mercek_bedeli 9.317413 |Λ| 13 grup_bilgi B 0.0000 Z 0.0000 F 12.2447 W 9.9771 H 0.0000 grup_sayim B 0/0 Z 0/0 F 1368/6638936 W 6587/6638936 H 0/0 : K2 FAp FAd FN2p FNd FRK FCK FSC Qa Qn WUAp WUN2p WUTd",
+   "hedef_ayrinti": "B095 hedef 95 kol 4 esik 12.904370 mercek (3,+1,101) Ldil 314 cozulmus 1 kF 3 kH 0 FnH 0 mc 0 kapiG 0 hucre_boy 0/2/1/0 hucre_q 0/4/3/0 kapsam_tur 2 kapsam_duzey 3 | F:1368/6638936 W:6587/6638936 | dil: K2 FAp FAd FN2p FNd FRK FCK FSC Qa Qn WUAp WUN2p WUTd | sağlanan: K2 FAp FAd FN2p FNd FRK FCK FSC Qa Qn WUAp WUN2p WUTd | L*@mercek: K2 FAp FAd FN2p FNd FRK FCK FSC Qa Qn WUAp WUN2p WUTd | Gmercek 0",
+   "dilsiz": false,
+   "k": 16073,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 12.904370071,
+   "esik_bayrak": 0,
+   "esik_mercek": 314,
+   "p": 0.016073983926016073,
+   "ci": [
+    0.015827424418322203,
+    0.016321384374335512
+   ]
+  },
+  "B096": {
+   "ad": "B096",
+   "hedef": 96,
+   "L": 209,
+   "dil": [
+    "F1",
+    "FC1",
+    "FAd",
+    "FNd",
+    "FRK",
+    "FKS",
+    "W1",
+    "QH",
+    "WHR2p"
+   ],
+   "boy": 9,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B096 hedef 96 kol 4 mercek (2,-1,19) puan 8.465636 bilgi 16.783048 mercek_bedeli 8.317413 |Λ| 9 grup_bilgi B 0.0000 Z 0.0000 F 10.5281 W 6.2550 H 0.0000 grup_sayim B 0/0 Z 0/0 F 11150/16464105 W 215576/16464105 H 0/0 : F1 FC1 FAd FNd FRK FKS W1 QH WHR2p",
+   "hedef_ayrinti": "B096 hedef 96 kol 4 esik 8.465636 mercek (2,-1,19) Ldil 209 cozulmus 1 kF 6 kH 5 FnH 0 mc 1 kapiG 0 hucre_boy 1/2/2/1 hucre_q 2/10/12/-1 kapsam_tur 4 kapsam_duzey 3 | F:11150/16464105 W:215576/16464105 | dil: F1 FC1 FAd FNd FRK FKS W1 QH WHR2p | sağlanan: F1 FC1 FAd FNd FRK FKS W1 QH WHR2p | L*@mercek: F1 FC1 FAd FNd FRK FKS W1 QH WHR2p | Gmercek 0",
+   "dilsiz": false,
+   "k": 985,
+   "kB": 4,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 8.465636016,
+   "esik_bayrak": 0,
+   "esik_mercek": 209,
+   "p": 0.000985999014000986,
+   "ci": [
+    0.0009244671985897641,
+    0.0010484524360324019
+   ]
+  },
+  "B097": {
+   "ad": "B097",
+   "hedef": 97,
+   "L": 29,
+   "dil": [
+    "R0c",
+    "QS",
+    "FC2",
+    "FCd",
+    "Qn",
+    "WUd",
+    "WUd2",
+    "WHd",
+    "WHd2"
+   ],
+   "boy": 9,
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 3,
+   "ayrinti": "B097 hedef 97 kol 4 mercek (1,-1,3) puan 8.573839 bilgi 15.891252 mercek_bedeli 7.317413 |Λ| 9 grup_bilgi B 0.0000 Z 0.0000 F 12.1254 W 3.7658 H 0.0000 grup_sayim B 0/0 Z 0/0 F 1612/7202478 W 529487/7202478 H 0/0 : R0c QS FC2 FCd Qn WUd WUd2 WHd WHd2",
+   "hedef_ayrinti": "B097 hedef 97 kol 4 esik 8.573840 mercek (1,-1,3) Ldil 29 cozulmus 1 kF 40 kH 36 FnH 13 mc 8 kapiG 0 hucre_boy 8/8/9/15 hucre_q 32/-102/-17/117 kapsam_tur 2 kapsam_duzey 3 | F:1612/7202478 W:529487/7202478 | dil: R0c QS FC2 FCd Qn WUd WUd2 WHd WHd2 | sağlanan: R0c QS FC2 FCd Qn WUd WUd2 WHd WHd2 | L*@mercek: R0c QS FC2 FCd Qn WUd WUd2 WHd WHd2 | Gmercek 0",
+   "dilsiz": false,
+   "k": 1406,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 8.573839904,
+   "esik_bayrak": 0,
+   "esik_mercek": 29,
+   "p": 0.001406998593001407,
+   "ci": [
+    0.0013335072901180132,
+    0.0014814048522579317
+   ]
+  },
+  "B098": {
+   "ad": "B098",
+   "hedef": 98,
+   "L": 90,
+   "dil": [
+    "FSC",
+    "QkH",
+    "WI1",
+    "WHd",
+    "HK2"
+   ],
+   "boy": 5,
+   "turler": [
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 3,
+   "n_duzey": 3,
+   "ayrinti": "B098 hedef 98 kol 4 mercek (1,-2,11) puan 14.770686 bilgi 23.088099 mercek_bedeli 8.317413 |Λ| 5 grup_bilgi B 0.0000 Z 0.0000 F 4.7061 W 4.1768 H 14.2052 grup_sayim B 0/0 Z 0/0 F 196342/5124909 W 283362/5124909 H 649/12258504 : FSC QkH WI1 WHd HK2",
+   "hedef_ayrinti": "B098 hedef 98 kol 4 esik 14.770686 mercek (1,-2,11) Ldil 90 cozulmus 1 kF 6 kH 11 FnH 1 mc 0 kapiG 0 hucre_boy 4/0/0/2 hucre_q -24/0/0/-18 kapsam_tur 3 kapsam_duzey 3 | F:196342/5124909 W:283362/5124909 H:649/12258504 | dil: FSC QkH WI1 WHd HK2 | sağlanan: FSC QkH WI1 WHd HK2 | L*@mercek: FSC QkH WI1 WHd HK2 | Gmercek 1",
+   "dilsiz": false,
+   "k": 37,
+   "kB": 0,
+   "N": 10000000,
+   "duzey": 2,
+   "eksik": 0,
+   "esik": 14.770686389,
+   "esik_bayrak": 0,
+   "esik_mercek": 90,
+   "p": 3.799999620000038e-06,
+   "ci": [
+    2.605142751924739e-06,
+    5.099958939429605e-06
+   ]
+  },
+  "B099": {
+   "ad": "B099",
+   "hedef": 99,
+   "L": 205,
+   "dil": [
+    "Zk2p",
+    "Zkd",
+    "F1",
+    "FHSp",
+    "FHSm",
+    "FHSd",
+    "FKS",
+    "QH",
+    "WI1",
+    "WUd",
+    "WHRd2",
+    "HH1",
+    "HH2",
+    "HR1c"
+   ],
+   "boy": 14,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 4,
+   "n_duzey": 3,
+   "ayrinti": "B099 hedef 99 kol 4 mercek (2,-1,7) puan 16.521364 bilgi 24.838777 mercek_bedeli 8.317413 |Λ| 14 grup_bilgi B 0.0000 Z 3.4163 F 2.7478 W 9.9760 H 8.6988 grup_sayim B 0/0 Z 9366832/100000000 F 1394548/9366832 W 9301/9366832 H 1806/750421 : Zk2p Zkd F1 FHSp FHSm FHSd FKS QH WI1 WUd WHRd2 HH1 HH2 HR1c",
+   "hedef_ayrinti": "B099 hedef 99 kol 4 esik 16.521364 mercek (2,-1,7) Ldil 205 cozulmus 1 kF 14 kH 8 FnH 1 mc 2 kapiG 0 hucre_boy 5/2/4/3 hucre_q 14/50/30/-9 kapsam_tur 4 kapsam_duzey 3 | Z:9366832/100000000 F:1394548/9366832 W:9301/9366832 H:1806/750421 | dil: Zk2p Zkd F1 FHSp FHSm FHSd FKS QH WI1 WUd WHRd2 HH1 HH2 HR1c | sağlanan: Zk2p Zkd F1 FHSp FHSm FHSd FKS QH WI1 WUd WHRd2 HH1 HH2 HR1c | L*@mercek: Zk2p Zkd F1 FHSp FHSm FHSd FKS QH WI1 WUd WHRd2 HH1 HH2 HR1c | Gmercek 0",
+   "dilsiz": false,
+   "k": 13,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 16.521363975,
+   "esik_bayrak": 0,
+   "esik_mercek": 205,
+   "p": 1.3999986000014e-05,
+   "ci": [
+    6.921970064657923e-06,
+    2.2230293172041696e-05
+   ]
+  },
+  "B100": {
+   "ad": "B100",
+   "hedef": 100,
+   "L": 4,
+   "dil": [
+    "B1",
+    "R0c",
+    "FCK",
+    "FKS",
+    "FSC",
+    "WI1",
+    "WSum",
+    "HH1",
+    "HR0c",
+    "HR0e"
+   ],
+   "boy": 10,
+   "turler": [
+    "a",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 3,
+   "n_duzey": 4,
+   "ayrinti": "B100 hedef 100 kol 4 mercek (1,+1,13) puan 15.849392 bilgi 23.166805 mercek_bedeli 7.317413 |Λ| 10 grup_bilgi B 2.7500 Z 0.0000 F 8.9666 W 4.7592 H 6.6910 grup_sayim B 14865314/100000000 Z 0/0 F 12536/6271563 W 231579/6271563 H 134945/13942498 : B1 R0c FCK FKS FSC WI1 WSum HH1 HR0c HR0e",
+   "hedef_ayrinti": "B100 hedef 100 kol 4 esik 15.849392 mercek (1,+1,13) Ldil 4 cozulmus 1 kF 5 kH 8 FnH 1 mc 1 kapiG 0 hucre_boy 1/1/2/1 hucre_q 6/4/6/9 kapsam_tur 3 kapsam_duzey 4 | B:14865314/100000000 F:12536/6271563 W:231579/6271563 H:134945/13942498 | dil: B1 R0c FCK FKS FSC WI1 WSum HH1 HR0c HR0e | sağlanan: B1 R0c FCK FKS FSC WI1 WSum HH1 HR0c HR0e | L*@mercek: B1 R0c FCK FKS FSC WI1 WSum HH1 HR0c HR0e | Gmercek 0",
+   "dilsiz": false,
+   "k": 10,
+   "kB": 0,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 15.849392177,
+   "esik_bayrak": 0,
+   "esik_mercek": 4,
+   "p": 1.0999989000011e-05,
+   "ci": [
+    4.79539877532804e-06,
+    1.839027876317424e-05
+   ]
+  }
+ },
+ "denetim": {
+  "esik_farki_en_cok": 1.3360000004070116e-06,
+  "esik_karsilastirma": 101,
+  "mercek_farkli": 0,
+  "aday_asimi": 0,
+  "cozulmemis": [
+   "B046",
+   "B068",
+   "B088"
+  ]
+ },
+ "tamam": true,
+ "K_d": 100,
+ "kalibre": {
+  "pQ": 9.9999999e-09,
+  "ciQ": [
+   0.0,
+   3.6888739390569175e-08
+  ],
+  "kQ": 0,
+  "NQ": 100000000,
+  "R": 2,
+  "ulasanlar": [
+   "B068",
+   "B080"
+  ],
+  "p_kal": 0.0297029702970297,
+  "okuma": "arada",
+  "model": {
+   "esik_u": 4.92081918824664,
+   "m": 20,
+   "gpd_sigma": 1.265941462556162,
+   "gpd_xi": -0.349381779942989,
+   "P_gpd": 0.0008798597018509361,
+   "P_gpd_95": [
+    0.0,
+    0.008859114579807127
+   ],
+   "normal_mu": 4.057250424459509,
+   "normal_sd": 1.2302325117683615,
+   "P_normal": 0.0006755901729627623,
+   "delta_mertebe": 0.30102999566398214
+  },
+  "model_karisim": {
+   "K_d": 100,
+   "P_gpd": 0.0008798597018509361,
+   "P_gpd_95": [
+    0.0,
+    0.008859114579807127
+   ],
+   "gpd": [
+    4.92081918824664,
+    1.265941462556162,
+    -0.349381779942989
+   ],
+   "P_normal": 0.0006755901729627623,
+   "normal": [
+    4.057250424459509,
+    1.2302325117683615
+   ]
+  },
+  "delta_mertebe": 0.30102999566398214
+ },
+ "plasebo": {
+  "medyan": 9.928736215666913e-05,
+  "medyan_95": [
+   4.2999957000043e-05,
+   0.00022999977000023
+  ],
+  "min": 1.99999998e-08,
+  "min_aralik": [
+   2.531780141393311e-10,
+   5.571637068747401e-08
+  ],
+  "ceyrekler": [
+   3.169999683000032e-06,
+   1.674998325001675e-05,
+   9.94999005000995e-05,
+   0.0006597493402506597,
+   0.001861498138501866
+  ],
+  "dilli_medyan": 9.94999005000995e-05,
+  "dilsiz": 0,
+  "esik_alti": {
+   "0.01": 96,
+   "0.001": 81,
+   "0.0001": 50,
+   "1e-05": 19,
+   "1e-06": 8,
+   "1e-07": 2
+  },
+  "duzeyler": {
+   "0": 0,
+   "1": 81,
+   "2": 11,
+   "3": 8
+  },
+  "sansurlu": 0
+ },
+ "en_iyi_bes": [
+  {
+   "ad": "B080",
+   "p": 1.99999998e-08,
+   "ci": [
+    2.531780141393311e-10,
+    5.571637068747401e-08
+   ],
+   "k": 1,
+   "N": 100000000,
+   "dil": [
+    "B1",
+    "Zkd",
+    "Zkd2",
+    "F2",
+    "QS",
+    "Qh",
+    "FSd2",
+    "FHd2",
+    "FCd",
+    "Qn",
+    "QH",
+    "WHd",
+    "WUNd2",
+    "HR0c",
+    "HR1c"
+   ],
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "hedef_ayrinti": "B080 hedef 80 kol 4 esik 28.360586 mercek (1,+1,5) Ldil 1 cozulmus 1 kF 25 kH 20 FnH 6 mc 5 kapiG 0 hucre_boy 6/5/5/9 hucre_q 122/128/83/167 kapsam_tur 2 kapsam_duzey 4 | B:14865314/100000000 Z:7858432/100000000 F:211/7858432 W:12556/7858432 H:286400/7890292 | dil: B1 Zkd Zkd2 F2 QS Qh FSd2 FHd2 FCd Qn QH WHd WUNd2 HR0c HR1c | sağlanan: B1 Zkd Zkd2 F2 QS Qh FSd2 FHd2 FCd Qn QH WHd WUNd2 HR0c HR1c | L*@mercek: B1 Zkd Zkd2 F2 QS Qh FSd2 FHd2 FCd Qn QH WHd WUNd2 HR0c HR1c | Gmercek 0"
+  },
+  {
+   "ad": "B068",
+   "p": 4.99999995e-08,
+   "ci": [
+    1.0898653481614903e-08,
+    1.0241579181401608e-07
+   ],
+   "k": 4,
+   "N": 100000000,
+   "dil": [
+    "F2",
+    "K2",
+    "FC2",
+    "FSC",
+    "W1",
+    "Qn",
+    "QH",
+    "WUN2p",
+    "WHRd2"
+   ],
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "hedef_ayrinti": "B068 hedef 68 kol 4 esik 25.951764 mercek (3,+2,43) Ldil 360 cozulmus 0 kF 5 kH 1 FnH 0 mc 0 kapiG 0 hucre_boy 3/0/0/2 hucre_q 6/0/0/6 kapsam_tur 4 kapsam_duzey 3 | F:76/7732562 W:9/7732562 | dil: F2 K2 FC2 FSC W1 Qn QH WUN2p WHRd2 | sağlanan: F2 K2 FC2 FSC W1 Qn QH WUN2p WHRd2 | L*@mercek: F2 K2 FC2 FSC W1 Qn QH WUN2p WHRd2 | Gmercek 1"
+  },
+  {
+   "ad": "B018",
+   "p": 1.99999998e-07,
+   "ci": [
+    1.1439241138731146e-07,
+    2.9670834406121474e-07
+   ],
+   "k": 19,
+   "N": 100000000,
+   "dil": [
+    "K2",
+    "FD1",
+    "FSC",
+    "QH",
+    "WI1",
+    "WUTd",
+    "WHAd",
+    "WHNd",
+    "WHRd2",
+    "HH2",
+    "HK2"
+   ],
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "hedef_ayrinti": "B018 hedef 18 kol 4 esik 22.857254 mercek (2,+3,29) Ldil 240 cozulmus 1 kF 4 kH 6 FnH 1 mc 0 kapiG 0 hucre_boy 1/0/2/1 hucre_q 6/0/14/5 kapsam_tur 4 kapsam_duzey 3 | F:44481/19867921 W:1548/19867921 H:6042/10218593 | dil: K2 FD1 FSC QH WI1 WUTd WHAd WHNd WHRd2 HH2 HK2 | sağlanan: K2 FD1 FSC QH WI1 WUTd WHAd WHNd WHRd2 HH2 HK2 | L*@mercek: K2 FD1 FSC QH WI1 WUTd WHAd WHNd WHRd2 HH2 HK2 | Gmercek 2"
+  },
+  {
+   "ad": "B082",
+   "p": 2.0999999790000003e-07,
+   "ci": [
+    1.2216519569633996e-07,
+    3.0888358491819904e-07
+   ],
+   "k": 20,
+   "N": 100000000,
+   "dil": [
+    "QkF",
+    "Zkd",
+    "R0e",
+    "FCK",
+    "FKS",
+    "WI1",
+    "WUTd",
+    "WHAd",
+    "WHAd2",
+    "WHNd",
+    "HR1e"
+   ],
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "hedef_ayrinti": "B082 hedef 82 kol 4 esik 21.507529 mercek (1,+1,13) Ldil 4 cozulmus 1 kF 13 kH 4 FnH 1 mc 2 kapiG 0 hucre_boy 2/4/3/4 hucre_q 22/22/25/24 kapsam_tur 4 kapsam_duzey 3 | Z:4545464/100000000 F:2751/4545464 W:11683/4545464 H:104911/3527438 | dil: QkF Zkd R0e FCK FKS WI1 WUTd WHAd WHAd2 WHNd HR1e | sağlanan: QkF Zkd R0e FCK FKS WI1 WUTd WHAd WHAd2 WHNd HR1e | L*@mercek: QkF Zkd R0e FCK FKS WI1 WUTd WHAd WHAd2 WHNd HR1e | Gmercek 0"
+  },
+  {
+   "ad": "B008",
+   "p": 6.799999932000001e-07,
+   "ci": [
+    5.192408274644356e-07,
+    8.508759387808194e-07
+   ],
+   "k": 67,
+   "N": 100000000,
+   "dil": [
+    "QS",
+    "FD2",
+    "FAP",
+    "FKS",
+    "QH",
+    "WI1",
+    "WUTd",
+    "WHAd",
+    "WHAd2",
+    "WHNd",
+    "WHNd2"
+   ],
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre"
+   ],
+   "hedef_ayrinti": "B008 hedef 8 kol 4 esik 19.300172 mercek (2,-1,7) Ldil 205 cozulmus 1 kF 17 kH 13 FnH 1 mc 3 kapiG 0 hucre_boy 5/4/5/3 hucre_q 58/36/69/47 kapsam_tur 4 kapsam_duzey 3 | F:67/10239442 W:7599/10239442 | dil: QS FD2 FAP FKS QH WI1 WUTd WHAd WHAd2 WHNd WHNd2 | sağlanan: QS FD2 FAP FKS QH WI1 WUTd WHAd WHAd2 WHNd WHNd2 | L*@mercek: QS FD2 FAP FKS QH WI1 WUTd WHAd WHAd2 WHNd WHNd2 | Gmercek 0"
+  }
+ ],
+ "diller": {
+  "boy": {
+   "14": 9,
+   "9": 19,
+   "7": 9,
+   "12": 6,
+   "13": 9,
+   "10": 13,
+   "11": 11,
+   "6": 5,
+   "8": 10,
+   "16": 2,
+   "18": 1,
+   "5": 2,
+   "17": 1,
+   "15": 2,
+   "21": 1
+  },
+  "n_tur": {
+   "4": 46,
+   "3": 35,
+   "2": 17,
+   "1": 2
+  },
+  "n_duzey": {
+   "3": 72,
+   "4": 18,
+   "2": 10
+  },
+  "tur_kullanimi": {
+   "a": 93,
+   "b": 95,
+   "c": 68,
+   "d": 69
+  },
+  "duzey_kullanimi": {
+   "aile": 97,
+   "birleşim": 99,
+   "hücre": 90,
+   "kitap": 22
+  },
+  "sik_yuklemler": [
+   [
+    "WUTd",
+    46
+   ],
+   [
+    "FKS",
+    39
+   ],
+   [
+    "WHAd",
+    39
+   ],
+   [
+    "WHNd",
+    38
+   ],
+   [
+    "W1",
+    35
+   ],
+   [
+    "FSC",
+    34
+   ],
+   [
+    "Qn",
+    33
+   ],
+   [
+    "FAd",
+    32
+   ],
+   [
+    "F1",
+    31
+   ],
+   [
+    "FNd",
+    31
+   ],
+   [
+    "HR1c",
+    31
+   ],
+   [
+    "HR0c",
+    30
+   ],
+   [
+    "QS",
+    30
+   ],
+   [
+    "Qa",
+    30
+   ],
+   [
+    "WI1",
+    29
+   ],
+   [
+    "FC1",
+    26
+   ],
+   [
+    "QH",
+    25
+   ],
+   [
+    "R0c",
+    25
+   ],
+   [
+    "HH1",
+    20
+   ],
+   [
+    "R0e",
+    20
+   ],
+   [
+    "FD1",
+    20
+   ],
+   [
+    "WEq",
+    19
+   ],
+   [
+    "K2",
+    18
+   ],
+   [
+    "WUd",
+    17
+   ],
+   [
+    "Zkd",
+    16
+   ]
+  ],
+  "Q": {
+   "dil": [
+    "B1",
+    "B2",
+    "FKS",
+    "W1",
+    "QU",
+    "Qa",
+    "QH",
+    "WSum",
+    "WUd",
+    "HH1",
+    "HH2",
+    "HR0c",
+    "HR1c",
+    "HR1e",
+    "HK2"
+   ],
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "esik": 35.814187766,
+   "ayrinti": "B000 hedef 0 kol 4 mercek (1,-1,19) puan 35.814187 bilgi 43.131599 mercek_bedeli 7.317413 |Λ| 15 grup_bilgi B 11.6421 Z 0.0000 F 1.0704 W 15.8923 H 14.5268 grup_sayim B 31288/100000000 Z 0/0 F 6718983/14110428 W 232/14110428 H 43/1014992 : B1 B2 FKS W1 QU Qa QH WSum WUd HH1 HH2 HR0c HR1c HR1e HK2"
+  }
+ },
+ "p12_Q": {
+  "dil": [
+   "B2",
+   "K1",
+   "Qc"
+  ],
+  "p": 4.99999995e-08,
+  "ci": [
+   1.0898653481614903e-08,
+   1.0241579181401608e-07
+  ],
+  "k": 4
+ },
+ "Q_p12_farki": {
+  "ortak": [
+   "B2"
+  ],
+  "eklenen": [
+   "B1",
+   "FKS",
+   "W1",
+   "QU",
+   "Qa",
+   "QH",
+   "WSum",
+   "WUd",
+   "HH1",
+   "HH2",
+   "HR0c",
+   "HR1c",
+   "HR1e",
+   "HK2"
+  ],
+  "cikan": [
+   "K1",
+   "Qc"
+  ]
+ },
+ "kitap_kitap": {
+  "n": 100,
+  "dilli": 100,
+  "ayni_dil": 0,
+  "log10_oran_medyan": -1.8634181891162764,
+  "log10_oran_ceyrek": [
+   -2.8980023983536842,
+   -0.7936400513513152
+  ],
+  "azalan": 96,
+  "artan": 4,
+  "esit": 0,
+  "spearman_dilli": 0.23918391839183917,
+  "dilsizlerin_p12_medyani": null,
+  "Q_p12": 4.99999995e-08,
+  "Q_p14": 9.9999999e-09,
+  "p12de_Qa_ulasan": 1,
+  "ayrinti": [
+   {
+    "hedef": 1,
+    "p12": 0.00202999797000203,
+    "p14": 3.2999967000033e-05,
+    "dilsiz": false,
+    "dil12": [
+     "WH2p"
+    ],
+    "dil14": [
+     "F1",
+     "K2",
+     "FC1",
+     "FRK",
+     "FKS",
+     "W1",
+     "QH",
+     "WEq",
+     "WUTd",
+     "WHAd",
+     "WHNd",
+     "WHRd2",
+     "HH2",
+     "HR0c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 2,
+    "p12": 0.00844099155900844,
+    "p14": 0.000264999735000265,
+    "dilsiz": false,
+    "dil12": [
+     "FSC"
+    ],
+    "dil14": [
+     "BMn",
+     "Zkd",
+     "R0c",
+     "QS",
+     "Qh",
+     "FSd2",
+     "FHd2",
+     "FKS",
+     "WUd"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 3,
+    "p12": 0.003846996153003847,
+    "p14": 0.000630999369000631,
+    "dilsiz": false,
+    "dil12": [
+     "WUAp"
+    ],
+    "dil14": [
+     "FKS",
+     "W1",
+     "WUTd",
+     "WUTd2",
+     "WHAd",
+     "WHNd",
+     "HK2"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 4,
+    "p12": 0.005754994245005755,
+    "p14": 0.000105999894000106,
+    "dilsiz": false,
+    "dil12": [
+     "FAp"
+    ],
+    "dil14": [
+     "F1",
+     "R1c",
+     "R1e",
+     "K2",
+     "FSC",
+     "W1",
+     "WUTd",
+     "WHAp",
+     "WHAd",
+     "WHNd",
+     "HR0c",
+     "HK2"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 5,
+    "p12": 0.0986009013990986,
+    "p14": 2.8999971000029e-05,
+    "dilsiz": false,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [
+     "FC2",
+     "FAd",
+     "FNd",
+     "Qa",
+     "Qn",
+     "WI1",
+     "WUTd",
+     "WHAd",
+     "WHNd",
+     "HH1",
+     "HR0c",
+     "HR0e",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 6,
+    "p12": 0.02185897814102186,
+    "p14": 0.001438998561001439,
+    "dilsiz": false,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [
+     "FAd",
+     "FNd",
+     "W1",
+     "Qa",
+     "Qn",
+     "WUTd",
+     "WUTd2",
+     "WHA2p",
+     "WHAd",
+     "WHNd"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 7,
+    "p12": 0.03333896666103334,
+    "p14": 3.8999961000039e-05,
+    "dilsiz": false,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [
+     "R0c",
+     "R0e",
+     "QS",
+     "FKS",
+     "FSC",
+     "WI1",
+     "HR0c",
+     "HR1c",
+     "HR1e"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 8,
+    "p12": 0.004212995787004213,
+    "p14": 6.799999932000001e-07,
+    "dilsiz": false,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [
+     "QS",
+     "FD2",
+     "FAP",
+     "FKS",
+     "QH",
+     "WI1",
+     "WUTd",
+     "WHAd",
+     "WHAd2",
+     "WHNd",
+     "WHNd2"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 9,
+    "p12": 0.00920899079100921,
+    "p14": 0.00021999978000022,
+    "dilsiz": false,
+    "dil12": [
+     "FCd2"
+    ],
+    "dil14": [
+     "R0e",
+     "K2",
+     "FSC",
+     "Qn",
+     "WI1",
+     "WEq"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 10,
+    "p12": 0.002233997766002234,
+    "p14": 2.899999710000029e-06,
+    "dilsiz": false,
+    "dil12": [
+     "WSum"
+    ],
+    "dil14": [
+     "R0c",
+     "QS",
+     "FC1",
+     "FD1",
+     "FS2p",
+     "FCm",
+     "FSC",
+     "W1",
+     "QH",
+     "WUTd",
+     "WHAd",
+     "WHNd",
+     "WHRd2",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 11,
+    "p12": 0.05501394498605501,
+    "p14": 0.000296999703000297,
+    "dilsiz": false,
+    "dil12": [
+     "K2"
+    ],
+    "dil14": [
+     "QS",
+     "Qh",
+     "FKS",
+     "Qn",
+     "QH",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 12,
+    "p12": 1.0,
+    "p14": 0.000242999757000243,
+    "dilsiz": false,
+    "dil12": [],
+    "dil14": [
+     "R0c",
+     "R0e",
+     "FCK",
+     "FKS",
+     "FSC",
+     "W1",
+     "WUTd",
+     "WHAd",
+     "WHNd"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 13,
+    "p12": 1.0,
+    "p14": 0.00153999846000154,
+    "dilsiz": false,
+    "dil12": [],
+    "dil14": [
+     "R0c",
+     "R0e",
+     "FCK",
+     "FKS",
+     "FSC",
+     "W1",
+     "Qa",
+     "HH2"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 14,
+    "p12": 0.03192196807803192,
+    "p14": 0.000442999557000443,
+    "dilsiz": false,
+    "dil12": [
+     "WHA2p"
+    ],
+    "dil14": [
+     "B1",
+     "F1",
+     "QS",
+     "Qh",
+     "FAd",
+     "FNd",
+     "WI1",
+     "WEq"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 15,
+    "p12": 0.042786957213042785,
+    "p14": 6.999993000007e-05,
+    "dilsiz": false,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [
+     "R0c",
+     "QS",
+     "FC2",
+     "FSd2",
+     "FCd",
+     "FCd2",
+     "FSC",
+     "W1",
+     "Qa",
+     "WEq",
+     "HR0c",
+     "HR1c",
+     "HR1e"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 16,
+    "p12": 0.002451997548002452,
+    "p14": 0.001000998999001001,
+    "dilsiz": false,
+    "dil12": [
+     "F2"
+    ],
+    "dil14": [
+     "BMn",
+     "QS",
+     "Qh",
+     "Qa",
+     "WUd",
+     "WHd",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 17,
+    "p12": 0.02432097567902432,
+    "p14": 8.1999918000082e-05,
+    "dilsiz": false,
+    "dil12": [
+     "K1"
+    ],
+    "dil14": [
+     "B1",
+     "QS",
+     "Qh",
+     "FCd",
+     "QH",
+     "WIp",
+     "WId",
+     "WUTd",
+     "WHAd",
+     "WHNd",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 18,
+    "p12": 0.003303996696003304,
+    "p14": 1.99999998e-07,
+    "dilsiz": false,
+    "dil12": [
+     "WEq"
+    ],
+    "dil14": [
+     "K2",
+     "FD1",
+     "FSC",
+     "QH",
+     "WI1",
+     "WUTd",
+     "WHAd",
+     "WHNd",
+     "WHRd2",
+     "HH2",
+     "HK2"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 19,
+    "p12": 0.10071889928110071,
+    "p14": 7.199999928e-07,
+    "dilsiz": false,
+    "dil12": [
+     "WHN2p"
+    ],
+    "dil14": [
+     "Zkd",
+     "R0c",
+     "R0e",
+     "QS",
+     "FCd",
+     "Qa",
+     "WUd",
+     "WUAd2",
+     "HR0c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 20,
+    "p12": 0.007245992754007246,
+    "p14": 0.000227999772000228,
+    "dilsiz": false,
+    "dil12": [
+     "WSum"
+    ],
+    "dil14": [
+     "F1",
+     "FC1",
+     "FKS",
+     "FSC",
+     "WEq",
+     "WUTd",
+     "WHAd",
+     "WHAd2",
+     "WHNd",
+     "HR0c",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 21,
+    "p12": 0.00141999858000142,
+    "p14": 0.000237999762000238,
+    "dilsiz": false,
+    "dil12": [
+     "FD2",
+     "WSum"
+    ],
+    "dil14": [
+     "R1c",
+     "FD2",
+     "W1",
+     "QU",
+     "WSum",
+     "WUd",
+     "HH1",
+     "HR0c",
+     "HR0e"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 22,
+    "p12": 1.0,
+    "p14": 0.001470998529001471,
+    "dilsiz": false,
+    "dil12": [],
+    "dil14": [
+     "R1c",
+     "K1",
+     "K2",
+     "FD2",
+     "FAP",
+     "FKS",
+     "FSC",
+     "W1",
+     "WUTd",
+     "WHAp",
+     "WHAd",
+     "WHNd"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 23,
+    "p12": 0.002765997234002766,
+    "p14": 4.5999954000046e-05,
+    "dilsiz": false,
+    "dil12": [
+     "WUT2p"
+    ],
+    "dil14": [
+     "Zk2p",
+     "Zkd",
+     "F1",
+     "FC1",
+     "FHSp",
+     "FHSm",
+     "FHSd",
+     "FKS",
+     "FSC",
+     "WUd",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 24,
+    "p12": 0.003442996557003443,
+    "p14": 0.02344897655102345,
+    "dilsiz": false,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [
+     "F1",
+     "K2",
+     "FD1",
+     "FAp",
+     "FAd",
+     "FN2p",
+     "FNd",
+     "FRK",
+     "Qa",
+     "Qn",
+     "WUAp",
+     "WUN2p",
+     "WUTd"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 25,
+    "p12": 0.008001991998008003,
+    "p14": 0.001055998944001056,
+    "dilsiz": false,
+    "dil12": [
+     "WEq"
+    ],
+    "dil14": [
+     "R0e",
+     "K2",
+     "FC1",
+     "FRK",
+     "FCK",
+     "FSC",
+     "W1",
+     "WEq",
+     "WUT2p",
+     "WUTd",
+     "WHA2p",
+     "WHAd",
+     "WHNd",
+     "HK2"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 26,
+    "p12": 0.07524392475607525,
+    "p14": 8.199999918000001e-07,
+    "dilsiz": false,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [
+     "R0c",
+     "R0e",
+     "QS",
+     "WI1",
+     "WEq",
+     "WUTd",
+     "WHAd",
+     "WHNd",
+     "WHNd2",
+     "HH1",
+     "HR0c",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 27,
+    "p12": 0.06377593622406377,
+    "p14": 0.000861999138000862,
+    "dilsiz": false,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [
+     "R0c",
+     "R0e",
+     "R1c",
+     "FC1",
+     "FD1",
+     "FAd",
+     "FNd",
+     "W1",
+     "HH1",
+     "HR0e"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 28,
+    "p12": 4.7999952000048e-05,
+    "p14": 6.1999938000062e-05,
+    "dilsiz": false,
+    "dil12": [
+     "K2",
+     "WHAp"
+    ],
+    "dil14": [
+     "K2",
+     "W1",
+     "WUTd",
+     "WHAp",
+     "WHAd",
+     "WHNd",
+     "HH1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 29,
+    "p12": 0.034885965114034884,
+    "p14": 2.0999979000021e-05,
+    "dilsiz": false,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [
+     "BMn",
+     "Zkd",
+     "Zkd2",
+     "R0c",
+     "FCK",
+     "FKS",
+     "Qn",
+     "WIp",
+     "WId"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 30,
+    "p12": 0.006114993885006115,
+    "p14": 0.00917099082900917,
+    "dilsiz": false,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [
+     "FA2p",
+     "FAd",
+     "FN2p",
+     "FNd",
+     "Qa",
+     "Qn",
+     "WUA2p",
+     "WUN2p",
+     "WUTd"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 31,
+    "p12": 0.004005995994004006,
+    "p14": 5.199999480000052e-06,
+    "dilsiz": false,
+    "dil12": [
+     "FAp"
+    ],
+    "dil14": [
+     "B1",
+     "F1",
+     "F2",
+     "R1c",
+     "FAp",
+     "FAd",
+     "FNd",
+     "W1",
+     "Qa",
+     "Qn",
+     "WUTd",
+     "WHAd",
+     "WHNd"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 32,
+    "p12": 0.07314192685807314,
+    "p14": 0.004701995298004702,
+    "dilsiz": false,
+    "dil12": [
+     "WHA2p"
+    ],
+    "dil14": [
+     "F1",
+     "FD1",
+     "FAd",
+     "FNd",
+     "FKS",
+     "FSC",
+     "Qa",
+     "Qn",
+     "WI1",
+     "WEq",
+     "WUTd",
+     "WHAd",
+     "WHNd"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 33,
+    "p12": 0.004157995842004158,
+    "p14": 0.000371999628000372,
+    "dilsiz": false,
+    "dil12": [
+     "BMn",
+     "FAP"
+    ],
+    "dil14": [
+     "B1",
+     "QS",
+     "Qh",
+     "FCd",
+     "Qa",
+     "QH"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 34,
+    "p12": 0.003700996299003701,
+    "p14": 7.499999925e-07,
+    "dilsiz": false,
+    "dil12": [
+     "WHNp"
+    ],
+    "dil14": [
+     "R1c",
+     "FD2",
+     "FAP",
+     "WI1",
+     "WEq",
+     "WUTd",
+     "WHAd",
+     "WHNd",
+     "HH2",
+     "HR0c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 35,
+    "p12": 0.002853997146002854,
+    "p14": 0.000455999544000456,
+    "dilsiz": false,
+    "dil12": [
+     "WUNd2"
+    ],
+    "dil14": [
+     "B1",
+     "FC1",
+     "FAd",
+     "FNd",
+     "FSC",
+     "Qa",
+     "Qn",
+     "WI1",
+     "WUNd2",
+     "WUTd",
+     "WHAd",
+     "WHNd"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 36,
+    "p12": 0.011974988025011976,
+    "p14": 0.000204999795000205,
+    "dilsiz": false,
+    "dil12": [
+     "WEq"
+    ],
+    "dil14": [
+     "R1c",
+     "K1",
+     "K2",
+     "FC2",
+     "FAP",
+     "FKS",
+     "FSC",
+     "WI1",
+     "HR0c",
+     "HR0e",
+     "HK2"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 37,
+    "p12": 0.000138999861000139,
+    "p14": 6.599999340000066e-06,
+    "dilsiz": false,
+    "dil12": [
+     "R0e",
+     "WEq"
+    ],
+    "dil14": [
+     "R0e",
+     "FC1",
+     "WEq",
+     "WUTd",
+     "WUTd2",
+     "WHAd",
+     "WHAd2",
+     "WHNd"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 38,
+    "p12": 0.01994198005801994,
+    "p14": 9.2999907000093e-05,
+    "dilsiz": false,
+    "dil12": [
+     "F2"
+    ],
+    "dil14": [
+     "B1",
+     "F1",
+     "R1c",
+     "FAd",
+     "FNd",
+     "W1",
+     "QU",
+     "Qa",
+     "Qn",
+     "WSum",
+     "WUd",
+     "WUTd",
+     "WUTd2",
+     "WHAd",
+     "WHNd",
+     "HR0c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 39,
+    "p12": 0.001637998362001638,
+    "p14": 6.299999370000063e-06,
+    "dilsiz": false,
+    "dil12": [
+     "FKd"
+    ],
+    "dil14": [
+     "QS",
+     "Qh",
+     "FSp",
+     "FCd",
+     "FKd",
+     "WI1",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 40,
+    "p12": 1.0,
+    "p14": 3.2999967000033e-05,
+    "dilsiz": false,
+    "dil12": [],
+    "dil14": [
+     "BMn",
+     "F1",
+     "F2",
+     "R0c",
+     "FSC",
+     "W1",
+     "Qa",
+     "HR0c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 41,
+    "p12": 0.06816093183906816,
+    "p14": 6.999993000007e-05,
+    "dilsiz": false,
+    "dil12": [
+     "WHA2p"
+    ],
+    "dil14": [
+     "Zk2p",
+     "Zkd",
+     "QS",
+     "FHSm",
+     "FSC",
+     "QH",
+     "HR1e"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 42,
+    "p12": 0.00823099176900823,
+    "p14": 1.1999988000012e-05,
+    "dilsiz": false,
+    "dil12": [
+     "HK2"
+    ],
+    "dil14": [
+     "B1",
+     "K2",
+     "FC1",
+     "FCK",
+     "WEq",
+     "WUTd",
+     "WHAd",
+     "WHNd",
+     "HR0e",
+     "HK2"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 43,
+    "p12": 0.11646388353611646,
+    "p14": 0.000220999779000221,
+    "dilsiz": false,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [
+     "Zk2p",
+     "Zkd",
+     "F1",
+     "FC1",
+     "FHSp",
+     "FHSm",
+     "FHSd",
+     "FKS",
+     "Qn",
+     "WI1",
+     "WEq",
+     "WH2p",
+     "WHd",
+     "WUNd2"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 44,
+    "p12": 0.11381888618111381,
+    "p14": 0.08162491837508162,
+    "dilsiz": false,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [
+     "F1",
+     "FD1",
+     "FAp",
+     "FAd",
+     "FN2p",
+     "FNd",
+     "Qa",
+     "Qn",
+     "WUAp",
+     "WUN2p",
+     "WUTd"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 45,
+    "p12": 0.039371960628039375,
+    "p14": 1.7999982000018e-05,
+    "dilsiz": false,
+    "dil12": [
+     "WSum"
+    ],
+    "dil14": [
+     "BMn",
+     "F1",
+     "FC1",
+     "Qa",
+     "QH",
+     "WHRd2",
+     "HR0c",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 46,
+    "p12": 0.01628798371201629,
+    "p14": 0.000377999622000378,
+    "dilsiz": false,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [
+     "BMn",
+     "Zkd",
+     "QS",
+     "Qh",
+     "FCd",
+     "FAd",
+     "FNd",
+     "FKd",
+     "Qa",
+     "Qn",
+     "WUd",
+     "WUd2",
+     "WUNd2",
+     "WUTd",
+     "WHAd",
+     "WHNd",
+     "WHNd2",
+     "HH1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 47,
+    "p12": 0.012184987815012186,
+    "p14": 0.00022999977000023,
+    "dilsiz": false,
+    "dil12": [
+     "WHN2p"
+    ],
+    "dil14": [
+     "F1",
+     "FC1",
+     "FKS",
+     "WI1",
+     "WEq",
+     "WUTd",
+     "WUTd2",
+     "WHAd",
+     "WHNd",
+     "HH1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 48,
+    "p12": 1.0,
+    "p14": 0.000352999647000353,
+    "dilsiz": false,
+    "dil12": [],
+    "dil14": [
+     "FD1",
+     "FSC",
+     "WI1",
+     "WUd",
+     "HR0c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 49,
+    "p12": 1.0,
+    "p14": 0.002342997657002343,
+    "dilsiz": false,
+    "dil12": [],
+    "dil14": [
+     "R0c",
+     "QS",
+     "FKS",
+     "WI1",
+     "WUd",
+     "HH1",
+     "HR0c",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 50,
+    "p12": 0.05082094917905082,
+    "p14": 3.3999966000033997e-05,
+    "dilsiz": false,
+    "dil12": [
+     "WHNp"
+    ],
+    "dil14": [
+     "FC1",
+     "FSC",
+     "W1",
+     "QH",
+     "WUT2p",
+     "WUTd",
+     "WHAd",
+     "WHNd",
+     "WHRp",
+     "HH1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 51,
+    "p12": 0.001315998684001316,
+    "p14": 0.000810999189000811,
+    "dilsiz": false,
+    "dil12": [
+     "FNp",
+     "WUNp"
+    ],
+    "dil14": [
+     "K2",
+     "FAp",
+     "FAd",
+     "FNp",
+     "FNd",
+     "FRK",
+     "FCK",
+     "FSC",
+     "Qa",
+     "Qn",
+     "WUAp",
+     "WUNp",
+     "WUTd"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 52,
+    "p12": 3.3999966000033997e-05,
+    "p14": 1.6999983000016998e-05,
+    "dilsiz": false,
+    "dil12": [
+     "FA2p"
+    ],
+    "dil14": [
+     "Zk2p",
+     "Zkd",
+     "R0c",
+     "R1c",
+     "QS",
+     "FC1",
+     "FD1",
+     "FCd",
+     "FHSm",
+     "FAd",
+     "FAd2",
+     "FNd",
+     "FNd2",
+     "FKS",
+     "QH",
+     "WHRd2",
+     "HR0c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 53,
+    "p12": 0.000463999536000464,
+    "p14": 0.000460999539000461,
+    "dilsiz": false,
+    "dil12": [
+     "FNp",
+     "WUNp"
+    ],
+    "dil14": [
+     "FAd",
+     "FNp",
+     "FNd",
+     "Qa",
+     "Qn",
+     "WUNp",
+     "WUTd"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 54,
+    "p12": 0.006186993813006187,
+    "p14": 0.001308998691001309,
+    "dilsiz": false,
+    "dil12": [
+     "WUA2p"
+    ],
+    "dil14": [
+     "F1",
+     "R0c",
+     "R0e",
+     "R1c",
+     "FC1",
+     "FD1",
+     "FSC",
+     "W1",
+     "Qa",
+     "QH",
+     "WHRd2",
+     "HR1c",
+     "HR1e"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 55,
+    "p12": 0.03302096697903302,
+    "p14": 4.2999957000043e-05,
+    "dilsiz": false,
+    "dil12": [
+     "FAp",
+     "WI1"
+    ],
+    "dil14": [
+     "R0e",
+     "FC1",
+     "FAd",
+     "FAd2",
+     "FNd",
+     "FCK",
+     "FKS",
+     "FSC",
+     "W1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 56,
+    "p12": 0.006565993434006566,
+    "p14": 1.999998000002e-05,
+    "dilsiz": false,
+    "dil12": [
+     "FAp",
+     "WI1"
+    ],
+    "dil14": [
+     "FC1",
+     "FRK",
+     "W1",
+     "WUT2p",
+     "WUTd",
+     "WHAd",
+     "WHNd",
+     "HR0c",
+     "HR0e"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 57,
+    "p12": 0.005840994159005841,
+    "p14": 0.003665996334003666,
+    "dilsiz": false,
+    "dil12": [
+     "WHA2p"
+    ],
+    "dil14": [
+     "F1",
+     "QS",
+     "FD1",
+     "FKS",
+     "WI1",
+     "WU2p",
+     "WUd",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 58,
+    "p12": 0.000284999715000285,
+    "p14": 5.1999948000052e-05,
+    "dilsiz": false,
+    "dil12": [
+     "FCK",
+     "HR0e"
+    ],
+    "dil14": [
+     "FD1",
+     "FRK",
+     "FKS",
+     "QU",
+     "QH",
+     "WI1",
+     "WUd",
+     "WUTd",
+     "WHAd",
+     "WHNd"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 59,
+    "p12": 0.049822950177049824,
+    "p14": 0.000225999774000226,
+    "dilsiz": false,
+    "dil12": [
+     "WHA2p"
+    ],
+    "dil14": [
+     "FD1",
+     "FAd",
+     "FAd2",
+     "FNd",
+     "FKS",
+     "FSC",
+     "W1",
+     "HR0c",
+     "HR0e",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 60,
+    "p12": 0.036354963645036355,
+    "p14": 3.899999610000039e-06,
+    "dilsiz": false,
+    "dil12": [
+     "K2"
+    ],
+    "dil14": [
+     "F1",
+     "F2",
+     "R0c",
+     "R0e",
+     "R1c",
+     "K2",
+     "FC1",
+     "FD1",
+     "FSC",
+     "Qn",
+     "WI1",
+     "HR0c",
+     "HR0e",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 61,
+    "p12": 0.002228997771002229,
+    "p14": 0.000180999819000181,
+    "dilsiz": false,
+    "dil12": [
+     "WHN2p"
+    ],
+    "dil14": [
+     "FAd",
+     "FNd",
+     "FKS",
+     "W1",
+     "Qa",
+     "Qn",
+     "QH",
+     "WUTd",
+     "WHAd",
+     "WHNd",
+     "WHR2p",
+     "HR1e"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 62,
+    "p12": 0.049090950909049094,
+    "p14": 0.00045999954000046,
+    "dilsiz": false,
+    "dil12": [
+     "K1"
+    ],
+    "dil14": [
+     "R0c",
+     "QS",
+     "FKS",
+     "Qa",
+     "QH",
+     "WUd",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 63,
+    "p12": 0.000241999758000242,
+    "p14": 1.3999986000014e-05,
+    "dilsiz": false,
+    "dil12": [
+     "WI1",
+     "HR0c"
+    ],
+    "dil14": [
+     "R0e",
+     "R1c",
+     "WI1",
+     "WSum",
+     "HR0e",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 64,
+    "p12": 0.0472969527030473,
+    "p14": 0.000122999877000123,
+    "dilsiz": false,
+    "dil12": [
+     "WUA2p"
+    ],
+    "dil14": [
+     "Zk2p",
+     "Zkd",
+     "F1",
+     "QS",
+     "FC1",
+     "FHSp",
+     "FHSm",
+     "FHSd",
+     "FKS",
+     "QH",
+     "WUTd",
+     "WHAd",
+     "WHAd2",
+     "WHNd",
+     "WHNd2",
+     "HH1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 65,
+    "p12": 0.017106982893017108,
+    "p14": 0.002701997298002702,
+    "dilsiz": false,
+    "dil12": [
+     "FSC"
+    ],
+    "dil14": [
+     "R0c",
+     "R0e",
+     "K1",
+     "K2",
+     "FAd",
+     "FNd",
+     "FRK",
+     "FCK",
+     "FKS",
+     "FSC",
+     "WI1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 66,
+    "p12": 0.003508996491003509,
+    "p14": 0.001715998284001716,
+    "dilsiz": false,
+    "dil12": [
+     "FKd"
+    ],
+    "dil14": [
+     "QS",
+     "Qh",
+     "FCd",
+     "FKd",
+     "WUTd",
+     "WUTd2",
+     "WHAd",
+     "WHNd",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 67,
+    "p12": 3.0999969000031e-05,
+    "p14": 2.1999978000022e-05,
+    "dilsiz": false,
+    "dil12": [
+     "B1",
+     "BMn",
+     "FRK",
+     "HK2"
+    ],
+    "dil14": [
+     "B1",
+     "R1c",
+     "FKS",
+     "FSC",
+     "W1",
+     "Qn",
+     "QH",
+     "WHRd2",
+     "HR1e"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 68,
+    "p12": 9.9999999e-08,
+    "p14": 4.99999995e-08,
+    "dilsiz": false,
+    "dil12": [
+     "F2",
+     "K2",
+     "FSC",
+     "WUN2p"
+    ],
+    "dil14": [
+     "F2",
+     "K2",
+     "FC2",
+     "FSC",
+     "W1",
+     "Qn",
+     "QH",
+     "WUN2p",
+     "WHRd2"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 69,
+    "p12": 0.024534975465024533,
+    "p14": 0.000745999254000746,
+    "dilsiz": false,
+    "dil12": [
+     "WSum"
+    ],
+    "dil14": [
+     "R1c",
+     "FC2",
+     "W1",
+     "Qn",
+     "HH1",
+     "HH2",
+     "HR1c",
+     "HR1e",
+     "HK2"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 70,
+    "p12": 0.018367981632018367,
+    "p14": 6.799999320000068e-06,
+    "dilsiz": false,
+    "dil12": [
+     "K2"
+    ],
+    "dil14": [
+     "Zkd",
+     "R1c",
+     "R1e",
+     "FAd",
+     "FAd2",
+     "FNd",
+     "W1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 71,
+    "p12": 1.0,
+    "p14": 0.001807998192001808,
+    "dilsiz": false,
+    "dil12": [],
+    "dil14": [
+     "BMn",
+     "F1",
+     "FC1",
+     "FAd",
+     "FNd",
+     "FNd2",
+     "Qa",
+     "Qn",
+     "WId",
+     "WUTd",
+     "WHAd",
+     "WHNd",
+     "WHNd2",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 72,
+    "p12": 0.00784899215100785,
+    "p14": 0.00080999919000081,
+    "dilsiz": false,
+    "dil12": [
+     "WSum"
+    ],
+    "dil14": [
+     "F1",
+     "R0e",
+     "R1e",
+     "K1",
+     "FC2",
+     "FD1",
+     "FD2",
+     "FSC",
+     "WI1",
+     "HR0c",
+     "HK2"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 73,
+    "p12": 4.6999953000047e-05,
+    "p14": 2.6999973000027e-05,
+    "dilsiz": false,
+    "dil12": [
+     "BMn",
+     "WI1",
+     "WUNd2"
+    ],
+    "dil14": [
+     "BMn",
+     "F1",
+     "K2",
+     "FC1",
+     "FRK",
+     "FCK",
+     "Qn",
+     "WI1",
+     "WUNd2",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 74,
+    "p12": 0.029226970773029225,
+    "p14": 8.4999915000085e-05,
+    "dilsiz": false,
+    "dil12": [
+     "K1"
+    ],
+    "dil14": [
+     "R0c",
+     "R0e",
+     "FKS",
+     "FSC",
+     "W1",
+     "Qn",
+     "WEq",
+     "HR0e",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 75,
+    "p12": 0.006245993754006246,
+    "p14": 0.000126999873000127,
+    "dilsiz": false,
+    "dil12": [
+     "WHRp"
+    ],
+    "dil14": [
+     "Zk2p",
+     "Zkd",
+     "F1",
+     "QS",
+     "FC1",
+     "FSd2",
+     "FHSp",
+     "FHSm",
+     "FHSd",
+     "FAd",
+     "FNd",
+     "FKS",
+     "WI1",
+     "WUd",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 76,
+    "p12": 0.001667998332001668,
+    "p14": 0.000383999616000384,
+    "dilsiz": false,
+    "dil12": [
+     "FC2"
+    ],
+    "dil14": [
+     "R0c",
+     "FC1",
+     "FD1",
+     "FSC",
+     "W1",
+     "Qa",
+     "WEq",
+     "HH1",
+     "HR0c",
+     "HK2"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 77,
+    "p12": 0.05229394770605229,
+    "p14": 0.018298981701018298,
+    "dilsiz": false,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [
+     "F1",
+     "K2",
+     "FC1",
+     "FAp",
+     "FAd",
+     "FNp",
+     "FNd",
+     "FRK",
+     "FCK",
+     "Qa",
+     "Qn",
+     "WUAp",
+     "WUNp",
+     "WUTd"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 78,
+    "p12": 0.04483595516404484,
+    "p14": 2.6999973000027e-05,
+    "dilsiz": false,
+    "dil12": [
+     "FD2"
+    ],
+    "dil14": [
+     "Zkd",
+     "WUTd",
+     "WUTd2",
+     "WHAd",
+     "WHNd",
+     "WHNd2",
+     "HH1",
+     "HH2",
+     "HR0c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 79,
+    "p12": 0.001074998925001075,
+    "p14": 4.999995000005e-05,
+    "dilsiz": false,
+    "dil12": [
+     "FRK",
+     "HK2"
+    ],
+    "dil14": [
+     "B1",
+     "F1",
+     "FD1",
+     "FKS",
+     "W1",
+     "Qn",
+     "WEq",
+     "HH2"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 80,
+    "p12": 0.007460992539007461,
+    "p14": 1.99999998e-08,
+    "dilsiz": false,
+    "dil12": [
+     "F2"
+    ],
+    "dil14": [
+     "B1",
+     "Zkd",
+     "Zkd2",
+     "F2",
+     "QS",
+     "Qh",
+     "FSd2",
+     "FHd2",
+     "FCd",
+     "Qn",
+     "QH",
+     "WHd",
+     "WUNd2",
+     "HR0c",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 81,
+    "p12": 1.0,
+    "p14": 8.2999917000083e-05,
+    "dilsiz": false,
+    "dil12": [],
+    "dil14": [
+     "BMt",
+     "R0c",
+     "QS",
+     "FKS",
+     "HR0e",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 82,
+    "p12": 0.01289098710901289,
+    "p14": 2.0999999790000003e-07,
+    "dilsiz": false,
+    "dil12": [
+     "HH2"
+    ],
+    "dil14": [
+     "QkF",
+     "Zkd",
+     "R0e",
+     "FCK",
+     "FKS",
+     "WI1",
+     "WUTd",
+     "WHAd",
+     "WHAd2",
+     "WHNd",
+     "HR1e"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 83,
+    "p12": 0.07382992617007383,
+    "p14": 1.2999987000013e-05,
+    "dilsiz": false,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [
+     "QS",
+     "FD1",
+     "FCd",
+     "W1",
+     "QH",
+     "WUTd",
+     "WHAd",
+     "WHNd",
+     "HR0e"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 84,
+    "p12": 1.0,
+    "p14": 0.006534993465006535,
+    "dilsiz": false,
+    "dil12": [],
+    "dil14": [
+     "FC1",
+     "FRK",
+     "FSC",
+     "W1",
+     "WEq",
+     "HH1",
+     "HR0c",
+     "HR0e"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 85,
+    "p12": 1.0,
+    "p14": 2.0999979000021e-05,
+    "dilsiz": false,
+    "dil12": [],
+    "dil14": [
+     "F1",
+     "R0c",
+     "FC2",
+     "FAd",
+     "FNd",
+     "FKS",
+     "W1",
+     "Qa",
+     "Qn",
+     "WUNd2",
+     "WUTd",
+     "WHAd",
+     "WHNd"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 86,
+    "p12": 0.010583989416010584,
+    "p14": 1.499999850000015e-06,
+    "dilsiz": false,
+    "dil12": [
+     "FSC"
+    ],
+    "dil14": [
+     "BMn",
+     "Zkd",
+     "Zkd2",
+     "F1",
+     "QS",
+     "FD1",
+     "FSd2",
+     "FHSd",
+     "FHSd2",
+     "QH",
+     "WUd",
+     "WUd2",
+     "WUTd",
+     "WHAd",
+     "WHAd2",
+     "WHNd",
+     "WHNd2",
+     "WHRd2",
+     "HH1",
+     "HR0c",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 87,
+    "p12": 0.000912999087000913,
+    "p14": 0.000187999812000188,
+    "dilsiz": false,
+    "dil12": [
+     "FA2p",
+     "WUA2p"
+    ],
+    "dil14": [
+     "R0c",
+     "R0e",
+     "K2",
+     "FA2p",
+     "FAd",
+     "FNd",
+     "FRK",
+     "Qa",
+     "Qn",
+     "WUA2p",
+     "WUTd"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 88,
+    "p12": 5.699999943e-07,
+    "p14": 4.99999950000005e-06,
+    "dilsiz": false,
+    "dil12": [
+     "K1"
+    ],
+    "dil14": [
+     "F1",
+     "R0e",
+     "K1",
+     "QS",
+     "FAd",
+     "FRK",
+     "FCK",
+     "FKS",
+     "Qa",
+     "QH",
+     "WUTd2",
+     "WHAd",
+     "WHRd2",
+     "HH1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 89,
+    "p12": 0.015270984729015271,
+    "p14": 0.00035999964000036,
+    "dilsiz": false,
+    "dil12": [
+     "FSC"
+    ],
+    "dil14": [
+     "F1",
+     "F2",
+     "R0c",
+     "FC2",
+     "FAd",
+     "FNd",
+     "W1",
+     "WEq",
+     "HH1",
+     "HR0c",
+     "HR1c",
+     "HR1e"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 90,
+    "p12": 0.004287995712004288,
+    "p14": 1.7999982000018e-05,
+    "dilsiz": false,
+    "dil12": [
+     "WUT2p"
+    ],
+    "dil14": [
+     "F2",
+     "FD2",
+     "FAd",
+     "FNd",
+     "W1",
+     "HR0c",
+     "HR0e"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 91,
+    "p12": 0.000476999523000477,
+    "p14": 5.099999490000051e-06,
+    "dilsiz": false,
+    "dil12": [
+     "FHd2"
+    ],
+    "dil14": [
+     "Qn",
+     "QH",
+     "WEq",
+     "WU2p",
+     "WUd",
+     "WHRd2",
+     "HH1",
+     "HH2"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 92,
+    "p12": 0.06082993917006083,
+    "p14": 1.5999984000016e-05,
+    "dilsiz": false,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [
+     "F1",
+     "QS",
+     "Qh",
+     "FD1",
+     "FCd",
+     "FAd",
+     "FNd",
+     "FKS",
+     "WI1",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 93,
+    "p12": 0.003440996559003441,
+    "p14": 0.000768999231000769,
+    "dilsiz": false,
+    "dil12": [
+     "Qc"
+    ],
+    "dil14": [
+     "R0e",
+     "FAd",
+     "FNd",
+     "FRK",
+     "Qa",
+     "Qn",
+     "WUTd",
+     "WHAd",
+     "WHNd",
+     "HR0c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 94,
+    "p12": 0.00024999975000025,
+    "p14": 3.199999680000032e-06,
+    "dilsiz": false,
+    "dil12": [
+     "B2",
+     "WI1"
+    ],
+    "dil14": [
+     "B2",
+     "QS",
+     "FD1",
+     "FCd",
+     "FKS",
+     "WHd",
+     "WUTd",
+     "WHAd",
+     "WHNd"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 95,
+    "p12": 0.0314039685960314,
+    "p14": 0.016073983926016073,
+    "dilsiz": false,
+    "dil12": [
+     "F2"
+    ],
+    "dil14": [
+     "K2",
+     "FAp",
+     "FAd",
+     "FN2p",
+     "FNd",
+     "FRK",
+     "FCK",
+     "FSC",
+     "Qa",
+     "Qn",
+     "WUAp",
+     "WUN2p",
+     "WUTd"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 96,
+    "p12": 0.04614995385004615,
+    "p14": 0.000985999014000986,
+    "dilsiz": false,
+    "dil12": [
+     "F2"
+    ],
+    "dil14": [
+     "F1",
+     "FC1",
+     "FAd",
+     "FNd",
+     "FRK",
+     "FKS",
+     "W1",
+     "QH",
+     "WHR2p"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 97,
+    "p12": 0.005756994243005757,
+    "p14": 0.001406998593001407,
+    "dilsiz": false,
+    "dil12": [
+     "FC2"
+    ],
+    "dil14": [
+     "R0c",
+     "QS",
+     "FC2",
+     "FCd",
+     "Qn",
+     "WUd",
+     "WUd2",
+     "WHd",
+     "WHd2"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 98,
+    "p12": 6.099999390000061e-06,
+    "p14": 3.799999620000038e-06,
+    "dilsiz": false,
+    "dil12": [
+     "FSC",
+     "HK2"
+    ],
+    "dil14": [
+     "FSC",
+     "QkH",
+     "WI1",
+     "WHd",
+     "HK2"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 99,
+    "p12": 0.010672989327010673,
+    "p14": 1.3999986000014e-05,
+    "dilsiz": false,
+    "dil12": [
+     "WUA2p"
+    ],
+    "dil14": [
+     "Zk2p",
+     "Zkd",
+     "F1",
+     "FHSp",
+     "FHSm",
+     "FHSd",
+     "FKS",
+     "QH",
+     "WI1",
+     "WUd",
+     "WHRd2",
+     "HH1",
+     "HH2",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 100,
+    "p12": 1.0,
+    "p14": 1.0999989000011e-05,
+    "dilsiz": false,
+    "dil12": [],
+    "dil14": [
+     "B1",
+     "R0c",
+     "FCK",
+     "FKS",
+     "FSC",
+     "WI1",
+     "WSum",
+     "HH1",
+     "HR0c",
+     "HR0e"
+    ],
+    "ayni_dil": false
+   }
+  ]
+ },
+ "rakipler": {
+  "asan": 0,
+  "aday": 0,
+  "hepsini_tasiyan_asan": 0,
+  "farkli_zincir": 0,
+  "en_cok_ayni_zincir": 0,
+  "en_yuksek": []
+ }
+}

@@ -1,0 +1,6 @@
+M/sina_isabet.txt: isabet 47; 19: alt 3 üst 3; en iyi merceğin asalı {11: 3, 13: 34, 17: 7, 19: 3}
+M/sina_isabet.txt: isabet 47; metnin andığı {3,5,7,11,19}: alt 6 üst 6; en iyi merceğin asalı {11: 3, 13: 34, 17: 7, 19: 3}
+U/sina_isabet.txt: isabet 12; 19: alt 0 üst 0; en iyi merceğin asalı {11: 2, 13: 9, 17: 1}
+U/sina_isabet.txt: isabet 12; metnin andığı {3,5,7,11,19}: alt 2 üst 2; en iyi merceğin asalı {11: 2, 13: 9, 17: 1}
+L/sina_isabet.txt: isabet 22; 19: alt 2 üst 2; en iyi merceğin asalı {11: 5, 13: 15, 19: 2}
+L/sina_isabet.txt: isabet 22; metnin andığı {3,5,7,11,19}: alt 7 üst 7; en iyi merceğin asalı {11: 5, 13: 15, 19: 2}

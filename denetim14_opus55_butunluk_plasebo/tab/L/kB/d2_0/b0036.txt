@@ -1,0 +1,14 @@
+# sifir L bolut 36 tohum 29422600036 N 250000 sure_s 35.4 aday 0 aday_tasma 0
+D B000 0 0
+D B002 0 0
+D B003 2 0
+D B011 1 0
+D B016 0 0
+D B046 5 0
+D B047 0 0
+D B053 1 0
+D B061 0 0
+D B090 0 0
+D B091 0 0
+D B092 1 0
+D B094 3 0

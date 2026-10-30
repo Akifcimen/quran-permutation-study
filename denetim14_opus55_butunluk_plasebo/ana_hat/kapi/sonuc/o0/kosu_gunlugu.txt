@@ -1,0 +1,9 @@
+[2026-10-29T09:37:45Z] derlendi: KAPI_ESIK=228 KAPI_HUCRE=2 (G2E, ö0)
+[2026-10-29T09:37:46Z] dil M A: 201 satır, 36 dilli
+[2026-10-29T09:37:48Z] dil U A: 101 satır, 19 dilli
+[2026-10-29T09:37:50Z] dil L A: 101 satır, 16 dilli
+[2026-10-29T09:37:51Z] diller yazıldı: c68168d3fe24fa00…
+[2026-10-29T09:37:51Z] bütçe M küme A düzey 1: kayıtlı 0.00 ç-saat, kestirim 0.03 ç-saat (N 1000000, kol A dili 36, kol B dili 0)
+[2026-10-29T09:37:52Z] kontrol M küme A düzey 1 d1_0: 36 dil, bölüt 1–4 başladı
+[2026-10-29T09:39:31Z] kontrol M küme A düzey 1 d1_0: bitti rc=0
+[2026-10-29T09:39:31Z] Ö0 bitti

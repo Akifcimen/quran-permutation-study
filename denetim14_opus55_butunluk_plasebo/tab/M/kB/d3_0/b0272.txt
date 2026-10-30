@@ -1,0 +1,11 @@
+# sifir M bolut 272 tohum 29322600272 N 250000 sure_s 29.9 aday 0 aday_tasma 0
+D B000 0 0
+D B044 0 0
+D B071 1 0
+D B087 0 0
+D B093 0 0
+D B116 0 0
+D B128 0 0
+D B162 1 0
+D B183 0 0
+D B198 1 0

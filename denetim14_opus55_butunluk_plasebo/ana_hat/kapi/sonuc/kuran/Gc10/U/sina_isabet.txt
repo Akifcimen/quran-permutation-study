@@ -1,0 +1,13 @@
+A000 sira 15031 puan 22.8905 mercek (1, 1),13 kapı True kF 11 kH 2 hücre [3, 2, 2, 4] toplam [14, 8, 10, 20] sağlanan ['B2', 'Qc', 'WSum'] sınıf True bütünlüklü mercekler [4]
+A000 sira 96748 puan 23.8741 mercek (1, 1),11 kapı True kF 9 kH 2 hücre [2, 2, 2, 3] toplam [30, 28, 28, 29] sağlanan ['B2', 'K1', 'WSum'] sınıf True bütünlüklü mercekler [3]
+A000 sira 10934 puan 21.3849 mercek (1, 1),17 kapı True kF 10 kH 7 hücre [2, 2, 3, 3] toplam [18, 16, 17, 17] sağlanan ['B2', 'K1', 'Qc', 'WSum'] sınıf True bütünlüklü mercekler [5]
+A000 sira 156654 puan 23.4354 mercek (1, 1),13 kapı True kF 12 kH 1 hücre [2, 4, 3, 3] toplam [22, 20, 23, 21] sağlanan ['B2', 'K1', 'WSum'] sınıf True bütünlüklü mercekler [4]
+A000 sira 78255 puan 22.8905 mercek (1, 1),13 kapı True kF 11 kH 2 hücre [3, 2, 3, 3] toplam [18, 14, 13, 7] sağlanan ['B2', 'Qc', 'WSum'] sınıf True bütünlüklü mercekler [4]
+A000 sira 167468 puan 25.5096 mercek (1, -1),11 kapı True kF 10 kH 1 hücre [4, 2, 2, 2] toplam [24, 10, 10, 0] sağlanan ['B2', 'Qc', 'WSum'] sınıf True bütünlüklü mercekler [32]
+A000 sira 147296 puan 21.0377 mercek (1, 1),13 kapı True kF 11 kH 2 hücre [4, 2, 2, 3] toplam [26, 26, 26, 25] sağlanan ['B2', 'K1', 'WSum'] sınıf True bütünlüklü mercekler [4]
+A000 sira 221104 puan 21.0377 mercek (1, 1),13 kapı True kF 11 kH 2 hücre [3, 3, 2, 3] toplam [24, 22, 22, 23] sağlanan ['B2', 'K1', 'WSum'] sınıf True bütünlüklü mercekler [4]
+A000 sira 77144 puan 21.0377 mercek (1, 1),13 kapı True kF 11 kH 2 hücre [3, 2, 3, 3] toplam [20, 18, 19, 21] sağlanan ['B2', 'K1', 'WSum'] sınıf True bütünlüklü mercekler [4]
+A000 sira 211869 puan 23.4354 mercek (1, 1),13 kapı True kF 12 kH 1 hücre [3, 3, 3, 3] toplam [26, 24, 23, 25] sağlanan ['B2', 'K1', 'WSum'] sınıf True bütünlüklü mercekler [4]
+A000 sira 38001 puan 21.0377 mercek (1, 1),13 kapı True kF 11 kH 2 hücre [4, 2, 3, 2] toplam [28, 26, 27, 26] sağlanan ['B2', 'K1', 'WSum'] sınıf True bütünlüklü mercekler [4]
+A000 sira 226685 puan 22.8905 mercek (1, 1),13 kapı True kF 11 kH 2 hücre [2, 3, 3, 3] toplam [14, 20, 11, 7] sağlanan ['B2', 'Qc', 'WSum'] sınıf True bütünlüklü mercekler [4]
+U isabet: 12 kayıt, uyuşmazlık 0

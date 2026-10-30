@@ -1,0 +1,6 @@
+f9f9b2b7d95e7ce60f1e2a46c88c5979014bba9eebdfd785227412667f8778d9  tab/L/diller_A.txt
+2d24c9207fd97e60e5401532c1d01590bb8a2300ce664629ad9f1d3b62a7ea5e  tab/M/diller_A.txt
+00a9de1a7e325adbf03107b6c20134ed96cc9da996ac01de3d4028eb6df0c4e4  tab/U/diller_A.txt
+750631365cdd78a7d8e0d16cfbeecd61905f7c05425f6e6b5c08660d25471ac4  tab/L/ayrinti_A.txt
+4950eb3abec78b55f0ac68e4ec62dbc20883bb3c693abab7709305ec2b3136c3  tab/M/ayrinti_A.txt
+4179052db2f2dd07d25fd8df3a26b916d7f58ab6751f63ccc9f6fe650d57f797  tab/U/ayrinti_A.txt

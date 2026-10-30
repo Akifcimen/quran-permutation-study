@@ -1,0 +1,16 @@
+Ö0 kısıtsız D M: AYNI
+Ö0 kısıtsız D U: AYNI
+Ö0 kısıtsız D L: AYNI
+Ö0 kontrol bölüt 1 M: AYNI
+Ö0 kontrol bölüt 1 U: AYNI
+Ö0 kontrol bölüt 1 L: AYNI
+diller M A: AYNI
+diller M Am: AYNI
+diller M Ap: AYNI
+diller M B: AYNI
+diller U A: AYNI
+diller U B: AYNI
+diller L A: AYNI
+diller L B: AYNI
+M20 Kol A düzey 1 bölüt 1: AYNI
+M20 Kol B düzey 1 bölüt 1: AYNI

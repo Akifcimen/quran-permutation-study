@@ -1,0 +1,101 @@
+A000 hedef 0 kol 1 esik 20.830033 mercek (1,+1,19) Ldil 6 cozulmus 1 kF 12 kH 7 FnH 0 mc 3 kapiG 1 hucre_boy 3/3/3/3 hucre_q 20/18/19/19 kapsam_tur 4 kapsam_duzey 3 | B:112329/100000000 F:22/1014992 W:140212/1014992 | dil: B2 K1 Qc WSum | sağlanan: B2 K1 Qc WSum | L*@mercek: B1 B2 F1 F2 R0c R1c R1e K1 K2 Qc QS Qh FC1 FD1 FH2p FSC W1 QU Qa WSum WUd | Gmercek 1
+A001 hedef 1 kol 1 esik -2.640755 mercek (2,+1,17) Ldil 179 cozulmus 1 kF 15 kH 4 FnH 0 mc 2 kapiG 1 hucre_boy 4/2/5/4 hucre_q 40/16/41/28 kapsam_tur 3 kapsam_duzey 3 | F:14240/183296 W:121638/183296 H:3839994/10126233 | dil: FSC W1 HH1 | sağlanan: FSC W1 HH1 | L*@mercek: FSC W1 HH1 HR0c | Gmercek 1
+A002 hedef 2 kol 1 dil_yok Gmercek 0
+A003 hedef 3 kol 1 dil_yok Gmercek 0
+A004 hedef 4 kol 1 dil_yok Gmercek 0
+A005 hedef 5 kol 1 dil_yok Gmercek 0
+A006 hedef 6 kol 1 dil_yok Gmercek 0
+A007 hedef 7 kol 1 dil_yok Gmercek 0
+A008 hedef 8 kol 1 dil_yok Gmercek 0
+A009 hedef 9 kol 1 esik -3.083385 mercek (1,-3,37) Ldil 155 cozulmus 1 kF 8 kH 4 FnH 1 mc 2 kapiG 1 hucre_boy 2/2/2/2 hucre_q -20/0/-2/-2 kapsam_tur 3 kapsam_duzey 3 | F:59485/853821 W:162816/853821 | dil: F1 FSC WI1 | sağlanan: F1 FSC WI1 | L*@mercek: F1 R0c R1c R1e FC1 FD1 FSC WI1 | Gmercek 2
+A010 hedef 10 kol 1 esik 2.819444 mercek (1,-1,23) Ldil 36 cozulmus 1 kF 10 kH 5 FnH 0 mc 2 kapiG 1 hucre_boy 2/3/2/3 hucre_q 2/-2/0/-1 kapsam_tur 3 kapsam_duzey 3 | F:154851/1646317 W:71304/1646317 H:3917817/17969792 | dil: FRK Qn HR0c | sağlanan: FRK Qn HR0c | L*@mercek: F1 FD1 FRK FKS W1 Qn HR0c | Gmercek 2
+A011 hedef 11 kol 1 dil_yok Gmercek 0
+A012 hedef 12 kol 1 dil_yok Gmercek 0
+A013 hedef 13 kol 1 dil_yok Gmercek 1
+A014 hedef 14 kol 1 esik -2.603868 mercek (1,-1,23) Ldil 36 cozulmus 1 kF 10 kH 5 FnH 0 mc 2 kapiG 1 hucre_boy 2/3/3/2 hucre_q 0/-6/1/2 kapsam_tur 3 kapsam_duzey 3 | B:14865314/100000000 F:496657/1646317 W:1399194/1646317 | dil: B1 FSC W1 | sağlanan: B1 FSC W1 | L*@mercek: B1 F1 FC1 FKS FSC W1 | Gmercek 2
+A015 hedef 15 kol 1 dil_yok Gmercek 0
+A016 hedef 16 kol 1 dil_yok Gmercek 0
+A017 hedef 17 kol 1 dil_yok Gmercek 0
+A018 hedef 18 kol 1 esik 5.152459 mercek (1,+1,29) Ldil 8 cozulmus 1 kF 9 kH 9 FnH 1 mc 2 kapiG 1 hucre_boy 2/2/2/3 hucre_q 12/6/6/5 kapsam_tur 3 kapsam_duzey 3 | F:18190/1109112 W:11921/1109112 | dil: FSp FKS WEq | sağlanan: FSp FKS WEq | L*@mercek: R0c QS FSp FKS FSC WI1 WEq HR0c HR0e | Gmercek 2
+A019 hedef 19 kol 1 dil_yok Gmercek 0
+A020 hedef 20 kol 1 dil_yok Gmercek 0
+A021 hedef 21 kol 1 dil_yok Gmercek 0
+A022 hedef 22 kol 1 dil_yok Gmercek 0
+A023 hedef 23 kol 1 esik 2.657458 mercek (1,+1,23) Ldil 7 cozulmus 1 kF 13 kH 7 FnH 1 mc 2 kapiG 1 hucre_boy 4/3/2/4 hucre_q 24/14/2/12 kapsam_tur 3 kapsam_duzey 3 | F:543/99346 W:18062/99346 | dil: FC2 FSC WI1 | sağlanan: FC2 FSC WI1 | L*@mercek: FC2 FKS FSC WI1 | Gmercek 1
+A024 hedef 24 kol 1 dil_yok Gmercek 0
+A025 hedef 25 kol 1 esik 4.117862 mercek (1,-1,23) Ldil 36 cozulmus 1 kF 11 kH 4 FnH 0 mc 2 kapiG 1 hucre_boy 2/2/3/4 hucre_q 0/-2/-7/0 kapsam_tur 3 kapsam_duzey 3 | F:90591/710620 W:30253/710620 H:1188715/17865575 | dil: K2 WHAd HR0e | sağlanan: K2 WHAd HR0e | L*@mercek: R0c K2 FKS FSC W1 WUTd WHAd WHNd HH1 HR0c HR0e | Gmercek 1
+A026 hedef 26 kol 1 dil_yok Gmercek 0
+A027 hedef 27 kol 1 dil_yok Gmercek 0
+A028 hedef 28 kol 1 dil_yok Gmercek 0
+A029 hedef 29 kol 1 esik 0.813810 mercek (1,+1,19) Ldil 6 cozulmus 1 kF 15 kH 9 FnH 1 mc 2 kapiG 1 hucre_boy 2/4/5/4 hucre_q 6/20/29/18 kapsam_tur 3 kapsam_duzey 3 | W:25515/67239 H:64658/6879207 | dil: WI1 HR0c HK2 | sağlanan: WI1 HR0c HK2 | L*@mercek: Qn WI1 HR0c HK2 | Gmercek 1
+A030 hedef 30 kol 1 dil_yok Gmercek 0
+A031 hedef 31 kol 1 esik -5.177402 mercek (1,-3,23) Ldil 152 cozulmus 1 kF 10 kH 7 FnH 0 mc 2 kapiG 1 hucre_boy 3/2/2/3 hucre_q -4/-6/-6/-23 kapsam_tur 3 kapsam_duzey 3 | B:14865314/100000000 F:740246/1649710 W:1402806/1649710 | dil: B1 FKS W1 | sağlanan: B1 FKS W1 | L*@mercek: B1 F1 FC1 FKS W1 | Gmercek 1
+A032 hedef 32 kol 1 dil_yok Gmercek 0
+A033 hedef 33 kol 1 dil_yok Gmercek 0
+A034 hedef 34 kol 1 dil_yok Gmercek 0
+A035 hedef 35 kol 1 dil_yok Gmercek 0
+A036 hedef 36 kol 1 dil_yok Gmercek 0
+A037 hedef 37 kol 1 dil_yok Gmercek 1
+A038 hedef 38 kol 1 dil_yok Gmercek 0
+A039 hedef 39 kol 1 dil_yok Gmercek 0
+A040 hedef 40 kol 1 dil_yok Gmercek 1
+A041 hedef 41 kol 1 dil_yok Gmercek 0
+A042 hedef 42 kol 1 dil_yok Gmercek 0
+A043 hedef 43 kol 1 esik -1.643496 mercek (1,-1,29) Ldil 37 cozulmus 1 kF 8 kH 4 FnH 0 mc 2 kapiG 1 hucre_boy 2/2/2/2 hucre_q -2/2/2/2 kapsam_tur 3 kapsam_duzey 3 | F:65278/2742485 W:2256849/2742485 | dil: R1e K2 W1 | sağlanan: R1e K2 W1 | L*@mercek: F1 R0c R1c R1e K2 FC1 FD1 FSC W1 | Gmercek 1
+A044 hedef 44 kol 1 dil_yok Gmercek 0
+A045 hedef 45 kol 1 esik 3.446816 mercek (1,+1,23) Ldil 7 cozulmus 1 kF 12 kH 3 FnH 1 mc 2 kapiG 1 hucre_boy 3/3/2/4 hucre_q 18/20/10/12 kapsam_tur 3 kapsam_duzey 3 | F:950/277418 W:46579/277418 | dil: FD2 FKS WI1 | sağlanan: FD2 FKS WI1 | L*@mercek: F1 R0c FD2 FKS FSC WI1 HK2 | Gmercek 3
+A046 hedef 46 kol 1 esik -0.416658 mercek (2,+1,19) Ldil 180 cozulmus 1 kF 12 kH 7 FnH 1 mc 2 kapiG 1 hucre_boy 2/3/3/4 hucre_q 12/34/25/38 kapsam_tur 3 kapsam_duzey 3 | F:30714/1014786 W:140297/1014786 | dil: FD1 FSC WSum | sağlanan: FD1 FSC WSum | L*@mercek: FD1 FKS FSC WI1 WSum HR0e HR1c | Gmercek 1
+A047 hedef 47 kol 1 dil_yok Gmercek 0
+A048 hedef 48 kol 1 dil_yok Gmercek 0
+A049 hedef 49 kol 1 esik -3.476921 mercek (2,+3,17) Ldil 237 cozulmus 1 kF 14 kH 4 FnH 0 mc 3 kapiG 1 hucre_boy 4/3/3/4 hucre_q 34/50/49/28 kapsam_tur 3 kapsam_duzey 3 | F:68102/461211 W:27255/461211 | dil: F1 FKS Qa | sağlanan: F1 FKS Qa | L*@mercek: F1 FC1 FKS W1 Qa | Gmercek 1
+A050 hedef 50 kol 1 esik -2.147445 mercek (3,-1,19) Ldil 325 cozulmus 1 kF 12 kH 3 FnH 0 mc 2 kapiG 1 hucre_boy 2/3/3/4 hucre_q -2/-4/25/10 kapsam_tur 3 kapsam_duzey 3 | F:11356/1014287 W:629102/1014287 | dil: FAd FKS W1 | sağlanan: FAd FKS W1 | L*@mercek: FD1 FAd FNd FKS W1 HR0c | Gmercek 2
+A051 hedef 51 kol 1 dil_yok Gmercek 0
+A052 hedef 52 kol 1 dil_yok Gmercek 1
+A053 hedef 53 kol 1 dil_yok Gmercek 0
+A054 hedef 54 kol 1 esik 0.666322 mercek (1,+1,37) Ldil 10 cozulmus 1 kF 8 kH 3 FnH 0 mc 2 kapiG 1 hucre_boy 2/2/2/2 hucre_q 4/4/8/6 kapsam_tur 3 kapsam_duzey 3 | F:121303/828838 W:22373/828838 | dil: F1 FSC Qa | sağlanan: F1 FSC Qa | L*@mercek: F1 R0c R0e R1c FC1 FD1 FSC W1 Qa QH WHRd2 HR1c HR1e | Gmercek 1
+A055 hedef 55 kol 1 dil_yok Gmercek 0
+A056 hedef 56 kol 1 dil_yok Gmercek 0
+A057 hedef 57 kol 1 dil_yok Gmercek 0
+A058 hedef 58 kol 1 dil_yok Gmercek 0
+A059 hedef 59 kol 1 dil_yok Gmercek 1
+A060 hedef 60 kol 1 dil_yok Gmercek 1
+A061 hedef 61 kol 1 esik -2.625754 mercek (1,-1,29) Ldil 37 cozulmus 1 kF 9 kH 3 FnH 0 mc 2 kapiG 1 hucre_boy 2/3/2/2 hucre_q 0/2/0/6 kapsam_tur 3 kapsam_duzey 3 | F:55943/1160663 W:931830/1160663 | dil: R1c K2 W1 | sağlanan: R1c K2 W1 | L*@mercek: R1c K2 FKS FSC W1 HK2 | Gmercek 1
+A062 hedef 62 kol 1 dil_yok Gmercek 0
+A063 hedef 63 kol 1 dil_yok Gmercek 0
+A064 hedef 64 kol 1 dil_yok Gmercek 0
+A065 hedef 65 kol 1 dil_yok Gmercek 0
+A066 hedef 66 kol 1 dil_yok Gmercek 0
+A067 hedef 67 kol 1 dil_yok Gmercek 0
+A068 hedef 68 kol 1 dil_yok Gmercek 1
+A069 hedef 69 kol 1 dil_yok Gmercek 0
+A070 hedef 70 kol 1 dil_yok Gmercek 0
+A071 hedef 71 kol 1 dil_yok Gmercek 1
+A072 hedef 72 kol 1 dil_yok Gmercek 0
+A073 hedef 73 kol 1 dil_yok Gmercek 0
+A074 hedef 74 kol 1 dil_yok Gmercek 0
+A075 hedef 75 kol 1 dil_yok Gmercek 0
+A076 hedef 76 kol 1 dil_yok Gmercek 0
+A077 hedef 77 kol 1 dil_yok Gmercek 0
+A078 hedef 78 kol 1 esik -3.721874 mercek (1,+1,19) Ldil 6 cozulmus 1 kF 14 kH 6 FnH 0 mc 2 kapiG 1 hucre_boy 3/4/5/2 hucre_q 20/18/35/24 kapsam_tur 3 kapsam_duzey 3 | F:26198/178916 W:101080/178916 | dil: F1 FKS W1 | sağlanan: F1 FKS W1 | L*@mercek: F1 FKS W1 | Gmercek 1
+A079 hedef 79 kol 1 dil_yok Gmercek 0
+A080 hedef 80 kol 1 dil_yok Gmercek 0
+A081 hedef 81 kol 1 dil_yok Gmercek 0
+A082 hedef 82 kol 1 dil_yok Gmercek 0
+A083 hedef 83 kol 1 dil_yok Gmercek 0
+A084 hedef 84 kol 1 dil_yok Gmercek 0
+A085 hedef 85 kol 1 dil_yok Gmercek 0
+A086 hedef 86 kol 1 dil_yok Gmercek 0
+A087 hedef 87 kol 1 dil_yok Gmercek 0
+A088 hedef 88 kol 1 dil_yok Gmercek 0
+A089 hedef 89 kol 1 dil_yok Gmercek 1
+A090 hedef 90 kol 1 dil_yok Gmercek 0
+A091 hedef 91 kol 1 dil_yok Gmercek 0
+A092 hedef 92 kol 1 dil_yok Gmercek 0
+A093 hedef 93 kol 1 dil_yok Gmercek 0
+A094 hedef 94 kol 1 dil_yok Gmercek 0
+A095 hedef 95 kol 1 dil_yok Gmercek 0
+A096 hedef 96 kol 1 dil_yok Gmercek 0
+A097 hedef 97 kol 1 dil_yok Gmercek 0
+A098 hedef 98 kol 1 esik -4.800550 mercek (3,+1,19) Ldil 296 cozulmus 1 kF 12 kH 3 FnH 0 mc 2 kapiG 1 hucre_boy 4/2/3/3 hucre_q 40/22/47/25 kapsam_tur 3 kapsam_duzey 3 | F:71352/1013274 W:628545/1013274 | dil: F1 FKS W1 | sağlanan: F1 FKS W1 | L*@mercek: F1 R1c FKS W1 | Gmercek 1
+A099 hedef 99 kol 1 dil_yok Gmercek 0
+A100 hedef 100 kol 1 dil_yok Gmercek 0

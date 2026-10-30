@@ -1,0 +1,4 @@
+# sifir L bolut 143 tohum 29422600143 N 250000 sure_s 19.5 aday 0 aday_tasma 0
+D A000 0 0
+D A047 1 1
+D A068 0 47

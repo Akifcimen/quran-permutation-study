@@ -1,0 +1,9 @@
+M bolut 1 N 20000 ozet 211251f75a003daf b2_bicim 20 q 0
+M bolut 400 N 20000 ozet 2f80dcb6bcef00bd b2_bicim 62 q 0
+M bolut 4000 N 20000 ozet 06e4e2817cbc2bc7 b2_bicim 52 q 0
+U bolut 1 N 20000 ozet 4f01cfcd7d854281 b2_bicim 38 q 0
+U bolut 400 N 20000 ozet e88b93846822a7d5 b2_bicim 58 q 0
+U bolut 4000 N 20000 ozet 70d2eedc440b2f4d b2_bicim 42 q 0
+L bolut 1 N 20000 ozet 14b7f4c9d09d8abf b2_bicim 50 q 0.91457312846239902
+L bolut 400 N 20000 ozet a6bacdc3ba4b84f9 b2_bicim 62 q 0.91457312846239902
+L bolut 4000 N 20000 ozet fe7182b9118c990b b2_bicim 54 q 0.91457312846239902

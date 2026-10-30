@@ -1,0 +1,6 @@
+# sifir L bolut 5 tohum 29422600005 N 250000 sure_s 19.5 aday 0 aday_tasma 0
+D A000 0 0
+D A008 3 11
+D A047 0 0
+D A064 2 30
+D A068 0 52

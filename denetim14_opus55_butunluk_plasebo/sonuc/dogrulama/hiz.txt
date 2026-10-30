@@ -1,0 +1,6 @@
+taban (profil + kapı listesi) M: 76,000 µs/kontrol (çekirdek), duvar 20 s / 10⁶ kontrol
+taban (profil + kapı listesi) U: 72,000 µs/kontrol (çekirdek), duvar 19 s / 10⁶ kontrol
+taban (profil + kapı listesi) L: 76,000 µs/kontrol (çekirdek), duvar 20 s / 10⁶ kontrol
+Kol A/A−/A+ M: dil başına ek 0,8736 µs/kontrol
+Kol B bellek: dil başına en çok 55 MB, toplam 864 MB, 3,5 GB partileri 1
+Kol B M (ilk parti): dil başına ek 5,413 µs/kontrol; parti kuruluşu + 10⁶ kontrol duvar 278 s

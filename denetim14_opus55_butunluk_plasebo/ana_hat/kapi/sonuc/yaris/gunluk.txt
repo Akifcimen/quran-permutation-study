@@ -1,0 +1,58 @@
+[2026-10-29T19:00:46Z] YENİDEN L BAŞLADI
+[2026-10-29T19:00:46Z] kontrol_h Gc L 1–40000 başladı
+[2026-10-29T19:43:42Z] kontrol_h Gc L bitti: A000 k=22 kB=6277 
+[2026-10-29T19:49:49Z] kuran_Gc karşılaştırma: 40000 bölüt, 13 farklı, 0 eksik
+[2026-10-29T19:49:49Z] kontrol_h G2E L 1–40000 başladı
+[2026-10-29T20:32:39Z] kontrol_h G2E L bitti: A000 k=1 kB=1211 
+[2026-10-29T20:38:55Z] kademe_G2E karşılaştırma: 40000 bölüt, 30 farklı, 0 eksik
+[2026-10-29T20:38:55Z] kontrol_h GE L 1–4000 başladı
+[2026-10-29T20:43:11Z] kontrol_h GE L bitti: A000 k=2 kB=683 
+[2026-10-29T20:43:50Z] kuran_GE karşılaştırma: 4000 bölüt, 14 farklı, 0 eksik
+[2026-10-29T20:43:50Z] kontrol_h G0 L 1–4000 başladı
+[2026-10-29T20:48:11Z] kontrol_h G0 L bitti: A000 k=9 kB=3377 
+[2026-10-29T20:48:50Z] kuran_G0 karşılaştırma: 4000 bölüt, 3 farklı, 0 eksik
+[2026-10-29T20:48:51Z] kontrol_b plasebo_Gc d1_0 (1 4) başladı: 100 dil
+[2026-10-29T20:49:44Z] kontrol_b plasebo_Gc d1_0 bitti
+[2026-10-29T20:49:44Z] kontrol_b plasebo_Gc d2_0 (5 40) başladı: 7 dil
+[2026-10-29T20:51:54Z] kontrol_b plasebo_Gc d2_0 bitti
+[2026-10-29T20:51:54Z] kontrol_b plasebo_Gc d3_0 (41 400) başladı: 3 dil
+[2026-10-29T21:13:08Z] kontrol_b plasebo_Gc d3_0 bitti
+[2026-10-29T21:13:08Z] plasebo_Gc_d1_0 karşılaştırma: 4 bölüt, 0 farklı, 0 eksik
+[2026-10-29T21:13:09Z] plasebo_Gc_d2_0 karşılaştırma: 36 bölüt, 2 farklı, 0 eksik
+[2026-10-29T21:13:12Z] plasebo_Gc_d3_0 karşılaştırma: 360 bölüt, 1 farklı, 0 eksik
+[2026-10-29T21:13:12Z] kontrol_b plasebo_GE d1_0 (1 4) başladı: 100 dil
+[2026-10-29T21:14:04Z] kontrol_b plasebo_GE d1_0 bitti
+[2026-10-29T21:14:04Z] kontrol_b plasebo_GE d2_0 (5 40) başladı: 9 dil
+[2026-10-29T21:16:19Z] kontrol_b plasebo_GE d2_0 bitti
+[2026-10-29T21:16:19Z] kontrol_b plasebo_GE d3_0 (41 400) başladı: 3 dil
+[2026-10-29T21:37:43Z] kontrol_b plasebo_GE d3_0 bitti
+[2026-10-29T21:37:43Z] plasebo_GE_d1_0 karşılaştırma: 4 bölüt, 4 farklı, 0 eksik
+[2026-10-29T21:37:43Z] plasebo_GE_d2_0 karşılaştırma: 36 bölüt, 1 farklı, 0 eksik
+[2026-10-29T21:37:46Z] plasebo_GE_d3_0 karşılaştırma: 360 bölüt, 0 farklı, 0 eksik
+[2026-10-29T21:37:46Z] kontrol_b plasebo_G0 d1_0 (1 4) başladı: 101 dil
+[2026-10-29T21:40:06Z] kontrol_b plasebo_G0 d1_0 bitti
+[2026-10-29T21:40:06Z] kontrol_b plasebo_G0 d2_0 (5 40) başladı: 5 dil
+[2026-10-29T21:42:28Z] kontrol_b plasebo_G0 d2_0 bitti
+[2026-10-29T21:42:28Z] kontrol_b plasebo_G0 d3_0 (41 400) başladı: 2 dil
+[2026-10-29T22:04:11Z] kontrol_b plasebo_G0 d3_0 bitti
+[2026-10-29T22:04:11Z] plasebo_G0_d1_0 karşılaştırma: 4 bölüt, 0 farklı, 0 eksik
+[2026-10-29T22:04:11Z] plasebo_G0_d2_0 karşılaştırma: 36 bölüt, 0 farklı, 0 eksik
+[2026-10-29T22:04:15Z] plasebo_G0_d3_0 karşılaştırma: 360 bölüt, 1 farklı, 0 eksik
+[2026-10-29T22:04:15Z] kontrol_b p14_kA d1_0 (1 4) başladı: 16 dil
+[2026-10-29T22:04:58Z] kontrol_b p14_kA d1_0 bitti
+[2026-10-29T22:04:58Z] kontrol_b p14_kA d2_0 (5 40) başladı: 5 dil
+[2026-10-29T22:07:08Z] kontrol_b p14_kA d2_0 bitti
+[2026-10-29T22:07:08Z] kontrol_b p14_kA d3_0 (41 400) başladı: 3 dil
+[2026-10-29T22:28:15Z] kontrol_b p14_kA d3_0 bitti
+[2026-10-29T22:28:15Z] kontrol_b p14_kB d1_0 (1 4) başladı: 101 dil
+[2026-10-29T22:32:34Z] kontrol_b p14_kB d1_0 bitti
+[2026-10-29T22:32:34Z] kontrol_b p14_kB d2_0 (5 40) başladı: 13 dil
+[2026-10-29T22:35:59Z] kontrol_b p14_kB d2_0 bitti
+[2026-10-29T22:35:59Z] kontrol_b p14_kB d3_0 (41 400) başladı: 5 dil
+[2026-10-29T23:01:45Z] kontrol_b p14_kB d3_0 bitti
+[2026-10-29T23:01:45Z] YENİDEN L BİTTİ
+[2026-10-29T23:02:14Z] p12 L başladı
+[2026-10-29T23:28:36Z] p12 L BİTTİ
+[2026-10-29T23:33:47Z] kontrol_b GE A012 d3 (41–400) başladı (derinlik kuralı düzeltilmiş sayımla değişti)
+[2026-10-29T23:34:23Z] kontrol_b GE A012 d3 durduruldu (kısmi çıktı kullanılmayacak): önce düzey 2, kural sırası
+[2026-10-29T23:36:40Z] kontrol_b GE A012 d2 (5–40) bitti

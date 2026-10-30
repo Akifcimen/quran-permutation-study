@@ -1,0 +1,2 @@
+D A000 0 20.830033303 1 kol 1 mercek 6
+# dil sayısı 1

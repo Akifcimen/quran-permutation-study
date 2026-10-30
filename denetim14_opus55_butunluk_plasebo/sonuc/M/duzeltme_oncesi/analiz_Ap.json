@@ -1,0 +1,7001 @@
+{
+ "sifir": "M",
+ "kol": "Ap",
+ "kol_adi": "Kol A+ (4 tür, 4 düzey)",
+ "K": 200,
+ "hedefler": {
+  "Ap000": {
+   "ad": "Ap000",
+   "hedef": 0,
+   "L": 6,
+   "dil": [
+    "B2",
+    "K1",
+    "Qh",
+    "WSum"
+   ],
+   "boy": 4,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 4,
+   "n_duzey": 4,
+   "ayrinti": "Ap000 hedef 0 kol 3 mercek (1,+1,19) amac -5.153213 bilgi 26.118760 dil_bedeli 23.954560 mercek_bedeli 7.317413 esik 18.801347 |Λ| 4 grup_bilgi B 9.6657 Z 0.0000 F 13.5985 W 2.8545 H 0.0000 tur abcd duzey KAHB Gmercek 1 Bmercek 1 aday_asimi 0 : B2 K1 Qh WSum",
+   "hedef_ayrinti": "Ap000 hedef 0 kol 3 esik 18.801347 mercek (1,+1,19) Ldil 6 cozulmus 1 kF 12 kH 7 FnH 0 mc 3 kapiG 1 hucre_boy 3/3/3/3 hucre_q 20/18/19/19 kapsam_tur 4 kapsam_duzey 4 | B:123118/100000000 F:97/1203170 W:166353/1203170 | dil: B2 K1 Qh WSum | sağlanan: B2 K1 Qh WSum | L*@mercek: B1 B2 F1 F2 R0c R1c R1e K1 K2 Qc QS Qh FC1 FD1 FH2p FSC W1 QU Qa WSum WUd | Gmercek 1",
+   "dilsiz": false,
+   "k": 0,
+   "kB": 0,
+   "N": 100000000,
+   "duzey": 3,
+   "eksik": 0,
+   "esik": 18.801347495,
+   "esik_bayrak": 1,
+   "esik_mercek": 6,
+   "p": 9.9999999e-09,
+   "ci": [
+    0.0,
+    3.6888739390569175e-08
+   ]
+  },
+  "Ap001": {
+   "ad": "Ap001",
+   "hedef": 1,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap001 hedef 1 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap001 hedef 1 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap002": {
+   "ad": "Ap002",
+   "hedef": 2,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap002 hedef 2 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap002 hedef 2 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap003": {
+   "ad": "Ap003",
+   "hedef": 3,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap003 hedef 3 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap003 hedef 3 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap004": {
+   "ad": "Ap004",
+   "hedef": 4,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap004 hedef 4 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap004 hedef 4 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap005": {
+   "ad": "Ap005",
+   "hedef": 5,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap005 hedef 5 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap005 hedef 5 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap006": {
+   "ad": "Ap006",
+   "hedef": 6,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap006 hedef 6 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap006 hedef 6 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap007": {
+   "ad": "Ap007",
+   "hedef": 7,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap007 hedef 7 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap007 hedef 7 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap008": {
+   "ad": "Ap008",
+   "hedef": 8,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap008 hedef 8 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap008 hedef 8 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap009": {
+   "ad": "Ap009",
+   "hedef": 9,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap009 hedef 9 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap009 hedef 9 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap010": {
+   "ad": "Ap010",
+   "hedef": 10,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap010 hedef 10 kol 3 dil_yok Gmercek 2 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap010 hedef 10 kol 3 dil_yok Gmercek 2",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap011": {
+   "ad": "Ap011",
+   "hedef": 11,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap011 hedef 11 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap011 hedef 11 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap012": {
+   "ad": "Ap012",
+   "hedef": 12,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap012 hedef 12 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap012 hedef 12 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap013": {
+   "ad": "Ap013",
+   "hedef": 13,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap013 hedef 13 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap013 hedef 13 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap014": {
+   "ad": "Ap014",
+   "hedef": 14,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap014 hedef 14 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap014 hedef 14 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap015": {
+   "ad": "Ap015",
+   "hedef": 15,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap015 hedef 15 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap015 hedef 15 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap016": {
+   "ad": "Ap016",
+   "hedef": 16,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap016 hedef 16 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap016 hedef 16 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap017": {
+   "ad": "Ap017",
+   "hedef": 17,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap017 hedef 17 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap017 hedef 17 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap018": {
+   "ad": "Ap018",
+   "hedef": 18,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap018 hedef 18 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap018 hedef 18 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap019": {
+   "ad": "Ap019",
+   "hedef": 19,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap019 hedef 19 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap019 hedef 19 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap020": {
+   "ad": "Ap020",
+   "hedef": 20,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap020 hedef 20 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap020 hedef 20 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap021": {
+   "ad": "Ap021",
+   "hedef": 21,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap021 hedef 21 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap021 hedef 21 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap022": {
+   "ad": "Ap022",
+   "hedef": 22,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap022 hedef 22 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap022 hedef 22 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap023": {
+   "ad": "Ap023",
+   "hedef": 23,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap023 hedef 23 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap023 hedef 23 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap024": {
+   "ad": "Ap024",
+   "hedef": 24,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap024 hedef 24 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap024 hedef 24 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap025": {
+   "ad": "Ap025",
+   "hedef": 25,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap025 hedef 25 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap025 hedef 25 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap026": {
+   "ad": "Ap026",
+   "hedef": 26,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap026 hedef 26 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap026 hedef 26 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap027": {
+   "ad": "Ap027",
+   "hedef": 27,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap027 hedef 27 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap027 hedef 27 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap028": {
+   "ad": "Ap028",
+   "hedef": 28,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap028 hedef 28 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap028 hedef 28 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap029": {
+   "ad": "Ap029",
+   "hedef": 29,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap029 hedef 29 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap029 hedef 29 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap030": {
+   "ad": "Ap030",
+   "hedef": 30,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap030 hedef 30 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap030 hedef 30 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap031": {
+   "ad": "Ap031",
+   "hedef": 31,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap031 hedef 31 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap031 hedef 31 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap032": {
+   "ad": "Ap032",
+   "hedef": 32,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap032 hedef 32 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap032 hedef 32 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap033": {
+   "ad": "Ap033",
+   "hedef": 33,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap033 hedef 33 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap033 hedef 33 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap034": {
+   "ad": "Ap034",
+   "hedef": 34,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap034 hedef 34 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap034 hedef 34 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap035": {
+   "ad": "Ap035",
+   "hedef": 35,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap035 hedef 35 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap035 hedef 35 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap036": {
+   "ad": "Ap036",
+   "hedef": 36,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap036 hedef 36 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap036 hedef 36 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap037": {
+   "ad": "Ap037",
+   "hedef": 37,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap037 hedef 37 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap037 hedef 37 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap038": {
+   "ad": "Ap038",
+   "hedef": 38,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap038 hedef 38 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap038 hedef 38 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap039": {
+   "ad": "Ap039",
+   "hedef": 39,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap039 hedef 39 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap039 hedef 39 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap040": {
+   "ad": "Ap040",
+   "hedef": 40,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap040 hedef 40 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap040 hedef 40 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap041": {
+   "ad": "Ap041",
+   "hedef": 41,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap041 hedef 41 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap041 hedef 41 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap042": {
+   "ad": "Ap042",
+   "hedef": 42,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap042 hedef 42 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap042 hedef 42 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap043": {
+   "ad": "Ap043",
+   "hedef": 43,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap043 hedef 43 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap043 hedef 43 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap044": {
+   "ad": "Ap044",
+   "hedef": 44,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap044 hedef 44 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap044 hedef 44 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap045": {
+   "ad": "Ap045",
+   "hedef": 45,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap045 hedef 45 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap045 hedef 45 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap046": {
+   "ad": "Ap046",
+   "hedef": 46,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap046 hedef 46 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap046 hedef 46 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap047": {
+   "ad": "Ap047",
+   "hedef": 47,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap047 hedef 47 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap047 hedef 47 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap048": {
+   "ad": "Ap048",
+   "hedef": 48,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap048 hedef 48 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap048 hedef 48 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap049": {
+   "ad": "Ap049",
+   "hedef": 49,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap049 hedef 49 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap049 hedef 49 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap050": {
+   "ad": "Ap050",
+   "hedef": 50,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap050 hedef 50 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap050 hedef 50 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap051": {
+   "ad": "Ap051",
+   "hedef": 51,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap051 hedef 51 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap051 hedef 51 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap052": {
+   "ad": "Ap052",
+   "hedef": 52,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap052 hedef 52 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap052 hedef 52 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap053": {
+   "ad": "Ap053",
+   "hedef": 53,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap053 hedef 53 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap053 hedef 53 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap054": {
+   "ad": "Ap054",
+   "hedef": 54,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap054 hedef 54 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap054 hedef 54 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap055": {
+   "ad": "Ap055",
+   "hedef": 55,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap055 hedef 55 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap055 hedef 55 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap056": {
+   "ad": "Ap056",
+   "hedef": 56,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap056 hedef 56 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap056 hedef 56 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap057": {
+   "ad": "Ap057",
+   "hedef": 57,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap057 hedef 57 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap057 hedef 57 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap058": {
+   "ad": "Ap058",
+   "hedef": 58,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap058 hedef 58 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap058 hedef 58 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap059": {
+   "ad": "Ap059",
+   "hedef": 59,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap059 hedef 59 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap059 hedef 59 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap060": {
+   "ad": "Ap060",
+   "hedef": 60,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap060 hedef 60 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap060 hedef 60 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap061": {
+   "ad": "Ap061",
+   "hedef": 61,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap061 hedef 61 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap061 hedef 61 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap062": {
+   "ad": "Ap062",
+   "hedef": 62,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap062 hedef 62 kol 3 dil_yok Gmercek 2 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap062 hedef 62 kol 3 dil_yok Gmercek 2",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap063": {
+   "ad": "Ap063",
+   "hedef": 63,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap063 hedef 63 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap063 hedef 63 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap064": {
+   "ad": "Ap064",
+   "hedef": 64,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap064 hedef 64 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap064 hedef 64 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap065": {
+   "ad": "Ap065",
+   "hedef": 65,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap065 hedef 65 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap065 hedef 65 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap066": {
+   "ad": "Ap066",
+   "hedef": 66,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap066 hedef 66 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap066 hedef 66 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap067": {
+   "ad": "Ap067",
+   "hedef": 67,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap067 hedef 67 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap067 hedef 67 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap068": {
+   "ad": "Ap068",
+   "hedef": 68,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap068 hedef 68 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap068 hedef 68 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap069": {
+   "ad": "Ap069",
+   "hedef": 69,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap069 hedef 69 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap069 hedef 69 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap070": {
+   "ad": "Ap070",
+   "hedef": 70,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap070 hedef 70 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap070 hedef 70 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap071": {
+   "ad": "Ap071",
+   "hedef": 71,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap071 hedef 71 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap071 hedef 71 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap072": {
+   "ad": "Ap072",
+   "hedef": 72,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap072 hedef 72 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap072 hedef 72 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap073": {
+   "ad": "Ap073",
+   "hedef": 73,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap073 hedef 73 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap073 hedef 73 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap074": {
+   "ad": "Ap074",
+   "hedef": 74,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap074 hedef 74 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap074 hedef 74 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap075": {
+   "ad": "Ap075",
+   "hedef": 75,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap075 hedef 75 kol 3 dil_yok Gmercek 2 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap075 hedef 75 kol 3 dil_yok Gmercek 2",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap076": {
+   "ad": "Ap076",
+   "hedef": 76,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap076 hedef 76 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap076 hedef 76 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap077": {
+   "ad": "Ap077",
+   "hedef": 77,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap077 hedef 77 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap077 hedef 77 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap078": {
+   "ad": "Ap078",
+   "hedef": 78,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap078 hedef 78 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap078 hedef 78 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap079": {
+   "ad": "Ap079",
+   "hedef": 79,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap079 hedef 79 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap079 hedef 79 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap080": {
+   "ad": "Ap080",
+   "hedef": 80,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap080 hedef 80 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap080 hedef 80 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap081": {
+   "ad": "Ap081",
+   "hedef": 81,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap081 hedef 81 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap081 hedef 81 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap082": {
+   "ad": "Ap082",
+   "hedef": 82,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap082 hedef 82 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap082 hedef 82 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap083": {
+   "ad": "Ap083",
+   "hedef": 83,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap083 hedef 83 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap083 hedef 83 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap084": {
+   "ad": "Ap084",
+   "hedef": 84,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap084 hedef 84 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap084 hedef 84 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap085": {
+   "ad": "Ap085",
+   "hedef": 85,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap085 hedef 85 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap085 hedef 85 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap086": {
+   "ad": "Ap086",
+   "hedef": 86,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap086 hedef 86 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap086 hedef 86 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap087": {
+   "ad": "Ap087",
+   "hedef": 87,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap087 hedef 87 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap087 hedef 87 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap088": {
+   "ad": "Ap088",
+   "hedef": 88,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap088 hedef 88 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap088 hedef 88 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap089": {
+   "ad": "Ap089",
+   "hedef": 89,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap089 hedef 89 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap089 hedef 89 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap090": {
+   "ad": "Ap090",
+   "hedef": 90,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap090 hedef 90 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap090 hedef 90 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap091": {
+   "ad": "Ap091",
+   "hedef": 91,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap091 hedef 91 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap091 hedef 91 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap092": {
+   "ad": "Ap092",
+   "hedef": 92,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap092 hedef 92 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap092 hedef 92 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap093": {
+   "ad": "Ap093",
+   "hedef": 93,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap093 hedef 93 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap093 hedef 93 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap094": {
+   "ad": "Ap094",
+   "hedef": 94,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap094 hedef 94 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap094 hedef 94 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap095": {
+   "ad": "Ap095",
+   "hedef": 95,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap095 hedef 95 kol 3 dil_yok Gmercek 2 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap095 hedef 95 kol 3 dil_yok Gmercek 2",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap096": {
+   "ad": "Ap096",
+   "hedef": 96,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap096 hedef 96 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap096 hedef 96 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap097": {
+   "ad": "Ap097",
+   "hedef": 97,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap097 hedef 97 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap097 hedef 97 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap098": {
+   "ad": "Ap098",
+   "hedef": 98,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap098 hedef 98 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap098 hedef 98 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap099": {
+   "ad": "Ap099",
+   "hedef": 99,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap099 hedef 99 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap099 hedef 99 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap100": {
+   "ad": "Ap100",
+   "hedef": 100,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap100 hedef 100 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap100 hedef 100 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap101": {
+   "ad": "Ap101",
+   "hedef": 101,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap101 hedef 101 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap101 hedef 101 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap102": {
+   "ad": "Ap102",
+   "hedef": 102,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap102 hedef 102 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap102 hedef 102 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap103": {
+   "ad": "Ap103",
+   "hedef": 103,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap103 hedef 103 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap103 hedef 103 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap104": {
+   "ad": "Ap104",
+   "hedef": 104,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap104 hedef 104 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap104 hedef 104 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap105": {
+   "ad": "Ap105",
+   "hedef": 105,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap105 hedef 105 kol 3 dil_yok Gmercek 2 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap105 hedef 105 kol 3 dil_yok Gmercek 2",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap106": {
+   "ad": "Ap106",
+   "hedef": 106,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap106 hedef 106 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap106 hedef 106 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap107": {
+   "ad": "Ap107",
+   "hedef": 107,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap107 hedef 107 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap107 hedef 107 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap108": {
+   "ad": "Ap108",
+   "hedef": 108,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap108 hedef 108 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap108 hedef 108 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap109": {
+   "ad": "Ap109",
+   "hedef": 109,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap109 hedef 109 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap109 hedef 109 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap110": {
+   "ad": "Ap110",
+   "hedef": 110,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap110 hedef 110 kol 3 dil_yok Gmercek 2 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap110 hedef 110 kol 3 dil_yok Gmercek 2",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap111": {
+   "ad": "Ap111",
+   "hedef": 111,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap111 hedef 111 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap111 hedef 111 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap112": {
+   "ad": "Ap112",
+   "hedef": 112,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap112 hedef 112 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap112 hedef 112 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap113": {
+   "ad": "Ap113",
+   "hedef": 113,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap113 hedef 113 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap113 hedef 113 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap114": {
+   "ad": "Ap114",
+   "hedef": 114,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap114 hedef 114 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap114 hedef 114 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap115": {
+   "ad": "Ap115",
+   "hedef": 115,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap115 hedef 115 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap115 hedef 115 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap116": {
+   "ad": "Ap116",
+   "hedef": 116,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap116 hedef 116 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap116 hedef 116 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap117": {
+   "ad": "Ap117",
+   "hedef": 117,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap117 hedef 117 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap117 hedef 117 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap118": {
+   "ad": "Ap118",
+   "hedef": 118,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap118 hedef 118 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap118 hedef 118 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap119": {
+   "ad": "Ap119",
+   "hedef": 119,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap119 hedef 119 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap119 hedef 119 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap120": {
+   "ad": "Ap120",
+   "hedef": 120,
+   "L": 329,
+   "dil": [
+    "B1",
+    "QS",
+    "FKS",
+    "W1"
+   ],
+   "boy": 4,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 4,
+   "n_duzey": 4,
+   "ayrinti": "Ap120 hedef 120 kol 3 mercek (3,-1,37) amac -22.546009 bilgi 9.725964 dil_bedeli 22.954560 mercek_bedeli 9.317413 esik 0.408551 |Λ| 4 grup_bilgi B 2.7515 Z 0.0000 F 6.5298 W 0.4446 H 0.0000 tur abcd duzey KAHB Gmercek 1 Bmercek 1 aday_asimi 0 : B1 QS FKS W1",
+   "hedef_ayrinti": "Ap120 hedef 120 kol 3 esik 0.408551 mercek (3,-1,37) Ldil 329 cozulmus 0 kF 14 kH 4 FnH 0 mc 2 kapiG 1 hucre_boy 3/2/4/5 hucre_q 14/10/14/-1 kapsam_tur 4 kapsam_duzey 4 | B:14849310/100000000 F:2/230 W:169/230 | dil: B1 QS FKS W1 | sağlanan: B1 QS FKS W1 | L*@mercek: B1 QS FC1 FSp FKS W1 | Gmercek 1",
+   "dilsiz": false,
+   "k": 255,
+   "kB": 530,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 0.408551247,
+   "esik_bayrak": 1,
+   "esik_mercek": 329,
+   "p": 0.000255999744000256,
+   "ci": [
+    0.00022466282679991048,
+    0.000288290771039243
+   ]
+  },
+  "Ap121": {
+   "ad": "Ap121",
+   "hedef": 121,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap121 hedef 121 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap121 hedef 121 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap122": {
+   "ad": "Ap122",
+   "hedef": 122,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap122 hedef 122 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap122 hedef 122 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap123": {
+   "ad": "Ap123",
+   "hedef": 123,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap123 hedef 123 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap123 hedef 123 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap124": {
+   "ad": "Ap124",
+   "hedef": 124,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap124 hedef 124 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap124 hedef 124 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap125": {
+   "ad": "Ap125",
+   "hedef": 125,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap125 hedef 125 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap125 hedef 125 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap126": {
+   "ad": "Ap126",
+   "hedef": 126,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap126 hedef 126 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap126 hedef 126 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap127": {
+   "ad": "Ap127",
+   "hedef": 127,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap127 hedef 127 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap127 hedef 127 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap128": {
+   "ad": "Ap128",
+   "hedef": 128,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap128 hedef 128 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap128 hedef 128 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap129": {
+   "ad": "Ap129",
+   "hedef": 129,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap129 hedef 129 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap129 hedef 129 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap130": {
+   "ad": "Ap130",
+   "hedef": 130,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap130 hedef 130 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap130 hedef 130 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap131": {
+   "ad": "Ap131",
+   "hedef": 131,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap131 hedef 131 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap131 hedef 131 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap132": {
+   "ad": "Ap132",
+   "hedef": 132,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap132 hedef 132 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap132 hedef 132 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap133": {
+   "ad": "Ap133",
+   "hedef": 133,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap133 hedef 133 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap133 hedef 133 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap134": {
+   "ad": "Ap134",
+   "hedef": 134,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap134 hedef 134 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap134 hedef 134 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap135": {
+   "ad": "Ap135",
+   "hedef": 135,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap135 hedef 135 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap135 hedef 135 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap136": {
+   "ad": "Ap136",
+   "hedef": 136,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap136 hedef 136 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap136 hedef 136 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap137": {
+   "ad": "Ap137",
+   "hedef": 137,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap137 hedef 137 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap137 hedef 137 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap138": {
+   "ad": "Ap138",
+   "hedef": 138,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap138 hedef 138 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap138 hedef 138 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap139": {
+   "ad": "Ap139",
+   "hedef": 139,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap139 hedef 139 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap139 hedef 139 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap140": {
+   "ad": "Ap140",
+   "hedef": 140,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap140 hedef 140 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap140 hedef 140 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap141": {
+   "ad": "Ap141",
+   "hedef": 141,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap141 hedef 141 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap141 hedef 141 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap142": {
+   "ad": "Ap142",
+   "hedef": 142,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap142 hedef 142 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap142 hedef 142 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap143": {
+   "ad": "Ap143",
+   "hedef": 143,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap143 hedef 143 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap143 hedef 143 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap144": {
+   "ad": "Ap144",
+   "hedef": 144,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap144 hedef 144 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap144 hedef 144 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap145": {
+   "ad": "Ap145",
+   "hedef": 145,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap145 hedef 145 kol 3 dil_yok Gmercek 3 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap145 hedef 145 kol 3 dil_yok Gmercek 3",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap146": {
+   "ad": "Ap146",
+   "hedef": 146,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap146 hedef 146 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap146 hedef 146 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap147": {
+   "ad": "Ap147",
+   "hedef": 147,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap147 hedef 147 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap147 hedef 147 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap148": {
+   "ad": "Ap148",
+   "hedef": 148,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap148 hedef 148 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap148 hedef 148 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap149": {
+   "ad": "Ap149",
+   "hedef": 149,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap149 hedef 149 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap149 hedef 149 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap150": {
+   "ad": "Ap150",
+   "hedef": 150,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap150 hedef 150 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap150 hedef 150 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap151": {
+   "ad": "Ap151",
+   "hedef": 151,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap151 hedef 151 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap151 hedef 151 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap152": {
+   "ad": "Ap152",
+   "hedef": 152,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap152 hedef 152 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap152 hedef 152 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap153": {
+   "ad": "Ap153",
+   "hedef": 153,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap153 hedef 153 kol 3 dil_yok Gmercek 2 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap153 hedef 153 kol 3 dil_yok Gmercek 2",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap154": {
+   "ad": "Ap154",
+   "hedef": 154,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap154 hedef 154 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap154 hedef 154 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap155": {
+   "ad": "Ap155",
+   "hedef": 155,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap155 hedef 155 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap155 hedef 155 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap156": {
+   "ad": "Ap156",
+   "hedef": 156,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap156 hedef 156 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap156 hedef 156 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap157": {
+   "ad": "Ap157",
+   "hedef": 157,
+   "L": 326,
+   "dil": [
+    "B1",
+    "FAd",
+    "FKS",
+    "W1"
+   ],
+   "boy": 4,
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 4,
+   "n_duzey": 4,
+   "ayrinti": "Ap157 hedef 157 kol 3 mercek (3,-1,23) amac -23.561744 bilgi 8.710229 dil_bedeli 22.954560 mercek_bedeli 9.317413 esik -0.607184 |Λ| 4 grup_bilgi B 2.7515 Z 0.0000 F 5.6731 W 0.2856 H 0.0000 tur abcd duzey KAHB Gmercek 1 Bmercek 1 aday_asimi 0 : B1 FAd FKS W1",
+   "hedef_ayrinti": "Ap157 hedef 157 kol 3 esik -0.607184 mercek (3,-1,23) Ldil 326 cozulmus 1 kF 10 kH 6 FnH 0 mc 2 kapiG 1 hucre_boy 3/2/3/2 hucre_q 0/16/21/16 kapsam_tur 4 kapsam_duzey 4 | B:14849310/100000000 F:29981/1529754 W:1255020/1529754 | dil: B1 FAd FKS W1 | sağlanan: B1 FAd FKS W1 | L*@mercek: B1 F1 FD1 FAd FNd FKS W1 | Gmercek 1",
+   "dilsiz": false,
+   "k": 529,
+   "kB": 563,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -0.607183843,
+   "esik_bayrak": 1,
+   "esik_mercek": 326,
+   "p": 0.00052999947000053,
+   "ci": [
+    0.00048488578284582013,
+    0.0005760477598434834
+   ]
+  },
+  "Ap158": {
+   "ad": "Ap158",
+   "hedef": 158,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap158 hedef 158 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap158 hedef 158 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap159": {
+   "ad": "Ap159",
+   "hedef": 159,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap159 hedef 159 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap159 hedef 159 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap160": {
+   "ad": "Ap160",
+   "hedef": 160,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap160 hedef 160 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap160 hedef 160 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap161": {
+   "ad": "Ap161",
+   "hedef": 161,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap161 hedef 161 kol 3 dil_yok Gmercek 2 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap161 hedef 161 kol 3 dil_yok Gmercek 2",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap162": {
+   "ad": "Ap162",
+   "hedef": 162,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap162 hedef 162 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap162 hedef 162 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap163": {
+   "ad": "Ap163",
+   "hedef": 163,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap163 hedef 163 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap163 hedef 163 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap164": {
+   "ad": "Ap164",
+   "hedef": 164,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap164 hedef 164 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap164 hedef 164 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap165": {
+   "ad": "Ap165",
+   "hedef": 165,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap165 hedef 165 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap165 hedef 165 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap166": {
+   "ad": "Ap166",
+   "hedef": 166,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap166 hedef 166 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap166 hedef 166 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap167": {
+   "ad": "Ap167",
+   "hedef": 167,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap167 hedef 167 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap167 hedef 167 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap168": {
+   "ad": "Ap168",
+   "hedef": 168,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap168 hedef 168 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap168 hedef 168 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap169": {
+   "ad": "Ap169",
+   "hedef": 169,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap169 hedef 169 kol 3 dil_yok Gmercek 2 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap169 hedef 169 kol 3 dil_yok Gmercek 2",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap170": {
+   "ad": "Ap170",
+   "hedef": 170,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap170 hedef 170 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap170 hedef 170 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap171": {
+   "ad": "Ap171",
+   "hedef": 171,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap171 hedef 171 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap171 hedef 171 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap172": {
+   "ad": "Ap172",
+   "hedef": 172,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap172 hedef 172 kol 3 dil_yok Gmercek 2 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap172 hedef 172 kol 3 dil_yok Gmercek 2",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap173": {
+   "ad": "Ap173",
+   "hedef": 173,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap173 hedef 173 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap173 hedef 173 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap174": {
+   "ad": "Ap174",
+   "hedef": 174,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap174 hedef 174 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap174 hedef 174 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap175": {
+   "ad": "Ap175",
+   "hedef": 175,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap175 hedef 175 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap175 hedef 175 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap176": {
+   "ad": "Ap176",
+   "hedef": 176,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap176 hedef 176 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap176 hedef 176 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap177": {
+   "ad": "Ap177",
+   "hedef": 177,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap177 hedef 177 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap177 hedef 177 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap178": {
+   "ad": "Ap178",
+   "hedef": 178,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap178 hedef 178 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap178 hedef 178 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap179": {
+   "ad": "Ap179",
+   "hedef": 179,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap179 hedef 179 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap179 hedef 179 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap180": {
+   "ad": "Ap180",
+   "hedef": 180,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap180 hedef 180 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap180 hedef 180 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap181": {
+   "ad": "Ap181",
+   "hedef": 181,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap181 hedef 181 kol 3 dil_yok Gmercek 3 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap181 hedef 181 kol 3 dil_yok Gmercek 3",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap182": {
+   "ad": "Ap182",
+   "hedef": 182,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap182 hedef 182 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap182 hedef 182 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap183": {
+   "ad": "Ap183",
+   "hedef": 183,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap183 hedef 183 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap183 hedef 183 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap184": {
+   "ad": "Ap184",
+   "hedef": 184,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap184 hedef 184 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap184 hedef 184 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap185": {
+   "ad": "Ap185",
+   "hedef": 185,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap185 hedef 185 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap185 hedef 185 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap186": {
+   "ad": "Ap186",
+   "hedef": 186,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap186 hedef 186 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap186 hedef 186 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap187": {
+   "ad": "Ap187",
+   "hedef": 187,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap187 hedef 187 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap187 hedef 187 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap188": {
+   "ad": "Ap188",
+   "hedef": 188,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap188 hedef 188 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap188 hedef 188 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap189": {
+   "ad": "Ap189",
+   "hedef": 189,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap189 hedef 189 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap189 hedef 189 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap190": {
+   "ad": "Ap190",
+   "hedef": 190,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap190 hedef 190 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap190 hedef 190 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap191": {
+   "ad": "Ap191",
+   "hedef": 191,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap191 hedef 191 kol 3 dil_yok Gmercek 2 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap191 hedef 191 kol 3 dil_yok Gmercek 2",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap192": {
+   "ad": "Ap192",
+   "hedef": 192,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap192 hedef 192 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap192 hedef 192 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap193": {
+   "ad": "Ap193",
+   "hedef": 193,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap193 hedef 193 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap193 hedef 193 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap194": {
+   "ad": "Ap194",
+   "hedef": 194,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap194 hedef 194 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap194 hedef 194 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap195": {
+   "ad": "Ap195",
+   "hedef": 195,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap195 hedef 195 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap195 hedef 195 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap196": {
+   "ad": "Ap196",
+   "hedef": 196,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap196 hedef 196 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap196 hedef 196 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap197": {
+   "ad": "Ap197",
+   "hedef": 197,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap197 hedef 197 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap197 hedef 197 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap198": {
+   "ad": "Ap198",
+   "hedef": 198,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap198 hedef 198 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap198 hedef 198 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap199": {
+   "ad": "Ap199",
+   "hedef": 199,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap199 hedef 199 kol 3 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap199 hedef 199 kol 3 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Ap200": {
+   "ad": "Ap200",
+   "hedef": 200,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Ap200 hedef 200 kol 3 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Ap200 hedef 200 kol 3 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  }
+ },
+ "denetim": {
+  "esik_farki_en_cok": 4.950000018766332e-07,
+  "esik_karsilastirma": 3,
+  "mercek_farkli": 0,
+  "aday_asimi": 0,
+  "cozulmemis": [
+   "Ap120"
+  ]
+ },
+ "tamam": true,
+ "K_d": 2,
+ "kalibre": {
+  "pQ": 9.9999999e-09,
+  "ciQ": [
+   0.0,
+   3.6888739390569175e-08
+  ],
+  "kQ": 0,
+  "NQ": 100000000,
+  "R": 0,
+  "ulasanlar": [],
+  "p_kal": 0.004975124378109453,
+  "okuma": "aşar",
+  "model": {
+   "esik_u": -0.0,
+   "m": 40,
+   "gpd_sigma": 7.0902069657065714e-307,
+   "gpd_xi": 35.486821844202524,
+   "P_gpd": null,
+   "P_gpd_95": null,
+   "normal_mu": 0.034337256342339036,
+   "normal_sd": 0.34201843051127295,
+   "P_normal": 2.7890846664658433e-120,
+   "delta_mertebe": 4.408239535360531,
+   "gpd_not": "üst %20 kümesinde p = 1 olan plasebo var: GPD tanımsız (ONKAYIT §5.6)"
+  },
+  "model_karisim": {
+   "K_d": 2,
+   "not": "K_d < 10: uyum yapılmadı"
+  },
+  "delta_mertebe": 4.408239535360531
+ },
+ "plasebo": {
+  "medyan": 1.0,
+  "medyan_95": [
+   1.0,
+   1.0
+  ],
+  "min": 0.000255999744000256,
+  "min_aralik": [
+   0.00022466282679991048,
+   0.000288290771039243
+  ],
+  "ceyrekler": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "dilli_medyan": 0.000392999607000393,
+  "dilsiz": 198,
+  "esik_alti": {
+   "0.01": 2,
+   "0.001": 2,
+   "0.0001": 0,
+   "1e-05": 0,
+   "1e-06": 0,
+   "1e-07": 0
+  },
+  "duzeyler": {
+   "0": 198,
+   "1": 2,
+   "2": 0,
+   "3": 0
+  },
+  "sansurlu": 0
+ },
+ "en_iyi_bes": [
+  {
+   "ad": "Ap120",
+   "p": 0.000255999744000256,
+   "ci": [
+    0.00022466282679991048,
+    0.000288290771039243
+   ],
+   "k": 255,
+   "N": 1000000,
+   "dil": [
+    "B1",
+    "QS",
+    "FKS",
+    "W1"
+   ],
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "hedef_ayrinti": "Ap120 hedef 120 kol 3 esik 0.408551 mercek (3,-1,37) Ldil 329 cozulmus 0 kF 14 kH 4 FnH 0 mc 2 kapiG 1 hucre_boy 3/2/4/5 hucre_q 14/10/14/-1 kapsam_tur 4 kapsam_duzey 4 | B:14849310/100000000 F:2/230 W:169/230 | dil: B1 QS FKS W1 | sağlanan: B1 QS FKS W1 | L*@mercek: B1 QS FC1 FSp FKS W1 | Gmercek 1"
+  },
+  {
+   "ad": "Ap157",
+   "p": 0.00052999947000053,
+   "ci": [
+    0.00048488578284582013,
+    0.0005760477598434834
+   ],
+   "k": 529,
+   "N": 1000000,
+   "dil": [
+    "B1",
+    "FAd",
+    "FKS",
+    "W1"
+   ],
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "hedef_ayrinti": "Ap157 hedef 157 kol 3 esik -0.607184 mercek (3,-1,23) Ldil 326 cozulmus 1 kF 10 kH 6 FnH 0 mc 2 kapiG 1 hucre_boy 3/2/3/2 hucre_q 0/16/21/16 kapsam_tur 4 kapsam_duzey 4 | B:14849310/100000000 F:29981/1529754 W:1255020/1529754 | dil: B1 FAd FKS W1 | sağlanan: B1 FAd FKS W1 | L*@mercek: B1 F1 FD1 FAd FNd FKS W1 | Gmercek 1"
+  },
+  {
+   "ad": "Ap001",
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "dil": [],
+   "turler": [],
+   "duzeyler": [],
+   "hedef_ayrinti": "Ap001 hedef 1 kol 3 dil_yok Gmercek 0"
+  },
+  {
+   "ad": "Ap002",
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "dil": [],
+   "turler": [],
+   "duzeyler": [],
+   "hedef_ayrinti": "Ap002 hedef 2 kol 3 dil_yok Gmercek 0"
+  },
+  {
+   "ad": "Ap003",
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "dil": [],
+   "turler": [],
+   "duzeyler": [],
+   "hedef_ayrinti": "Ap003 hedef 3 kol 3 dil_yok Gmercek 0"
+  }
+ ],
+ "diller": {
+  "boy": {
+   "4": 2
+  },
+  "n_tur": {
+   "4": 2
+  },
+  "n_duzey": {
+   "4": 2
+  },
+  "tur_kullanimi": {
+   "a": 2,
+   "b": 2,
+   "c": 2,
+   "d": 2
+  },
+  "duzey_kullanimi": {
+   "aile": 2,
+   "birleşim": 2,
+   "hücre": 2,
+   "kitap": 2
+  },
+  "sik_yuklemler": [
+   [
+    "B1",
+    2
+   ],
+   [
+    "FKS",
+    2
+   ],
+   [
+    "W1",
+    2
+   ],
+   [
+    "QS",
+    1
+   ],
+   [
+    "FAd",
+    1
+   ]
+  ],
+  "Q": {
+   "dil": [
+    "B2",
+    "K1",
+    "Qh",
+    "WSum"
+   ],
+   "turler": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim",
+    "hücre",
+    "kitap"
+   ],
+   "esik": 18.801347495,
+   "ayrinti": "Ap000 hedef 0 kol 3 mercek (1,+1,19) amac -5.153213 bilgi 26.118760 dil_bedeli 23.954560 mercek_bedeli 7.317413 esik 18.801347 |Λ| 4 grup_bilgi B 9.6657 Z 0.0000 F 13.5985 W 2.8545 H 0.0000 tur abcd duzey KAHB Gmercek 1 Bmercek 1 aday_asimi 0 : B2 K1 Qh WSum"
+  }
+ },
+ "p12_Q": {
+  "dil": [
+   "B2",
+   "K1",
+   "Qc"
+  ],
+  "p": 3.3999999660000004e-07,
+  "ci": [
+   2.2715682234861768e-07,
+   4.634424354312985e-07
+  ],
+  "k": 33
+ },
+ "Q_p12_farki": {
+  "ortak": [
+   "B2",
+   "K1"
+  ],
+  "eklenen": [
+   "Qh",
+   "WSum"
+  ],
+  "cikan": [
+   "Qc"
+  ]
+ },
+ "kitap_kitap": {
+  "n": 200,
+  "dilli": 2,
+  "ayni_dil": 16,
+  "log10_oran_medyan": 0.08734895791924879,
+  "log10_oran_ceyrek": [
+   -0.38299092492124887,
+   0.5576888407597465
+  ],
+  "azalan": 1,
+  "artan": 1,
+  "esit": 0,
+  "spearman_dilli": null,
+  "dilsizlerin_p12_medyani": 0.013788486211513788,
+  "Q_p12": 3.3999999660000004e-07,
+  "Q_p14": 9.9999999e-09,
+  "p12de_Qa_ulasan": 0,
+  "ayrinti": [
+   {
+    "hedef": 1,
+    "p12": 0.02549197450802549,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 2,
+    "p12": 0.02845997154002846,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHA2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 3,
+    "p12": 0.05528094471905528,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 4,
+    "p12": 0.009253990746009255,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FKd"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 5,
+    "p12": 0.001938998061001939,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHN2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 6,
+    "p12": 0.04896695103304897,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 7,
+    "p12": 0.07186892813107187,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 8,
+    "p12": 0.000414999585000415,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "BMn",
+     "WUNd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 9,
+    "p12": 0.000167999832000168,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "BMt",
+     "WHNp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 10,
+    "p12": 0.008013991986008015,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "R1e"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 11,
+    "p12": 0.007332992667007333,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 12,
+    "p12": 0.0374999625000375,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 13,
+    "p12": 0.000246999753000247,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "K1",
+     "WUNd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 14,
+    "p12": 0.0355029644970355,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WSum"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 15,
+    "p12": 0.003755996244003756,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FHd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 16,
+    "p12": 0.02565997434002566,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "F2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 17,
+    "p12": 0.004767995232004768,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUTd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 18,
+    "p12": 4.2999957000043e-05,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "B2",
+     "HH2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 19,
+    "p12": 0.03186096813903186,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 20,
+    "p12": 0.004242995757004243,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FD2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 21,
+    "p12": 0.000420999579000421,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "R1e",
+     "Qc"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 22,
+    "p12": 0.04914695085304915,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHNp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 23,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 24,
+    "p12": 0.07960992039007961,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 25,
+    "p12": 0.02970897029102971,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUA2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 26,
+    "p12": 0.001128998871001129,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHNd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 27,
+    "p12": 0.002462997537002463,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1",
+     "WEq"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 28,
+    "p12": 1.3099998690000131e-05,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FHd2",
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 29,
+    "p12": 0.005227994772005228,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "W1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 30,
+    "p12": 0.0366999633000367,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 31,
+    "p12": 0.0178969821030179,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUTp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 32,
+    "p12": 0.05094194905805094,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 33,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 34,
+    "p12": 0.009348990651009349,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FHd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 35,
+    "p12": 0.011147988852011148,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 36,
+    "p12": 0.007718992281007719,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WSum"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 37,
+    "p12": 0.005887994112005888,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "Qc"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 38,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 39,
+    "p12": 0.034094965905034094,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "HH2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 40,
+    "p12": 0.05174194825805174,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FD2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 41,
+    "p12": 5.2999947000053e-05,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCd",
+     "WSum"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 42,
+    "p12": 0.07002092997907002,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUA2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 43,
+    "p12": 0.011456988543011457,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHAp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 44,
+    "p12": 0.000621999378000622,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK",
+     "HH2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 45,
+    "p12": 0.1174078825921174,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 46,
+    "p12": 0.00036999963000037,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FC2",
+     "WHNp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 47,
+    "p12": 0.012427987572012428,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 48,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 49,
+    "p12": 0.044455955544044454,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 50,
+    "p12": 0.04335395664604336,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "BMn"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 51,
+    "p12": 0.013001986998013002,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUTd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 52,
+    "p12": 0.021163978836021165,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUTp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 53,
+    "p12": 0.04096295903704096,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUA2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 54,
+    "p12": 0.009225990774009226,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 55,
+    "p12": 0.04047795952204048,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 56,
+    "p12": 0.000118999881000119,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "QS"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 57,
+    "p12": 0.00033999966000034,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "F2",
+     "WHNd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 58,
+    "p12": 0.012012987987012013,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHNp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 59,
+    "p12": 0.0297979702020298,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUNp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 60,
+    "p12": 0.008556991443008557,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUTp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 61,
+    "p12": 0.09329090670909329,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "BMn"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 62,
+    "p12": 0.000612999387000613,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 63,
+    "p12": 0.000281999718000282,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FH2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 64,
+    "p12": 0.010487989512010487,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHR2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 65,
+    "p12": 0.02271897728102272,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "F2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 66,
+    "p12": 0.016803983196016805,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUAp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 67,
+    "p12": 0.000264999735000265,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FKd"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 68,
+    "p12": 0.001675998324001676,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FKS",
+     "FSC"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 69,
+    "p12": 0.06867493132506867,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHA2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 70,
+    "p12": 0.044692955307044695,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 71,
+    "p12": 0.0003999996000004,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "F2",
+     "FSC"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 72,
+    "p12": 0.02117897882102118,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUT2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 73,
+    "p12": 0.000566999433000567,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "F2",
+     "FKd"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 74,
+    "p12": 1.3999986000014e-05,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "BMn",
+     "FAd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 75,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 76,
+    "p12": 0.013774986225013774,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 77,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 78,
+    "p12": 0.000288999711000289,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "K1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 79,
+    "p12": 0.07855992144007856,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 80,
+    "p12": 0.000307999692000308,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "R0e",
+     "HH2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 81,
+    "p12": 0.044241955758044245,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 82,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 83,
+    "p12": 0.06301193698806301,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 84,
+    "p12": 0.06116093883906116,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 85,
+    "p12": 0.09654090345909654,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 86,
+    "p12": 0.056317943682056316,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FD2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 87,
+    "p12": 0.000104999895000105,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "QH"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 88,
+    "p12": 0.000344999655000345,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "R1e"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 89,
+    "p12": 0.02861797138202862,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 90,
+    "p12": 0.017947982052017947,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 91,
+    "p12": 0.02876997123002877,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 92,
+    "p12": 0.003571996428003572,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 93,
+    "p12": 0.004558995441004559,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FH2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 94,
+    "p12": 0.003013996986003014,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "Qc"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 95,
+    "p12": 0.00067999932000068,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "R1e",
+     "K2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 96,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 97,
+    "p12": 0.00134999865000135,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "Qc"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 98,
+    "p12": 0.007446992553007447,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "HR1e"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 99,
+    "p12": 0.005215994784005216,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 100,
+    "p12": 0.000617999382000618,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "F2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 101,
+    "p12": 0.015603984396015604,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FAp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 102,
+    "p12": 0.003125996874003126,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FA2p",
+     "WUNp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 103,
+    "p12": 0.007131992868007132,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUT2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 104,
+    "p12": 0.006888993111006889,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHNp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 105,
+    "p12": 0.015021984978015022,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHN2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 106,
+    "p12": 0.05923194076805923,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUAp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 107,
+    "p12": 0.043623956376043625,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHN2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 108,
+    "p12": 0.007174992825007175,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FD2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 109,
+    "p12": 0.000806999193000807,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHRp",
+     "HK2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 110,
+    "p12": 0.006971993028006972,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FC2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 111,
+    "p12": 0.001824998175001825,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WH2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 112,
+    "p12": 0.015367984632015368,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 113,
+    "p12": 0.051964948035051965,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 114,
+    "p12": 0.010141989858010143,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FC2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 115,
+    "p12": 0.09064390935609064,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 116,
+    "p12": 0.05578494421505578,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHA2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 117,
+    "p12": 0.002011997988002012,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FN2p",
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 118,
+    "p12": 0.01662898337101663,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUNp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 119,
+    "p12": 0.00666999333000667,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "F2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 120,
+    "p12": 2.3999976000024e-05,
+    "p14": 0.000255999744000256,
+    "dilsiz": false,
+    "dil12": [
+     "B1",
+     "FAp",
+     "FRK",
+     "WUAp",
+     "WUN2p"
+    ],
+    "dil14": [
+     "B1",
+     "QS",
+     "FKS",
+     "W1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 121,
+    "p12": 0.03854396145603854,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FSC"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 122,
+    "p12": 0.01026098973901026,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "K2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 123,
+    "p12": 0.015714984285015714,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 124,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 125,
+    "p12": 0.007947992052007948,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 126,
+    "p12": 0.013215986784013216,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUTd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 127,
+    "p12": 0.010861989138010862,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 128,
+    "p12": 0.04311995688004312,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUNp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 129,
+    "p12": 0.020425979574020425,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 130,
+    "p12": 0.04896695103304897,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 131,
+    "p12": 0.01444098555901444,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FHd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 132,
+    "p12": 0.000476999523000477,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 133,
+    "p12": 0.009870990129009872,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "R0e"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 134,
+    "p12": 0.06745693254306746,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 135,
+    "p12": 0.015003984996015005,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 136,
+    "p12": 0.006093993906006094,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FC2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 137,
+    "p12": 0.012415987584012416,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUA2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 138,
+    "p12": 0.009443990556009444,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUAp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 139,
+    "p12": 0.008892991107008892,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FAp",
+     "WUAp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 140,
+    "p12": 0.019984980015019985,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WSum"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 141,
+    "p12": 0.055574944425055575,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUA2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 142,
+    "p12": 0.019662980337019662,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 143,
+    "p12": 0.005110994889005111,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "HK2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 144,
+    "p12": 0.003885996114003886,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "R1e"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 145,
+    "p12": 0.03832796167203833,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 146,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 147,
+    "p12": 0.029574970425029577,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "R0e"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 148,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 149,
+    "p12": 0.029251970748029252,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHNp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 150,
+    "p12": 0.000397999602000398,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FD2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 151,
+    "p12": 0.013801986198013802,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUT2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 152,
+    "p12": 1.5999984000016e-05,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FAp",
+     "WUA2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 153,
+    "p12": 0.013103986896013104,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FKd"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 154,
+    "p12": 0.015235984764015236,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FSC"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 155,
+    "p12": 0.030797969202030796,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 156,
+    "p12": 0.028513971486028515,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FC2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 157,
+    "p12": 0.003780996219003781,
+    "p14": 0.00052999947000053,
+    "dilsiz": false,
+    "dil12": [
+     "WHA2p"
+    ],
+    "dil14": [
+     "B1",
+     "FAd",
+     "FKS",
+     "W1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 158,
+    "p12": 0.11925988074011926,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHN2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 159,
+    "p12": 2.5999974000026e-05,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK",
+     "WHAp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 160,
+    "p12": 0.00055999944000056,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHN2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 161,
+    "p12": 0.09661990338009661,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 162,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 163,
+    "p12": 0.020113979886020115,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "F2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 164,
+    "p12": 0.001072998927001073,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUAp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 165,
+    "p12": 0.06242193757806242,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUA2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 166,
+    "p12": 0.002004997995002005,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 167,
+    "p12": 0.049596950403049594,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 168,
+    "p12": 0.017947982052017947,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 169,
+    "p12": 0.008475991524008476,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WSum"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 170,
+    "p12": 0.003652996347003653,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUNp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 171,
+    "p12": 0.012525987474012526,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "Qc"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 172,
+    "p12": 0.014973985026014974,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "F2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 173,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 174,
+    "p12": 0.08059291940708059,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 175,
+    "p12": 0.011653988346011654,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUA2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 176,
+    "p12": 0.002795997204002796,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUNd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 177,
+    "p12": 0.007446992553007447,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "HR1e"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 178,
+    "p12": 0.004706995293004707,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUN2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 179,
+    "p12": 0.005053994946005054,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHAp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 180,
+    "p12": 0.001987998012001988,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "F2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 181,
+    "p12": 0.001003998996001004,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUN2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 182,
+    "p12": 0.051068948931051066,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WSum"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 183,
+    "p12": 2.99999970000003e-06,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WSum",
+     "WHRd2",
+     "HH2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 184,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 185,
+    "p12": 0.09329090670909329,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "BMn"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 186,
+    "p12": 0.004861995138004862,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "K2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 187,
+    "p12": 0.045796954203045796,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FC2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 188,
+    "p12": 0.15434684565315435,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 189,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 190,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 191,
+    "p12": 0.02820797179202821,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUTp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 192,
+    "p12": 0.07362392637607362,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 193,
+    "p12": 0.004750995249004751,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FKd"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 194,
+    "p12": 0.05371994628005372,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHN2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 195,
+    "p12": 0.000877999122000878,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "K1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 196,
+    "p12": 0.001652998347001653,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 197,
+    "p12": 0.000101999898000102,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUTp",
+     "HH2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 198,
+    "p12": 0.01620998379001621,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "BMn",
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 199,
+    "p12": 0.003514996485003515,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FA2p",
+     "WUA2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 200,
+    "p12": 0.001922998077001923,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   }
+  ]
+ },
+ "rakipler": {
+  "asan": 0,
+  "aday": 0,
+  "hepsini_tasiyan_asan": 0,
+  "farkli_zincir": 0,
+  "en_cok_ayni_zincir": 0,
+  "en_yuksek": []
+ }
+}

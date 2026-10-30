@@ -1,0 +1,14 @@
+# sifir L bolut 39 tohum 29422600039 N 250000 sure_s 38.9 aday 0 aday_tasma 0
+D B000 0 0
+D B002 0 0
+D B003 0 0
+D B011 1 0
+D B016 1 0
+D B046 2 0
+D B047 0 0
+D B053 3 0
+D B061 0 0
+D B090 0 0
+D B091 2 1
+D B092 1 0
+D B094 1 0

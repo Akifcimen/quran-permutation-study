@@ -1,0 +1,7 @@
+# sifir M bolut 7 tohum 29322600007 N 250000 sure_s 19.3 aday 0 aday_tasma 0
+D A000 0 0
+D Am000 0 0
+D Ap000 0 0
+D A146 6 6
+D A159 8 60
+D A195 0 166

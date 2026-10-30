@@ -1,0 +1,8070 @@
+{
+ "sifir": "M",
+ "kol": "Am",
+ "kol_adi": "Kol A− (≥ 2 tür, ≥ 2 düzey)",
+ "K": 200,
+ "hedefler": {
+  "Am000": {
+   "ad": "Am000",
+   "hedef": 0,
+   "L": 6,
+   "dil": [
+    "B2",
+    "K1",
+    "Qc"
+   ],
+   "boy": 3,
+   "turler": [
+    "a",
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 3,
+   "n_duzey": 2,
+   "ayrinti": "Am000 hedef 0 kol 2 mercek (1,+1,19) amac -3.200379 bilgi 23.264239 dil_bedeli 19.147205 mercek_bedeli 7.317413 esik 15.946826 |Λ| 3 grup_bilgi B 9.6657 Z 0.0000 F 13.5985 W 0.0000 H 0.0000 tur abd duzey KH Gmercek 1 Bmercek 1 aday_asimi 0 : B2 K1 Qc",
+   "hedef_ayrinti": "Am000 hedef 0 kol 2 esik 15.946827 mercek (1,+1,19) Ldil 6 cozulmus 1 kF 12 kH 7 FnH 0 mc 3 kapiG 1 hucre_boy 3/3/3/3 hucre_q 20/18/19/19 kapsam_tur 3 kapsam_duzey 2 | B:123118/100000000 F:97/1203170 | dil: B2 K1 Qc | sağlanan: B2 K1 Qc | L*@mercek: B1 B2 F1 F2 R0c R1c R1e K1 K2 Qc QS Qh FC1 FD1 FH2p FSC W1 QU Qa WSum WUd | Gmercek 1",
+   "dilsiz": false,
+   "k": 0,
+   "kB": 132,
+   "N": 100000000,
+   "duzey": 3,
+   "eksik": 0,
+   "esik": 15.946826697,
+   "esik_bayrak": 1,
+   "esik_mercek": 6,
+   "p": 9.9999999e-09,
+   "ci": [
+    0.0,
+    3.6888739390569175e-08
+   ]
+  },
+  "Am001": {
+   "ad": "Am001",
+   "hedef": 1,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am001 hedef 1 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am001 hedef 1 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am002": {
+   "ad": "Am002",
+   "hedef": 2,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am002 hedef 2 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am002 hedef 2 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am003": {
+   "ad": "Am003",
+   "hedef": 3,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am003 hedef 3 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am003 hedef 3 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am004": {
+   "ad": "Am004",
+   "hedef": 4,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am004 hedef 4 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am004 hedef 4 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am005": {
+   "ad": "Am005",
+   "hedef": 5,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am005 hedef 5 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am005 hedef 5 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am006": {
+   "ad": "Am006",
+   "hedef": 6,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am006 hedef 6 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am006 hedef 6 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am007": {
+   "ad": "Am007",
+   "hedef": 7,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am007 hedef 7 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am007 hedef 7 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am008": {
+   "ad": "Am008",
+   "hedef": 8,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am008 hedef 8 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am008 hedef 8 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am009": {
+   "ad": "Am009",
+   "hedef": 9,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am009 hedef 9 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am009 hedef 9 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am010": {
+   "ad": "Am010",
+   "hedef": 10,
+   "L": 211,
+   "dil": [
+    "WI1",
+    "HR0e"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am010 hedef 10 kol 2 mercek (2,-1,29) amac -16.847595 bilgi 6.447097 dil_bedeli 14.977280 mercek_bedeli 8.317413 esik -1.870315 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 2.4945 H 3.9526 tur ac duzey HB Gmercek 2 Bmercek 2 aday_asimi 0 : WI1 HR0e",
+   "hedef_ayrinti": "Am010 hedef 10 kol 2 esik -1.870316 mercek (2,-1,29) Ldil 211 cozulmus 1 kF 8 kH 6 FnH 1 mc 2 kapiG 1 hucre_boy 2/2/2/2 hucre_q -6/8/4/8 kapsam_tur 2 kapsam_duzey 2 | W:479526/2702295 H:690430/10689778 | dil: WI1 HR0e | sağlanan: WI1 HR0e | L*@mercek: F1 R0c R1c FC1 FD1 FSC WI1 HR0c HR0e HK2 | Gmercek 2",
+   "dilsiz": false,
+   "k": 970,
+   "kB": 4271,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -1.870315551,
+   "esik_bayrak": 1,
+   "esik_mercek": 211,
+   "p": 0.000970999029000971,
+   "ci": [
+    0.0009099367620169057,
+    0.0010329831980383656
+   ]
+  },
+  "Am011": {
+   "ad": "Am011",
+   "hedef": 11,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am011 hedef 11 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am011 hedef 11 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am012": {
+   "ad": "Am012",
+   "hedef": 12,
+   "L": 151,
+   "dil": [
+    "FAP",
+    "WSum"
+   ],
+   "boy": 2,
+   "turler": [
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am012 hedef 12 kol 2 mercek (1,-3,19) amac -11.777569 bilgi 12.102086 dil_bedeli 14.562242 mercek_bedeli 9.317413 esik 2.784673 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 9.5013 W 2.6007 H 0.0000 tur cd duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : FAP WSum",
+   "hedef_ayrinti": "Am012 hedef 12 kol 2 esik 2.784674 mercek (1,-3,19) Ldil 151 cozulmus 1 kF 13 kH 6 FnH 1 mc 2 kapiG 1 hucre_boy 2/5/3/3 hucre_q -12/-42/3/-27 kapsam_tur 2 kapsam_duzey 2 | F:673/487759 W:80409/487759 | dil: FAP WSum | sağlanan: FAP WSum | L*@mercek: R1c FD2 FAP WI1 WSum WUTd WHAd WHNd | Gmercek 1",
+   "dilsiz": false,
+   "k": 46,
+   "kB": 66,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 2.784673692,
+   "esik_bayrak": 1,
+   "esik_mercek": 151,
+   "p": 4.6999953000047e-05,
+   "ci": [
+    3.36779720616861e-05,
+    6.13570823781709e-05
+   ]
+  },
+  "Am013": {
+   "ad": "Am013",
+   "hedef": 13,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am013 hedef 13 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am013 hedef 13 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am014": {
+   "ad": "Am014",
+   "hedef": 14,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am014 hedef 14 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am014 hedef 14 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am015": {
+   "ad": "Am015",
+   "hedef": 15,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am015 hedef 15 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am015 hedef 15 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am016": {
+   "ad": "Am016",
+   "hedef": 16,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am016 hedef 16 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am016 hedef 16 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am017": {
+   "ad": "Am017",
+   "hedef": 17,
+   "L": 8,
+   "dil": [
+    "FD2",
+    "FKS"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am017 hedef 17 kol 2 mercek (1,+1,29) amac -16.470760 bilgi 5.993857 dil_bedeli 15.147205 mercek_bedeli 7.317413 esik -1.323555 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 5.9939 W 0.0000 H 0.0000 tur ad duzey AH Gmercek 1 Bmercek 1 aday_asimi 0 : FD2 FKS",
+   "hedef_ayrinti": "Am017 hedef 17 kol 2 esik -1.323555 mercek (1,+1,29) Ldil 8 cozulmus 1 kF 9 kH 2 FnH 0 mc 2 kapiG 1 hucre_boy 3/2/2/2 hucre_q 10/8/8/6 kapsam_tur 2 kapsam_duzey 2 | F:25089/1598874 | dil: FD2 FKS | sağlanan: FD2 FKS | L*@mercek: R1c K2 FD2 FKS FSC W1 HH1 HK2 | Gmercek 1",
+   "dilsiz": false,
+   "k": 1374,
+   "kB": 4024,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -1.32355523,
+   "esik_bayrak": 1,
+   "esik_mercek": 8,
+   "p": 0.001374998625001375,
+   "ci": [
+    0.0013023468180039554,
+    0.001448565810510086
+   ]
+  },
+  "Am018": {
+   "ad": "Am018",
+   "hedef": 18,
+   "L": 269,
+   "dil": [
+    "FD2",
+    "W1"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am018 hedef 18 kol 2 mercek (2,-3,29) amac -19.189492 bilgi 6.105200 dil_bedeli 14.977280 mercek_bedeli 10.317413 esik -4.212212 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 5.7791 W 0.3261 H 0.0000 tur ac duzey AB Gmercek 1 Bmercek 1 aday_asimi 0 : FD2 W1",
+   "hedef_ayrinti": "Am018 hedef 18 kol 2 esik -4.212212 mercek (2,-3,29) Ldil 269 cozulmus 1 kF 8 kH 1 FnH 0 mc 2 kapiG 1 hucre_boy 2/2/2/2 hucre_q -2/-4/-2/-4 kapsam_tur 2 kapsam_duzey 2 | F:51311/2817734 W:2247714/2817734 | dil: FD2 W1 | sağlanan: FD2 W1 | L*@mercek: F1 F2 R0c R1c FC1 FD1 FD2 W1 | Gmercek 1",
+   "dilsiz": false,
+   "k": 7005,
+   "kB": 7362,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -4.212212353,
+   "esik_bayrak": 1,
+   "esik_mercek": 269,
+   "p": 0.007005992994007006,
+   "ci": [
+    0.006842463807985809,
+    0.007170401508834168
+   ]
+  },
+  "Am019": {
+   "ad": "Am019",
+   "hedef": 19,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am019 hedef 19 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am019 hedef 19 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am020": {
+   "ad": "Am020",
+   "hedef": 20,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am020 hedef 20 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am020 hedef 20 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am021": {
+   "ad": "Am021",
+   "hedef": 21,
+   "L": 267,
+   "dil": [
+    "WI1",
+    "HR1e"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am021 hedef 21 kol 2 mercek (2,-3,19) amac -18.239249 bilgi 7.055444 dil_bedeli 14.977280 mercek_bedeli 10.317413 esik -3.261969 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 1.5190 H 5.5364 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : WI1 HR1e",
+   "hedef_ayrinti": "Am021 hedef 21 kol 2 esik -3.261969 mercek (2,-3,19) Ldil 267 cozulmus 1 kF 12 kH 8 FnH 1 mc 2 kapiG 1 hucre_boy 2/5/3/2 hucre_q -2/2/-49/-16 kapsam_tur 2 kapsam_duzey 2 | W:363378/1041435 H:221206/10266528 | dil: WI1 HR1e | sağlanan: WI1 HR1e | L*@mercek: QU WI1 WUd HR1c HR1e | Gmercek 1",
+   "dilsiz": false,
+   "k": 3025,
+   "kB": 3173,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -3.261968612,
+   "esik_bayrak": 1,
+   "esik_mercek": 267,
+   "p": 0.003025996974003026,
+   "ci": [
+    0.002918306800753315,
+    0.0031345876802637237
+   ]
+  },
+  "Am022": {
+   "ad": "Am022",
+   "hedef": 22,
+   "L": 324,
+   "dil": [
+    "R1c",
+    "W1"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am022 hedef 22 kol 2 mercek (3,-1,17) amac -20.667487 bilgi 3.627206 dil_bedeli 14.977280 mercek_bedeli 9.317413 esik -5.690207 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.7710 W 0.8563 H 0.0000 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : R1c W1",
+   "hedef_ayrinti": "Am022 hedef 22 kol 2 esik -5.690207 mercek (3,-1,17) Ldil 324 cozulmus 1 kF 19 kH 9 FnH 0 mc 3 kapiG 1 hucre_boy 7/6/3/3 hucre_q 0/44/33/15 kapsam_tur 2 kapsam_duzey 2 | F:344/2348 W:1297/2348 | dil: R1c W1 | sağlanan: R1c W1 | L*@mercek: R1c W1 | Gmercek 1",
+   "dilsiz": false,
+   "k": 32967,
+   "kB": 84585,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -5.690206705,
+   "esik_bayrak": 1,
+   "esik_mercek": 324,
+   "p": 0.03296796703203297,
+   "ci": [
+    0.03261790118766891,
+    0.033318807400092076
+   ]
+  },
+  "Am023": {
+   "ad": "Am023",
+   "hedef": 23,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am023 hedef 23 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am023 hedef 23 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am024": {
+   "ad": "Am024",
+   "hedef": 24,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am024 hedef 24 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am024 hedef 24 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am025": {
+   "ad": "Am025",
+   "hedef": 25,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am025 hedef 25 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am025 hedef 25 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am026": {
+   "ad": "Am026",
+   "hedef": 26,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am026 hedef 26 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am026 hedef 26 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am027": {
+   "ad": "Am027",
+   "hedef": 27,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am027 hedef 27 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am027 hedef 27 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am028": {
+   "ad": "Am028",
+   "hedef": 28,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am028 hedef 28 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am028 hedef 28 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am029": {
+   "ad": "Am029",
+   "hedef": 29,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am029 hedef 29 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am029 hedef 29 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am030": {
+   "ad": "Am030",
+   "hedef": 30,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am030 hedef 30 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am030 hedef 30 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am031": {
+   "ad": "Am031",
+   "hedef": 31,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am031 hedef 31 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am031 hedef 31 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am032": {
+   "ad": "Am032",
+   "hedef": 32,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am032 hedef 32 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am032 hedef 32 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am033": {
+   "ad": "Am033",
+   "hedef": 33,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am033 hedef 33 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am033 hedef 33 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am034": {
+   "ad": "Am034",
+   "hedef": 34,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am034 hedef 34 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am034 hedef 34 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am035": {
+   "ad": "Am035",
+   "hedef": 35,
+   "L": 210,
+   "dil": [
+    "W1",
+    "HH2"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am035 hedef 35 kol 2 mercek (2,-1,23) amac -19.273234 bilgi 4.021459 dil_bedeli 14.977280 mercek_bedeli 8.317413 esik -4.295954 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.3751 H 3.6464 tur ac duzey AB Gmercek 1 Bmercek 1 aday_asimi 0 : W1 HH2",
+   "hedef_ayrinti": "Am035 hedef 35 kol 2 esik -4.295954 mercek (2,-1,23) Ldil 210 cozulmus 1 kF 13 kH 4 FnH 0 mc 2 kapiG 1 hucre_boy 5/2/2/4 hucre_q 16/6/2/14 kapsam_tur 2 kapsam_duzey 2 | W:76824/99632 H:1436143/17983553 | dil: W1 HH2 | sağlanan: W1 HH2 | L*@mercek: FAd FNd W1 HH1 HH2 HR0c HK2 | Gmercek 1",
+   "dilsiz": false,
+   "k": 3974,
+   "kB": 4809,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -4.295953869,
+   "esik_bayrak": 1,
+   "esik_mercek": 210,
+   "p": 0.003974996025003975,
+   "ci": [
+    0.0038516287999636775,
+    0.0040992579143393935
+   ]
+  },
+  "Am036": {
+   "ad": "Am036",
+   "hedef": 36,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am036 hedef 36 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am036 hedef 36 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am037": {
+   "ad": "Am037",
+   "hedef": 37,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am037 hedef 37 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am037 hedef 37 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am038": {
+   "ad": "Am038",
+   "hedef": 38,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am038 hedef 38 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am038 hedef 38 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am039": {
+   "ad": "Am039",
+   "hedef": 39,
+   "L": 266,
+   "dil": [
+    "R0c",
+    "W1"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am039 hedef 39 kol 2 mercek (2,-3,17) amac -21.971542 bilgi 3.323150 dil_bedeli 14.977280 mercek_bedeli 10.317413 esik -6.994262 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.7489 W 0.5743 H 0.0000 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : R0c W1",
+   "hedef_ayrinti": "Am039 hedef 39 kol 2 esik -6.994262 mercek (2,-3,17) Ldil 266 cozulmus 1 kF 14 kH 9 FnH 0 mc 3 kapiG 1 hucre_boy 3/3/3/5 hucre_q -36/4/5/-19 kapsam_tur 2 kapsam_duzey 2 | F:76945/517220 W:347378/517220 | dil: R0c W1 | sağlanan: R0c W1 | L*@mercek: R0c W1 HR1c | Gmercek 1",
+   "dilsiz": false,
+   "k": 69652,
+   "kB": 81426,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -6.994262456,
+   "esik_bayrak": 1,
+   "esik_mercek": 266,
+   "p": 0.06965293034706965,
+   "ci": [
+    0.06915381920858724,
+    0.07015267521192942
+   ]
+  },
+  "Am040": {
+   "ad": "Am040",
+   "hedef": 40,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am040 hedef 40 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am040 hedef 40 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am041": {
+   "ad": "Am041",
+   "hedef": 41,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am041 hedef 41 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am041 hedef 41 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am042": {
+   "ad": "Am042",
+   "hedef": 42,
+   "L": 151,
+   "dil": [
+    "W1",
+    "HR0c"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am042 hedef 42 kol 2 mercek (1,-3,19) amac -21.087372 bilgi 3.207321 dil_bedeli 14.977280 mercek_bedeli 9.317413 esik -6.110092 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.7469 H 2.4604 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : W1 HR0c",
+   "hedef_ayrinti": "Am042 hedef 42 kol 2 esik -6.110092 mercek (1,-3,19) Ldil 151 cozulmus 1 kF 12 kH 10 FnH 0 mc 2 kapiG 1 hucre_boy 2/4/2/4 hucre_q -6/-28/-32/-44 kapsam_tur 2 kapsam_duzey 2 | W:655252/1099611 H:730074/4018240 | dil: W1 HR0c | sağlanan: W1 HR0c | L*@mercek: F1 FD1 W1 HR0c | Gmercek 1",
+   "dilsiz": false,
+   "k": 19869,
+   "kB": 42680,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -6.110091924,
+   "esik_bayrak": 1,
+   "esik_mercek": 151,
+   "p": 0.01986998013001987,
+   "ci": [
+    0.019596378126151687,
+    0.02014440789519854
+   ]
+  },
+  "Am043": {
+   "ad": "Am043",
+   "hedef": 43,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am043 hedef 43 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am043 hedef 43 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am044": {
+   "ad": "Am044",
+   "hedef": 44,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am044 hedef 44 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am044 hedef 44 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am045": {
+   "ad": "Am045",
+   "hedef": 45,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am045 hedef 45 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am045 hedef 45 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am046": {
+   "ad": "Am046",
+   "hedef": 46,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am046 hedef 46 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am046 hedef 46 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am047": {
+   "ad": "Am047",
+   "hedef": 47,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am047 hedef 47 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am047 hedef 47 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am048": {
+   "ad": "Am048",
+   "hedef": 48,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am048 hedef 48 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am048 hedef 48 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am049": {
+   "ad": "Am049",
+   "hedef": 49,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am049 hedef 49 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am049 hedef 49 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am050": {
+   "ad": "Am050",
+   "hedef": 50,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am050 hedef 50 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am050 hedef 50 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am051": {
+   "ad": "Am051",
+   "hedef": 51,
+   "L": 208,
+   "dil": [
+    "F1",
+    "FSC"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am051 hedef 51 kol 2 mercek (2,-1,17) amac -17.107883 bilgi 6.356735 dil_bedeli 15.147205 mercek_bedeli 8.317413 esik -1.960678 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 6.3567 W 0.0000 H 0.0000 tur ad duzey AH Gmercek 1 Bmercek 1 aday_asimi 0 : F1 FSC",
+   "hedef_ayrinti": "Am051 hedef 51 kol 2 esik -1.960678 mercek (2,-1,17) Ldil 208 cozulmus 1 kF 14 kH 6 FnH 0 mc 2 kapiG 1 hucre_boy 5/2/2/5 hucre_q -20/4/26/31 kapsam_tur 2 kapsam_duzey 2 | F:6419/526060 | dil: F1 FSC | sağlanan: F1 FSC | L*@mercek: F1 FC1 FSC W1 HR0c HR1c | Gmercek 1",
+   "dilsiz": false,
+   "k": 223,
+   "kB": 34599,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -1.960677861,
+   "esik_bayrak": 1,
+   "esik_mercek": 208,
+   "p": 0.000223999776000224,
+   "ci": [
+    0.00019469250696359174,
+    0.00025426544801098356
+   ]
+  },
+  "Am052": {
+   "ad": "Am052",
+   "hedef": 52,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am052 hedef 52 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am052 hedef 52 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am053": {
+   "ad": "Am053",
+   "hedef": 53,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am053 hedef 53 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am053 hedef 53 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am054": {
+   "ad": "Am054",
+   "hedef": 54,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am054 hedef 54 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am054 hedef 54 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am055": {
+   "ad": "Am055",
+   "hedef": 55,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am055 hedef 55 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am055 hedef 55 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am056": {
+   "ad": "Am056",
+   "hedef": 56,
+   "L": 178,
+   "dil": [
+    "FKS",
+    "WHRp"
+   ],
+   "boy": 2,
+   "turler": [
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am056 hedef 56 kol 2 mercek (2,+1,13) amac -15.600687 bilgi 9.448893 dil_bedeli 16.732167 mercek_bedeli 8.317413 esik 1.131480 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.5819 W 6.8670 H 0.0000 tur bd duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : FKS WHRp",
+   "hedef_ayrinti": "Am056 hedef 56 kol 2 esik 1.131481 mercek (2,+1,13) Ldil 178 cozulmus 1 kF 19 kH 5 FnH 1 mc 4 kapiG 1 hucre_boy 4/4/6/5 hucre_q 54/50/78/49 kapsam_tur 2 kapsam_duzey 2 | F:11971/71672 W:614/71672 | dil: FKS WHRp | sağlanan: FKS WHRp | L*@mercek: R0c FKS QH WI1 WHRp | Gmercek 1",
+   "dilsiz": false,
+   "k": 105,
+   "kB": 1836,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 1.131480695,
+   "esik_bayrak": 1,
+   "esik_mercek": 178,
+   "p": 0.000105999894000106,
+   "ci": [
+    8.588037542743875e-05,
+    0.000127107496478735
+   ]
+  },
+  "Am057": {
+   "ad": "Am057",
+   "hedef": 57,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am057 hedef 57 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am057 hedef 57 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am058": {
+   "ad": "Am058",
+   "hedef": 58,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am058 hedef 58 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am058 hedef 58 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am059": {
+   "ad": "Am059",
+   "hedef": 59,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am059 hedef 59 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am059 hedef 59 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am060": {
+   "ad": "Am060",
+   "hedef": 60,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am060 hedef 60 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am060 hedef 60 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am061": {
+   "ad": "Am061",
+   "hedef": 61,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am061 hedef 61 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am061 hedef 61 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am062": {
+   "ad": "Am062",
+   "hedef": 62,
+   "L": 179,
+   "dil": [
+    "R1e",
+    "W1"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am062 hedef 62 kol 2 mercek (2,+1,17) amac -17.158547 bilgi 6.136146 dil_bedeli 14.977280 mercek_bedeli 8.317413 esik -2.181267 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 5.5321 W 0.6041 H 0.0000 tur ac duzey HB Gmercek 2 Bmercek 1 aday_asimi 0 : R1e W1",
+   "hedef_ayrinti": "Am062 hedef 62 kol 2 esik -2.181267 mercek (2,+1,17) Ldil 179 cozulmus 1 kF 14 kH 6 FnH 0 mc 3 kapiG 1 hucre_boy 3/3/4/4 hucre_q 32/30/42/42 kapsam_tur 2 kapsam_duzey 2 | F:7638/353422 W:232511/353422 | dil: R1e W1 | sağlanan: R1e W1 | L*@mercek: R0c R1c R1e FC1 FD1 FKS W1 | Gmercek 2",
+   "dilsiz": false,
+   "k": 1090,
+   "kB": 13600,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -2.181266724,
+   "esik_bayrak": 1,
+   "esik_mercek": 179,
+   "p": 0.001090998909001091,
+   "ci": [
+    0.0010262760080573172,
+    0.0011566414883594693
+   ]
+  },
+  "Am063": {
+   "ad": "Am063",
+   "hedef": 63,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am063 hedef 63 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am063 hedef 63 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am064": {
+   "ad": "Am064",
+   "hedef": 64,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am064 hedef 64 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am064 hedef 64 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am065": {
+   "ad": "Am065",
+   "hedef": 65,
+   "L": 269,
+   "dil": [
+    "F2",
+    "W1"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am065 hedef 65 kol 2 mercek (2,-3,29) amac -19.050076 bilgi 6.244616 dil_bedeli 14.977280 mercek_bedeli 10.317413 esik -4.072797 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 5.8328 W 0.4118 H 0.0000 tur ac duzey AB Gmercek 1 Bmercek 1 aday_asimi 0 : F2 W1",
+   "hedef_ayrinti": "Am065 hedef 65 kol 2 esik -4.072797 mercek (2,-3,29) Ldil 269 cozulmus 1 kF 10 kH 2 FnH 0 mc 2 kapiG 1 hucre_boy 2/2/2/4 hucre_q 6/-4/-2/4 kapsam_tur 2 kapsam_duzey 2 | F:7969/454202 W:341411/454202 | dil: F2 W1 | sağlanan: F2 W1 | L*@mercek: F2 R0c W1 HH1 | Gmercek 1",
+   "dilsiz": false,
+   "k": 5514,
+   "kB": 6454,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -4.072796761,
+   "esik_bayrak": 1,
+   "esik_mercek": 269,
+   "p": 0.005514994485005515,
+   "ci": [
+    0.005369795808463183,
+    0.005661079636013946
+   ]
+  },
+  "Am066": {
+   "ad": "Am066",
+   "hedef": 66,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am066 hedef 66 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am066 hedef 66 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am067": {
+   "ad": "Am067",
+   "hedef": 67,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am067 hedef 67 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am067 hedef 67 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am068": {
+   "ad": "Am068",
+   "hedef": 68,
+   "L": 241,
+   "dil": [
+    "FSC",
+    "WI1"
+   ],
+   "boy": 2,
+   "turler": [
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am068 hedef 68 kol 2 mercek (2,+3,31) amac -19.563544 bilgi 4.316111 dil_bedeli 13.562242 mercek_bedeli 10.317413 esik -6.001302 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 1.9398 W 2.3763 H 0.0000 tur cd duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : FSC WI1",
+   "hedef_ayrinti": "Am068 hedef 68 kol 2 esik -6.001302 mercek (2,+3,31) Ldil 241 cozulmus 1 kF 9 kH 3 FnH 1 mc 2 kapiG 1 hucre_boy 3/2/2/2 hucre_q 40/16/16/14 kapsam_tur 2 kapsam_duzey 2 | F:258502/991780 W:191024/991780 | dil: FSC WI1 | sağlanan: FSC WI1 | L*@mercek: R1c FKS FSC WI1 | Gmercek 1",
+   "dilsiz": false,
+   "k": 23218,
+   "kB": 23722,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -6.001301645,
+   "esik_bayrak": 1,
+   "esik_mercek": 241,
+   "p": 0.02321897678102322,
+   "ci": [
+    0.02292372025364943,
+    0.023515045843480166
+   ]
+  },
+  "Am069": {
+   "ad": "Am069",
+   "hedef": 69,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am069 hedef 69 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am069 hedef 69 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am070": {
+   "ad": "Am070",
+   "hedef": 70,
+   "L": 125,
+   "dil": [
+    "B1",
+    "W1"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "kitap"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am070 hedef 70 kol 2 mercek (1,+3,31) amac -19.210468 bilgi 3.084224 dil_bedeli 12.977280 mercek_bedeli 9.317413 esik -6.233188 |Λ| 2 grup_bilgi B 2.7515 Z 0.0000 F 0.0000 W 0.3327 H 0.0000 tur ac duzey KB Gmercek 1 Bmercek 1 aday_asimi 0 : B1 W1",
+   "hedef_ayrinti": "Am070 hedef 70 kol 2 esik -6.233188 mercek (1,+3,31) Ldil 125 cozulmus 1 kF 8 kH 4 FnH 0 mc 2 kapiG 1 hucre_boy 2/2/2/2 hucre_q 26/10/20/12 kapsam_tur 2 kapsam_duzey 2 | B:14849310/100000000 W:1926919/2426687 | dil: B1 W1 | sağlanan: B1 W1 | L*@mercek: B1 F1 R0c R1c FC1 FD1 W1 | Gmercek 1",
+   "dilsiz": false,
+   "k": 16159,
+   "kB": 20356,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -6.233188181,
+   "esik_bayrak": 1,
+   "esik_mercek": 125,
+   "p": 0.01615998384001616,
+   "ci": [
+    0.01591277644664295,
+    0.016408031827160975
+   ]
+  },
+  "Am071": {
+   "ad": "Am071",
+   "hedef": 71,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am071 hedef 71 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am071 hedef 71 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am072": {
+   "ad": "Am072",
+   "hedef": 72,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am072 hedef 72 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am072 hedef 72 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am073": {
+   "ad": "Am073",
+   "hedef": 73,
+   "L": 297,
+   "dil": [
+    "FKS",
+    "W1"
+   ],
+   "boy": 2,
+   "turler": [
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am073 hedef 73 kol 2 mercek (3,+1,23) amac -20.546556 bilgi 2.333099 dil_bedeli 13.562242 mercek_bedeli 9.317413 esik -6.984314 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 1.9525 W 0.3806 H 0.0000 tur cd duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : FKS W1",
+   "hedef_ayrinti": "Am073 hedef 73 kol 2 esik -6.984314 mercek (3,+1,23) Ldil 297 cozulmus 1 kF 13 kH 7 FnH 0 mc 2 kapiG 1 hucre_boy 4/4/2/3 hucre_q 38/36/22/33 kapsam_tur 2 kapsam_duzey 2 | F:26630/103070 W:79170/103070 | dil: FKS W1 | sağlanan: FKS W1 | L*@mercek: R0c FKS W1 HR1c | Gmercek 1",
+   "dilsiz": false,
+   "k": 65832,
+   "kB": 122328,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -6.984313785,
+   "esik_bayrak": 1,
+   "esik_mercek": 297,
+   "p": 0.06583293416706583,
+   "ci": [
+    0.06534671000665913,
+    0.06631980664286272
+   ]
+  },
+  "Am074": {
+   "ad": "Am074",
+   "hedef": 74,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am074 hedef 74 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am074 hedef 74 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am075": {
+   "ad": "Am075",
+   "hedef": 75,
+   "L": 322,
+   "dil": [
+    "FKS",
+    "QkH"
+   ],
+   "boy": 2,
+   "turler": [
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am075 hedef 75 kol 2 mercek (3,-1,11) amac -20.390988 bilgi 5.658592 dil_bedeli 16.732167 mercek_bedeli 9.317413 esik -3.658820 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.6905 W 2.9681 H 0.0000 tur bd duzey HB Gmercek 2 Bmercek 2 aday_asimi 0 : FKS QkH",
+   "hedef_ayrinti": "Am075 hedef 75 kol 2 esik -3.658820 mercek (3,-1,11) Ldil 322 cozulmus 1 kF 21 kH 11 FnH 4 mc 4 kapiG 1 hucre_boy 6/6/4/5 hucre_q 106/96/66/71 kapsam_tur 2 kapsam_duzey 2 | F:9826/63430 W:8106/63430 | dil: FKS QkH | sağlanan: FKS QkH | L*@mercek: R0c FKS QkH WHd | Gmercek 2",
+   "dilsiz": false,
+   "k": 359,
+   "kB": 441,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -3.658820151,
+   "esik_bayrak": 1,
+   "esik_mercek": 322,
+   "p": 0.00035999964000036,
+   "ci": [
+    0.0003228256963367471,
+    0.00039811781791681227
+   ]
+  },
+  "Am076": {
+   "ad": "Am076",
+   "hedef": 76,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am076 hedef 76 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am076 hedef 76 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am077": {
+   "ad": "Am077",
+   "hedef": 77,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am077 hedef 77 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am077 hedef 77 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am078": {
+   "ad": "Am078",
+   "hedef": 78,
+   "L": 211,
+   "dil": [
+    "FCK",
+    "WI1"
+   ],
+   "boy": 2,
+   "turler": [
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am078 hedef 78 kol 2 mercek (2,-1,29) amac -16.009359 bilgi 6.285334 dil_bedeli 13.977280 mercek_bedeli 8.317413 esik -2.032079 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 4.0981 W 2.1872 H 0.0000 tur cd duzey AB Gmercek 1 Bmercek 1 aday_asimi 0 : FCK WI1",
+   "hedef_ayrinti": "Am078 hedef 78 kol 2 esik -2.032079 mercek (2,-1,29) Ldil 211 cozulmus 1 kF 10 kH 8 FnH 1 mc 2 kapiG 1 hucre_boy 3/2/3/2 hucre_q 2/2/7/8 kapsam_tur 2 kapsam_duzey 2 | F:24886/426195 W:93581/426195 | dil: FCK WI1 | sağlanan: FCK WI1 | L*@mercek: F1 R0e FD1 FCK FKS WI1 HH1 HH2 HR0c | Gmercek 1",
+   "dilsiz": false,
+   "k": 2016,
+   "kB": 2923,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -2.032079219,
+   "esik_bayrak": 1,
+   "esik_mercek": 211,
+   "p": 0.002016997983002017,
+   "ci": [
+    0.001929031822763404,
+    0.0021058724988389996
+   ]
+  },
+  "Am079": {
+   "ad": "Am079",
+   "hedef": 79,
+   "L": 267,
+   "dil": [
+    "W1",
+    "HH1"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am079 hedef 79 kol 2 mercek (2,-3,19) amac -23.144708 bilgi 2.149985 dil_bedeli 14.977280 mercek_bedeli 10.317413 esik -8.167428 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.7537 H 1.3962 tur ac duzey AB Gmercek 1 Bmercek 1 aday_asimi 0 : W1 HH1",
+   "hedef_ayrinti": "Am079 hedef 79 kol 2 esik -8.167428 mercek (2,-3,19) Ldil 267 cozulmus 1 kF 12 kH 4 FnH 0 mc 2 kapiG 1 hucre_boy 3/2/5/2 hucre_q 16/2/-7/-4 kapsam_tur 2 kapsam_duzey 2 | W:617639/1041435 H:5195140/13674443 | dil: W1 HH1 | sağlanan: W1 HH1 | L*@mercek: W1 HH1 | Gmercek 1",
+   "dilsiz": false,
+   "k": 36344,
+   "kB": 42264,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -8.167428075,
+   "esik_bayrak": 1,
+   "esik_mercek": 267,
+   "p": 0.036344963655036346,
+   "ci": [
+    0.035978046630579436,
+    0.03671264213933429
+   ]
+  },
+  "Am080": {
+   "ad": "Am080",
+   "hedef": 80,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am080 hedef 80 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am080 hedef 80 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am081": {
+   "ad": "Am081",
+   "hedef": 81,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am081 hedef 81 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am081 hedef 81 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am082": {
+   "ad": "Am082",
+   "hedef": 82,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am082 hedef 82 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am082 hedef 82 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am083": {
+   "ad": "Am083",
+   "hedef": 83,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am083 hedef 83 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am083 hedef 83 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am084": {
+   "ad": "Am084",
+   "hedef": 84,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am084 hedef 84 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am084 hedef 84 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am085": {
+   "ad": "Am085",
+   "hedef": 85,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am085 hedef 85 kol 2 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am085 hedef 85 kol 2 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am086": {
+   "ad": "Am086",
+   "hedef": 86,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am086 hedef 86 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am086 hedef 86 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am087": {
+   "ad": "Am087",
+   "hedef": 87,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am087 hedef 87 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am087 hedef 87 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am088": {
+   "ad": "Am088",
+   "hedef": 88,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am088 hedef 88 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am088 hedef 88 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am089": {
+   "ad": "Am089",
+   "hedef": 89,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am089 hedef 89 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am089 hedef 89 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am090": {
+   "ad": "Am090",
+   "hedef": 90,
+   "L": 152,
+   "dil": [
+    "QS",
+    "FKS"
+   ],
+   "boy": 2,
+   "turler": [
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am090 hedef 90 kol 2 mercek (1,-3,23) amac -20.042205 bilgi 6.229768 dil_bedeli 16.954560 mercek_bedeli 9.317413 esik -3.087645 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 6.2298 W 0.0000 H 0.0000 tur bd duzey AH Gmercek 1 Bmercek 1 aday_asimi 0 : QS FKS",
+   "hedef_ayrinti": "Am090 hedef 90 kol 2 esik -3.087645 mercek (1,-3,23) Ldil 152 cozulmus 1 kF 11 kH 8 FnH 0 mc 2 kapiG 1 hucre_boy 3/3/3/2 hucre_q -4/-24/3/2 kapsam_tur 2 kapsam_duzey 2 | F:8978/673793 | dil: QS FKS | sağlanan: QS FKS | L*@mercek: R0c QS FKS W1 HR1c | Gmercek 1",
+   "dilsiz": false,
+   "k": 4545,
+   "kB": 8310,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -3.087645291,
+   "esik_bayrak": 1,
+   "esik_mercek": 152,
+   "p": 0.004545995454004546,
+   "ci": [
+    0.004414103197167133,
+    0.004678779200335707
+   ]
+  },
+  "Am091": {
+   "ad": "Am091",
+   "hedef": 91,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am091 hedef 91 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am091 hedef 91 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am092": {
+   "ad": "Am092",
+   "hedef": 92,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am092 hedef 92 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am092 hedef 92 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am093": {
+   "ad": "Am093",
+   "hedef": 93,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am093 hedef 93 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am093 hedef 93 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am094": {
+   "ad": "Am094",
+   "hedef": 94,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am094 hedef 94 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am094 hedef 94 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am095": {
+   "ad": "Am095",
+   "hedef": 95,
+   "L": 210,
+   "dil": [
+    "R0e",
+    "FRK"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am095 hedef 95 kol 2 mercek (2,-1,23) amac -15.229438 bilgi 8.650217 dil_bedeli 15.562242 mercek_bedeli 8.317413 esik 0.332804 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 8.6502 W 0.0000 H 0.0000 tur ad duzey AH Gmercek 2 Bmercek 2 aday_asimi 0 : R0e FRK",
+   "hedef_ayrinti": "Am095 hedef 95 kol 2 esik 0.332804 mercek (2,-1,23) Ldil 210 cozulmus 1 kF 11 kH 4 FnH 0 mc 2 kapiG 1 hucre_boy 3/3/2/3 hucre_q 4/4/0/7 kapsam_tur 2 kapsam_duzey 2 | F:1780/715146 | dil: R0e FRK | sağlanan: R0e FRK | L*@mercek: R0c R0e FRK FKS W1 | Gmercek 2",
+   "dilsiz": false,
+   "k": 366,
+   "kB": 1234,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 0.332804443,
+   "esik_bayrak": 1,
+   "esik_mercek": 210,
+   "p": 0.000366999633000367,
+   "ci": [
+    0.0003294654866454811,
+    0.00040547749770895994
+   ]
+  },
+  "Am096": {
+   "ad": "Am096",
+   "hedef": 96,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am096 hedef 96 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am096 hedef 96 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am097": {
+   "ad": "Am097",
+   "hedef": 97,
+   "L": 209,
+   "dil": [
+    "FD2",
+    "FKS"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am097 hedef 97 kol 2 mercek (2,-1,19) amac -15.762315 bilgi 7.702303 dil_bedeli 15.147205 mercek_bedeli 8.317413 esik -0.615110 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 7.7023 W 0.0000 H 0.0000 tur ad duzey AH Gmercek 1 Bmercek 1 aday_asimi 0 : FD2 FKS",
+   "hedef_ayrinti": "Am097 hedef 97 kol 2 esik -0.615110 mercek (2,-1,19) Ldil 209 cozulmus 1 kF 13 kH 3 FnH 0 mc 3 kapiG 1 hucre_boy 3/4/3/3 hucre_q 14/18/1/5 kapsam_tur 2 kapsam_duzey 2 | F:1998/416121 | dil: FD2 FKS | sağlanan: FD2 FKS | L*@mercek: R1c QS FD2 FS2p FHm FCm FKS W1 | Gmercek 1",
+   "dilsiz": false,
+   "k": 562,
+   "kB": 4024,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -0.615109681,
+   "esik_bayrak": 1,
+   "esik_mercek": 209,
+   "p": 0.000562999437000563,
+   "ci": [
+    0.0005165018160752873,
+    0.0006104302809115038
+   ]
+  },
+  "Am098": {
+   "ad": "Am098",
+   "hedef": 98,
+   "L": 153,
+   "dil": [
+    "B1",
+    "FKS"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "d"
+   ],
+   "duzeyler": [
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am098 hedef 98 kol 2 mercek (1,-3,29) amac -18.222389 bilgi 4.242229 dil_bedeli 13.147205 mercek_bedeli 9.317413 esik -5.075184 |Λ| 2 grup_bilgi B 2.7515 Z 0.0000 F 1.4907 W 0.0000 H 0.0000 tur ad duzey KH Gmercek 1 Bmercek 1 aday_asimi 0 : B1 FKS",
+   "hedef_ayrinti": "Am098 hedef 98 kol 2 esik -5.075184 mercek (1,-3,29) Ldil 153 cozulmus 1 kF 9 kH 7 FnH 0 mc 2 kapiG 1 hucre_boy 2/2/3/2 hucre_q -16/-2/-1/-4 kapsam_tur 2 kapsam_duzey 2 | B:14849310/100000000 F:402406/1130860 | dil: B1 FKS | sağlanan: B1 FKS | L*@mercek: B1 R0c FKS W1 HR0c HR0e | Gmercek 1",
+   "dilsiz": false,
+   "k": 13157,
+   "kB": 16458,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -5.075183629,
+   "esik_bayrak": 1,
+   "esik_mercek": 153,
+   "p": 0.013157986842013159,
+   "ci": [
+    0.012934579081027223,
+    0.013382247421588835
+   ]
+  },
+  "Am099": {
+   "ad": "Am099",
+   "hedef": 99,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am099 hedef 99 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am099 hedef 99 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am100": {
+   "ad": "Am100",
+   "hedef": 100,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am100 hedef 100 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am100 hedef 100 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am101": {
+   "ad": "Am101",
+   "hedef": 101,
+   "L": 269,
+   "dil": [
+    "R0e",
+    "W1"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am101 hedef 101 kol 2 mercek (2,-3,29) amac -20.436407 bilgi 4.858285 dil_bedeli 14.977280 mercek_bedeli 10.317413 esik -5.459127 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 4.4465 W 0.4118 H 0.0000 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : R0e W1",
+   "hedef_ayrinti": "Am101 hedef 101 kol 2 esik -5.459127 mercek (2,-3,29) Ldil 269 cozulmus 1 kF 10 kH 2 FnH 0 mc 2 kapiG 1 hucre_boy 3/2/2/3 hucre_q -14/-14/6/-31 kapsam_tur 2 kapsam_duzey 2 | F:20832/454202 W:341411/454202 | dil: R0e W1 | sağlanan: R0e W1 | L*@mercek: F1 R0e FC1 FKS W1 | Gmercek 1",
+   "dilsiz": false,
+   "k": 16890,
+   "kB": 18040,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -5.459127365,
+   "esik_bayrak": 1,
+   "esik_mercek": 269,
+   "p": 0.01689098310901689,
+   "ci": [
+    0.01663834028535956,
+    0.017144463584008025
+   ]
+  },
+  "Am102": {
+   "ad": "Am102",
+   "hedef": 102,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am102 hedef 102 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am102 hedef 102 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am103": {
+   "ad": "Am103",
+   "hedef": 103,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am103 hedef 103 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am103 hedef 103 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am104": {
+   "ad": "Am104",
+   "hedef": 104,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am104 hedef 104 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am104 hedef 104 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am105": {
+   "ad": "Am105",
+   "hedef": 105,
+   "L": 8,
+   "dil": [
+    "R0e",
+    "WHAd"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am105 hedef 105 kol 2 mercek (1,+1,29) amac -17.122560 bilgi 8.342057 dil_bedeli 18.147205 mercek_bedeli 7.317413 esik 1.024645 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 3.5082 W 4.8339 H 0.0000 tur ab duzey HB Gmercek 2 Bmercek 2 aday_asimi 0 : R0e WHAd",
+   "hedef_ayrinti": "Am105 hedef 105 kol 2 esik 1.024645 mercek (1,+1,29) Ldil 8 cozulmus 1 kF 10 kH 5 FnH 0 mc 2 kapiG 1 hucre_boy 3/3/2/2 hucre_q 12/12/8/6 kapsam_tur 2 kapsam_duzey 2 | F:56548/643417 W:22561/643417 | dil: R0e WHAd | sağlanan: R0e WHAd | L*@mercek: R0c R0e R1c K2 FC1 FD1 FKS FSC W1 WUTd WHAd WHNd | Gmercek 2",
+   "dilsiz": false,
+   "k": 125,
+   "kB": 1005,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 1.024644853,
+   "esik_bayrak": 1,
+   "esik_mercek": 8,
+   "p": 0.000125999874000126,
+   "ci": [
+    0.00010404993705392895,
+    0.0001489300745271453
+   ]
+  },
+  "Am106": {
+   "ad": "Am106",
+   "hedef": 106,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am106 hedef 106 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am106 hedef 106 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am107": {
+   "ad": "Am107",
+   "hedef": 107,
+   "L": 5,
+   "dil": [
+    "W1",
+    "HR1e"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am107 hedef 107 kol 2 mercek (1,+1,17) amac -17.040746 bilgi 5.253946 dil_bedeli 14.977280 mercek_bedeli 7.317413 esik -2.063466 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.5739 H 4.6801 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : W1 HR1e",
+   "hedef_ayrinti": "Am107 hedef 107 kol 2 esik -2.063467 mercek (1,+1,17) Ldil 5 cozulmus 1 kF 14 kH 8 FnH 0 mc 3 kapiG 1 hucre_boy 5/3/3/3 hucre_q 36/22/17/19 kapsam_tur 2 kapsam_duzey 2 | W:347110/516682 H:505388/12955796 | dil: W1 HR1e | sağlanan: W1 HR1e | L*@mercek: R1c W1 HR1e | Gmercek 1",
+   "dilsiz": false,
+   "k": 547,
+   "kB": 7922,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -2.063466607,
+   "esik_bayrak": 1,
+   "esik_mercek": 5,
+   "p": 0.000547999452000548,
+   "ci": [
+    0.0005021256989625708,
+    0.0005948070411477553
+   ]
+  },
+  "Am108": {
+   "ad": "Am108",
+   "hedef": 108,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am108 hedef 108 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am108 hedef 108 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am109": {
+   "ad": "Am109",
+   "hedef": 109,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am109 hedef 109 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am109 hedef 109 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am110": {
+   "ad": "Am110",
+   "hedef": 110,
+   "L": 8,
+   "dil": [
+    "R1e",
+    "W1"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am110 hedef 110 kol 2 mercek (1,+1,29) amac -18.509554 bilgi 3.785139 dil_bedeli 14.977280 mercek_bedeli 7.317413 esik -3.532274 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 3.4741 W 0.3111 H 0.0000 tur ac duzey HB Gmercek 2 Bmercek 2 aday_asimi 0 : R1e W1",
+   "hedef_ayrinti": "Am110 hedef 110 kol 2 esik -3.532274 mercek (1,+1,29) Ldil 8 cozulmus 1 kF 8 kH 1 FnH 0 mc 2 kapiG 1 hucre_boy 2/2/2/2 hucre_q 6/4/6/6 kapsam_tur 2 kapsam_duzey 2 | F:319711/3552726 W:2863687/3552726 | dil: R1e W1 | sağlanan: R1e W1 | L*@mercek: F1 R0c R1c R1e K2 FC1 FD1 FSC W1 | Gmercek 2",
+   "dilsiz": false,
+   "k": 6679,
+   "kB": 13600,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -3.532273947,
+   "esik_bayrak": 1,
+   "esik_mercek": 8,
+   "p": 0.00667999332000668,
+   "ci": [
+    0.00652028760153201,
+    0.006840579886306586
+   ]
+  },
+  "Am111": {
+   "ad": "Am111",
+   "hedef": 111,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am111 hedef 111 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am111 hedef 111 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am112": {
+   "ad": "Am112",
+   "hedef": 112,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am112 hedef 112 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am112 hedef 112 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am113": {
+   "ad": "Am113",
+   "hedef": 113,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am113 hedef 113 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am113 hedef 113 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am114": {
+   "ad": "Am114",
+   "hedef": 114,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am114 hedef 114 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am114 hedef 114 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am115": {
+   "ad": "Am115",
+   "hedef": 115,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am115 hedef 115 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am115 hedef 115 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am116": {
+   "ad": "Am116",
+   "hedef": 116,
+   "L": 9,
+   "dil": [
+    "FRK",
+    "HR1c"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am116 hedef 116 kol 2 mercek (1,+1,31) amac -17.661043 bilgi 5.218612 dil_bedeli 15.562242 mercek_bedeli 7.317413 esik -2.098800 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.9894 W 0.0000 H 2.2292 tur ad duzey AH Gmercek 1 Bmercek 1 aday_asimi 0 : FRK HR1c",
+   "hedef_ayrinti": "Am116 hedef 116 kol 2 esik -2.098800 mercek (1,+1,31) Ldil 9 cozulmus 1 kF 9 kH 3 FnH 0 mc 2 kapiG 1 hucre_boy 2/2/3/2 hucre_q 10/6/11/6 kapsam_tur 2 kapsam_duzey 2 | F:81799/649598 H:4507403/21134334 | dil: FRK HR1c | sağlanan: FRK HR1c | L*@mercek: R0c K2 FRK FKS FSC W1 HR1c | Gmercek 1",
+   "dilsiz": false,
+   "k": 1771,
+   "kB": 2398,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -2.098800181,
+   "esik_bayrak": 1,
+   "esik_mercek": 9,
+   "p": 0.001771998228001772,
+   "ci": [
+    0.001689537603373606,
+    0.0018553695917828926
+   ]
+  },
+  "Am117": {
+   "ad": "Am117",
+   "hedef": 117,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am117 hedef 117 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am117 hedef 117 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am118": {
+   "ad": "Am118",
+   "hedef": 118,
+   "L": 6,
+   "dil": [
+    "R1e",
+    "W1"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am118 hedef 118 kol 2 mercek (1,+1,19) amac -16.848090 bilgi 5.446603 dil_bedeli 14.977280 mercek_bedeli 7.317413 esik -1.870810 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 4.7115 W 0.7351 H 0.0000 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : R1e W1",
+   "hedef_ayrinti": "Am118 hedef 118 kol 2 esik -1.870810 mercek (1,+1,19) Ldil 6 cozulmus 1 kF 12 kH 4 FnH 0 mc 2 kapiG 1 hucre_boy 5/3/2/2 hucre_q 24/20/12/12 kapsam_tur 2 kapsam_duzey 2 | F:45921/1203170 W:722856/1203170 | dil: R1e W1 | sağlanan: R1e W1 | L*@mercek: R1c R1e W1 HH1 HR1c | Gmercek 1",
+   "dilsiz": false,
+   "k": 723,
+   "kB": 13600,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -1.870809673,
+   "esik_bayrak": 1,
+   "esik_mercek": 6,
+   "p": 0.000723999276000724,
+   "ci": [
+    0.0006712696839147246,
+    0.000777656641904392
+   ]
+  },
+  "Am119": {
+   "ad": "Am119",
+   "hedef": 119,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am119 hedef 119 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am119 hedef 119 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am120": {
+   "ad": "Am120",
+   "hedef": 120,
+   "L": 329,
+   "dil": [
+    "B1",
+    "QS"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "aile",
+    "kitap"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am120 hedef 120 kol 2 mercek (3,-1,37) amac -17.253654 bilgi 8.433356 dil_bedeli 16.369597 mercek_bedeli 9.317413 esik -0.884056 |Λ| 2 grup_bilgi B 2.7515 Z 0.0000 F 5.6818 W 0.0000 H 0.0000 tur ab duzey KA Gmercek 1 Bmercek 1 aday_asimi 0 : B1 QS",
+   "hedef_ayrinti": "Am120 hedef 120 kol 2 esik -0.884056 mercek (3,-1,37) Ldil 329 cozulmus 0 kF 14 kH 4 FnH 0 mc 2 kapiG 1 hucre_boy 3/2/4/5 hucre_q 14/10/14/-1 kapsam_tur 2 kapsam_duzey 2 | B:14849310/100000000 F:4/230 | dil: B1 QS | sağlanan: B1 QS | L*@mercek: B1 QS FC1 FSp FKS W1 | Gmercek 1",
+   "dilsiz": false,
+   "k": 547,
+   "kB": 1695,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -0.88405609,
+   "esik_bayrak": 1,
+   "esik_mercek": 329,
+   "p": 0.000547999452000548,
+   "ci": [
+    0.0005021256989625708,
+    0.0005948070411477553
+   ]
+  },
+  "Am121": {
+   "ad": "Am121",
+   "hedef": 121,
+   "L": 182,
+   "dil": [
+    "R1e",
+    "W1"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am121 hedef 121 kol 2 mercek (2,+1,29) amac -19.002154 bilgi 4.292538 dil_bedeli 14.977280 mercek_bedeli 8.317413 esik -4.024874 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 3.9289 W 0.3637 H 0.0000 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : R1e W1",
+   "hedef_ayrinti": "Am121 hedef 121 kol 2 esik -4.024874 mercek (2,+1,29) Ldil 182 cozulmus 1 kF 9 kH 4 FnH 0 mc 2 kapiG 1 hucre_boy 3/2/2/2 hucre_q 18/12/16/16 kapsam_tur 2 kapsam_duzey 2 | F:82696/1259489 W:978862/1259489 | dil: R1e W1 | sağlanan: R1e W1 | L*@mercek: R1c R1e FKS FSC W1 | Gmercek 1",
+   "dilsiz": false,
+   "k": 9583,
+   "kB": 13600,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -4.024874358,
+   "esik_bayrak": 1,
+   "esik_mercek": 182,
+   "p": 0.009583990416009583,
+   "ci": [
+    0.00939297661416142,
+    0.009775872065576289
+   ]
+  },
+  "Am122": {
+   "ad": "Am122",
+   "hedef": 122,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am122 hedef 122 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am122 hedef 122 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am123": {
+   "ad": "Am123",
+   "hedef": 123,
+   "L": 177,
+   "dil": [
+    "FAd",
+    "HR1c"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "aile",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am123 hedef 123 kol 2 mercek (2,+1,11) amac -20.828034 bilgi 5.858976 dil_bedeli 18.369597 mercek_bedeli 8.317413 esik -2.458437 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 3.4801 W 0.0000 H 2.3789 tur ab duzey AH Gmercek 1 Bmercek 1 aday_asimi 0 : FAd HR1c",
+   "hedef_ayrinti": "Am123 hedef 123 kol 2 esik -2.458436 mercek (2,+1,11) Ldil 177 cozulmus 1 kF 21 kH 9 FnH 2 mc 2 kapiG 1 hucre_boy 10/5/2/4 hucre_q 146/70/34/62 kapsam_tur 2 kapsam_duzey 2 | F:6369/71068 H:2392336/12443624 | dil: FAd HR1c | sağlanan: FAd HR1c | L*@mercek: FAd FNd HR1c | Gmercek 1",
+   "dilsiz": false,
+   "k": 1606,
+   "kB": 3300,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -2.458436488,
+   "esik_bayrak": 1,
+   "esik_mercek": 177,
+   "p": 0.001606998393001607,
+   "ci": [
+    0.0015284645404250161,
+    0.0016864447714460369
+   ]
+  },
+  "Am124": {
+   "ad": "Am124",
+   "hedef": 124,
+   "L": 183,
+   "dil": [
+    "R0c",
+    "W1"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am124 hedef 124 kol 2 mercek (2,+1,31) amac -20.365800 bilgi 2.928893 dil_bedeli 14.977280 mercek_bedeli 8.317413 esik -5.388520 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.5029 W 0.4260 H 0.0000 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : R0c W1",
+   "hedef_ayrinti": "Am124 hedef 124 kol 2 esik -5.388520 mercek (2,+1,31) Ldil 183 cozulmus 1 kF 10 kH 3 FnH 0 mc 2 kapiG 1 hucre_boy 2/2/4/2 hucre_q 8/12/24/8 kapsam_tur 2 kapsam_duzey 2 | F:45151/255932 W:190501/255932 | dil: R0c W1 | sağlanan: R0c W1 | L*@mercek: R0c K2 FSC W1 HR1c | Gmercek 1",
+   "dilsiz": false,
+   "k": 22693,
+   "kB": 81426,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -5.388520001,
+   "esik_bayrak": 1,
+   "esik_mercek": 183,
+   "p": 0.022693977306022694,
+   "ci": [
+    0.022401999512797574,
+    0.022986769702201832
+   ]
+  },
+  "Am125": {
+   "ad": "Am125",
+   "hedef": 125,
+   "L": 153,
+   "dil": [
+    "R1c",
+    "Qa"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am125 hedef 125 kol 2 mercek (1,-3,29) amac -20.223452 bilgi 7.241165 dil_bedeli 18.147205 mercek_bedeli 9.317413 esik -2.076248 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.3737 W 4.8674 H 0.0000 tur ab duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : R1c Qa",
+   "hedef_ayrinti": "Am125 hedef 125 kol 2 esik -2.076247 mercek (1,-3,29) Ldil 153 cozulmus 1 kF 8 kH 4 FnH 0 mc 2 kapiG 1 hucre_boy 2/2/2/2 hucre_q -4/-10/-16/-4 kapsam_tur 2 kapsam_duzey 2 | F:518726/2688455 W:92100/2688455 | dil: R1c Qa | sağlanan: R1c Qa | L*@mercek: F1 R0c R1c FC1 FD1 W1 Qa HR0c | Gmercek 1",
+   "dilsiz": false,
+   "k": 2697,
+   "kB": 5264,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -2.076247214,
+   "esik_bayrak": 1,
+   "esik_mercek": 153,
+   "p": 0.002697997302002698,
+   "ci": [
+    0.0025962940049219954,
+    0.002800603426049186
+   ]
+  },
+  "Am126": {
+   "ad": "Am126",
+   "hedef": 126,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am126 hedef 126 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am126 hedef 126 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am127": {
+   "ad": "Am127",
+   "hedef": 127,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am127 hedef 127 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am127 hedef 127 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am128": {
+   "ad": "Am128",
+   "hedef": 128,
+   "L": 239,
+   "dil": [
+    "FKS",
+    "W1"
+   ],
+   "boy": 2,
+   "turler": [
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am128 hedef 128 kol 2 mercek (2,+3,23) amac -21.290720 bilgi 2.588935 dil_bedeli 13.562242 mercek_bedeli 10.317413 esik -7.728478 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.2392 W 0.3497 H 0.0000 tur cd duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : FKS W1",
+   "hedef_ayrinti": "Am128 hedef 128 kol 2 esik -7.728478 mercek (2,+3,23) Ldil 239 cozulmus 1 kF 12 kH 1 FnH 0 mc 2 kapiG 1 hucre_boy 3/4/2/3 hucre_q 32/44/24/29 kapsam_tur 2 kapsam_duzey 2 | F:50430/238099 W:186844/238099 | dil: FKS W1 | sağlanan: FKS W1 | L*@mercek: FD1 FKS W1 | Gmercek 1",
+   "dilsiz": false,
+   "k": 93636,
+   "kB": 122328,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -7.728477775,
+   "esik_bayrak": 1,
+   "esik_mercek": 239,
+   "p": 0.09363690636309363,
+   "ci": [
+    0.09306569755126302,
+    0.09420865745627294
+   ]
+  },
+  "Am129": {
+   "ad": "Am129",
+   "hedef": 129,
+   "L": 327,
+   "dil": [
+    "W1",
+    "HR1e"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am129 hedef 129 kol 2 mercek (3,-1,29) amac -19.276576 bilgi 5.018116 dil_bedeli 14.977280 mercek_bedeli 9.317413 esik -4.299296 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 0.5061 H 4.5120 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : W1 HR1e",
+   "hedef_ayrinti": "Am129 hedef 129 kol 2 esik -4.299296 mercek (3,-1,29) Ldil 327 cozulmus 1 kF 12 kH 3 FnH 0 mc 2 kapiG 1 hucre_boy 3/2/2/5 hucre_q 20/8/2/9 kapsam_tur 2 kapsam_duzey 2 | W:31072/44129 H:874432/19951463 | dil: W1 HR1e | sağlanan: W1 HR1e | L*@mercek: W1 HR1c HR1e | Gmercek 1",
+   "dilsiz": false,
+   "k": 6302,
+   "kB": 7922,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -4.299296318,
+   "esik_bayrak": 1,
+   "esik_mercek": 327,
+   "p": 0.006302993697006303,
+   "ci": [
+    0.006147830320640506,
+    0.006459039705613646
+   ]
+  },
+  "Am130": {
+   "ad": "Am130",
+   "hedef": 130,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am130 hedef 130 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am130 hedef 130 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am131": {
+   "ad": "Am131",
+   "hedef": 131,
+   "L": 150,
+   "dil": [
+    "R1c",
+    "W1"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am131 hedef 131 kol 2 mercek (1,-3,17) amac -20.894496 bilgi 3.400197 dil_bedeli 14.977280 mercek_bedeli 9.317413 esik -5.917216 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.7241 W 0.6761 H 0.0000 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : R1c W1",
+   "hedef_ayrinti": "Am131 hedef 131 kol 2 esik -5.917216 mercek (1,-3,17) Ldil 150 cozulmus 1 kF 16 kH 9 FnH 0 mc 2 kapiG 1 hucre_boy 2/4/5/5 hucre_q -18/-56/-41/-63 kapsam_tur 2 kapsam_duzey 2 | F:13865/91610 W:57333/91610 | dil: R1c W1 | sağlanan: R1c W1 | L*@mercek: R1c W1 | Gmercek 1",
+   "dilsiz": false,
+   "k": 38091,
+   "kB": 84585,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -5.917215883,
+   "esik_bayrak": 1,
+   "esik_mercek": 150,
+   "p": 0.03809196190803809,
+   "ci": [
+    0.03771666988765513,
+    0.03846800864409755
+   ]
+  },
+  "Am132": {
+   "ad": "Am132",
+   "hedef": 132,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am132 hedef 132 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am132 hedef 132 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am133": {
+   "ad": "Am133",
+   "hedef": 133,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am133 hedef 133 kol 2 dil_yok Gmercek 1 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am133 hedef 133 kol 2 dil_yok Gmercek 1",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am134": {
+   "ad": "Am134",
+   "hedef": 134,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am134 hedef 134 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am134 hedef 134 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am135": {
+   "ad": "Am135",
+   "hedef": 135,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am135 hedef 135 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am135 hedef 135 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am136": {
+   "ad": "Am136",
+   "hedef": 136,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am136 hedef 136 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am136 hedef 136 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am137": {
+   "ad": "Am137",
+   "hedef": 137,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am137 hedef 137 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am137 hedef 137 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am138": {
+   "ad": "Am138",
+   "hedef": 138,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am138 hedef 138 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am138 hedef 138 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am139": {
+   "ad": "Am139",
+   "hedef": 139,
+   "L": 325,
+   "dil": [
+    "R1c",
+    "W1"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am139 hedef 139 kol 2 mercek (3,-1,19) amac -20.970597 bilgi 3.324095 dil_bedeli 14.977280 mercek_bedeli 9.317413 esik -5.993318 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.5425 W 0.7816 H 0.0000 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : R1c W1",
+   "hedef_ayrinti": "Am139 hedef 139 kol 2 esik -5.993317 mercek (3,-1,19) Ldil 325 cozulmus 1 kF 12 kH 3 FnH 0 mc 2 kapiG 1 hucre_boy 5/3/2/2 hucre_q 30/12/12/6 kapsam_tur 2 kapsam_duzey 2 | F:145316/846585 W:492465/846585 | dil: R1c W1 | sağlanan: R1c W1 | L*@mercek: R1c W1 HR0c | Gmercek 1",
+   "dilsiz": false,
+   "k": 40691,
+   "kB": 84585,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -5.993317484,
+   "esik_bayrak": 1,
+   "esik_mercek": 325,
+   "p": 0.04069195930804069,
+   "ci": [
+    0.04030459404946981,
+    0.041080069260593176
+   ]
+  },
+  "Am140": {
+   "ad": "Am140",
+   "hedef": 140,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am140 hedef 140 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am140 hedef 140 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am141": {
+   "ad": "Am141",
+   "hedef": 141,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am141 hedef 141 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am141 hedef 141 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am142": {
+   "ad": "Am142",
+   "hedef": 142,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am142 hedef 142 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am142 hedef 142 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am143": {
+   "ad": "Am143",
+   "hedef": 143,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am143 hedef 143 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am143 hedef 143 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am144": {
+   "ad": "Am144",
+   "hedef": 144,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am144 hedef 144 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am144 hedef 144 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am145": {
+   "ad": "Am145",
+   "hedef": 145,
+   "L": 265,
+   "dil": [
+    "FKS",
+    "WI1"
+   ],
+   "boy": 2,
+   "turler": [
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am145 hedef 145 kol 2 mercek (2,-3,13) amac -20.782881 bilgi 3.096774 dil_bedeli 13.562242 mercek_bedeli 10.317413 esik -7.220639 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 1.8543 W 1.2425 H 0.0000 tur cd duzey HB Gmercek 3 Bmercek 2 aday_asimi 0 : FKS WI1",
+   "hedef_ayrinti": "Am145 hedef 145 kol 2 esik -7.220639 mercek (2,-3,13) Ldil 265 cozulmus 1 kF 18 kH 9 FnH 1 mc 3 kapiG 1 hucre_boy 5/6/4/3 hucre_q 2/-30/-12/-1 kapsam_tur 2 kapsam_duzey 2 | F:40715/147213 W:62218/147213 | dil: FKS WI1 | sağlanan: FKS WI1 | L*@mercek: FC1 FKS WI1 WU2p WUd | Gmercek 3",
+   "dilsiz": false,
+   "k": 43073,
+   "kB": 43484,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -7.220638751,
+   "esik_bayrak": 1,
+   "esik_mercek": 265,
+   "p": 0.04307395692604307,
+   "ci": [
+    0.0426759090963624,
+    0.043472740277234065
+   ]
+  },
+  "Am146": {
+   "ad": "Am146",
+   "hedef": 146,
+   "L": 238,
+   "dil": [
+    "FCK",
+    "WSum"
+   ],
+   "boy": 2,
+   "turler": [
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "birleşim"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am146 hedef 146 kol 2 mercek (2,+3,19) amac -15.397393 bilgi 8.897300 dil_bedeli 13.977280 mercek_bedeli 10.317413 esik -1.420113 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 6.0620 W 2.8353 H 0.0000 tur cd duzey AB Gmercek 1 Bmercek 1 aday_asimi 0 : FCK WSum",
+   "hedef_ayrinti": "Am146 hedef 146 kol 2 esik -1.420113 mercek (2,+3,19) Ldil 238 cozulmus 1 kF 12 kH 7 FnH 0 mc 2 kapiG 1 hucre_boy 4/3/2/3 hucre_q 56/36/18/39 kapsam_tur 2 kapsam_duzey 2 | F:14158/945928 W:132544/945928 | dil: FCK WSum | sağlanan: FCK WSum | L*@mercek: FC1 FCK FKS W1 QU Qn WSum WUd | Gmercek 1",
+   "dilsiz": false,
+   "k": 444,
+   "kB": 478,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -1.420112847,
+   "esik_bayrak": 1,
+   "esik_mercek": 238,
+   "p": 0.000444999555000445,
+   "ci": [
+    0.0004036640945572003,
+    0.0004872737898110224
+   ]
+  },
+  "Am147": {
+   "ad": "Am147",
+   "hedef": 147,
+   "L": 152,
+   "dil": [
+    "B1",
+    "FKS"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "d"
+   ],
+   "duzeyler": [
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am147 hedef 147 kol 2 mercek (1,-3,23) amac -18.018362 bilgi 4.446256 dil_bedeli 13.147205 mercek_bedeli 9.317413 esik -4.871157 |Λ| 2 grup_bilgi B 2.7515 Z 0.0000 F 1.6947 W 0.0000 H 0.0000 tur ad duzey KH Gmercek 1 Bmercek 1 aday_asimi 0 : B1 FKS",
+   "hedef_ayrinti": "Am147 hedef 147 kol 2 esik -4.871157 mercek (1,-3,23) Ldil 152 cozulmus 1 kF 11 kH 5 FnH 0 mc 2 kapiG 1 hucre_boy 3/2/2/4 hucre_q -16/2/-24/-38 kapsam_tur 2 kapsam_duzey 2 | B:14849310/100000000 F:208144/673793 | dil: B1 FKS | sağlanan: B1 FKS | L*@mercek: B1 FKS W1 | Gmercek 1",
+   "dilsiz": false,
+   "k": 10633,
+   "kB": 16458,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -4.871156811,
+   "esik_bayrak": 1,
+   "esik_mercek": 152,
+   "p": 0.010633989366010633,
+   "ci": [
+    0.01043289117313884,
+    0.01083595091495621
+   ]
+  },
+  "Am148": {
+   "ad": "Am148",
+   "hedef": 148,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am148 hedef 148 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am148 hedef 148 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am149": {
+   "ad": "Am149",
+   "hedef": 149,
+   "L": 7,
+   "dil": [
+    "FKS",
+    "W1"
+   ],
+   "boy": 2,
+   "turler": [
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am149 hedef 149 kol 2 mercek (1,+1,23) amac -18.340188 bilgi 2.539467 dil_bedeli 13.562242 mercek_bedeli 7.317413 esik -4.777946 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.2081 W 0.3314 H 0.0000 tur cd duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : FKS W1",
+   "hedef_ayrinti": "Am149 hedef 149 kol 2 esik -4.777946 mercek (1,+1,23) Ldil 7 cozulmus 1 kF 12 kH 7 FnH 0 mc 2 kapiG 1 hucre_boy 3/3/4/2 hucre_q 18/14/16/14 kapsam_tur 2 kapsam_duzey 2 | F:86582/400055 W:317948/400055 | dil: FKS W1 | sağlanan: FKS W1 | L*@mercek: F1 R0c FKS W1 HR0e | Gmercek 1",
+   "dilsiz": false,
+   "k": 7291,
+   "kB": 122328,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -4.777945786,
+   "esik_bayrak": 1,
+   "esik_mercek": 7,
+   "p": 0.007291992708007292,
+   "ci": [
+    0.0071251833646128705,
+    0.007459680062245486
+   ]
+  },
+  "Am150": {
+   "ad": "Am150",
+   "hedef": 150,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am150 hedef 150 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am150 hedef 150 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am151": {
+   "ad": "Am151",
+   "hedef": 151,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am151 hedef 151 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am151 hedef 151 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am152": {
+   "ad": "Am152",
+   "hedef": 152,
+   "L": 33,
+   "dil": [
+    "B1",
+    "Qa"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "kitap"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am152 hedef 152 kol 2 mercek (1,-1,13) amac -17.011271 bilgi 6.453347 dil_bedeli 16.147205 mercek_bedeli 7.317413 esik -0.864066 |Λ| 2 grup_bilgi B 2.7515 Z 0.0000 F 0.0000 W 3.7018 H 0.0000 tur ab duzey KB Gmercek 1 Bmercek 1 aday_asimi 0 : B1 Qa",
+   "hedef_ayrinti": "Am152 hedef 152 kol 2 esik -0.864066 mercek (1,-1,13) Ldil 33 cozulmus 1 kF 18 kH 11 FnH 2 mc 3 kapiG 1 hucre_boy 7/4/3/4 hucre_q 22/20/-13/2 kapsam_tur 2 kapsam_duzey 2 | B:14849310/100000000 W:11136/144906 | dil: B1 Qa | sağlanan: B1 Qa | L*@mercek: B1 Qa HR0c HR0e | Gmercek 1",
+   "dilsiz": false,
+   "k": 528,
+   "kB": 1688,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -0.864065884,
+   "esik_bayrak": 1,
+   "esik_mercek": 33,
+   "p": 0.000528999471000529,
+   "ci": [
+    0.0004839283867620131,
+    0.0005750052015290473
+   ]
+  },
+  "Am153": {
+   "ad": "Am153",
+   "hedef": 153,
+   "L": 5,
+   "dil": [
+    "FSC",
+    "WI1"
+   ],
+   "boy": 2,
+   "turler": [
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am153 hedef 153 kol 2 mercek (1,+1,17) amac -17.855875 bilgi 3.023780 dil_bedeli 13.562242 mercek_bedeli 7.317413 esik -4.293633 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 1.4120 W 1.6118 H 0.0000 tur cd duzey HB Gmercek 2 Bmercek 2 aday_asimi 0 : FSC WI1",
+   "hedef_ayrinti": "Am153 hedef 153 kol 2 esik -4.293633 mercek (1,+1,17) Ldil 5 cozulmus 1 kF 16 kH 10 FnH 1 mc 2 kapiG 1 hucre_boy 4/7/3/2 hucre_q 28/52/21/24 kapsam_tur 2 kapsam_duzey 2 | F:32973/87743 W:28709/87743 | dil: FSC WI1 | sağlanan: FSC WI1 | L*@mercek: FSC WI1 | Gmercek 2",
+   "dilsiz": false,
+   "k": 9125,
+   "kB": 23722,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -4.293632745,
+   "esik_bayrak": 1,
+   "esik_mercek": 5,
+   "p": 0.009125990874009126,
+   "ci": [
+    0.00893955367155332,
+    0.009313297910281699
+   ]
+  },
+  "Am154": {
+   "ad": "Am154",
+   "hedef": 154,
+   "L": 4,
+   "dil": [
+    "FSC",
+    "HH1"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am154 hedef 154 kol 2 mercek (1,+1,13) amac -18.139448 bilgi 4.325170 dil_bedeli 15.147205 mercek_bedeli 7.317413 esik -2.992243 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.3060 W 0.0000 H 2.0191 tur ad duzey AH Gmercek 1 Bmercek 1 aday_asimi 0 : FSC HH1",
+   "hedef_ayrinti": "Am154 hedef 154 kol 2 esik -2.992243 mercek (1,+1,13) Ldil 4 cozulmus 1 kF 18 kH 10 FnH 3 mc 3 kapiG 1 hucre_boy 4/3/3/8 hucre_q 38/24/21/74 kapsam_tur 2 kapsam_duzey 2 | F:36650/181244 H:2903280/11768067 | dil: FSC HH1 | sağlanan: FSC HH1 | L*@mercek: FSC HH1 HR0e | Gmercek 1",
+   "dilsiz": false,
+   "k": 524,
+   "kB": 19926,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -2.992242812,
+   "esik_bayrak": 1,
+   "esik_mercek": 4,
+   "p": 0.000524999475000525,
+   "ci": [
+    0.00048009920800907524,
+    0.0005708345639398347
+   ]
+  },
+  "Am155": {
+   "ad": "Am155",
+   "hedef": 155,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am155 hedef 155 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am155 hedef 155 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am156": {
+   "ad": "Am156",
+   "hedef": 156,
+   "L": 296,
+   "dil": [
+    "B1",
+    "FAd"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "aile",
+    "kitap"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am156 hedef 156 kol 2 mercek (3,+1,19) amac -18.690175 bilgi 6.996835 dil_bedeli 16.369597 mercek_bedeli 9.317413 esik -2.320578 |Λ| 2 grup_bilgi B 2.7515 Z 0.0000 F 4.2453 W 0.0000 H 0.0000 tur ab duzey KA Gmercek 1 Bmercek 1 aday_asimi 0 : B1 FAd",
+   "hedef_ayrinti": "Am156 hedef 156 kol 2 esik -2.320578 mercek (3,+1,19) Ldil 296 cozulmus 1 kF 12 kH 3 FnH 0 mc 2 kapiG 1 hucre_boy 5/2/2/3 hucre_q 70/28/14/39 kapsam_tur 2 kapsam_duzey 2 | B:14849310/100000000 F:63867/1211267 | dil: B1 FAd | sağlanan: B1 FAd | L*@mercek: B1 FAd FNd W1 | Gmercek 1",
+   "dilsiz": false,
+   "k": 1159,
+   "kB": 1684,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -2.320578097,
+   "esik_bayrak": 1,
+   "esik_mercek": 296,
+   "p": 0.00115999884000116,
+   "ci": [
+    0.0010932623729528218,
+    0.0012276538333343865
+   ]
+  },
+  "Am157": {
+   "ad": "Am157",
+   "hedef": 157,
+   "L": 326,
+   "dil": [
+    "B1",
+    "FAd"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "aile",
+    "kitap"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am157 hedef 157 kol 2 mercek (3,-1,23) amac -18.407788 bilgi 7.279222 dil_bedeli 16.369597 mercek_bedeli 9.317413 esik -2.038190 |Λ| 2 grup_bilgi B 2.7515 Z 0.0000 F 4.5277 W 0.0000 H 0.0000 tur ab duzey KA Gmercek 1 Bmercek 1 aday_asimi 0 : B1 FAd",
+   "hedef_ayrinti": "Am157 hedef 157 kol 2 esik -2.038190 mercek (3,-1,23) Ldil 326 cozulmus 1 kF 10 kH 6 FnH 0 mc 2 kapiG 1 hucre_boy 3/2/3/2 hucre_q 0/16/21/16 kapsam_tur 2 kapsam_duzey 2 | B:14849310/100000000 F:66321/1529754 | dil: B1 FAd | sağlanan: B1 FAd | L*@mercek: B1 F1 FD1 FAd FNd FKS W1 | Gmercek 1",
+   "dilsiz": false,
+   "k": 839,
+   "kB": 1684,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -2.038190364,
+   "esik_bayrak": 1,
+   "esik_mercek": 326,
+   "p": 0.00083999916000084,
+   "ci": [
+    0.0007832031480580018,
+    0.0008977199178902908
+   ]
+  },
+  "Am158": {
+   "ad": "Am158",
+   "hedef": 158,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am158 hedef 158 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am158 hedef 158 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am159": {
+   "ad": "Am159",
+   "hedef": 159,
+   "L": 295,
+   "dil": [
+    "FCK",
+    "HR0e"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am159 hedef 159 kol 2 mercek (3,+1,17) amac -13.982681 bilgi 10.896974 dil_bedeli 15.562242 mercek_bedeli 9.317413 esik 1.579562 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 5.9883 W 0.0000 H 4.9087 tur ad duzey AH Gmercek 1 Bmercek 1 aday_asimi 0 : FCK HR0e",
+   "hedef_ayrinti": "Am159 hedef 159 kol 2 esik 1.579561 mercek (3,+1,17) Ldil 295 cozulmus 1 kF 14 kH 7 FnH 1 mc 3 kapiG 1 hucre_boy 3/4/4/3 hucre_q 42/48/52/45 kapsam_tur 2 kapsam_duzey 2 | F:7074/449070 H:507593/15246942 | dil: FCK HR0e | sağlanan: FCK HR0e | L*@mercek: F1 QS FC1 FCK FKS WI1 HR0e HR1c | Gmercek 1",
+   "dilsiz": false,
+   "k": 51,
+   "kB": 716,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 1.579561473,
+   "esik_bayrak": 1,
+   "esik_mercek": 295,
+   "p": 5.1999948000052e-05,
+   "ci": [
+    3.7973078191368735e-05,
+    6.705504287835977e-05
+   ]
+  },
+  "Am160": {
+   "ad": "Am160",
+   "hedef": 160,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am160 hedef 160 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am160 hedef 160 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am161": {
+   "ad": "Am161",
+   "hedef": 161,
+   "L": 209,
+   "dil": [
+    "R0e",
+    "WI1"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am161 hedef 161 kol 2 mercek (2,-1,19) amac -17.515254 bilgi 5.779438 dil_bedeli 14.977280 mercek_bedeli 8.317413 esik -2.537975 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 4.3501 W 1.4294 H 0.0000 tur ac duzey HB Gmercek 2 Bmercek 2 aday_asimi 0 : R0e WI1",
+   "hedef_ayrinti": "Am161 hedef 161 kol 2 esik -2.537975 mercek (2,-1,19) Ldil 209 cozulmus 1 kF 13 kH 8 FnH 1 mc 2 kapiG 1 hucre_boy 2/5/3/3 hucre_q 6/6/11/9 kapsam_tur 2 kapsam_duzey 2 | F:20404/416121 W:154504/416121 | dil: R0e WI1 | sağlanan: R0e WI1 | L*@mercek: R0e R1c WI1 | Gmercek 2",
+   "dilsiz": false,
+   "k": 3708,
+   "kB": 5359,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -2.537974595,
+   "esik_bayrak": 1,
+   "esik_mercek": 209,
+   "p": 0.003708996291003709,
+   "ci": [
+    0.003589812099247546,
+    0.0038290767034692363
+   ]
+  },
+  "Am162": {
+   "ad": "Am162",
+   "hedef": 162,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am162 hedef 162 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am162 hedef 162 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am163": {
+   "ad": "Am163",
+   "hedef": 163,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am163 hedef 163 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am163 hedef 163 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am164": {
+   "ad": "Am164",
+   "hedef": 164,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am164 hedef 164 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am164 hedef 164 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am165": {
+   "ad": "Am165",
+   "hedef": 165,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am165 hedef 165 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am165 hedef 165 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am166": {
+   "ad": "Am166",
+   "hedef": 166,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am166 hedef 166 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am166 hedef 166 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am167": {
+   "ad": "Am167",
+   "hedef": 167,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am167 hedef 167 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am167 hedef 167 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am168": {
+   "ad": "Am168",
+   "hedef": 168,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am168 hedef 168 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am168 hedef 168 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am169": {
+   "ad": "Am169",
+   "hedef": 169,
+   "L": 209,
+   "dil": [
+    "FSC",
+    "WI1"
+   ],
+   "boy": 2,
+   "turler": [
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am169 hedef 169 kol 2 mercek (2,-1,19) amac -16.994147 bilgi 4.885508 dil_bedeli 13.562242 mercek_bedeli 8.317413 esik -3.431905 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 3.3825 W 1.5030 H 0.0000 tur cd duzey HB Gmercek 2 Bmercek 2 aday_asimi 0 : FSC WI1",
+   "hedef_ayrinti": "Am169 hedef 169 kol 2 esik -3.431905 mercek (2,-1,19) Ldil 209 cozulmus 1 kF 12 kH 8 FnH 1 mc 2 kapiG 1 hucre_boy 4/4/2/2 hucre_q 10/18/0/14 kapsam_tur 2 kapsam_duzey 2 | F:92356/963166 W:339823/963166 | dil: FSC WI1 | sağlanan: FSC WI1 | L*@mercek: R0c R1c FC1 FD1 FSC QU QH WI1 WUd HK2 | Gmercek 2",
+   "dilsiz": false,
+   "k": 3372,
+   "kB": 23722,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -3.431904792,
+   "esik_bayrak": 1,
+   "esik_mercek": 209,
+   "p": 0.003372996627003373,
+   "ci": [
+    0.003259319542941297,
+    0.003487571987893402
+   ]
+  },
+  "Am170": {
+   "ad": "Am170",
+   "hedef": 170,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am170 hedef 170 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am170 hedef 170 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am171": {
+   "ad": "Am171",
+   "hedef": 171,
+   "L": 297,
+   "dil": [
+    "WI1",
+    "HR0e"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am171 hedef 171 kol 2 mercek (3,+1,23) amac -17.729629 bilgi 6.565064 dil_bedeli 14.977280 mercek_bedeli 9.317413 esik -2.752349 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 0.0000 W 2.0851 H 4.4799 tur ac duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : WI1 HR0e",
+   "hedef_ayrinti": "Am171 hedef 171 kol 2 esik -2.752349 mercek (3,+1,23) Ldil 297 cozulmus 1 kF 14 kH 7 FnH 1 mc 2 kapiG 1 hucre_boy 2/3/6/3 hucre_q 22/20/70/43 kapsam_tur 2 kapsam_duzey 2 | W:7945/33712 H:458357/10228087 | dil: WI1 HR0e | sağlanan: WI1 HR0e | L*@mercek: WI1 HR0e HR1c | Gmercek 1",
+   "dilsiz": false,
+   "k": 3097,
+   "kB": 4271,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -2.75234866,
+   "esik_bayrak": 1,
+   "esik_mercek": 297,
+   "p": 0.003097996902003098,
+   "ci": [
+    0.002989037079831231,
+    0.003207856776318299
+   ]
+  },
+  "Am172": {
+   "ad": "Am172",
+   "hedef": 172,
+   "L": 150,
+   "dil": [
+    "B1",
+    "WSum"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "c"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "kitap"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am172 hedef 172 kol 2 mercek (1,-3,17) amac -15.744200 bilgi 6.550493 dil_bedeli 12.977280 mercek_bedeli 9.317413 esik -2.766920 |Λ| 2 grup_bilgi B 2.7515 Z 0.0000 F 0.0000 W 3.7990 H 0.0000 tur ac duzey KB Gmercek 2 Bmercek 2 aday_asimi 0 : B1 WSum",
+   "hedef_ayrinti": "Am172 hedef 172 kol 2 esik -2.766920 mercek (1,-3,17) Ldil 150 cozulmus 1 kF 14 kH 3 FnH 1 mc 2 kapiG 1 hucre_boy 7/2/2/3 hucre_q -68/6/-14/-41 kapsam_tur 2 kapsam_duzey 2 | B:14849310/100000000 W:38647/537919 | dil: B1 WSum | sağlanan: B1 WSum | L*@mercek: B1 WI1 WSum HR1c | Gmercek 2",
+   "dilsiz": false,
+   "k": 716,
+   "kB": 1621,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -2.766919612,
+   "esik_bayrak": 1,
+   "esik_mercek": 150,
+   "p": 0.000716999283000717,
+   "ci": [
+    0.0006645251999820702,
+    0.0007704013423809452
+   ]
+  },
+  "Am173": {
+   "ad": "Am173",
+   "hedef": 173,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am173 hedef 173 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am173 hedef 173 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am174": {
+   "ad": "Am174",
+   "hedef": 174,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am174 hedef 174 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am174 hedef 174 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am175": {
+   "ad": "Am175",
+   "hedef": 175,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am175 hedef 175 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am175 hedef 175 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am176": {
+   "ad": "Am176",
+   "hedef": 176,
+   "L": 180,
+   "dil": [
+    "FC2",
+    "FKS"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am176 hedef 176 kol 2 mercek (2,+1,19) amac -15.897740 bilgi 7.566877 dil_bedeli 15.147205 mercek_bedeli 8.317413 esik -0.750535 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 7.5669 W 0.0000 H 0.0000 tur ad duzey AH Gmercek 1 Bmercek 1 aday_asimi 0 : FC2 FKS",
+   "hedef_ayrinti": "Am176 hedef 176 kol 2 esik -0.750535 mercek (2,+1,19) Ldil 180 cozulmus 1 kF 13 kH 7 FnH 0 mc 2 kapiG 1 hucre_boy 2/3/4/4 hucre_q 16/26/38/28 kapsam_tur 2 kapsam_duzey 2 | F:2274/431169 | dil: FC2 FKS | sağlanan: FC2 FKS | L*@mercek: R1c FC2 FKS W1 HR0c | Gmercek 1",
+   "dilsiz": false,
+   "k": 636,
+   "kB": 4159,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -0.750535249,
+   "esik_bayrak": 1,
+   "esik_mercek": 180,
+   "p": 0.000636999363000637,
+   "ci": [
+    0.0005875394001294308,
+    0.0006873898172913206
+   ]
+  },
+  "Am177": {
+   "ad": "Am177",
+   "hedef": 177,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am177 hedef 177 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am177 hedef 177 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am178": {
+   "ad": "Am178",
+   "hedef": 178,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am178 hedef 178 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am178 hedef 178 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am179": {
+   "ad": "Am179",
+   "hedef": 179,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am179 hedef 179 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am179 hedef 179 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am180": {
+   "ad": "Am180",
+   "hedef": 180,
+   "L": 238,
+   "dil": [
+    "FSC",
+    "WI1"
+   ],
+   "boy": 2,
+   "turler": [
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am180 hedef 180 kol 2 mercek (2,+3,19) amac -19.485461 bilgi 4.394194 dil_bedeli 13.562242 mercek_bedeli 10.317413 esik -5.923219 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.8865 W 1.5077 H 0.0000 tur cd duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : FSC WI1",
+   "hedef_ayrinti": "Am180 hedef 180 kol 2 esik -5.923219 mercek (2,+3,19) Ldil 238 cozulmus 1 kF 12 kH 9 FnH 1 mc 2 kapiG 1 hucre_boy 5/2/2/3 hucre_q 90/28/24/37 kapsam_tur 2 kapsam_duzey 2 | F:127921/945928 W:332652/945928 | dil: FSC WI1 | sağlanan: FSC WI1 | L*@mercek: FSC WI1 HR1c | Gmercek 1",
+   "dilsiz": false,
+   "k": 22992,
+   "kB": 23722,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -5.923218726,
+   "esik_bayrak": 1,
+   "esik_mercek": 238,
+   "p": 0.022992977007022995,
+   "ci": [
+    0.022699126972263752,
+    0.023287640467172407
+   ]
+  },
+  "Am181": {
+   "ad": "Am181",
+   "hedef": 181,
+   "L": 38,
+   "dil": [
+    "FSC",
+    "HH2"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am181 hedef 181 kol 2 mercek (1,-1,31) amac -15.560761 bilgi 6.903857 dil_bedeli 15.147205 mercek_bedeli 7.317413 esik -0.413556 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 1.5436 W 0.0000 H 5.3603 tur ad duzey AH Gmercek 3 Bmercek 3 aday_asimi 0 : FSC HH2",
+   "hedef_ayrinti": "Am181 hedef 181 kol 2 esik -0.413556 mercek (1,-1,31) Ldil 38 cozulmus 1 kF 9 kH 3 FnH 0 mc 2 kapiG 1 hucre_boy 2/3/2/2 hucre_q 0/2/6/-4 kapsam_tur 2 kapsam_duzey 2 | F:275273/802467 H:527203/21656204 | dil: FSC HH2 | sağlanan: FSC HH2 | L*@mercek: F2 R1c FKS FSC W1 HH2 | Gmercek 3",
+   "dilsiz": false,
+   "k": 263,
+   "kB": 2864,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -0.413555502,
+   "esik_bayrak": 1,
+   "esik_mercek": 38,
+   "p": 0.000263999736000264,
+   "ci": [
+    0.00023217567761273306,
+    0.0002967769509456928
+   ]
+  },
+  "Am182": {
+   "ad": "Am182",
+   "hedef": 182,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am182 hedef 182 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am182 hedef 182 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am183": {
+   "ad": "Am183",
+   "hedef": 183,
+   "L": 123,
+   "dil": [
+    "B1",
+    "FKS"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "d"
+   ],
+   "duzeyler": [
+    "hücre",
+    "kitap"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am183 hedef 183 kol 2 mercek (1,+3,23) amac -18.561430 bilgi 3.903188 dil_bedeli 13.147205 mercek_bedeli 9.317413 esik -5.414225 |Λ| 2 grup_bilgi B 2.7515 Z 0.0000 F 1.1517 W 0.0000 H 0.0000 tur ad duzey KH Gmercek 1 Bmercek 1 aday_asimi 0 : B1 FKS",
+   "hedef_ayrinti": "Am183 hedef 183 kol 2 esik -5.414225 mercek (1,+3,23) Ldil 123 cozulmus 1 kF 10 kH 4 FnH 0 mc 2 kapiG 1 hucre_boy 3/3/2/2 hucre_q 30/28/12/34 kapsam_tur 2 kapsam_duzey 2 | B:14849310/100000000 F:783103/1739810 | dil: B1 FKS | sağlanan: B1 FKS | L*@mercek: B1 R0c R1c FC1 FD1 FKS W1 | Gmercek 1",
+   "dilsiz": false,
+   "k": 14896,
+   "kB": 16458,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -5.414224504,
+   "esik_bayrak": 1,
+   "esik_mercek": 123,
+   "p": 0.014896985103014897,
+   "ci": [
+    0.014659482131467805,
+    0.015135333780141997
+   ]
+  },
+  "Am184": {
+   "ad": "Am184",
+   "hedef": 184,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am184 hedef 184 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am184 hedef 184 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am185": {
+   "ad": "Am185",
+   "hedef": 185,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am185 hedef 185 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am185 hedef 185 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am186": {
+   "ad": "Am186",
+   "hedef": 186,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am186 hedef 186 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am186 hedef 186 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am187": {
+   "ad": "Am187",
+   "hedef": 187,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am187 hedef 187 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am187 hedef 187 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am188": {
+   "ad": "Am188",
+   "hedef": 188,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am188 hedef 188 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am188 hedef 188 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am189": {
+   "ad": "Am189",
+   "hedef": 189,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am189 hedef 189 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am189 hedef 189 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am190": {
+   "ad": "Am190",
+   "hedef": 190,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am190 hedef 190 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am190 hedef 190 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am191": {
+   "ad": "Am191",
+   "hedef": 191,
+   "L": 35,
+   "dil": [
+    "FKS",
+    "W1"
+   ],
+   "boy": 2,
+   "turler": [
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am191 hedef 191 kol 2 mercek (1,-1,19) amac -18.000101 bilgi 2.879554 dil_bedeli 13.562242 mercek_bedeli 7.317413 esik -4.437859 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.0491 W 0.8304 H 0.0000 tur cd duzey HB Gmercek 2 Bmercek 2 aday_asimi 0 : FKS W1",
+   "hedef_ayrinti": "Am191 hedef 191 kol 2 esik -4.437859 mercek (1,-1,19) Ldil 35 cozulmus 1 kF 13 kH 5 FnH 0 mc 2 kapiG 1 hucre_boy 4/4/2/3 hucre_q 8/10/0/-7 kapsam_tur 2 kapsam_duzey 2 | F:104749/433516 W:243797/433516 | dil: FKS W1 | sağlanan: FKS W1 | L*@mercek: R0c FKS W1 HK2 | Gmercek 2",
+   "dilsiz": false,
+   "k": 4450,
+   "kB": 122328,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -4.437858938,
+   "esik_bayrak": 1,
+   "esik_mercek": 35,
+   "p": 0.004450995549004451,
+   "ci": [
+    0.0043204823466051,
+    0.004582400755663934
+   ]
+  },
+  "Am192": {
+   "ad": "Am192",
+   "hedef": 192,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am192 hedef 192 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am192 hedef 192 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am193": {
+   "ad": "Am193",
+   "hedef": 193,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am193 hedef 193 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am193 hedef 193 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am194": {
+   "ad": "Am194",
+   "hedef": 194,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am194 hedef 194 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am194 hedef 194 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am195": {
+   "ad": "Am195",
+   "hedef": 195,
+   "L": 122,
+   "dil": [
+    "FAd",
+    "HR1e"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "aile",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am195 hedef 195 kol 2 mercek (1,+3,19) amac -17.185837 bilgi 10.501173 dil_bedeli 18.369597 mercek_bedeli 9.317413 esik 1.183760 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 4.2418 W 0.0000 H 6.2594 tur ab duzey AH Gmercek 1 Bmercek 1 aday_asimi 0 : FAd HR1e",
+   "hedef_ayrinti": "Am195 hedef 195 kol 2 esik 1.183760 mercek (1,+3,19) Ldil 122 cozulmus 1 kF 12 kH 13 FnH 0 mc 2 kapiG 1 hucre_boy 4/2/3/3 hucre_q 58/22/25/49 kapsam_tur 2 kapsam_duzey 2 | F:53339/1009119 H:6367/487759 | dil: FAd HR1e | sağlanan: FAd HR1e | L*@mercek: F1 R1c FAd FNd FKS W1 HR0e HR1e | Gmercek 1",
+   "dilsiz": false,
+   "k": 125,
+   "kB": 551,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": 1.183759929,
+   "esik_bayrak": 1,
+   "esik_mercek": 122,
+   "p": 0.000125999874000126,
+   "ci": [
+    0.00010404993705392895,
+    0.0001489300745271453
+   ]
+  },
+  "Am196": {
+   "ad": "Am196",
+   "hedef": 196,
+   "L": 41,
+   "dil": [
+    "F2",
+    "FSC"
+   ],
+   "boy": 2,
+   "turler": [
+    "a",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am196 hedef 196 kol 2 mercek (1,-1,43) amac -17.670395 bilgi 4.794222 dil_bedeli 15.147205 mercek_bedeli 7.317413 esik -2.523191 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 4.7942 W 0.0000 H 0.0000 tur ad duzey AH Gmercek 1 Bmercek 1 aday_asimi 0 : F2 FSC",
+   "hedef_ayrinti": "Am196 hedef 196 kol 2 esik -2.523191 mercek (1,-1,43) Ldil 41 cozulmus 1 kF 8 kH 0 FnH 0 mc 2 kapiG 1 hucre_boy 2/2/2/2 hucre_q 4/0/2/2 kapsam_tur 2 kapsam_duzey 2 | F:12541/347966 | dil: F2 FSC | sağlanan: F2 FSC | L*@mercek: F1 F2 R0c R1c R1e FC1 FD1 FSC WUTd | Gmercek 1",
+   "dilsiz": false,
+   "k": 2584,
+   "kB": 4372,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -2.523190736,
+   "esik_bayrak": 1,
+   "esik_mercek": 41,
+   "p": 0.002584997415002585,
+   "ci": [
+    0.002485441008606828,
+    0.0026854574840658985
+   ]
+  },
+  "Am197": {
+   "ad": "Am197",
+   "hedef": 197,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am197 hedef 197 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am197 hedef 197 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am198": {
+   "ad": "Am198",
+   "hedef": 198,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am198 hedef 198 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am198 hedef 198 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  },
+  "Am199": {
+   "ad": "Am199",
+   "hedef": 199,
+   "L": 123,
+   "dil": [
+    "FSC",
+    "W1"
+   ],
+   "boy": 2,
+   "turler": [
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "n_tur": 2,
+   "n_duzey": 2,
+   "ayrinti": "Am199 hedef 199 kol 2 mercek (1,+3,23) amac -19.725611 bilgi 3.154044 dil_bedeli 13.562242 mercek_bedeli 9.317413 esik -6.163369 |Λ| 2 grup_bilgi B 0.0000 Z 0.0000 F 2.7811 W 0.3729 H 0.0000 tur cd duzey HB Gmercek 1 Bmercek 1 aday_asimi 0 : FSC W1",
+   "hedef_ayrinti": "Am199 hedef 199 kol 2 esik -6.163369 mercek (1,+3,23) Ldil 123 cozulmus 1 kF 13 kH 7 FnH 0 mc 2 kapiG 1 hucre_boy 2/6/2/3 hucre_q 12/70/18/23 kapsam_tur 2 kapsam_duzey 2 | F:15641/107514 W:83024/107514 | dil: FSC W1 | sağlanan: FSC W1 | L*@mercek: FSC W1 HR1c | Gmercek 1",
+   "dilsiz": false,
+   "k": 29968,
+   "kB": 79255,
+   "N": 1000000,
+   "duzey": 1,
+   "eksik": 0,
+   "esik": -6.163368611,
+   "esik_bayrak": 1,
+   "esik_mercek": 123,
+   "p": 0.029968970031029968,
+   "ci": [
+    0.029634689915094874,
+    0.03030403630999982
+   ]
+  },
+  "Am200": {
+   "ad": "Am200",
+   "hedef": 200,
+   "L": -1,
+   "dil": [],
+   "boy": 0,
+   "turler": [],
+   "duzeyler": [],
+   "n_tur": 0,
+   "n_duzey": 0,
+   "ayrinti": "Am200 hedef 200 kol 2 dil_yok Gmercek 0 Bmercek 0 aday_asimi 0",
+   "hedef_ayrinti": "Am200 hedef 200 kol 2 dil_yok Gmercek 0",
+   "dilsiz": true,
+   "p": 1.0,
+   "ci": [
+    1.0,
+    1.0
+   ],
+   "k": null,
+   "N": null,
+   "duzey": 0
+  }
+ },
+ "denetim": {
+  "esik_farki_en_cok": 7.86000000196907e-07,
+  "esik_karsilastirma": 61,
+  "mercek_farkli": 0,
+  "aday_asimi": 0,
+  "cozulmemis": [
+   "Am120"
+  ]
+ },
+ "tamam": true,
+ "K_d": 60,
+ "kalibre": {
+  "pQ": 9.9999999e-09,
+  "ciQ": [
+   0.0,
+   3.6888739390569175e-08
+  ],
+  "kQ": 0,
+  "NQ": 100000000,
+  "R": 0,
+  "ulasanlar": [],
+  "p_kal": 0.004975124378109453,
+  "okuma": "aşar",
+  "model": {
+   "esik_u": 2.0397199698576225,
+   "m": 40,
+   "gpd_sigma": 1.6224329819334005,
+   "gpd_xi": -0.6882787183790904,
+   "P_gpd": 0.0,
+   "P_gpd_95": [
+    0.0,
+    0.0
+   ],
+   "normal_mu": 0.7587953637010447,
+   "normal_sd": 1.2456492268043755,
+   "P_normal": 3.064538733353791e-09,
+   "delta_mertebe": 3.672097427984398
+  },
+  "model_karisim": {
+   "K_d": 60,
+   "P_gpd": 0.0,
+   "P_gpd_95": [
+    0.0,
+    0.0
+   ],
+   "gpd": [
+    3.261219875809896,
+    1.1457561282982163,
+    -1.0741302242071542
+   ],
+   "P_normal": 7.68925003099671e-12,
+   "normal": [
+    2.5293151860315524,
+    0.8330284212630539
+   ]
+  },
+  "delta_mertebe": 3.672097427984398
+ },
+ "plasebo": {
+  "medyan": 1.0,
+  "medyan_95": [
+   1.0,
+   1.0
+  ],
+  "min": 4.6999953000047e-05,
+  "min_aralik": [
+   3.36779720616861e-05,
+   6.13570823781709e-05
+  ],
+  "ceyrekler": [
+   0.001078998921001079,
+   0.023162476837523163,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "dilli_medyan": 0.0032354967645032355,
+  "dilsiz": 140,
+  "esik_alti": {
+   "0.01": 42,
+   "0.001": 20,
+   "0.0001": 2,
+   "1e-05": 0,
+   "1e-06": 0,
+   "1e-07": 0
+  },
+  "duzeyler": {
+   "0": 140,
+   "1": 60,
+   "2": 0,
+   "3": 0
+  },
+  "sansurlu": 0
+ },
+ "en_iyi_bes": [
+  {
+   "ad": "Am012",
+   "p": 4.6999953000047e-05,
+   "ci": [
+    3.36779720616861e-05,
+    6.13570823781709e-05
+   ],
+   "k": 46,
+   "N": 1000000,
+   "dil": [
+    "FAP",
+    "WSum"
+   ],
+   "turler": [
+    "c",
+    "d"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "hedef_ayrinti": "Am012 hedef 12 kol 2 esik 2.784674 mercek (1,-3,19) Ldil 151 cozulmus 1 kF 13 kH 6 FnH 1 mc 2 kapiG 1 hucre_boy 2/5/3/3 hucre_q -12/-42/3/-27 kapsam_tur 2 kapsam_duzey 2 | F:673/487759 W:80409/487759 | dil: FAP WSum | sağlanan: FAP WSum | L*@mercek: R1c FD2 FAP WI1 WSum WUTd WHAd WHNd | Gmercek 1"
+  },
+  {
+   "ad": "Am159",
+   "p": 5.1999948000052e-05,
+   "ci": [
+    3.7973078191368735e-05,
+    6.705504287835977e-05
+   ],
+   "k": 51,
+   "N": 1000000,
+   "dil": [
+    "FCK",
+    "HR0e"
+   ],
+   "turler": [
+    "a",
+    "d"
+   ],
+   "duzeyler": [
+    "aile",
+    "hücre"
+   ],
+   "hedef_ayrinti": "Am159 hedef 159 kol 2 esik 1.579561 mercek (3,+1,17) Ldil 295 cozulmus 1 kF 14 kH 7 FnH 1 mc 3 kapiG 1 hucre_boy 3/4/4/3 hucre_q 42/48/52/45 kapsam_tur 2 kapsam_duzey 2 | F:7074/449070 H:507593/15246942 | dil: FCK HR0e | sağlanan: FCK HR0e | L*@mercek: F1 QS FC1 FCK FKS WI1 HR0e HR1c | Gmercek 1"
+  },
+  {
+   "ad": "Am056",
+   "p": 0.000105999894000106,
+   "ci": [
+    8.588037542743875e-05,
+    0.000127107496478735
+   ],
+   "k": 105,
+   "N": 1000000,
+   "dil": [
+    "FKS",
+    "WHRp"
+   ],
+   "turler": [
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "hedef_ayrinti": "Am056 hedef 56 kol 2 esik 1.131481 mercek (2,+1,13) Ldil 178 cozulmus 1 kF 19 kH 5 FnH 1 mc 4 kapiG 1 hucre_boy 4/4/6/5 hucre_q 54/50/78/49 kapsam_tur 2 kapsam_duzey 2 | F:11971/71672 W:614/71672 | dil: FKS WHRp | sağlanan: FKS WHRp | L*@mercek: R0c FKS QH WI1 WHRp | Gmercek 1"
+  },
+  {
+   "ad": "Am105",
+   "p": 0.000125999874000126,
+   "ci": [
+    0.00010404993705392895,
+    0.0001489300745271453
+   ],
+   "k": 125,
+   "N": 1000000,
+   "dil": [
+    "R0e",
+    "WHAd"
+   ],
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "birleşim",
+    "hücre"
+   ],
+   "hedef_ayrinti": "Am105 hedef 105 kol 2 esik 1.024645 mercek (1,+1,29) Ldil 8 cozulmus 1 kF 10 kH 5 FnH 0 mc 2 kapiG 1 hucre_boy 3/3/2/2 hucre_q 12/12/8/6 kapsam_tur 2 kapsam_duzey 2 | F:56548/643417 W:22561/643417 | dil: R0e WHAd | sağlanan: R0e WHAd | L*@mercek: R0c R0e R1c K2 FC1 FD1 FKS FSC W1 WUTd WHAd WHNd | Gmercek 2"
+  },
+  {
+   "ad": "Am195",
+   "p": 0.000125999874000126,
+   "ci": [
+    0.00010404993705392895,
+    0.0001489300745271453
+   ],
+   "k": 125,
+   "N": 1000000,
+   "dil": [
+    "FAd",
+    "HR1e"
+   ],
+   "turler": [
+    "a",
+    "b"
+   ],
+   "duzeyler": [
+    "aile",
+    "hücre"
+   ],
+   "hedef_ayrinti": "Am195 hedef 195 kol 2 esik 1.183760 mercek (1,+3,19) Ldil 122 cozulmus 1 kF 12 kH 13 FnH 0 mc 2 kapiG 1 hucre_boy 4/2/3/3 hucre_q 58/22/25/49 kapsam_tur 2 kapsam_duzey 2 | F:53339/1009119 H:6367/487759 | dil: FAd HR1e | sağlanan: FAd HR1e | L*@mercek: F1 R1c FAd FNd FKS W1 HR0e HR1e | Gmercek 1"
+  }
+ ],
+ "diller": {
+  "boy": {
+   "2": 60
+  },
+  "n_tur": {
+   "2": 60
+  },
+  "n_duzey": {
+   "2": 60
+  },
+  "tur_kullanimi": {
+   "a": 44,
+   "c": 36,
+   "d": 29,
+   "b": 11
+  },
+  "duzey_kullanimi": {
+   "birleşim": 41,
+   "hücre": 48,
+   "aile": 22,
+   "kitap": 9
+  },
+  "sik_yuklemler": [
+   [
+    "W1",
+    23
+   ],
+   [
+    "FKS",
+    14
+   ],
+   [
+    "WI1",
+    10
+   ],
+   [
+    "FSC",
+    9
+   ],
+   [
+    "B1",
+    9
+   ],
+   [
+    "HR1e",
+    4
+   ],
+   [
+    "R1c",
+    4
+   ],
+   [
+    "R1e",
+    4
+   ],
+   [
+    "R0e",
+    4
+   ],
+   [
+    "FAd",
+    4
+   ],
+   [
+    "HR0e",
+    3
+   ],
+   [
+    "WSum",
+    3
+   ],
+   [
+    "FD2",
+    3
+   ],
+   [
+    "FCK",
+    3
+   ],
+   [
+    "HH2",
+    2
+   ],
+   [
+    "R0c",
+    2
+   ],
+   [
+    "F2",
+    2
+   ],
+   [
+    "HH1",
+    2
+   ],
+   [
+    "QS",
+    2
+   ],
+   [
+    "FRK",
+    2
+   ],
+   [
+    "HR1c",
+    2
+   ],
+   [
+    "Qa",
+    2
+   ],
+   [
+    "FAP",
+    1
+   ],
+   [
+    "HR0c",
+    1
+   ],
+   [
+    "F1",
+    1
+   ]
+  ],
+  "Q": {
+   "dil": [
+    "B2",
+    "K1",
+    "Qc"
+   ],
+   "turler": [
+    "a",
+    "b",
+    "d"
+   ],
+   "duzeyler": [
+    "hücre",
+    "kitap"
+   ],
+   "esik": 15.946826697,
+   "ayrinti": "Am000 hedef 0 kol 2 mercek (1,+1,19) amac -3.200379 bilgi 23.264239 dil_bedeli 19.147205 mercek_bedeli 7.317413 esik 15.946826 |Λ| 3 grup_bilgi B 9.6657 Z 0.0000 F 13.5985 W 0.0000 H 0.0000 tur abd duzey KH Gmercek 1 Bmercek 1 aday_asimi 0 : B2 K1 Qc"
+  }
+ },
+ "p12_Q": {
+  "dil": [
+   "B2",
+   "K1",
+   "Qc"
+  ],
+  "p": 3.3999999660000004e-07,
+  "ci": [
+   2.2715682234861768e-07,
+   4.634424354312985e-07
+  ],
+  "k": 33
+ },
+ "Q_p12_farki": {
+  "ortak": [
+   "B2",
+   "K1",
+   "Qc"
+  ],
+  "eklenen": [],
+  "cikan": []
+ },
+ "kitap_kitap": {
+  "n": 200,
+  "dilli": 60,
+  "ayni_dil": 0,
+  "log10_oran_medyan": -0.44604396218529296,
+  "log10_oran_ceyrek": [
+   -0.8615005051385741,
+   0.26303070596844014
+  ],
+  "azalan": 40,
+  "artan": 20,
+  "esit": 0,
+  "spearman_dilli": 0.2559044178938594,
+  "dilsizlerin_p12_medyani": 0.013788486211513788,
+  "Q_p12": 3.3999999660000004e-07,
+  "Q_p14": 9.9999999e-09,
+  "p12de_Qa_ulasan": 0,
+  "ayrinti": [
+   {
+    "hedef": 1,
+    "p12": 0.02549197450802549,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 2,
+    "p12": 0.02845997154002846,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHA2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 3,
+    "p12": 0.05528094471905528,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 4,
+    "p12": 0.009253990746009255,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FKd"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 5,
+    "p12": 0.001938998061001939,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHN2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 6,
+    "p12": 0.04896695103304897,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 7,
+    "p12": 0.07186892813107187,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 8,
+    "p12": 0.000414999585000415,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "BMn",
+     "WUNd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 9,
+    "p12": 0.000167999832000168,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "BMt",
+     "WHNp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 10,
+    "p12": 0.008013991986008015,
+    "p14": 0.000970999029000971,
+    "dilsiz": false,
+    "dil12": [
+     "R1e"
+    ],
+    "dil14": [
+     "WI1",
+     "HR0e"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 11,
+    "p12": 0.007332992667007333,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 12,
+    "p12": 0.0374999625000375,
+    "p14": 4.6999953000047e-05,
+    "dilsiz": false,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [
+     "FAP",
+     "WSum"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 13,
+    "p12": 0.000246999753000247,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "K1",
+     "WUNd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 14,
+    "p12": 0.0355029644970355,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WSum"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 15,
+    "p12": 0.003755996244003756,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FHd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 16,
+    "p12": 0.02565997434002566,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "F2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 17,
+    "p12": 0.004767995232004768,
+    "p14": 0.001374998625001375,
+    "dilsiz": false,
+    "dil12": [
+     "WUTd2"
+    ],
+    "dil14": [
+     "FD2",
+     "FKS"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 18,
+    "p12": 4.2999957000043e-05,
+    "p14": 0.007005992994007006,
+    "dilsiz": false,
+    "dil12": [
+     "B2",
+     "HH2"
+    ],
+    "dil14": [
+     "FD2",
+     "W1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 19,
+    "p12": 0.03186096813903186,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 20,
+    "p12": 0.004242995757004243,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FD2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 21,
+    "p12": 0.000420999579000421,
+    "p14": 0.003025996974003026,
+    "dilsiz": false,
+    "dil12": [
+     "R1e",
+     "Qc"
+    ],
+    "dil14": [
+     "WI1",
+     "HR1e"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 22,
+    "p12": 0.04914695085304915,
+    "p14": 0.03296796703203297,
+    "dilsiz": false,
+    "dil12": [
+     "WHNp"
+    ],
+    "dil14": [
+     "R1c",
+     "W1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 23,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 24,
+    "p12": 0.07960992039007961,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 25,
+    "p12": 0.02970897029102971,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUA2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 26,
+    "p12": 0.001128998871001129,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHNd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 27,
+    "p12": 0.002462997537002463,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1",
+     "WEq"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 28,
+    "p12": 1.3099998690000131e-05,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FHd2",
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 29,
+    "p12": 0.005227994772005228,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "W1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 30,
+    "p12": 0.0366999633000367,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 31,
+    "p12": 0.0178969821030179,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUTp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 32,
+    "p12": 0.05094194905805094,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 33,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 34,
+    "p12": 0.009348990651009349,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FHd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 35,
+    "p12": 0.011147988852011148,
+    "p14": 0.003974996025003975,
+    "dilsiz": false,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [
+     "W1",
+     "HH2"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 36,
+    "p12": 0.007718992281007719,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WSum"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 37,
+    "p12": 0.005887994112005888,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "Qc"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 38,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 39,
+    "p12": 0.034094965905034094,
+    "p14": 0.06965293034706965,
+    "dilsiz": false,
+    "dil12": [
+     "HH2"
+    ],
+    "dil14": [
+     "R0c",
+     "W1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 40,
+    "p12": 0.05174194825805174,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FD2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 41,
+    "p12": 5.2999947000053e-05,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCd",
+     "WSum"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 42,
+    "p12": 0.07002092997907002,
+    "p14": 0.01986998013001987,
+    "dilsiz": false,
+    "dil12": [
+     "WUA2p"
+    ],
+    "dil14": [
+     "W1",
+     "HR0c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 43,
+    "p12": 0.011456988543011457,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHAp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 44,
+    "p12": 0.000621999378000622,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK",
+     "HH2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 45,
+    "p12": 0.1174078825921174,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 46,
+    "p12": 0.00036999963000037,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FC2",
+     "WHNp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 47,
+    "p12": 0.012427987572012428,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 48,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 49,
+    "p12": 0.044455955544044454,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 50,
+    "p12": 0.04335395664604336,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "BMn"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 51,
+    "p12": 0.013001986998013002,
+    "p14": 0.000223999776000224,
+    "dilsiz": false,
+    "dil12": [
+     "WUTd2"
+    ],
+    "dil14": [
+     "F1",
+     "FSC"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 52,
+    "p12": 0.021163978836021165,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUTp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 53,
+    "p12": 0.04096295903704096,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUA2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 54,
+    "p12": 0.009225990774009226,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 55,
+    "p12": 0.04047795952204048,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 56,
+    "p12": 0.000118999881000119,
+    "p14": 0.000105999894000106,
+    "dilsiz": false,
+    "dil12": [
+     "QS"
+    ],
+    "dil14": [
+     "FKS",
+     "WHRp"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 57,
+    "p12": 0.00033999966000034,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "F2",
+     "WHNd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 58,
+    "p12": 0.012012987987012013,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHNp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 59,
+    "p12": 0.0297979702020298,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUNp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 60,
+    "p12": 0.008556991443008557,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUTp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 61,
+    "p12": 0.09329090670909329,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "BMn"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 62,
+    "p12": 0.000612999387000613,
+    "p14": 0.001090998909001091,
+    "dilsiz": false,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [
+     "R1e",
+     "W1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 63,
+    "p12": 0.000281999718000282,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FH2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 64,
+    "p12": 0.010487989512010487,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHR2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 65,
+    "p12": 0.02271897728102272,
+    "p14": 0.005514994485005515,
+    "dilsiz": false,
+    "dil12": [
+     "F2"
+    ],
+    "dil14": [
+     "F2",
+     "W1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 66,
+    "p12": 0.016803983196016805,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUAp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 67,
+    "p12": 0.000264999735000265,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FKd"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 68,
+    "p12": 0.001675998324001676,
+    "p14": 0.02321897678102322,
+    "dilsiz": false,
+    "dil12": [
+     "FKS",
+     "FSC"
+    ],
+    "dil14": [
+     "FSC",
+     "WI1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 69,
+    "p12": 0.06867493132506867,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHA2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 70,
+    "p12": 0.044692955307044695,
+    "p14": 0.01615998384001616,
+    "dilsiz": false,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [
+     "B1",
+     "W1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 71,
+    "p12": 0.0003999996000004,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "F2",
+     "FSC"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 72,
+    "p12": 0.02117897882102118,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUT2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 73,
+    "p12": 0.000566999433000567,
+    "p14": 0.06583293416706583,
+    "dilsiz": false,
+    "dil12": [
+     "F2",
+     "FKd"
+    ],
+    "dil14": [
+     "FKS",
+     "W1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 74,
+    "p12": 1.3999986000014e-05,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "BMn",
+     "FAd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 75,
+    "p12": 1.0,
+    "p14": 0.00035999964000036,
+    "dilsiz": false,
+    "dil12": [],
+    "dil14": [
+     "FKS",
+     "QkH"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 76,
+    "p12": 0.013774986225013774,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 77,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 78,
+    "p12": 0.000288999711000289,
+    "p14": 0.002016997983002017,
+    "dilsiz": false,
+    "dil12": [
+     "K1"
+    ],
+    "dil14": [
+     "FCK",
+     "WI1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 79,
+    "p12": 0.07855992144007856,
+    "p14": 0.036344963655036346,
+    "dilsiz": false,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [
+     "W1",
+     "HH1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 80,
+    "p12": 0.000307999692000308,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "R0e",
+     "HH2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 81,
+    "p12": 0.044241955758044245,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 82,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 83,
+    "p12": 0.06301193698806301,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 84,
+    "p12": 0.06116093883906116,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 85,
+    "p12": 0.09654090345909654,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 86,
+    "p12": 0.056317943682056316,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FD2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 87,
+    "p12": 0.000104999895000105,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "QH"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 88,
+    "p12": 0.000344999655000345,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "R1e"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 89,
+    "p12": 0.02861797138202862,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 90,
+    "p12": 0.017947982052017947,
+    "p14": 0.004545995454004546,
+    "dilsiz": false,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [
+     "QS",
+     "FKS"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 91,
+    "p12": 0.02876997123002877,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 92,
+    "p12": 0.003571996428003572,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 93,
+    "p12": 0.004558995441004559,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FH2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 94,
+    "p12": 0.003013996986003014,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "Qc"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 95,
+    "p12": 0.00067999932000068,
+    "p14": 0.000366999633000367,
+    "dilsiz": false,
+    "dil12": [
+     "R1e",
+     "K2"
+    ],
+    "dil14": [
+     "R0e",
+     "FRK"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 96,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 97,
+    "p12": 0.00134999865000135,
+    "p14": 0.000562999437000563,
+    "dilsiz": false,
+    "dil12": [
+     "Qc"
+    ],
+    "dil14": [
+     "FD2",
+     "FKS"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 98,
+    "p12": 0.007446992553007447,
+    "p14": 0.013157986842013159,
+    "dilsiz": false,
+    "dil12": [
+     "HR1e"
+    ],
+    "dil14": [
+     "B1",
+     "FKS"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 99,
+    "p12": 0.005215994784005216,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 100,
+    "p12": 0.000617999382000618,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "F2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 101,
+    "p12": 0.015603984396015604,
+    "p14": 0.01689098310901689,
+    "dilsiz": false,
+    "dil12": [
+     "FAp"
+    ],
+    "dil14": [
+     "R0e",
+     "W1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 102,
+    "p12": 0.003125996874003126,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FA2p",
+     "WUNp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 103,
+    "p12": 0.007131992868007132,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUT2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 104,
+    "p12": 0.006888993111006889,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHNp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 105,
+    "p12": 0.015021984978015022,
+    "p14": 0.000125999874000126,
+    "dilsiz": false,
+    "dil12": [
+     "WHN2p"
+    ],
+    "dil14": [
+     "R0e",
+     "WHAd"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 106,
+    "p12": 0.05923194076805923,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUAp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 107,
+    "p12": 0.043623956376043625,
+    "p14": 0.000547999452000548,
+    "dilsiz": false,
+    "dil12": [
+     "WHN2p"
+    ],
+    "dil14": [
+     "W1",
+     "HR1e"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 108,
+    "p12": 0.007174992825007175,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FD2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 109,
+    "p12": 0.000806999193000807,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHRp",
+     "HK2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 110,
+    "p12": 0.006971993028006972,
+    "p14": 0.00667999332000668,
+    "dilsiz": false,
+    "dil12": [
+     "FC2"
+    ],
+    "dil14": [
+     "R1e",
+     "W1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 111,
+    "p12": 0.001824998175001825,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WH2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 112,
+    "p12": 0.015367984632015368,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 113,
+    "p12": 0.051964948035051965,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 114,
+    "p12": 0.010141989858010143,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FC2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 115,
+    "p12": 0.09064390935609064,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 116,
+    "p12": 0.05578494421505578,
+    "p14": 0.001771998228001772,
+    "dilsiz": false,
+    "dil12": [
+     "WHA2p"
+    ],
+    "dil14": [
+     "FRK",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 117,
+    "p12": 0.002011997988002012,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FN2p",
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 118,
+    "p12": 0.01662898337101663,
+    "p14": 0.000723999276000724,
+    "dilsiz": false,
+    "dil12": [
+     "WUNp"
+    ],
+    "dil14": [
+     "R1e",
+     "W1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 119,
+    "p12": 0.00666999333000667,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "F2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 120,
+    "p12": 2.3999976000024e-05,
+    "p14": 0.000547999452000548,
+    "dilsiz": false,
+    "dil12": [
+     "B1",
+     "FAp",
+     "FRK",
+     "WUAp",
+     "WUN2p"
+    ],
+    "dil14": [
+     "B1",
+     "QS"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 121,
+    "p12": 0.03854396145603854,
+    "p14": 0.009583990416009583,
+    "dilsiz": false,
+    "dil12": [
+     "FSC"
+    ],
+    "dil14": [
+     "R1e",
+     "W1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 122,
+    "p12": 0.01026098973901026,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "K2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 123,
+    "p12": 0.015714984285015714,
+    "p14": 0.001606998393001607,
+    "dilsiz": false,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [
+     "FAd",
+     "HR1c"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 124,
+    "p12": 1.0,
+    "p14": 0.022693977306022694,
+    "dilsiz": false,
+    "dil12": [],
+    "dil14": [
+     "R0c",
+     "W1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 125,
+    "p12": 0.007947992052007948,
+    "p14": 0.002697997302002698,
+    "dilsiz": false,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [
+     "R1c",
+     "Qa"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 126,
+    "p12": 0.013215986784013216,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUTd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 127,
+    "p12": 0.010861989138010862,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 128,
+    "p12": 0.04311995688004312,
+    "p14": 0.09363690636309363,
+    "dilsiz": false,
+    "dil12": [
+     "WUNp"
+    ],
+    "dil14": [
+     "FKS",
+     "W1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 129,
+    "p12": 0.020425979574020425,
+    "p14": 0.006302993697006303,
+    "dilsiz": false,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [
+     "W1",
+     "HR1e"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 130,
+    "p12": 0.04896695103304897,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 131,
+    "p12": 0.01444098555901444,
+    "p14": 0.03809196190803809,
+    "dilsiz": false,
+    "dil12": [
+     "FHd2"
+    ],
+    "dil14": [
+     "R1c",
+     "W1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 132,
+    "p12": 0.000476999523000477,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCd2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 133,
+    "p12": 0.009870990129009872,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "R0e"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 134,
+    "p12": 0.06745693254306746,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 135,
+    "p12": 0.015003984996015005,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 136,
+    "p12": 0.006093993906006094,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FC2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 137,
+    "p12": 0.012415987584012416,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUA2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 138,
+    "p12": 0.009443990556009444,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUAp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 139,
+    "p12": 0.008892991107008892,
+    "p14": 0.04069195930804069,
+    "dilsiz": false,
+    "dil12": [
+     "FAp",
+     "WUAp"
+    ],
+    "dil14": [
+     "R1c",
+     "W1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 140,
+    "p12": 0.019984980015019985,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WSum"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 141,
+    "p12": 0.055574944425055575,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUA2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 142,
+    "p12": 0.019662980337019662,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 143,
+    "p12": 0.005110994889005111,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "HK2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 144,
+    "p12": 0.003885996114003886,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "R1e"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 145,
+    "p12": 0.03832796167203833,
+    "p14": 0.04307395692604307,
+    "dilsiz": false,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [
+     "FKS",
+     "WI1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 146,
+    "p12": 1.0,
+    "p14": 0.000444999555000445,
+    "dilsiz": false,
+    "dil12": [],
+    "dil14": [
+     "FCK",
+     "WSum"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 147,
+    "p12": 0.029574970425029577,
+    "p14": 0.010633989366010633,
+    "dilsiz": false,
+    "dil12": [
+     "R0e"
+    ],
+    "dil14": [
+     "B1",
+     "FKS"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 148,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 149,
+    "p12": 0.029251970748029252,
+    "p14": 0.007291992708007292,
+    "dilsiz": false,
+    "dil12": [
+     "WHNp"
+    ],
+    "dil14": [
+     "FKS",
+     "W1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 150,
+    "p12": 0.000397999602000398,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FD2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 151,
+    "p12": 0.013801986198013802,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUT2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 152,
+    "p12": 1.5999984000016e-05,
+    "p14": 0.000528999471000529,
+    "dilsiz": false,
+    "dil12": [
+     "FAp",
+     "WUA2p"
+    ],
+    "dil14": [
+     "B1",
+     "Qa"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 153,
+    "p12": 0.013103986896013104,
+    "p14": 0.009125990874009126,
+    "dilsiz": false,
+    "dil12": [
+     "FKd"
+    ],
+    "dil14": [
+     "FSC",
+     "WI1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 154,
+    "p12": 0.015235984764015236,
+    "p14": 0.000524999475000525,
+    "dilsiz": false,
+    "dil12": [
+     "FSC"
+    ],
+    "dil14": [
+     "FSC",
+     "HH1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 155,
+    "p12": 0.030797969202030796,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 156,
+    "p12": 0.028513971486028515,
+    "p14": 0.00115999884000116,
+    "dilsiz": false,
+    "dil12": [
+     "FC2"
+    ],
+    "dil14": [
+     "B1",
+     "FAd"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 157,
+    "p12": 0.003780996219003781,
+    "p14": 0.00083999916000084,
+    "dilsiz": false,
+    "dil12": [
+     "WHA2p"
+    ],
+    "dil14": [
+     "B1",
+     "FAd"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 158,
+    "p12": 0.11925988074011926,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHN2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 159,
+    "p12": 2.5999974000026e-05,
+    "p14": 5.1999948000052e-05,
+    "dilsiz": false,
+    "dil12": [
+     "FRK",
+     "WHAp"
+    ],
+    "dil14": [
+     "FCK",
+     "HR0e"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 160,
+    "p12": 0.00055999944000056,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHN2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 161,
+    "p12": 0.09661990338009661,
+    "p14": 0.003708996291003709,
+    "dilsiz": false,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [
+     "R0e",
+     "WI1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 162,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 163,
+    "p12": 0.020113979886020115,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "F2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 164,
+    "p12": 0.001072998927001073,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUAp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 165,
+    "p12": 0.06242193757806242,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUA2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 166,
+    "p12": 0.002004997995002005,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 167,
+    "p12": 0.049596950403049594,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 168,
+    "p12": 0.017947982052017947,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 169,
+    "p12": 0.008475991524008476,
+    "p14": 0.003372996627003373,
+    "dilsiz": false,
+    "dil12": [
+     "WSum"
+    ],
+    "dil14": [
+     "FSC",
+     "WI1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 170,
+    "p12": 0.003652996347003653,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUNp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 171,
+    "p12": 0.012525987474012526,
+    "p14": 0.003097996902003098,
+    "dilsiz": false,
+    "dil12": [
+     "Qc"
+    ],
+    "dil14": [
+     "WI1",
+     "HR0e"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 172,
+    "p12": 0.014973985026014974,
+    "p14": 0.000716999283000717,
+    "dilsiz": false,
+    "dil12": [
+     "F2"
+    ],
+    "dil14": [
+     "B1",
+     "WSum"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 173,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 174,
+    "p12": 0.08059291940708059,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 175,
+    "p12": 0.011653988346011654,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUA2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 176,
+    "p12": 0.002795997204002796,
+    "p14": 0.000636999363000637,
+    "dilsiz": false,
+    "dil12": [
+     "WUNd2"
+    ],
+    "dil14": [
+     "FC2",
+     "FKS"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 177,
+    "p12": 0.007446992553007447,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "HR1e"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 178,
+    "p12": 0.004706995293004707,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUN2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 179,
+    "p12": 0.005053994946005054,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHAp"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 180,
+    "p12": 0.001987998012001988,
+    "p14": 0.022992977007022995,
+    "dilsiz": false,
+    "dil12": [
+     "F2"
+    ],
+    "dil14": [
+     "FSC",
+     "WI1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 181,
+    "p12": 0.001003998996001004,
+    "p14": 0.000263999736000264,
+    "dilsiz": false,
+    "dil12": [
+     "WUN2p"
+    ],
+    "dil14": [
+     "FSC",
+     "HH2"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 182,
+    "p12": 0.051068948931051066,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WSum"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 183,
+    "p12": 2.99999970000003e-06,
+    "p14": 0.014896985103014897,
+    "dilsiz": false,
+    "dil12": [
+     "WSum",
+     "WHRd2",
+     "HH2"
+    ],
+    "dil14": [
+     "B1",
+     "FKS"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 184,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 185,
+    "p12": 0.09329090670909329,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "BMn"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 186,
+    "p12": 0.004861995138004862,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "K2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 187,
+    "p12": 0.045796954203045796,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FC2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 188,
+    "p12": 0.15434684565315435,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 189,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 190,
+    "p12": 1.0,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [],
+    "dil14": [],
+    "ayni_dil": true
+   },
+   {
+    "hedef": 191,
+    "p12": 0.02820797179202821,
+    "p14": 0.004450995549004451,
+    "dilsiz": false,
+    "dil12": [
+     "WUTp"
+    ],
+    "dil14": [
+     "FKS",
+     "W1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 192,
+    "p12": 0.07362392637607362,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WI1"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 193,
+    "p12": 0.004750995249004751,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FKd"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 194,
+    "p12": 0.05371994628005372,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WHN2p"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 195,
+    "p12": 0.000877999122000878,
+    "p14": 0.000125999874000126,
+    "dilsiz": false,
+    "dil12": [
+     "K1"
+    ],
+    "dil14": [
+     "FAd",
+     "HR1e"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 196,
+    "p12": 0.001652998347001653,
+    "p14": 0.002584997415002585,
+    "dilsiz": false,
+    "dil12": [
+     "FAP"
+    ],
+    "dil14": [
+     "F2",
+     "FSC"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 197,
+    "p12": 0.000101999898000102,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "WUTp",
+     "HH2"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 198,
+    "p12": 0.01620998379001621,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "BMn",
+     "FRK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 199,
+    "p12": 0.003514996485003515,
+    "p14": 0.029968970031029968,
+    "dilsiz": false,
+    "dil12": [
+     "FA2p",
+     "WUA2p"
+    ],
+    "dil14": [
+     "FSC",
+     "W1"
+    ],
+    "ayni_dil": false
+   },
+   {
+    "hedef": 200,
+    "p12": 0.001922998077001923,
+    "p14": 1.0,
+    "dilsiz": true,
+    "dil12": [
+     "FCK"
+    ],
+    "dil14": [],
+    "ayni_dil": false
+   }
+  ]
+ },
+ "rakipler": {
+  "asan": 0,
+  "aday": 0,
+  "hepsini_tasiyan_asan": 0,
+  "farkli_zincir": 0,
+  "en_cok_ayni_zincir": 0,
+  "en_yuksek": []
+ }
+}

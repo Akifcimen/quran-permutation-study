@@ -1,0 +1,10 @@
+D B000 0 35.814187766 0 kol 4 mercek 35
+D B008 8 19.300171615 0 kol 4 mercek 205
+D B018 18 22.857253791 0 kol 4 mercek 240
+D B019 19 20.112009765 0 kol 4 mercek 31
+D B026 26 19.295094730 0 kol 4 mercek 148
+D B034 34 18.780749084 0 kol 4 mercek 33
+D B068 68 25.951763869 0 kol 4 mercek 360
+D B080 80 28.360586406 0 kol 4 mercek 1
+D B082 82 21.507528545 0 kol 4 mercek 4
+# dil sayısı 9, tablo belleği 21 MB

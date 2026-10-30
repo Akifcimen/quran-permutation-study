@@ -1,0 +1,17 @@
+D A000 0 19.997884751 1 kol 1 mercek 6
+D A008 8 5.028067828 1 kol 1 mercek 6
+D A019 19 5.201336921 1 kol 1 mercek 237
+D A035 35 1.431917430 1 kol 1 mercek 209
+D A041 41 -4.840000092 1 kol 1 mercek 296
+D A042 42 0.304795266 1 kol 1 mercek 150
+D A047 47 14.550921203 1 kol 1 mercek 119
+D A049 49 9.348520876 1 kol 1 mercek 121
+D A051 51 -6.804667949 1 kol 1 mercek 241
+D A059 59 6.092690588 1 kol 1 mercek 208
+D A060 60 -1.048087953 1 kol 1 mercek 35
+D A064 64 4.513775350 1 kol 1 mercek 4
+D A068 68 7.799738647 1 kol 1 mercek 124
+D A073 73 -1.432388305 1 kol 1 mercek 151
+D A080 80 -1.977305530 1 kol 1 mercek 179
+D A097 97 -4.822718500 1 kol 1 mercek 295
+# dil sayısı 16, tablo belleği 2 MB

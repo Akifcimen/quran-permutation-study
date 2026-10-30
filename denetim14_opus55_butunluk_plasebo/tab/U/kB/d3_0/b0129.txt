@@ -1,0 +1,10 @@
+# sifir U bolut 129 tohum 29222600129 N 250000 sure_s 27.2 aday 0 aday_tasma 0
+D B000 0 0
+D B008 0 0
+D B018 0 0
+D B019 0 0
+D B026 0 0
+D B034 0 0
+D B068 0 0
+D B080 0 0
+D B082 0 0
