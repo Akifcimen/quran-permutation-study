@@ -1,0 +1,3 @@
+M: 47 isabet; dört dil yüklemi birden 9; on bir olgunun hepsi 0
+L: 22 isabet; dört dil yüklemi birden 2; on bir olgunun hepsi 0
+U: 12 isabet; dört dil yüklemi birden 1; on bir olgunun hepsi 0

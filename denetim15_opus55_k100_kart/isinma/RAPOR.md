@@ -4,7 +4,7 @@
 
 ## Karar: ısınma yanlılığı ihmal edilebilir
 
-Ön-kaydın üç ölçütü de sağlandı. M20'nin 30.000 takaslık ısınması yeterlidir. M20 sayılarının yeniden sayılması gerekmez.
+Ön-kaydın üç ölçütü de sağlandı. İncelenen göstergelerde ısınmayı yüz katına çıkarmanın belirgin bir etkisi görülmedi; M20 sayılarının yeniden sayılmasını gerektiren bir bulgu yok. Nadir kuyruk için (Kur'an'a ulaşan kontroller: 9 / 6 / 5 isabet) kalan yanlılığa kesin bir sınır elde edilmedi. *(1 Kasım 2026'da bir dış incelemenin uyarısıyla yumuşatıldı; ilk sürüm "30.000 takaslık ısınma yeterlidir" diyordu.)*
 
 | Ölçüt (§3) | eşik | ISINMA 300.000 / 30.000 | ISINMA 3.000.000 / 30.000 |
 |---|---|---|---|

@@ -20,7 +20,7 @@
 | GE | 1/201 aşar | 1/101 aşar | 2/101 arada | 195 / 99 / 97 |
 | G0 (kapı yok) | 1/201 aşar | 1/101 aşar | 3/101 arada | 200 / 100 / 100 |
 
-- **Kur'an'ın Kol A dili** her sıfırda ve her kapıda aynıdır: {B2, K1, Qc, WSum} @ (1,+1,19). Bunlar terazi, ardışık hücre toplamları, hücre merkezinin 19 olması ve iki elin birlikte tam 19 sûre tutmasıdır. Dört yüklem dört türe (denge, modülün dönüşü, iki el, ardışıklık) ve üç düzeye (kitap, hücre, birleşim) yayılır.
+- **Kur'an'ın Kol A dili** her sıfırda ve her kapıda aynıdır: {B2, K1, Qc, WSum} @ (1,+1,19). Bunlar terazi, ardışık hücre toplamları, hücre merkezinin 19 olması ve iki ailenin boyları toplamının 19 olmasıdır (ellerin ayrık olup birlikte 19 sûre tutması Kur'an'da doğrudur ama dilin parçası değildir). Dört yüklem dört türe (denge, modülün dönüşü, iki el, ardışıklık) ve üç düzeye (kitap, hücre, birleşim) yayılır.
 - **Kapının etkisi büyük ama tek yönlü.** G2E'de plaseboların %82–85'i bütünlüklü dil kuramıyordu. Gc'de neredeyse hepsi kuruyor ve Kur'an'a yaklaşıyor: M20'de en yakın plasebo 1,1×10⁻⁶'dan 2,5×10⁻⁷'ye geliyor. Yine de sıralı iki sıfırda hiçbiri yetişmiyor; kapı tamamen kalkınca da yetişmiyor.
 - **Tekdüzede "arada".** Her kapıda aynı plasebo yetişiyor: A088, mercek (1,+3,3). Bu mercekte aile her dizilişte aynı sabit kümedir ({3 | n}, 38 sûre) ve karşı aileyle çakışır; plasebonun yakaladığı şey bu kümenin iç bölünmeleridir ve dizilişe bağlıdır. On ikinci denetimin p = 3 dışlama listesi bu plasebonun üç yüklemini kapsamıyordu. G0'da buna iki hücresi boş, 5 üyeli bir aile (p = 43) eklenir.
 - **Kol B** (bedelsiz en geniş dil, bütünlük kuralı yok): 3/201, 3/101, 3/101, "arada". Kol A'daki "aşar" bütünlük şartıyla gelir.

@@ -41,7 +41,7 @@ static void *isci(void *arg){ (void)arg; orn_t *Z=malloc(sizeof(orn_t)); int GL[
     FILE *t=fopen(fn,"r"); if(t){ fclose(t); continue; }
     struct timespec t0,t1; clock_gettime(CLOCK_MONOTONIC,&t0);
     memset(k,0,sizeof(long)*ND); memset(kc,0,sizeof(long)*ND); int nad=0, tasma=0, nas=0, stasma=0; long nb2=0;
-    orn_init(Z,SIF,tohum(SIF,KONTROL_TUR,b));
+    pthread_mutex_lock(&KILIT); orn_init(Z,SIF,tohum(SIF,KONTROL_TUR,b)); pthread_mutex_unlock(&KILIT);   // yarış düzeltmesi (29 Eki): orn_init L, küresel REF_DESC
     for(int i=0;i<BN;i++){ orn_sonraki(Z); const uint32_t fm=b2_bicimler(Z->a); if(!fm) continue; nb2++;
       kdegerlendir(Z->a,Pp,fm); int nGL=0;
       for(int f=0;f<NFORM;f++){ if(!(fm>>f&1)) continue; for(int j=0;j<NPR;j++){ const int L=f*NPR+j; if(kapiG(Pp,L)) GL[nGL++]=L; } }

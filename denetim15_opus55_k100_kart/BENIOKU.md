@@ -6,7 +6,7 @@ Bu denetim tabanın altına bakar. Dört parçadır. Hepsini ana hat yaptı, ara
 
 | Parça | Klasör | Soru | Sonuç |
 |---|---|---|---|
-| Isınma tanısı | `isinma/` | M20 örnekleyicisinin 30.000 takaslık ısınması yetiyor mu? | **İhmal edilebilir.** Yüz kat uzun ısınma b2 oranını 0,9997 [0,9971; 1,0022] değiştirir; bütünlüklü kontrolleri ±%2 içinde |
+| Isınma tanısı | `isinma/` | M20 örnekleyicisinin 30.000 takaslık ısınması yetiyor mu? | **İhmal edilebilir (incelenen göstergelerde).** Yüz kat uzun ısınma b2 oranını 0,9997 [0,9971; 1,0022] değiştirir; bütünlüklü kontrolleri ±%2 içinde. Nadir kuyruk (9 / 6 / 5 isabet) için kesin sınır yok |
 | K×10 | `k10/` | 2.000 / 1.000 / 1.000 plaseboyla Kur'an yine hepsini aşar mı? | **Hayır; üç sıfırda "arada".** 4/2001, 5/1001, 8/1001. Derinleştirmede (plasebolar 10⁹) 1, 1, 2 plasebo Kur'an'dan ayrılamaz |
 | Kart sayacı | `kart/` | Sayaç ekran kartına bayt bayt eşdeğer taşınabilir mi? | **Evet.** Kabul sınaması sonuçlardan önce yazıldı; iki kartta 7/7 karşılaştırma, fark 0 (üç ikili sürümde). İşlemcinin 12 iş parçacığından ~45–60 kat hızlı |
 | K×100, eşit derinlik | `k100/` | 20.000 / 10.000 / 10.000 plaseboyla, yakın olanlar Kur'an'la aynı derinlikte (10¹⁰) sayılınca, aynı örüntü arama yordamı rastgele kitaplarda Kur'an'da bulduğu kadar düşük olasılıklı bir örüntüyü ne sıklıkla yakalar? | **M20'de ~4.000, Mallows ve tekdüzede ~10.000 kitapta bir.** Bu, Kur'an'ın ham sırasının arama bedeli ödenince taşıdığı kanıttır; kitapların bir sıralaması değildir |
@@ -40,6 +40,10 @@ Bu, 14. denetimle çelişmez. Gerçek değer 1/4.000 ise, 200 plasebo arasında 
 
 Kur'an'ın ham değeri (4,7×10⁻⁹) ile kalibre değeri (~2,5×10⁻⁴) arasında ~20.000 kat fark var. Bu, merceğin ve dilin kitaba bakılarak seçilmesinin bedelidir. Rastgele kitapların her biri kendi tarifiyle incelendiğinde kendi gözünde "yüz milyonda bir" görünür.
 
+**Kesinlik.** Ön-kayıttaki ±%30 kesinlik hedefi sağlanmadı: R_nokta 5 ve 1 için bağıl hata ~%45 ve ~%100'dür. Kur'an'ın sınırındaki sınıflandırma (M20'de 47'ye karşı 44, 48, 50 isabet) bu hassasiyette kesin değildir ve π̂'nin aralığına katılmadı.
+
+**Puan ile yapı.** Kur'an'ın iç sayımında puanına ulaşan 81 kontrolün yalnız 12'si dilin dört yüklemini birden taşır, hiçbiri Kur'an'ın merceğindeki olguların hepsini taşımaz (`dis_inceleme/`). Puan, dilin o mercekte tutan alt kümesinin bilgisidir. Bu çalışmanın kalibre ettiği şey bu puandır, nesnenin tam profili değil.
+
 ## Ne ölçülmedi (araştırmacının itirazları; kural menüsüne aday)
 
 - **Asal.** 19'u metin kendisi anıyor; burada 29 asal eşit bedelli. Rastgele kitaplarda yakalanan en düşük olasılıklı örüntüler 7, 13, 17 ve 23'te.
@@ -63,6 +67,15 @@ Bu farklar sonuçlardan sonra fark edildi. Bunlara bakıp ölçüyü değiştirm
 - **Isınma:** "ihmal edilebilir" tahmini tuttu.
 - **K×10:** Ana hattın tahminleri Kur'an'ın ayrışmasını sürekli büyük gördü. "M20'de R_derin = 0, olasılık 0,85" tutmadı. Bu, sonuçtan önce bir ekle düzeltildi.
 - **K×100:** M20 sayıları tahmine çok yakın çıktı (π̂ ~1/4.000, R_nokta 5). Mallows ve tekdüzede Kur'an tahminden iyi çıktı; ana hattın Kur'an'ın aleyhine yanıldığı ilk durum. Okuma sınıfı üçünde de tuttu.
+
+## Dış inceleme (1 Kasım 2026)
+
+Araştırmacının ilettiği bir dış inceleme ve ana hattın değerlendirmesi `dis_inceleme/` altındadır. Bulguları:
+- puana ulaşmanın yapıyı taşımak olmaması (bağımsız olarak doğrulandı);
+- WSum'un yalnız boylar toplamına bakması;
+- "herhangi üç düzey" kuralının kitap düzeyini şart koşmaması ve aynı toplamın iki düzeyde sayılabilmesi;
+- paketteki eski `kontrol_h.c` kopyası (değiştirildi);
+- ısınma ve kesinlik ifadelerinin fazla kesin olması (düzeltildi).
 
 ## Dosyalar
 

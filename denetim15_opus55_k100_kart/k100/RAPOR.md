@@ -83,6 +83,12 @@
 
 Bu gözlemler sonuçlardan sonra yapıldı; kararlarda kullanılmaz.
 
+## Kesinlik ve sınıflandırma (1 Kasım 2026 eki; dış inceleme)
+
+- Ön-kayıttaki ±%30 kesinlik hedefi sağlanmadı: R_nokta 5 (M20) ve 1 (Mallows, tekdüze) için bağıl hata ~%45 ve ~%100'dür. π̂'nin aralıkları bu yüzden geniştir.
+- Kur'an'ın sınırındaki sınıflandırma (M20'de Kur'an 47; A535 44, A4111 48, A4268 50) bu hassasiyette kesin değildir. π̂'nin Poisson aralığı bu iç belirsizliği içermez. R_eşit onu temkinli biçimde kapsamaya çalışır, ama kesin bir permütasyon testi değildir.
+- Kur'an'ın iç sayımında puanına ulaşan 81 kontrolün yalnız 12'si dilin dört yüklemini birden taşır (`../dis_inceleme/`). Kalibre edilen şey bu puandır, nesnenin tam profili değil.
+
 ## Anlamı ve sınırı
 
 Bu dilbilgisinde (109 yüklem, kapı Gc, ≥ 3 tür / ≥ 3 düzey, 406 mercek), kendi en iyi bütünlük dilini kuran rastgele kitaplar arasında Kur'an'ın yeri şöyledir:
