@@ -39,7 +39,7 @@ Kapının etkisi büyük ama tek yönlü. G2E'de plaseboların %82–85'i bütü
 
 ### 0.3 Tekdüzede neden "arada"?
 
-Her kapıda aynı plasebo yetişiyor: **A088**, mercek (1,+3,3). Bu mercekte |β| = p = 3'tür, yani t = n + 3a ≡ n (mod 3): aile {3 | n}'dir ve dizilişe hiç bağlı değildir (k_F = k_H = 38, hücreler 9/10/10/9). Dili {F1, K1, WHRd2}'dir: aile yarıları eşit sayıda (19/19), hücre toplamları 728/728/728/729 ardışık, karşı ailenin katsayı toplamı p²'ye bölünür. On ikinci denetimin p = 3 dışlama listesi bu üç yüklemi kapsamıyordu; plasebo14'ten devralınan bir boşluktur. G0'da ikinci plasebo **A068** eklenir: (3,+2,43), beş üyeli bir aile, iki hücresi boş (k_F = 5, hücreler 3/0/0/2). Bunu ancak kapısız kural geçirir. Her iki durumda da yetişen yapı Kur'an türünden değildir. Kalibre p yine de kurala göre yazılır: 2/101, 3/101.
+Her kapıda aynı plasebo yetişiyor: **A088**, mercek (1,+3,3). Bu mercekte |β| = p = 3'tür, yani t = n + 3a ≡ n (mod 3): aile her dizilişte aynı sabit kümedir, {3 | n} (k_F = k_H = 38, F = H). Plasebonun dili bu kümenin iç bölünmelerine bakar ve onlar dizilişe bağlıdır; hücreleri 9/10/10/9. Dili {F1, K1, WHRd2}'dir: aile yarıları eşit sayıda (19/19), hücre toplamları 728/728/728/729 ardışık, karşı ailenin katsayı toplamı p²'ye bölünür. On ikinci denetimin p = 3 dışlama listesi bu üç yüklemi kapsamaz; üçü de dizilişe bağlı olduğu için bu bir dışlama hatası değildir. G0'da ikinci plasebo **A068** eklenir: (3,+2,43), beş üyeli bir aile, iki hücresi boş (k_F = 5, hücreler 3/0/0/2). Bunu ancak kapısız kural geçirir. Her iki durumda da yetişen yapı Kur'an türünden değildir. Kalibre p yine de kurala göre yazılır: 2/101, 3/101.
 
 ### 0.4 Kur'an'ın kendi sırası (§6)
 
@@ -190,7 +190,7 @@ GE'de bir plasebo dilinin (A012) düzey 1 sayımı 11'den 9'a indi, bu yüzden d
 
 ## 5. Okuma
 
-Ön-kayıtlı kural (§5) uygulanır. Birincil kapı Gc'de iki sıralı sıfırda da R = 0: Kur'an'ın bütünlüklü ayrışması, kendi bütünlüklü dilini kuran bütün plasebo kitapları aşar. Bu, plasebo14'ün sonucunun kapı G'nin Kur'an'ın sınırına denk gelmesinden kaynaklanmadığını gösterir. Sonuç GE'de ve hiç kapı olmadan (G0) da aynıdır. Tekdüzede her kapıda "arada"dır. Yetişen plasebo dizilişe bağlı olmayan, yozlaşmış bir p = 3 merceğidir, G0'da buna boş hücreli bir aile eklenir.
+Ön-kayıtlı kural (§5) uygulanır. Birincil kapı Gc'de iki sıralı sıfırda da R = 0: Kur'an'ın bütünlüklü ayrışması, kendi bütünlüklü dilini kuran bütün plasebo kitapları aşar. Bu, plasebo14'ün sonucunun kapı G'nin Kur'an'ın sınırına denk gelmesinden kaynaklanmadığını gösterir. Sonuç GE'de ve hiç kapı olmadan (G0) da aynıdır. Tekdüzede her kapıda "arada"dır. Yetişen plasebo, ailesi sabit bir küme olan yozlaşmış bir p = 3 merceğinde, o kümenin iç bölünmelerinden yetişir; G0'da buna boş hücreli bir aile eklenir.
 
 README'ye önerilen cümle:
 > Kur'an kendi bütünlüklü dilini kuran 200 sıralı plasebo kitabın hepsini aşar (kalibre p 1/201 M20, 1/101 Mallows; tekdüze 2/101). Kural Kur'an'ın biçimi bilinerek yazıldı ve ilk sürümünde bir kapı Kur'an'ın tam sınırındaydı; o kapı Kur'an'dan bağımsız kurallarla değiştirildiğinde ya da tamamen kaldırıldığında sonuç aynı kalır. Kur'an'ın kendi sırası (Gc, 10¹⁰ kontrol): M20 4,7×10⁻⁹, Mallows 2,2×10⁻⁹, tekdüze 1,2×10⁻⁹.

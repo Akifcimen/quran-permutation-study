@@ -22,7 +22,7 @@
 
 - **Kur'an'ın Kol A dili** her sıfırda ve her kapıda aynıdır: {B2, K1, Qc, WSum} @ (1,+1,19). Bunlar terazi, ardışık hücre toplamları, hücre merkezinin 19 olması ve iki elin birlikte tam 19 sûre tutmasıdır. Dört yüklem dört türe (denge, modülün dönüşü, iki el, ardışıklık) ve üç düzeye (kitap, hücre, birleşim) yayılır.
 - **Kapının etkisi büyük ama tek yönlü.** G2E'de plaseboların %82–85'i bütünlüklü dil kuramıyordu. Gc'de neredeyse hepsi kuruyor ve Kur'an'a yaklaşıyor: M20'de en yakın plasebo 1,1×10⁻⁶'dan 2,5×10⁻⁷'ye geliyor. Yine de sıralı iki sıfırda hiçbiri yetişmiyor; kapı tamamen kalkınca da yetişmiyor.
-- **Tekdüzede "arada".** Her kapıda aynı plasebo yetişiyor: A088, mercek (1,+3,3). Bu mercekte aile {3 | n}'dir ve dizilişe hiç bağlı değildir. On ikinci denetimin p = 3 dışlama listesi bu plasebonun üç yüklemini kapsamıyordu. G0'da buna iki hücresi boş, 5 üyeli bir aile (p = 43) eklenir.
+- **Tekdüzede "arada".** Her kapıda aynı plasebo yetişiyor: A088, mercek (1,+3,3). Bu mercekte aile her dizilişte aynı sabit kümedir ({3 | n}, 38 sûre) ve karşı aileyle çakışır; plasebonun yakaladığı şey bu kümenin iç bölünmeleridir ve dizilişe bağlıdır. On ikinci denetimin p = 3 dışlama listesi bu plasebonun üç yüklemini kapsamıyordu. G0'da buna iki hücresi boş, 5 üyeli bir aile (p = 43) eklenir.
 - **Kol B** (bedelsiz en geniş dil, bütünlük kuralı yok): 3/201, 3/101, 3/101, "arada". Kol A'daki "aşar" bütünlük şartıyla gelir.
 
 **Kur'an'ın kendi sırası, kendi Kol A dilinde.** Her rastgele kitap 406 mercek arasından kendi en iyi merceğini seçer. %95 aralık köşeli ayraçta.
@@ -58,7 +58,7 @@ Tahminler sonuçlardan önce yazıldı. Ana hat Gc'de en olası okuma olarak "ar
 
 ## Ana hattın okuması
 
-- **Bütün kalibre edildi.** Not 26'nın açık bıraktığı soru şuydu: dilin bütünlüklü olması şart koşulunca ne olur? Cevap: sıralı sıfırlarda Kur'an, kendi bütünlüklü dilini kuran bütün plasebo kitapları aşar. Bu, Kur'an'ın sınırına denk gelen kapıya bağlı değildir. Tekdüzede sonuç "arada"dır; yetişen yapı dizilişe bağlı olmayan, yozlaşmış bir mercektir.
+- **Bütün kalibre edildi.** Not 26'nın açık bıraktığı soru şuydu: dilin bütünlüklü olması şart koşulunca ne olur? Cevap: sıralı sıfırlarda Kur'an, kendi bütünlüklü dilini kuran bütün plasebo kitapları aşar. Bu, Kur'an'ın sınırına denk gelen kapıya bağlı değildir. Tekdüzede sonuç "arada"dır; yetişen yapı, ailesi sabit bir küme olan yozlaşmış bir mercekte, o kümenin iç bölünmelerindedir.
 - **Kur'an'ın kendi sırası** kendi bütünlüklü dilinde kabaca iki yüz milyonda birdir (M20) ile sekiz yüz milyonda bir arasındadır (tekdüze). On milyar kontrolle ölçüldü. Bu sıra, dilin Kur'an'a göre yazılmasının bedelini içermez. O bedelin ölçüsü plasebo kalibrasyonudur ve 200 / 100 plasebo onu ancak 1/201 ve 1/101'e kadar ölçebilir.
 - **Ölçülemeyenler.** Bütünlük kuralının kendisi (≥ 3 tür, ≥ 3 düzey) Kur'an'ın biçimi bilinerek yazıldı ve bedellendirilmedi. Malzemenin seçimi (sûre numarası, ayet sayısı, toplama) ve bu malzemede ilk gözlemleri bulan literatür araması da bedellendirilmedi. 19'a sabit sayım sonradan tanımlandı.
 

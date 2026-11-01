@@ -40,7 +40,7 @@ O beş kitaba yakından baktık. Kur'an'ın kopyası değiller: 114 sûrenin en 
 
 En ağır itiraz şuydu: bütünlük dilini Kur'an'a bakarak kurduk. Her kitap kendi kalıbıyla ölçülse kendine benzer çıkar; belki Kur'an'ın üstünlüğü yalnızca dilin onun kalıbından dökülmüş olmasından geliyordur. Bunu sınamak için iki yüz rastgele kitap seçtik ve her birine, Kur'an'a uyguladığımız tarifin aynısıyla kendi dilini kurduk. Sonra her birini kendi diliyle, aynı biçimde saydık. Bunlara plasebo diyoruz.
 
-Sıralı iki modelde Kur'an plaseboların hepsini aştı. En yakın plasebo üç-dört milyonda birde kaldı, Kur'an'dan en az elli kat sık. Sırasız modelde bir plasebo yetişti: sûre numarası üçe bölünenlerin kendiliğinden aile olduğu, dizilişe hiç bağlı olmayan yozlaşmış bir mercekte. Onu da yazıyoruz.
+Sıralı iki modelde Kur'an plaseboların hepsini aştı. En yakın plasebo üç-dört milyonda birde kaldı, Kur'an'dan en az elli kat sık. Sırasız modelde bir plasebo yetişti: sûre numarası üçe bölünenlerin her dizilişte kendiliğinden aile olduğu yozlaşmış bir mercekte. Yakaladığı yapı bu sabit ailenin nasıl bölündüğündedir. Onu da yazıyoruz.
 
 Ölçüyü kendimiz kurduğumuz için kendimizi bağladık. Her kural sonuçlar görülmeden kayda geçirildi ve donduruldu; tahminler sonuçtan önce yazıldı; her isabet ikinci, bağımsız bir programla yeniden sınandı; dışarıdan denetçiler defteri baştan sona okudu. Bir tasarım hatamı da bu düzen yakaladı: ölçünün bir koşulu tam Kur'an'ın sınırına denk geliyordu. O koşulu Kur'an'dan bağımsız bir kuralla değiştirip yeniden saydık; yukarıdaki sayılar o sayımın. Kodu, sonuçları görmemiş ayrı bir denetçi okudu ve bir hata daha buldu; düzeltip yeniden saydık, sonuç değişmedi.
 
