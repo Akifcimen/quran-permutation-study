@@ -1,0 +1,70 @@
+[2026-10-31T16:22:53Z] derlendi (Gc; kontrol_b yarış düzeltmeli); kod özeti 3274eef41960a513
+[2026-10-31T16:23:18Z] hedef M: 2000 plasebo; ilk 200 kapı çalışmasıyla bayt bayt aynı
+[2026-10-31T16:23:22Z] dil M A: 2001 satır, 1988 dilli
+[2026-10-31T16:23:51Z] hedef L: 1000 plasebo; ilk 100 kapı çalışmasıyla bayt bayt aynı
+[2026-10-31T16:23:53Z] dil L A: 1001 satır, 994 dilli
+[2026-10-31T16:24:07Z] hedef U: 1000 plasebo; ilk 100 kapı çalışmasıyla bayt bayt aynı
+[2026-10-31T16:24:10Z] dil U A: 1001 satır, 993 dilli
+[2026-10-31T16:24:25Z] diller yazıldı: b94d290e57146063…
+[2026-10-31T16:24:25Z] bütçe M küme A düzey 1: kayıtlı 0.00 ç-saat, kestirim 0.52 ç-saat (N 1000000, kol A dili 1988, kol B dili 0)
+[2026-10-31T16:24:26Z] kontrol M küme A düzey 1 d1_0: 1988 dil, bölüt 1–4 başladı
+[2026-10-31T16:24:41Z] kontrol M küme A düzey 1 d1_0: bitti rc=2
+[2026-10-31T16:24:41Z] HATA kontrol M küme A düzey 1 parti 0 rc=2
+[2026-10-31T16:24:41Z] kontrol hatası M 1
+[2026-10-31T16:28:28Z] yeniden başlatma: dil kapasitesi 4096 (ek EK_20261031T1626Z); sınama: kapı Gc M düzey 1 bölüt 1–4 birebir aynı
+[2026-10-31T16:28:33Z] derlendi (Gc; kontrol_b yarış düzeltmeli); kod özeti 0d42fe5f5e8fb4b7
+[2026-10-31T16:28:33Z] hedef M: 2000 plasebo; ilk 200 kapı çalışmasıyla bayt bayt aynı
+[2026-10-31T16:28:33Z] dil M A: 2001 satır, 1988 dilli
+[2026-10-31T16:28:33Z] hedef L: 1000 plasebo; ilk 100 kapı çalışmasıyla bayt bayt aynı
+[2026-10-31T16:28:33Z] dil L A: 1001 satır, 994 dilli
+[2026-10-31T16:28:33Z] hedef U: 1000 plasebo; ilk 100 kapı çalışmasıyla bayt bayt aynı
+[2026-10-31T16:28:33Z] dil U A: 1001 satır, 993 dilli
+[2026-10-31T16:28:33Z] diller yazıldı: b94d290e57146063…
+[2026-10-31T16:28:33Z] bütçe M küme A düzey 1: kayıtlı 0.00 ç-saat, kestirim 0.52 ç-saat (N 1000000, kol A dili 1988, kol B dili 0)
+[2026-10-31T16:28:34Z] kontrol M küme A düzey 1 d1_0: 1988 dil, bölüt 1–4 başladı
+[2026-10-31T16:32:52Z] kontrol M küme A düzey 1 d1_0: bitti rc=0
+[2026-10-31T16:32:52Z] kontrol M küme A düzey 2: 89 plasebo dili derinleşiyor: A018 A021 A028 A042 A044 A047 A067 A095 A099 A157 A161 A195 A238 A247 A347 A420 A427 A432 A445 A478 A501 A519 A523 A525 A526 A535 A560 A590 A594 A610 A622 A647 A648 A656 A690 A692 A713 A754 A773 A849 A863 A886 A890 A909 A943 A972 A1017 A1021 A1076 A1094 A1107 A1156 A1161 A1201 A1207 A1214 A1228 A1254 A1267 A1310 A1323 A1389 A1391 A1397 A1408 A1417 A1420 A1454 A1461 A1471 A1479 A1537 A1561 A1581 A1645 A1663 A1677 A1701 A1729 A1754 A1778 A1839 A1843 A1864 A1960 A1964 A1984 A1987 A1991
+[2026-10-31T16:32:52Z] bütçe M küme A düzey 2: kayıtlı 0.25 ç-saat, kestirim 0.39 ç-saat (N 9000000, kol A dili 90, kol B dili 0)
+[2026-10-31T16:32:52Z] kontrol M küme A düzey 2 d2_0: 90 dil, bölüt 5–40 başladı
+[2026-10-31T16:35:25Z] kontrol M küme A düzey 2 d2_0: bitti rc=0
+[2026-10-31T16:35:25Z] kontrol M küme A düzey 3: 20 plasebo dili derinleşiyor: A047 A519 A525 A535 A594 A648 A690 A713 A886 A890 A943 A1017 A1076 A1156 A1397 A1420 A1479 A1561 A1645 A1984
+[2026-10-31T16:35:25Z] bütçe M küme A düzey 3: kayıtlı 0.75 ç-saat, kestirim 2.37 ç-saat (N 90000000, kol A dili 21, kol B dili 0)
+[2026-10-31T16:35:25Z] kontrol M küme A düzey 3 d3_0: 21 dil, bölüt 41–400 başladı
+[2026-10-31T16:56:57Z] kontrol M küme A düzey 3 d3_0: bitti rc=0
+[2026-10-31T16:56:57Z] kontrol M A bitti
+[2026-10-31T16:56:57Z] bütçe L küme A düzey 1: kayıtlı 5.05 ç-saat, kestirim 0.27 ç-saat (N 1000000, kol A dili 994, kol B dili 0)
+[2026-10-31T16:56:57Z] kontrol L küme A düzey 1 d1_0: 994 dil, bölüt 1–4 başladı
+[2026-10-31T16:59:28Z] kontrol L küme A düzey 1 d1_0: bitti rc=0
+[2026-10-31T16:59:28Z] kontrol L küme A düzey 2: 52 plasebo dili derinleşiyor: A016 A047 A060 A061 A090 A091 A112 A133 A142 A150 A160 A162 A173 A239 A300 A313 A327 A330 A391 A402 A404 A406 A426 A446 A500 A507 A513 A514 A523 A524 A533 A544 A547 A635 A685 A699 A734 A777 A786 A788 A808 A814 A851 A852 A879 A891 A930 A933 A945 A956 A967 A989
+[2026-10-31T16:59:28Z] bütçe L küme A düzey 2: kayıtlı 5.20 ç-saat, kestirim 0.31 ç-saat (N 9000000, kol A dili 53, kol B dili 0)
+[2026-10-31T16:59:29Z] kontrol L küme A düzey 2 d2_0: 53 dil, bölüt 5–40 başladı
+[2026-10-31T17:01:51Z] kontrol L küme A düzey 2 d2_0: bitti rc=0
+[2026-10-31T17:01:51Z] kontrol L küme A düzey 3: 15 plasebo dili derinleşiyor: A047 A090 A142 A150 A173 A300 A330 A391 A513 A685 A777 A786 A891 A956 A989
+[2026-10-31T17:01:51Z] bütçe L küme A düzey 3: kayıtlı 5.67 ç-saat, kestirim 2.26 ç-saat (N 90000000, kol A dili 16, kol B dili 0)
+[2026-10-31T17:01:52Z] kontrol L küme A düzey 3 d3_0: 16 dil, bölüt 41–400 başladı
+[2026-10-31T17:23:25Z] kontrol L küme A düzey 3 d3_0: bitti rc=0
+[2026-10-31T17:23:25Z] kontrol L A bitti
+[2026-10-31T17:23:25Z] bütçe U küme A düzey 1: kayıtlı 9.95 ç-saat, kestirim 0.27 ç-saat (N 1000000, kol A dili 993, kol B dili 0)
+[2026-10-31T17:23:26Z] kontrol U küme A düzey 1 d1_0: 993 dil, bölüt 1–4 başladı
+[2026-10-31T17:25:57Z] kontrol U küme A düzey 1 d1_0: bitti rc=0
+[2026-10-31T17:25:57Z] kontrol U küme A düzey 2: 49 plasebo dili derinleşiyor: A039 A051 A088 A128 A185 A215 A262 A277 A313 A315 A318 A321 A358 A361 A370 A398 A410 A426 A429 A431 A446 A453 A480 A489 A491 A515 A558 A579 A589 A593 A595 A615 A631 A633 A676 A701 A706 A716 A820 A830 A834 A837 A886 A913 A925 A945 A948 A950 A969
+[2026-10-31T17:25:57Z] bütçe U küme A düzey 2: kayıtlı 10.10 ç-saat, kestirim 0.30 ç-saat (N 9000000, kol A dili 50, kol B dili 0)
+[2026-10-31T17:25:57Z] kontrol U küme A düzey 2 d2_0: 50 dil, bölüt 5–40 başladı
+[2026-10-31T17:28:16Z] kontrol U küme A düzey 2 d2_0: bitti rc=0
+[2026-10-31T17:28:16Z] kontrol U küme A düzey 3: 18 plasebo dili derinleşiyor: A039 A051 A088 A262 A315 A358 A361 A398 A446 A480 A491 A593 A706 A716 A830 A886 A925 A945
+[2026-10-31T17:28:16Z] bütçe U küme A düzey 3: kayıtlı 10.56 ç-saat, kestirim 2.33 ç-saat (N 90000000, kol A dili 19, kol B dili 0)
+[2026-10-31T17:28:16Z] kontrol U küme A düzey 3 d3_0: 19 dil, bölüt 41–400 başladı
+[2026-10-31T17:49:30Z] kontrol U küme A düzey 3 d3_0: bitti rc=0
+[2026-10-31T17:49:30Z] kontrol U A bitti
+[2026-10-31T17:49:30Z] AKIŞ BİTTİ
+[2026-10-31T17:53:28Z] derinleştirme M düzey 4 (bölüt 401–4000) başladı: 3 dil: A535 A1645 A690
+[2026-10-31T20:15:00Z] NOT: derinleştirme M bilerek durduruldu (kart eşdeğerlik sınamasına 1 iş parçacığı açmak için); 11 iş parçacığıyla sürdürülüyor, var olan bölütler atlanır (sonuç iş parçacığı sayısına bağlı değil)
+[2026-10-31T20:15:00Z] derinleştirme M düzey 4 (bölüt 401–4000) başladı: 3 dil: A535 A1645 A690
+[2026-10-31T20:24:04Z] NOT: işlemci derinleştirmesi durduruldu: kart sayacı kabul sınamasını geçti (iki kart, 7/7, fark 0; kart/kabul_v1/sina_4090.txt, sina_3090.txt); kalan bölütler kart_derin.sh ile kartta (araştırmacının taşıma onayı)
+[2026-10-31T20:27:36Z] kart derinleştirme M düzey 4 (bölüt 401–4000; var olan 2619 bölüt atlanır) başladı: 3 dil: A535 A1645 A690
+[2026-10-31T20:28:35Z] kart derinleştirme M bitti: 3600 bölüt
+[2026-10-31T20:28:35Z] kart derinleştirme L düzey 4 (bölüt 401–4000; var olan 0 bölüt atlanır) başladı: 4 dil: A142 A786 A777 A891
+[2026-10-31T20:33:18Z] kart derinleştirme L bitti: 3600 bölüt
+[2026-10-31T20:33:19Z] kart derinleştirme U düzey 4 (bölüt 401–4000; var olan 0 bölüt atlanır) başladı: 7 dil: A088 A358 A593 A925 A315 A491 A398
+[2026-10-31T20:36:49Z] kart derinleştirme U bitti: 3600 bölüt
+[2026-10-31T20:36:49Z] DERİNLEŞTİRME BİTTİ

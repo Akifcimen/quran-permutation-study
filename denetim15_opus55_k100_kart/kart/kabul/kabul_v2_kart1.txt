@@ -1,0 +1,14 @@
+M_b_d1: 38.427968663 sn
+  4 bölüt, fark 0
+M_b_d4: 4.324842185 sn
+  24 bölüt, fark 0
+L_b_d2: 31.617938531 sn
+  24 bölüt, fark 0
+U_b_d2: 7.061544381 sn
+  24 bölüt, fark 0
+M_h_Gc: 7.033243521 sn
+  24 bölüt, fark 0
+U_h_Gc: 8.661799371 sn
+  24 bölüt, fark 0
+L_h_Gc: 32.179411116 sn
+  24 bölüt, fark 0

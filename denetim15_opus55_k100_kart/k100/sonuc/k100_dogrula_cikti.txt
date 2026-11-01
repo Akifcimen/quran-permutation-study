@@ -1,0 +1,16 @@
+§5.4 M: A000 bölüt 1–40000, fark 0
+§5.4 L: A000 bölüt 1–40000, fark 0
+§5.4 U: A000 bölüt 1–40000, fark 0
+§5.5 M d1_1 b0003 aynı (166 dil, kart 3090)
+§5.5 M d2_0 b0017 aynı (1014 dil, kart 4090)
+§5.5 M d5_0 b17113 aynı (13 dil, kart 3090)
+§5.5 M d5_0 b39998 aynı (13 dil, kart 3090)
+§5.5 L d3_0 b0222 aynı (111 dil, kart 4090)
+§5.5 L d5_0 b4004 aynı (7 dil, kart 3090)
+§5.5 L d5_0 b25003 aynı (7 dil, kart 3090)
+§5.5 U d4_0 b1919 aynı (30 dil, kart 3090)
+§5.5 U d5_0 b33337 aynı (6 dil, kart 4090)
+§5.5 U d5_0 b40000 aynı (6 dil, kart 4090)
+§5.5 fark 0
+
+[exited with code 0]

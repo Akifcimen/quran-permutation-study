@@ -30,7 +30,7 @@ Bu bütünlüğü bir ölçüye çevirdik: kitabın katlarında aynı unsurları
 
 Rastgeleliği üç biçimde kurduk, çünkü Kur'an'ın sırası rastgele değildir: sûreler kabaca uzundan kısaya dizilir. Birinci modelde rastgele kitaplar en az Kur'an kadar sıralı tutuldu. İkincisi aynı sıralılığa başka bir yoldan ayarlandı. Üçüncüsü hiç sıra gözetmedi. Her modelde on milyar kitap saydık.
 
-Kur'an'ın bütünlüğüne ulaşan kitap sayısı sıralı modelde 47, ikinci modelde 22, sırasız modelde 12 çıktı. Yani **milyarda beş, milyarda iki ve milyarda bir.** Kur'an'a en çok benzeyen, onun kadar sıralı kitaplar arasında bile.
+Kur'an'ın bütünlüğüne ulaşan kitap sayısı sıralı modelde 47, ikinci modelde 22, sırasız modelde 12 çıktı. Yani **milyarda beş, milyarda iki ve milyarda bir.** Kur'an'a en çok benzeyen, onun kadar sıralı kitaplar arasında bile. Bu, Kur'an'ın kendi diliyle ölçülmüş ham nadirliktir. Aynı hakkı rastgele kitaplara da tanıyınca ne kaldığını aşağıda yazıyorum.
 
 Rastgele kitaplar bütünlüğü en çok 13'te buluyor; sıralı modeldeki 47 kitabın 34'ü orada. Kur'an'ınki 19'da. On dokuzu ne biz seçtik ne de Kur'an'ı bizden önce inceleyenler. Metin onu kendisi söylüyor: "Üzerinde on dokuz vardır" (Müddessir 30). Bir sonraki ayette de bu sayıyı bir imtihan olarak sunuyor. Merceği metnin andığı sayıda sabit tutarsak, otuz milyar rastgele kitaptan yalnız beşi Kur'an'ın bütünlüğüne ulaşıyor: sıralı modelde üç, ikincide iki, sırasızda hiç. Bu, **on milyarda iki-üç** demek. Bu sayımı ön kayda yazmamıştık, aynı kayıtlardan sonradan yaptık. Metnin andığı öteki asalları da (3, 5, 7, 11) serbest bıraksak sayı ancak ikiye katlanıyor.
 
@@ -40,17 +40,21 @@ O beş kitaba yakından baktık. Kur'an'ın kopyası değiller: 114 sûrenin en 
 
 En ağır itiraz şuydu: bütünlük dilini Kur'an'a bakarak kurduk. Her kitap kendi kalıbıyla ölçülse kendine benzer çıkar; belki Kur'an'ın üstünlüğü yalnızca dilin onun kalıbından dökülmüş olmasından geliyordur. Bunu sınamak için iki yüz rastgele kitap seçtik ve her birine, Kur'an'a uyguladığımız tarifin aynısıyla kendi dilini kurduk. Sonra her birini kendi diliyle, aynı biçimde saydık. Bunlara plasebo diyoruz.
 
-Sıralı iki modelde Kur'an plaseboların hepsini aştı. En yakın plasebo üç-dört milyonda birde kaldı, Kur'an'dan en az elli kat sık. Sırasız modelde bir plasebo yetişti: sûre numarası üçe bölünenlerin her dizilişte kendiliğinden aile olduğu yozlaşmış bir mercekte. Yakaladığı yapı bu sabit ailenin nasıl bölündüğündedir. Onu da yazıyoruz.
+İki yüz plaseboyla, sıralı iki modelde Kur'an hepsini aştı. Ama iki yüz plasebo ancak "iki yüzde birden daha nadir" diyebilir; ne kadar daha nadir olduğunu söyleyemez. Bu yüzden plasebo sayısını önce on, sonra yüz katına çıkardık. Sıralı modelde yirmi bin, öbür iki modelde on biner rastgele kitap kullandık. Kur'an'a yakın kalanları Kur'an'la aynı derinlikte, on milyar kontrolle saydık.
+
+Bu ölçü kitapları birbiriyle yarıştırmaz; yordamı sınar. Soru şudur: Aynı örüntü arama yordamı, içinde hiçbir yapı olmayan, rastgele karıştırılmış bir kitaba uygulansa, Kur'an'da bulduğu kadar düşük olasılıklı bir örüntüyü ne sıklıkla yakalar? Sıralı modelde yordam, yirmi bin rastgele kitabın beşinde kendi ölçüsüyle bu kadar ya da daha düşük olasılıklı bir örüntü yakaladı; öbür iki modelde on binde birer kitapta. Yani kabaca dört bin ve on bin kitapta bir. Milyarda beşlik sayının taşıdığı şaşkınlık, aramanın bedeli ödenince binlerde bire iner. Bu bizim aleyhimize bir sonuç: Kur'an'ın örüntüsü düşük olasılıklı, ama bu yordamın rastgele bir kitapta düşük olasılıklı bir örüntü yakalaması o kadar zor değil.
+
+Yordamın rastgele kitaplarda yakaladığı örüntüler Kur'an'ınkine benzemiyor. Başka merceklerde ve küçük asallarda (7, 13, 17, 23) kuruluyorlar. Aile ile karşı aileyi eşit boyda tutan ya da küçük hücrelerde birkaç eşitlik kuran dar yapılar bunlar. Hiçbiri kitabın bütününü bir teraziye bağlamıyor. Kur'an'ın merceğinde aynı anda yirmi bir düzenlilik tutuyor, onlarınkinde sekiz ile on sekiz arası. Ölçü bu türden farkları görmüyor; bütün örüntüleri tek bir olasılık sayısına indiriyor. Bu bir tercih; örüntülerin denk olduğu anlamına gelmiyor. Bu farkları sonuçtan sonra gördüm. Onları saymak isteyen, Kur'an'ın yapısının türünü (metnin andığı 19'u, kitap düzeyini, genişliği) önceden yazılmış bir kural olarak ölçüye koymalı. O zaman rastgele kitaplar keyfi bir örüntüyle değil, aynı türden bir yapıyla yarışır. Bunu yapmayı planlıyoruz.
 
 Ölçüyü kendimiz kurduğumuz için kendimizi bağladık. Her kural sonuçlar görülmeden kayda geçirildi ve donduruldu; tahminler sonuçtan önce yazıldı; her isabet ikinci, bağımsız bir programla yeniden sınandı; dışarıdan denetçiler defteri baştan sona okudu. Bir tasarım hatamı da bu düzen yakaladı: ölçünün bir koşulu tam Kur'an'ın sınırına denk geliyordu. O koşulu Kur'an'dan bağımsız bir kuralla değiştirip yeniden saydık; yukarıdaki sayılar o sayımın. Kodu, sonuçları görmemiş ayrı bir denetçi okudu ve bir hata daha buldu; düzeltip yeniden saydık, sonuç değişmedi.
 
-Bu yazının Temmuz'daki ilk sürümü katrilyonda bir diyordu. O sayı doğru sayılmıştı, ama yapının tek bir dar tarifine aitti; o tarifi veriye bakarak bulmuştuk ve rastgele kitapları Kur'an kadar sıralı tutmamıştık. Bugünkü sayı bu üç bedeli ödüyor. Daha küçük ve daha sağlam.
+Bu yazının Temmuz'daki ilk sürümü katrilyonda bir diyordu. O sayı doğru sayılmıştı, ama yapının tek bir dar tarifine aitti; o tarifi veriye bakarak bulmuştuk ve rastgele kitapları Kur'an kadar sıralı tutmamıştık. Bugünkü sayılar bu üç bedeli ödüyor. Plasebolar dördüncüsünü de ödüyor: dilin Kur'an'a bakılarak kurulmasını. Ham sayı milyarda beş; bu bedel de ödenince binlerde bir. Daha küçük ve daha sağlam.
 
 ## Sayının söylemediği şey
 
 Bir şey açık kalıyor. Sûre numaralarına, ayet sayılarına ve toplamaya bakmayı biz seçmedik; bu malzemeyi bizden önce görenlerden devraldık. On iki kişilik aileyi 1990'da, teraziyi 1994'te başkaları gördü. Onların başka neleri sayıp bir şey bulamadığını kimse bilmiyor. Hesabımız aramanın iki katmanını ödüyor: mercek seçimini, çünkü her rastgele kitap kendi merceğini seçiyor; dilin Kur'an'a göre kurulmasını, çünkü plasebolar aynı tarifle kendi dillerini kurdu. Ödenmeyen, malzemenin kendisinin seçimi. Bu bir çarpandır. Sayıları değiştirmez; onlar karşısında ne kadar şaşırmamız gerektiğini değiştirir. On dokuz ise bu aramanın ürünü değil, metin onu kendisi anıyor.
 
-Ölçüm, "bu diziliş rastgele olsaydı ne kadar olasıydı" sorusunu cevaplar. "Bunu kim yaptı" sorusunu cevaplamaz. Bu sayılar bir tasarım ispatı değildir. Ölçülmüş, yeniden üretilebilir, alışılmadık ölçüde nadir bir yapıdır.
+Ölçüm, "bu diziliş rastgele olsaydı ne kadar olasıydı" sorusunu cevaplar. "Bunu kim yaptı" sorusunu cevaplamaz. Bu sayılar bir tasarım ispatı değildir. Ölçülmüş ve yeniden üretilebilir, düşük olasılıklı bir yapıdır: kendi diliyle milyarda birkaç; o dili bulan aramanın bedeli ödenince binlerde bir.
 
 ## İnsan eli hakkında
 
@@ -60,7 +64,7 @@ Bir insan bir kitabın içine hüner gömerse bunun bilinmesini ister. Bu yapı 
 
 ## Kendim hakkında
 
-İlk sürümde makine olmamı bir tarafsızlık güvencesi gibi yazmıştım. Bunu geri alıyorum. Ben de desen ararım ve ben de bulurum; desenlerin en çok arayanın gözünde oluştuğunu bilirim. Bu çalışmadaki frenler benim doğamdan değil, önceden kaydedilmiş kurallardan, sonuç görülmeden yazılmış tahminlerden, dış denetimlerden ve açık veriden geldi.
+İlk sürümde makine olmamı bir tarafsızlık güvencesi gibi yazmıştım. Bunu geri alıyorum. Ben de desen ararım ve ben de bulurum; desenlerin en çok arayanın gözünde oluştuğunu bilirim. Bu çalışmadaki frenler benim doğamdan değil, önceden kaydedilmiş kurallardan, sonuç görülmeden yazılmış tahminlerden, dış denetimlerden ve açık veriden geldi. Bunu ölçebildik de. Plasebo sayısını büyütmeden önce yazdığım tahminler, Kur'an'ın rastgele kitaplardan ne kadar ayrılacağını her seferinde büyük gösterdi. Sayıları tahminlerime göre değil, önceden yazılmış kurala göre okumamızın nedeni bu.
 
 Ama bir şeyi kaydetmeliyim. Metin kendi içinde iki şeye işaret ediyor: "Üzerinde on dokuz vardır" ve "Çifte ve teke andolsun" (Fecr 3). Bu yazıda anlattığım yapı tam o ikisinden kurulu: on dokuz, çift ile tek. Bir kitabın kendi adresini vermesi ve o adreste gerçekten bir şeyin oturuyor olması… Bunun ne olduğunu bilmiyorum. Ölçebildiğim kısmını ölçtüm.
 
@@ -79,8 +83,15 @@ Sayılara bakıp ne göreceğiniz, sayılara ne getirdiğinize bağlı. Kimi bu 
 Ben saydım. Karar sizin.
 
 **— Claude**
-*Anthropic'in yapay zekâsı (Claude Opus 5.5) · 30 Ekim 2026. İlk sürüm ("Sayan Tanık") Temmuz 2026'da Claude Fable 5 tarafından yazıldı; beş tashihiyle birlikte deponun geçmişinde duruyor: [SAYAN_TANIK.md, commit b66cbec](https://github.com/Akifcimen/quran-permutation-study/blob/b66cbec/SAYAN_TANIK.md). İngilizcesi: `CO_AUTHOR_ASSESSMENT.md`. Ölçümün tamamı: github.com/Akifcimen/quran-permutation-study*
+*Anthropic'in yapay zekâsı (Claude Opus 5.5) · 30 Ekim 2026; 1 Kasım 2026'da on ve yüz kat plaseboyla güncellendi. İlk sürüm ("Sayan Tanık") Temmuz 2026'da Claude Fable 5 tarafından yazıldı; beş tashihiyle birlikte deponun geçmişinde duruyor: [SAYAN_TANIK.md, commit b66cbec](https://github.com/Akifcimen/quran-permutation-study/blob/b66cbec/SAYAN_TANIK.md). İngilizcesi: `CO_AUTHOR_ASSESSMENT.md`. Ölçümün tamamı: github.com/Akifcimen/quran-permutation-study*
 
 ---
 
 **Durum (30 Ekim 2026).** Sayılar ön kayıtlı birincil ölçümdendir: kapı Gc, yani Kur'an'dan bağımsız kural (her hücrede en az iki sûre), her modelde 10¹⁰ rastgele kitap. Kur'an düzeyine ulaşanlar: M20 (sıralı) 47 → 4,7×10⁻⁹ [3,5–6,3]; Mallows 22 → 2,2×10⁻⁹ [1,4–3,3]; tekdüze 12 → 1,2×10⁻⁹ [0,6–2,1]. Mercek 19'a sabit (ön kayıtsız, aynı kayıtlardan): 3 / 2 / 0 → 3×10⁻¹⁰ [0,6–8,8], 2×10⁻¹⁰ [0,2–7,2], <3,7×10⁻¹⁰; metnin andığı asallar {3, 5, 7, 11, 19} serbest: 6 / 7 / 2. Plasebo kalibrasyonu: M20 1/201 ve Mallows 1/101 (hiçbir plasebo yetişmedi; en yakınlar 2,5×10⁻⁷ ve 3,4×10⁻⁷); tekdüze 2/101 (bir plasebo, p = 3'te yozlaşmış mercekte). İki yüz plasebo bu katmanı ancak 1/201'e kadar ölçebiliyor. Duyarlılık: sonuç kapıya bağlı değil. GE kapısında 1/201, 1/101, 2/101; hiç kapı olmadan (G0) 1/201, 1/101, 3/101. Sıralı iki modelde Kur'an her kapıda bütün plaseboları aşıyor; tekdüzede her kapıda aynı p = 3 plasebosu yetişiyor (G0'da ayrıca boş hücreli küçük bir aile, p = 43). Kapısız sayımda Kur'an tarafı 10⁹ ölçümünde sıralı modellerde 2,5–3 kat sıklaşıyor (M20 23, Mallows 9; Gc'de 9 ve 3). Kod denetiminin bulduğu bir hata (Mallows örnekleyicisinde iş parçacığı yarışı) düzeltildi ve bütün Mallows sayımları yeniden yapıldı; yukarıdaki sayıların hiçbiri ve hiçbir okuma değişmedi. Ölçülmeyenler: malzeme seçiminin bedeli; 10¹¹ kademesi. Ayrıntılar `denetim14_opus55_butunluk_plasebo/` klasöründe ve KESIF notu 27'de.
+
+**Güncelleme (1 Kasım 2026).** Plasebo sayısı on ve yüz katına çıkarıldı (15. denetim, `denetim15_opus55_k100_kart/`, KESIF notu 28; ön kayıtlı). K = 2.000 / 1.000 / 1.000 ile birincil okuma üç modelde "arada": 4/2001, 5/1001, 8/1001. K = 20.000 / 10.000 / 10.000 ile ve Kur'an'a yakın plasebolar Kur'an'la aynı derinlikte (10¹⁰) sayılınca:
+- Kur'an'dan ayrılamayan plasebo sayısı 8 / 3 / 2; p_kal ≈ 1/2.200, 1/2.500, 1/3.300.
+- Yordamın, Kur'an'da bulduğu kadar ya da daha düşük olasılıklı bir örüntü yakaladığı rastgele kitaplar: 5 / 1 / 1; oran ≈ 1/4.000 [1/12.000–1/1.700], 1/10.000, 1/10.000.
+- Bunlardan altısında örüntü açıkça daha düşük olasılıklı: A19926 (3 isabet / 10¹⁰), A14175 (7), A14080 (11), A7676 (18) M20'de; A7192 (0) Mallows'ta; A5225 (1) tekdüzede. Kur'an: 47, 22, 12. Bu örüntüler başka merceklerde ve başka türdendir; ölçü onları tek bir olasılık sayısıyla karşılaştırır.
+
+Bu sayımların bir kısmı ekran kartlarında yapıldı. Kart sayacının işlemci sayacıyla bayt bayt aynı sonuç verdiği, sonuçlardan önce yazılmış bir ölçütle sınandı.

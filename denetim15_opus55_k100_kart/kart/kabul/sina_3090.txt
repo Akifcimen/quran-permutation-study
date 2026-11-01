@@ -1,0 +1,15 @@
+M_b_d1: 47.956933303 sn
+  4 bölüt, fark 0
+M_b_d4: 6.527854466 sn
+  24 bölüt, fark 0
+L_b_d2: 41.239807335 sn
+  24 bölüt, fark 0
+U_b_d2: 10.380055726 sn
+  24 bölüt, fark 0
+M_h_Gc: 9.394039057 sn
+  24 bölüt, fark 0
+U_h_Gc: 11.277956454 sn
+  24 bölüt, fark 0
+L_h_Gc: 41.812911228 sn
+  24 bölüt, fark 0
+SINAMA BITTI

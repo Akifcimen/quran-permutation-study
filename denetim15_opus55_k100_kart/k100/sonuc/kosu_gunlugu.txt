@@ -1,0 +1,56 @@
+[2026-10-31T21:05:03Z] derlendi; kod özeti fd21f4d229219b31; kart_b 14179d8fdf8d484f
+[2026-10-31T21:05:03Z] hedef U: 10000 plasebo; ilk 1000 K×10 ile bayt bayt aynı
+[2026-10-31T21:05:19Z] dil U A: 10001 satır, 9922 dilli; ilk 1000 K×10 ile aynı
+[2026-10-31T21:05:20Z] hedef L: 10000 plasebo; ilk 1000 K×10 ile bayt bayt aynı
+[2026-10-31T21:05:35Z] dil L A: 10001 satır, 9940 dilli; ilk 1000 K×10 ile aynı
+[2026-10-31T21:09:25Z] hedef M: 20000 plasebo; ilk 2000 K×10 ile bayt bayt aynı
+[2026-10-31T21:09:53Z] dil M A: 20001 satır, 19857 dilli; ilk 2000 K×10 ile aynı
+[2026-10-31T21:14:21Z] diller yazıldı: 3be858b90e106008…
+[2026-10-31T21:14:22Z] kontrol M düzey 1 d1_0: 19691 dil, bölüt 1–4 başladı (kart)
+[2026-10-31T21:20:42Z] kontrol M düzey 1 d1_0: bitti rc=[0, 0]
+[2026-10-31T21:20:42Z] kontrol M düzey 1 d1_1: 166 dil, bölüt 1–4 başladı (kart)
+[2026-10-31T21:20:48Z] kontrol M düzey 1 d1_1: bitti rc=[0, 0]
+[2026-10-31T21:20:48Z] kontrol M düzey 2: 1013 plasebo dili derinleşiyor
+[2026-10-31T21:20:48Z] kontrol M düzey 2 d2_0: 1014 dil, bölüt 5–40 başladı (kart)
+[2026-10-31T21:21:41Z] kontrol M düzey 2 d2_0: bitti rc=[0, 0]
+[2026-10-31T21:21:41Z] kontrol M düzey 3: 277 plasebo dili derinleşiyor
+[2026-10-31T21:21:41Z] kontrol M düzey 3 d3_0: 278 dil, bölüt 41–400 başladı (kart)
+[2026-10-31T21:23:35Z] kontrol M düzey 3 d3_0: bitti rc=[0, 0]
+[2026-10-31T21:23:36Z] kontrol M düzey 4: 58 plasebo dili derinleşiyor (R₁): A535 A690 A1645 A2425 A2629 A3634 A3683 A3805 A3890 A4111 A4268 A4452 A4470 A5070 A5071 A5159 A5472 A6086 A6450 A6793 A7005 A7262 A7676 A8317 A8586 A10228 A10431 A11286 A11909 A11980 A12273 A12296 A12569 A12732 A13337 A13765 A13807 A14026 A14080 A14175 A14909 A15677 A15702 A16273 A16320 A16479 A16926 A17236 A17487 A17548 A17625 A17701 A18089 A18379 A19246 A19353 A19690 A19926
+[2026-10-31T21:23:37Z] kontrol M düzey 4 d4_0: 59 dil, bölüt 401–4000 başladı (kart)
+[2026-10-31T21:28:38Z] kontrol M düzey 4 d4_0: bitti rc=[0, 0]
+[2026-10-31T21:28:38Z] kontrol M düzey 5: 12 plasebo dili derinleşiyor (R_derin): A535 A2629 A4111 A4268 A7262 A7676 A12732 A13765 A14080 A14175 A15702 A19926
+[2026-10-31T21:28:39Z] kontrol M düzey 5 d5_0: 13 dil, bölüt 4001–40000 başladı (kart)
+[2026-10-31T22:03:43Z] kontrol M düzey 5 d5_0: bitti rc=[0, 0]
+[2026-10-31T22:03:43Z] kontrol M bitti
+[2026-10-31T22:03:43Z] kontrol L düzey 1 d1_0: 9940 dil, bölüt 1–4 başladı (kart)
+[2026-10-31T22:07:07Z] kontrol L düzey 1 d1_0: bitti rc=[0, 0]
+[2026-10-31T22:07:07Z] kontrol L düzey 2: 473 plasebo dili derinleşiyor
+[2026-10-31T22:07:08Z] kontrol L düzey 2 d2_0: 474 dil, bölüt 5–40 başladı (kart)
+[2026-10-31T22:07:58Z] kontrol L düzey 2 d2_0: bitti rc=[0, 0]
+[2026-10-31T22:07:58Z] kontrol L düzey 3: 110 plasebo dili derinleşiyor
+[2026-10-31T22:07:58Z] kontrol L düzey 3 d3_0: 111 dil, bölüt 41–400 başladı (kart)
+[2026-10-31T22:09:34Z] kontrol L düzey 3 d3_0: bitti rc=[0, 0]
+[2026-10-31T22:09:34Z] kontrol L düzey 4: 20 plasebo dili derinleşiyor (R₁): A142 A777 A786 A891 A1209 A1943 A2896 A3116 A4646 A4651 A4839 A5292 A5417 A6608 A6806 A7192 A7785 A8316 A8335 A8877
+[2026-10-31T22:09:35Z] kontrol L düzey 4 d4_0: 21 dil, bölüt 401–4000 başladı (kart)
+[2026-10-31T22:14:05Z] kontrol L düzey 4 d4_0: bitti rc=[0, 0]
+[2026-10-31T22:14:06Z] kontrol L düzey 5: 6 plasebo dili derinleşiyor (R_derin): A142 A1209 A2896 A5417 A6806 A7192
+[2026-10-31T22:14:06Z] kontrol L düzey 5 d5_0: 7 dil, bölüt 4001–40000 başladı (kart)
+[2026-10-31T22:52:56Z] kontrol L düzey 5 d5_0: bitti rc=[0, 0]
+[2026-10-31T22:52:56Z] kontrol L bitti
+[2026-10-31T22:52:57Z] kontrol U düzey 1 d1_0: 9922 dil, bölüt 1–4 başladı (kart)
+[2026-10-31T22:56:21Z] kontrol U düzey 1 d1_0: bitti rc=[0, 0]
+[2026-10-31T22:56:21Z] kontrol U düzey 2: 512 plasebo dili derinleşiyor
+[2026-10-31T22:56:22Z] kontrol U düzey 2 d2_0: 513 dil, bölüt 5–40 başladı (kart)
+[2026-10-31T22:56:55Z] kontrol U düzey 2 d2_0: bitti rc=[0, 0]
+[2026-10-31T22:56:55Z] kontrol U düzey 3: 132 plasebo dili derinleşiyor
+[2026-10-31T22:56:55Z] kontrol U düzey 3 d3_0: 133 dil, bölüt 41–400 başladı (kart)
+[2026-10-31T22:58:00Z] kontrol U düzey 3 d3_0: bitti rc=[0, 0]
+[2026-10-31T22:58:00Z] kontrol U düzey 4: 29 plasebo dili derinleşiyor (R₁): A088 A315 A358 A398 A491 A593 A925 A1625 A1869 A2056 A3946 A4766 A5225 A5507 A5658 A5887 A5901 A6126 A7406 A7487 A8019 A8437 A8734 A8865 A9069 A9296 A9645 A9705 A9959
+[2026-10-31T22:58:00Z] kontrol U düzey 4 d4_0: 30 dil, bölüt 401–4000 başladı (kart)
+[2026-10-31T23:02:07Z] kontrol U düzey 4 d4_0: bitti rc=[0, 0]
+[2026-10-31T23:02:07Z] kontrol U düzey 5: 5 plasebo dili derinleşiyor (R_derin): A088 A358 A5225 A6126 A8734
+[2026-10-31T23:02:08Z] kontrol U düzey 5 d5_0: 6 dil, bölüt 4001–40000 başladı (kart)
+[2026-10-31T23:35:34Z] kontrol U düzey 5 d5_0: bitti rc=[0, 0]
+[2026-10-31T23:35:34Z] kontrol U bitti
+[2026-10-31T23:35:34Z] AKIŞ BİTTİ
