@@ -37,3 +37,5 @@ Araştırmacı, başka bir yapay zekâ ekibiyle yaptığı bir incelemenin özet
 4. Taze plasebolar. Bugünkü 40.000 plasebo artık tasarım sırasında görülmüş veridir.
 
 Önerilen beşinci iş (tam olayın olasılığını genel motorda koşullu tamamlamayla ölçmek) ikincil görüldü. Tam olayın ham sıklığı zaten doğrudan ölçülmüştür (10⁻¹³ – 10⁻¹⁵). Eksik olan onun kalibrasyonudur.
+
+**Geçmiş temizliği (2 Kasım 2026).** 15. ve 16. denetimin bölüt arşivlerinde yerel makinenin hesap adı ve macOS meta verisi vardı. Arşivler meta verisiz yeniden paketlendi (her veri üyesi ad, kip, zaman, boy ve içerikçe aynı) ve git geçmişi bu arşivlerle yeniden yazıldı. Bu yüzden 1 Kasım'dan bu yana olan commit'lerin kimlikleri değişti; inceleme özetindeki ve notlarımızdaki kimlikler yenileriyle değiştirildi. Arşivler dışında içerik aynıdır.
