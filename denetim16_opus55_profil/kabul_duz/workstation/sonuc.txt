@@ -1,0 +1,6 @@
+M: e = duz.c (4 yürüyüş)
+M: k = duz.c (4 yürüyüş)
+L: e = duz.c (4 yürüyüş)
+L: k = duz.c (4 yürüyüş)
+U: e = duz.c (4 yürüyüş)
+U: k = duz.c (4 yürüyüş)

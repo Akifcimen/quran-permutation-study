@@ -1,0 +1,20 @@
+[2026-11-01T16:40:40Z] doğrulama başladı; ek a433ab7347fcfc11
+[2026-11-01T17:35:39Z] işlemci M bitti rc=0
+[2026-11-01T17:36:06Z] kart doğrulama süreçleri ve eski kuyruk durduruldu (kartlar yavaş; işlemciye taşındı)
+[2026-11-01T17:36:21Z] kol A başladı (doğrulama kart listeleri işlemcide)
+[2026-11-01T17:37:26Z] eski işlemci kuyruğu (ek_isl_kuyruk) durduruldu; ek_havuz başlıyor (M kart doğrulaması sürüyor)
+[2026-11-01T17:49:33Z] işlemci L bitti rc=0
+[2026-11-01T18:09:59Z] kol A: ek/sec_D_L_kart.txt başladı
+[2026-11-01T18:37:40Z] işlemci U bitti rc=0
+[2026-11-01T18:38:01Z] kol B: ek/sec_D_U_kart.txt başladı
+[2026-11-01T19:17:10Z] kol A: ek/sec_D_L_kart.txt bitti rc=0
+[2026-11-01T19:17:10Z] kol A: ek/sec_A_L_isl.txt başladı
+[2026-11-01T19:41:52Z] kol B: ek/sec_D_U_kart.txt bitti rc=0
+[2026-11-01T19:41:52Z] kol B: ek/sec_A_L_kart.txt başladı
+[2026-11-01T20:13:43Z] kol A: ek/sec_A_L_isl.txt bitti rc=0
+[2026-11-01T20:16:04Z] kol B: ek/sec_A_L_kart.txt bitti rc=0
+[2026-11-01T20:16:04Z] havuz boş
+[2026-11-02T00:16:38Z] yeniden L ana r2 bitti rc=0
+[2026-11-02T00:22:59Z] yeniden L ana r1 bitti rc=0
+[2026-11-02T00:22:59Z] yeniden L ana ws bitti
+[2026-11-02T00:23:01Z] r1 yeniden: liste iki kez kopyalanmıştı (14 satır, 7 olay); son kopya (A9675.2, sonucu zaten yazılı) durduruldu

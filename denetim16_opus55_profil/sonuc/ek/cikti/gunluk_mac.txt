@@ -1,0 +1,24 @@
+[2026-11-01T16:48:18Z] Kur'an M bitti
+[2026-11-01T16:52:36Z] Kur'an L bitti
+[2026-11-01T16:56:49Z] Kur'an U bitti
+[2026-11-01T18:11:49Z] ana M isl bitti rc=0
+[2026-11-01T18:37:01Z] ana M kart bitti rc=0
+[2026-11-01T19:25:54Z] ana U isl bitti rc=0
+[2026-11-01T19:42:37Z] ana U kart bitti rc=0
+[2026-11-01T19:53:07Z] yeniden M r†’5 bitti rc=0
+[2026-11-01T20:07:33Z] yeniden M r†’6 bitti rc=0
+[2026-11-01T20:19:21Z] yeniden M r†’7 bitti rc=0
+[2026-11-01T20:32:47Z] yeniden M r†’8 bitti rc=0
+[2026-11-01T20:32:47Z] yeniden bitti: M
+[2026-11-01T20:43:12Z] yeniden U r†’5 bitti rc=0
+[2026-11-01T20:53:53Z] yeniden U r†’6 bitti rc=0
+[2026-11-01T21:03:16Z] yeniden U r†’7 bitti rc=0
+[2026-11-01T21:13:59Z] yeniden U r†’8 bitti rc=0
+[2026-11-01T21:21:00Z] yeniden L r†’5 bitti rc=0
+[2026-11-01T21:28:00Z] yeniden L r†’6 bitti rc=0
+[2026-11-01T21:35:00Z] yeniden L r†’7 bitti rc=0
+[2026-11-01T21:42:01Z] yeniden L r†’8 bitti rc=0
+[2026-11-01T21:42:01Z] yeniden bitti: U L
+[2026-11-02T00:11:11Z] yeniden L ana r3 bitti rc=0
+[2026-11-02T00:20:23Z] yeniden L ana r4 bitti rc=0
+[2026-11-02T00:20:23Z] yeniden L ana mac bitti

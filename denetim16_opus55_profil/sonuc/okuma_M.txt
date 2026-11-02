@@ -1,0 +1,14 @@
+M: K = 20000 taze plasebo; olay 43754
+  tür 1: Kur'an 3/1e+10 p 4.00e-10 [6.2e-11, 8.77e-10], 4 yüklem, S 18.801; olaylı plasebo 19866
+    en küçük 8: A11192.1 2/1e+10 (5 yük.), A12493.1 2/1e+10 (4 yük.), A19204.1 2/1e+10 (6 yük.), A2675.1 11/1e+10 (6 yük.), A9956.1 12/1e+10 (5 yük.), A18625.1 13/1e+10 (5 yük.), A3215.1 14/1e+10 (5 yük.), A12746.1 14/1e+10 (6 yük.)
+    R = 8; p_kal = 9/20001 = 0.00045; R_nokta = 3 ['A11192.1', 'A12493.1', 'A19204.1']; okuma: arada
+    model (betimsel): R_S = 12 (S ≥ Kur'an'ınki); çözülmüş 19863 olayda Spearman ρ(bilgi, −log₂ p̂) = 0.897, (−log₂ p̂ − bilgi) medyanı +1.03 bit [%10 -0.42, %90 +3.32]
+  tür 2: Kur'an 0/1e+10 p 1.00e-10 [0.0e+00, 3.69e-10], 21 yüklem, S 26.883; olaylı plasebo 19866
+    en küçük 8: A090.2 0/1e+10 (12 yük.), A171.2 0/1e+10 (20 yük.), A355.2 0/1e+10 (12 yük.), A1023.2 0/1e+10 (12 yük.), A1841.2 0/1e+10 (13 yük.), A1993.2 0/1e+10 (10 yük.), A2194.2 0/1e+10 (24 yük.), A2405.2 0/1e+10 (11 yük.)
+    R = 244; p_kal = 245/20001 = 0.01225; R_nokta = 57 ['A090.2', 'A171.2', 'A355.2', 'A1023.2', 'A1841.2', 'A1993.2', 'A2194.2', 'A2405.2', 'A2534.2', 'A2584.2', 'A3093.2', 'A3215.2']; okuma: arada
+    model (betimsel): R_S = 21 (S ≥ Kur'an'ınki); çözülmüş 19599 olayda Spearman ρ(bilgi, −log₂ p̂) = 0.917, (−log₂ p̂ − bilgi) medyanı +1.31 bit [%10 -0.55, %90 +3.71]
+  tür 3: Kur'an 0/1e+10 p 1.00e-10 [0.0e+00, 3.69e-10], 21 yüklem, S 26.883; olaylı plasebo 4019
+    en küçük 8: A5438.3 0/1e+10 (15 yük.), A6053.3 0/1e+10 (15 yük.), A16761.3 0/1e+10 (10 yük.), A7168.3 1/1e+10 (14 yük.), A2286.3 2/1e+10 (10 yük.), A5843.3 3/1e+10 (11 yük.), A10860.3 3/1e+10 (10 yük.), A13341.3 3/1e+10 (11 yük.)
+    R = 17; p_kal = 18/20001 = 0.00090; R_nokta = 3 ['A5438.3', 'A6053.3', 'A16761.3']; okuma: arada
+    model (betimsel): R_S = 0 (S ≥ Kur'an'ınki); çözülmüş 3998 olayda Spearman ρ(bilgi, −log₂ p̂) = 0.959, (−log₂ p̂ − bilgi) medyanı +4.15 bit [%10 +2.87, %90 +5.76]
+  menü: en küçük p_kal × 3 = 0.00135

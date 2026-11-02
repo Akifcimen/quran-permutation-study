@@ -1,0 +1,8 @@
+[2026-11-01T13:32:21Z] olay U düzey 1: 135 olay, bölüt 1–1 başladı (kart)
+[2026-11-01T13:32:22Z] olay U düzey 1: bitti rc=[0, 0]
+[2026-11-01T13:32:22Z] olay U düzey 2: 130 olay, bölüt 2–2 başladı (kart)
+[2026-11-01T13:32:22Z] olay U düzey 2: bitti rc=[0, 0]
+[2026-11-01T13:32:22Z] olay U düzey 3: 126 olay, bölüt 3–4 başladı (kart)
+[2026-11-01T13:32:23Z] olay U düzey 3: bitti rc=[0, 0]
+[2026-11-01T13:32:23Z] olay U düzey 4: 119 olay, bölüt 5–6 başladı (kart)
+[2026-11-01T13:32:23Z] olay U düzey 4: bitti rc=[0, 0]

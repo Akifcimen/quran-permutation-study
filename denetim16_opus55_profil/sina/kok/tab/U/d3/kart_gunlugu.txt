@@ -1,0 +1,2 @@
+[2026-11-01T13:32:22Z] kip 2 (olay) sıfır U bölüt 3–4 olay 126 biçim maskesi 0xef3 BN 2000 arka uç: işlemci öykünmesi (kart_emul.c, tek iş parçacığı)
+[2026-11-01T13:32:22Z] kip 2 (olay) sıfır U bölüt 3–4 olay 126 biçim maskesi 0xef3 BN 2000 arka uç: işlemci öykünmesi (kart_emul.c, tek iş parçacığı)

@@ -1,0 +1,1 @@
+[2026-11-01T13:31:05Z] kip 2 (olay) sıfır L bölüt 3–3 olay 92 biçim maskesi 0xdf3 BN 2000 arka uç: işlemci öykünmesi (kart_emul.c, tek iş parçacığı)

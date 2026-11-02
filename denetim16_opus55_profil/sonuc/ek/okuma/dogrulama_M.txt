@@ -1,0 +1,8 @@
+== DUZ_HARIC=0
+M D1: 37 olay (kestirilemeyen 3); log₂(sayım/kestirim) medyanı -0.10 bit; %10 -0.83, %90 +0.38; Σ sayım / Σ kestirim = 1963/2098.4 = 0.935; %99 Poisson aralığında 37/37 (100%)
+    en nadir üçte bir (12 olay): medyan -0.10 bit
+M D2: 18 olay (kestirilemeyen 2); log₂(sayım/kestirim) medyanı -0.10 bit; %10 -0.68, %90 +0.03; Σ sayım / Σ kestirim = 5472/5511.0 = 0.993; %99 Poisson aralığında 17/18 (94%)
+== DUZ_HARIC=1
+M D1: 38 olay (kestirilemeyen 2); log₂(sayım/kestirim) medyanı -0.10 bit; %10 -0.83, %90 +0.38; Σ sayım / Σ kestirim = 1964/2100.0 = 0.935; %99 Poisson aralığında 38/38 (100%)
+    en nadir üçte bir (12 olay): medyan -0.10 bit
+M D2: 18 olay (kestirilemeyen 2); log₂(sayım/kestirim) medyanı -0.10 bit; %10 -0.68, %90 +0.03; Σ sayım / Σ kestirim = 5472/5511.0 = 0.993; %99 Poisson aralığında 17/18 (94%)

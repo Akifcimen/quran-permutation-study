@@ -48,7 +48,7 @@ Kur'an'ın ham değeri (4,7×10⁻⁹) ile kalibre değeri (~2,5×10⁻⁴) aras
 
 - **Asal.** 19'u metin kendisi anıyor; burada 29 asal eşit bedelli. Rastgele kitaplarda yakalanan en düşük olasılıklı örüntüler 7, 13, 17 ve 23'te.
 - **Kitap düzeyi.** Kural ≥ 3 düzey istiyor ama kitap düzeyini şart koşmuyor. Terazi türünden bir denklik (B2: 3303 = 3303) Kur'an'ın dilinde var; bu yedi örüntünün hiçbirinin dilinde yok. B2, rastgele kitapların binde 1,2'sinde bir biçimde tutar; plasebo dillerinin binde 1,1'inde bulunur.
-- **Genişlik.** Puana yalnız dile seçilen 3–6 yüklem girer. Kur'an'ın merceğinde kütüphanenin 21 yüklemi aynı anda doğrudur; bu yedi örüntünün merceklerinde 8–18.
+- **Genişlik.** Puana yalnız dile seçilen 3–6 yüklem girer. Kur'an'ın merceğinde kütüphanenin 21 yüklemi aynı anda doğrudur; bu yedi örüntünün merceklerinde 8–18. *(Bu, 16. denetimde kısmi puansız ölçüldü: `denetim16_opus55_profil/`.)*
 
 Bu farklar sonuçlardan sonra fark edildi. Bunlara bakıp ölçüyü değiştirmek, kaçınılan şeyin kendisi olur. Doğru yol: kuralları önceden yazmak, aynı plasebolarla ölçmek, hepsinin sonucunu raporlamak ve seçimin bedelini ödemek.
 

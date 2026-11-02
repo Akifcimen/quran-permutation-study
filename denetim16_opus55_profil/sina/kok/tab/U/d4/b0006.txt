@@ -1,0 +1,16 @@
+# sifir U bolut 6 tohum 29222600006 N 2000 sure_s 0.2 aday 0 aday_tasma 0 olay 119
+D A001.1 7
+D A003.1 2
+D A005.3 1
+D A011.1 1
+D A011.2 1
+D A013.1 1
+D A017.1 1
+D A019.3 1
+D A021.1 1
+D A022.1 2
+D A035.1 1
+D A049.2 3
+D A052.2 1
+D A054.1 2
+D A056.1 1

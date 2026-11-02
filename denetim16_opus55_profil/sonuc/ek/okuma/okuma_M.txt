@@ -1,0 +1,54 @@
+2026-11-02T00:05:29Z
+== DUZ_HARIC=0
+M: K = 20000
+  O1: Kur'an 3.54e-10 [2.55e-10, 4.90e-10]; doğrudan 19863, kestirim 2; R = 2 [0, 3]; p_kal = 3/20001 = 0.00015 [0.00005, 0.00020]; R üyeleri: ['A11192.1', 'A12493.1']
+  O2: Kur'an 5.97e-13 [3.53e-13, 1.01e-12]; doğrudan 19809, kestirim 45; R = 1 [0, 15]; p_kal = 2/20001 = 0.00010 [0.00005, 0.00080]; R üyeleri: ['A5729.2']
+  O3: Kur'an 5.97e-13 [3.53e-13, 1.01e-12]; doğrudan 4016, kestirim 2; R = 0 [0, 1]; p_kal = 1/20001 = 0.00005 [0.00005, 0.00010]; R üyeleri: []
+  menü: 3 × en küçük p_kal = 0.00015
+== DUZ_HARIC=1
+M: K = 20000
+  O1: Kur'an 3.54e-10 [2.55e-10, 4.90e-10]; doğrudan 19863, kestirim 2; R = 2 [0, 3]; p_kal = 3/20001 = 0.00015 [0.00005, 0.00020]; R üyeleri: ['A11192.1', 'A12493.1']
+  O2: Kur'an 5.97e-13 [3.53e-13, 1.01e-12]; doğrudan 19809, kestirim 45; R = 1 [0, 15]; p_kal = 2/20001 = 0.00010 [0.00005, 0.00080]; R üyeleri: ['A5729.2']
+  O3: Kur'an 5.97e-13 [3.53e-13, 1.01e-12]; doğrudan 4016, kestirim 2; R = 0 [0, 1]; p_kal = 1/20001 = 0.00005 [0.00005, 0.00010]; R üyeleri: []
+  menü: 3 × en küçük p_kal = 0.00015
+M O1: plasebo olayı 19866; Kur'an 3.54e-10 [2.55e-10, 4.90e-10]
+  Kur'an'a en yakın beş (ve daha nadirler):
+    A11192.1   2.98e-10 [1.86e-10, 4.77e-10]      -0.25 bit  kestirim (10¹⁰ sayımı k=2)  bilgi 27.5
+    A12493.1   2.99e-10 [2.42e-10, 3.71e-10]      -0.24 bit  kestirim (10¹⁰ sayımı k=2)  bilgi 28.5
+    A2675.1    1.10e-09                           +1.64 bit  doğrudan k=11/1e+10  bilgi 30.4
+    A9956.1    1.20e-09                           +1.76 bit  doğrudan k=12/1e+10  bilgi 25.6
+    A18625.1   1.30e-09                           +1.88 bit  doğrudan k=13/1e+10  bilgi 30.1
+    A12746.1   1.40e-09                           +1.98 bit  doğrudan k=14/1e+10  bilgi 28.9
+    A3215.1    1.40e-09                           +1.98 bit  doğrudan k=14/1e+10  bilgi 26.1
+  kestirilemeyen 1:
+    A19204.1   10¹⁰ sayımı k=2; bilgi 25.5; r1:kötü r2:kötü r3:kötü r4:kötü r5:kötü r6:kötü r7:kötü r8:kötü
+M O2: plasebo olayı 19866; Kur'an 5.97e-13 [3.53e-13, 1.01e-12]
+  Kur'an'a en yakın beş (ve daha nadirler):
+    A5729.2    5.05e-13 [2.35e-13, 1.09e-12]      -0.24 bit  kestirim (10¹⁰ sayımı k=0)  bilgi 41.6
+    A6108.2    1.52e-12 [8.13e-13, 2.86e-12]      +1.35 bit  kestirim (10¹⁰ sayımı k=0)  bilgi 39.3
+    A5512.2    1.93e-12 [9.20e-13, 4.03e-12]      +1.69 bit  kestirim (10¹⁰ sayımı k=0)  bilgi 40.0
+    A12493.2   2.01e-12 [1.40e-12, 2.87e-12]      +1.75 bit  kestirim (10¹⁰ sayımı k=0)  bilgi 38.9
+    A14621.2   3.69e-12 [1.95e-12, 7.00e-12]      +2.63 bit  kestirim (10¹⁰ sayımı k=0)  bilgi 38.0
+    A171.2     3.84e-12 [3.08e-12, 4.79e-12]      +2.68 bit  kestirim (10¹⁰ sayımı k=0)  bilgi 36.0
+  kestirilemeyen 12:
+    A355.2     10¹⁰ sayımı k=0; bilgi 33.7; r1:kötü r2:kötü r3:kötü r4:kötü r5:kötü r6:iyi r7:kötü r8:kötü
+    A2534.2    10¹⁰ sayımı k=0; bilgi 31.8; r1:kötü r2:kötü r3:kötü r4:kötü r5:kötü r6:kötü r7:kötü r8:kötü
+    A4038.2    10¹⁰ sayımı k=0; bilgi 33.5; r1:kötü r2:kötü r3:kötü r4:kötü r5:kötü r6:kötü r7:kötü r8:kötü
+    A4521.2    10¹⁰ sayımı k=0; bilgi 30.1; r1:kötü r2:kötü r3:kötü r4:kötü r5:kötü r6:kötü r7:kötü r8:iyi
+    A5438.2    10¹⁰ sayımı k=0; bilgi 29.0; r1:kötü r2:kötü r3:kötü r4:kötü r5:kötü r6:kötü r7:kötü r8:kötü
+    A6778.2    10¹⁰ sayımı k=0; bilgi 42.1; r1:kötü r2:kötü r3:kötü r4:kötü r5:kötü r6:kötü r7:iyi r8:kötü
+    A11526.2   10¹⁰ sayımı k=0; bilgi 34.6; r1:kötü r2:kötü r3:kötü r4:kötü r5:kötü r6:kötü r7:kötü r8:kötü
+    A13258.2   10¹⁰ sayımı k=0; bilgi 33.1; r1:kötü r2:kötü r3:kötü r4:kötü r5:kötü r6:kötü r7:kötü r8:kötü
+    A14434.2   10¹⁰ sayımı k=0; bilgi 32.6; r1:kötü r2:kötü r3:kötü r4:kötü r5:kötü r6:kötü r7:kötü r8:kötü
+    A15148.2   10¹⁰ sayımı k=0; bilgi 32.5; r1:kötü r2:iyi r3:kötü r4:iyi r5:iyi r7:kötü
+    A16140.2   10¹⁰ sayımı k=0; bilgi 37.9; r1:kötü r2:kötü r3:kötü r4:kötü r5:kötü r6:kötü r7:kötü r8:kötü
+    A19629.2   10¹⁰ sayımı k=0; bilgi 35.9; r1:kötü r2:kötü r3:kötü r4:kötü r5:kötü r6:kötü r7:kötü r8:kötü
+M O3: plasebo olayı 4019; Kur'an 5.97e-13 [3.53e-13, 1.01e-12]
+  Kur'an'a en yakın beş (ve daha nadirler):
+    A6053.3    3.34e-11 [1.07e-11, 1.05e-10]      +5.81 bit  kestirim (10¹⁰ sayımı k=0)  bilgi 34.5
+    A7168.3    1.00e-10 [2.53e-12, 5.57e-10]      +7.39 bit  doğrudan k=1/1e+10 (alt sınır > Kur'an üst ucu)  bilgi 28.1
+    A16761.3   1.39e-10 [1.04e-10, 1.86e-10]      +7.86 bit  kestirim (10¹⁰ sayımı k=0)  bilgi 29.4
+    A2286.3    2.00e-10 [2.42e-11, 7.22e-10]      +8.39 bit  doğrudan k=2/1e+10 (alt sınır > Kur'an üst ucu)  bilgi 26.2
+    A10860.3   3.00e-10 [6.19e-11, 8.77e-10]      +8.97 bit  doğrudan k=3/1e+10 (alt sınır > Kur'an üst ucu)  bilgi 27.5
+  kestirilemeyen 1:
+    A5438.3    10¹⁰ sayımı k=0; bilgi 29.0; r1:kötü r2:kötü r3:kötü r4:kötü r5:kötü r6:kötü r7:kötü r8:kötü

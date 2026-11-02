@@ -8,7 +8,8 @@ Araştırmacı, başka bir yapay zekâ ekibiyle yaptığı bir incelemenin özet
 
 1. **Puana ulaşmak yapıyı taşımak değildir.** Kur'an'ın Gc 10¹⁰ sayımında puanına ulaşan 81 kontrol var (M20 47, Mallows 22, tekdüze 12). Bunların yalnız 12'si (9 + 2 + 1) dilin dört yüklemini birden taşır. Puan, dilin o mercekte tutan alt kümesinin bilgisidir: B2 + WSum + (K1 ya da Qc) eşiğe yetebilir.
    - Kur'an'ın merceğindeki on bir olgunun (dört dil yüklemi ve B1, 3/3/3/3, K2, W1, QU, Qa, FH2p) hepsini taşıyan kontrol yoktur.
-   - Tam profili taşıyan bir kontrol dört yüklemi de taşıyacağından isabetler arasında görünürdü. Öyleyse 3×10¹⁰ kontrolün hiçbirinde, hiçbir mercekte bu profil yoktur. Ham üst sınır sıfır başına ~3,7×10⁻¹⁰'dur.
+   - Bu, puana ulaşan 81 kontrol için kanıtlıdır. Bütün profili taşıyan bir kontrol, bağlamı farklı olduğu için puana ulaşmayabilir; başka mercekte mercek bedeli de başkadır.
+   - *Düzeltme (2 Kasım 2026; KESİF not 29, `denetim16_opus55_profil/RAPOR.md` §8):* ilk yazımda "3×10¹⁰ kontrolün hiçbirinde, hiçbir mercekte bu profil yoktur" deniyordu; fazla ileri gidiyordu. Kur'an'ın merceğinde (n + a, 19) 3×10¹⁰ kontrolün hiçbiri onun bütün profilini (21 yüklem) taşımıyor; kestirimle bu profilin sıklığı ~3–6×10⁻¹³. Aynı ölçüyle taze plasebolarda (M20 20.000, Mallows 10.000) 19'a bağlı hiçbir bütün profil bu kadar nadir çıkmadı; tekdüzede kestirici doğrulamayı geçemedi. Başka mercekler bu sayımın dışında.
    - Kaynak: `isabet_yeniden.py`, `isabet_yeniden_cikti.txt`.
 2. **M20 41379 karşıörneği.** Mercek (n + a, 19), puan Kur'an'ınkiyle aynı, aileler 12 ve 7, eller ayrık, hücre toplamları 20/18/19/19. Ama:
    - parite sayımı 55/59;
